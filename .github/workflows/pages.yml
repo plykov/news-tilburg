@@ -1,26 +1,63 @@
 name: pages
+
 on:
   push:
     branches: [main]
   workflow_dispatch:
+
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
+  actions: read
+
 concurrency:
   group: pages
   cancel-in-progress: true
+
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+      - name: Enable GitHub Pages with Actions as source
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set +e
+          gh api repos/${{ github.repository }}/pages || true
+          gh api --method POST repos/${{ github.repository }}/pages \
+            -H "Accept: application/vnd.github+json" \
+            -f build_type=workflow && echo "created Pages site"
+          gh api --method PUT repos/${{ github.repository }}/pages \
+            -H "Accept: application/vnd.github+json" \
+            -f build_type=workflow && echo "switched Pages source"
+          gh api repos/${{ github.repository }}/pages || true
       - uses: actions/configure-pages@v5
+        continue-on-error: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
-      - id: deploy
+      - name: Publish gh-pages branch fallback
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          publish_branch: gh-pages
+          force_orphan: true
+          user_name: github-actions[bot]
+          user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          exclude_assets: ".github,CNAME"
+
+  deploy:
+    needs: build
+    if: success()
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
         uses: actions/deploy-pages@v4
+        continue-on-error: true

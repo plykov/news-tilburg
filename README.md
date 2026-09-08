@@ -1,21 +1,24 @@
 # Tilburg Nieuws
 
-Companion to [Tilburg Agenda](https://musictilburg.grok.me/). Separate news app. Schema `tilburg.news.v1`.
+Companion to [Tilburg Agenda](https://musictilburg.grok.me/). Schema `tilburg.news.v1`.
 
 ## Live
 
-GitHub Pages: https://plykov.github.io/news-tilburg/
+- App + inbox: https://plykov.github.io/news-tilburg/
+- Source: https://github.com/plykov/news-tilburg
 
-`newstilburg.grok.me` is the intended Grok host name. This repo does not mint `*.grok.me` itself.
+`newstilburg.grok.me` is the intended Grok host. This repo cannot mint `*.grok.me`. Publish the same files there the way `musictilburg.grok.me` was published.
 
 ## Inbox
 
-`news.json` is the public daily delivery. The app fetches `./news.json`, then the Pages URL, then the raw GitHub URL. Newer `generatedAt` is kept in localStorage after a successful fetch.
+`news.json` is the public daily delivery. The app fetches `./news.json`, then Pages, then raw GitHub.
 
-- Free sources only: Gemeente Tilburg, Omroep Tilburg, Omroep Brabant, optional 3voor12 / 013 / Schouwburg
+Rules:
+- Free sources only: Gemeente Tilburg, Omroep Tilburg, Omroep Brabant
 - No BD/AD
 - No full article body — outbound `url` only
 - EN/RU strings are model translations and must carry `langNote: ui-translated`
+- Drop an item if the permalink or listing cannot be opened the same day
 
 ## Language
 
