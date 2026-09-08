@@ -1,9 +1,9 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "7b2c8e41-9f06-4d3a-a1c5-2e8f4b6d0a19",
-  "generatedAt": "2026-09-08T19:05:00+02:00",
+  "deliveryId": "c4e91a27-6b8d-4f11-9e3a-0d7c2b5a8f14",
+  "generatedAt": "2026-09-08T19:26:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:05 Amsterdam",
+  "source": "Grok verified permalinks 19:26 Amsterdam",
   "headline": {
     "nl": "Pauwelsdag en boscafés van de gemeente; Omroep over blessure Willem II en dodelijk ongeval Letschertweg",
     "en": "Municipality on Pauwelsdag and forest cafés; broadcasters on Willem II injury and fatal Letschertweg crash",
@@ -108,12 +108,16 @@
       "category": "omroep",
       "publishedAt": "2026-09-08T12:00:00+02:00",
       "title": {
-        "nl": "Willem II opnieuw getroffen door blessureleed: Justin Hoogma maanden aan de kant"
+        "nl": "Willem II opnieuw getroffen door blessureleed: Justin Hoogma maanden aan de kant",
+        "en": "Willem II hit by injury again: Justin Hoogma out for months",
+        "ru": "Willem II снова теряет игрока из-за травмы: Джастин Хогма вне игры на месяцы"
       },
       "teaser": {
-        "nl": "Verdediger Justin Hoogma loopt een zware knieblessure op en valt maanden uit."
+        "nl": "Verdediger Justin Hoogma loopt een zware knieblessure op en valt maanden uit.",
+        "en": "Defender Justin Hoogma suffers a serious knee injury and will be out for months.",
+        "ru": "Защитник Джастин Хогма получил тяжёлую травму колена и выбыл на несколько месяцев."
       },
-      "langNote": "source-nl",
+      "langNote": "ui-translated",
       "url": "https://www.omroeptilburg.nl/sport/willem-ii-opnieuw-getroffen-door-blessureleed-justin-hoogma-maanden-aan-de-kant/",
       "paywall": false,
       "city": "Tilburg",
@@ -126,12 +130,16 @@
       "category": "incident",
       "publishedAt": "2026-09-08T10:00:00+02:00",
       "title": {
-        "nl": "Pinner gezocht na babbeltruc in Tilburg"
+        "nl": "Pinner gezocht na babbeltruc in Tilburg",
+        "en": "Skimmer sought after a phone scam in Tilburg",
+        "ru": "Ищут мошенника после телефонной аферы в Тилбурге"
       },
       "teaser": {
-        "nl": "Slachtoffer belde met iemand die zei dat er problemen waren met de internetverbinding."
+        "nl": "Slachtoffer belde met iemand die zei dat er problemen waren met de internetverbinding.",
+        "en": "The victim called someone who claimed there were problems with the internet connection.",
+        "ru": "Жертва позвонила человеку, который сказал, что есть проблемы с интернет-соединением."
       },
-      "langNote": "source-nl",
+      "langNote": "ui-translated",
       "url": "https://www.omroeptilburg.nl/regio/tilburg/pinner-gezocht-na-babbeltruc-in-tilburg/",
       "paywall": false,
       "city": "Tilburg",
@@ -144,12 +152,16 @@
       "category": "incident",
       "publishedAt": "2026-09-08T09:00:00+02:00",
       "title": {
-        "nl": "64-jarige man overleden bij ernstig ongeluk op Burgemeester Letschertweg"
+        "nl": "64-jarige man overleden bij ernstig ongeluk op Burgemeester Letschertweg",
+        "en": "64-year-old man dies in serious crash on Burgemeester Letschertweg",
+        "ru": "64-летний мужчина погиб в серьёзном ДТП на Burgemeester Letschertweg"
       },
       "teaser": {
-        "nl": "Botsing tussen auto en vrachtwagen. Slachtoffer uit Tilburg."
+        "nl": "Botsing tussen auto en vrachtwagen. Slachtoffer uit Tilburg.",
+        "en": "Collision between a car and a lorry. The victim was from Tilburg.",
+        "ru": "Столкновение легкового автомобиля и грузовика. Погибший — из Тилбурга."
       },
-      "langNote": "source-nl",
+      "langNote": "ui-translated",
       "url": "https://www.omroeptilburg.nl/regio/tilburg/zwaargewonde-bij-ernstig-ongeluk-op-burgemeester-letschertweg/",
       "paywall": false,
       "city": "Tilburg",
@@ -163,12 +175,16 @@
       "category": "cultuur",
       "publishedAt": "2026-09-08T11:00:00+02:00",
       "title": {
-        "nl": "The Art Experience brengt kunst en beleving naar de Koepelhal"
+        "nl": "The Art Experience brengt kunst en beleving naar de Koepelhal",
+        "en": "The Art Experience brings art and atmosphere to the Koepelhal",
+        "ru": "The Art Experience привозит искусство и впечатления в Koepelhal"
       },
       "teaser": {
-        "nl": "Kunstbeurs in de Koepelhal, 11 tot en met 13 september."
+        "nl": "Kunstbeurs in de Koepelhal, 11 tot en met 13 september.",
+        "en": "Art fair in the Koepelhal, 11 through 13 September.",
+        "ru": "Ярмарка искусства в Koepelhal, с 11 по 13 сентября."
       },
-      "langNote": "source-nl",
+      "langNote": "ui-translated",
       "url": "https://www.omroeptilburg.nl/regio/tilburg/the-art-experience-brengt-kunst-en-beleving-naar-de-koepelhal/",
       "paywall": false,
       "city": "Tilburg",
