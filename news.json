@@ -1,0 +1,154 @@
+{
+  "schema": "tilburg.news.v1",
+  "deliveryId": "c4e91a2b-7d30-4f11-9a8e-0b6c2d5e8f10",
+  "generatedAt": "2026-09-08T18:50:00+02:00",
+  "timezone": "Europe/Amsterdam",
+  "source": "Grok seed brief 18:50 Amsterdam",
+  "headline": {
+    "nl": "Pauwelsdag en boscafés van de gemeente; Omroep over blessure Willem II en ongeval Letschertweg",
+    "en": "Municipality on Pauwelsdag and forest cafés; broadcasters on Willem II injury and Letschertweg crash",
+    "ru": "Муниципалитет о Pauwelsdag и лесных кафе; вещатели о травме Willem II и аварии на Letschertweg"
+  },
+  "headlineLangNote": "ui-translated",
+  "itemCount": 8,
+  "items": [
+    {
+      "id": "gemeente-2026-09-08-pauwelsdag",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-08T00:00:00+02:00",
+      "title": {
+        "nl": "Pauwelsdag 2026: treed eens buiten de gebaande paden",
+        "en": "Pauwelsdag 2026: step off the usual paths",
+        "ru": "Pauwelsdag 2026: сойдите с привычных троп"
+      },
+      "teaser": {
+        "nl": "Zondag 13 september activiteiten tussen Tilburg en de Loonse en Drunense Duinen.",
+        "en": "Sunday 13 September: walks, tours and workshops between Tilburg and the Loonse en Drunense Duinen.",
+        "ru": "Воскресенье 13 сентября: прогулки и мастер-классы между Тилбургом и дюнами Loonse en Drunense."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["natuur"]
+    },
+    {
+      "id": "gemeente-2026-09-08-boscafe",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-08T00:00:00+02:00",
+      "title": {
+        "nl": "Boscafés over werkzaamheden in Stadsbos013",
+        "en": "Forest cafés on works in Stadsbos013",
+        "ru": "Лесные кафе о работах в Stadsbos013"
+      },
+      "teaser": {
+        "nl": "Zondag 20 september toelichting op bomenkap in De Gaas, Reeshofbos en Wilmabos.",
+        "en": "Sunday 20 September briefings on tree works in De Gaas, Reeshofbos and Wilmabos.",
+        "ru": "20 сентября — разъяснения по работам с деревьями в De Gaas, Reeshofbos и Wilmabos."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["groen"]
+    },
+    {
+      "id": "gemeente-2026-09-07-falcon-leap",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-07T00:00:00+02:00",
+      "title": {
+        "nl": "Luchtmachtoefening Falcon Leap",
+        "en": "Air force exercise Falcon Leap",
+        "ru": "Учения ВВС Falcon Leap"
+      },
+      "teaser": {
+        "nl": "7-18 september laagvliegen 13:00-17:00 en 19:00-23:00.",
+        "en": "7-18 September low flights 13:00-17:00 and 19:00-23:00.",
+        "ru": "7-18 сентября низкие полёты 13:00-17:00 и 19:00-23:00."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws",
+      "paywall": false,
+      "city": "Regio",
+      "tags": ["luchtmacht"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-08-hoogma",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-09-08T12:00:00+02:00",
+      "title": { "nl": "Willem II opnieuw getroffen door blessureleed: Justin Hoogma maanden aan de kant" },
+      "teaser": { "nl": "Verdediger Justin Hoogma valt maanden uit." },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/nieuws/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["willem-ii"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-08-pinner",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-09-08T10:00:00+02:00",
+      "title": { "nl": "Pinner gezocht na babbeltruc in Tilburg" },
+      "teaser": { "nl": "Slachtoffer belde met iemand die zei dat er problemen waren met de internetverbinding." },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/nieuws/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["oplichting"]
+    },
+    {
+      "id": "omroep-brabant-2026-09-08-letschertweg",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-09-08T09:00:00+02:00",
+      "title": { "nl": "Man (64) overleden bij botsing tussen vrachtwagen en auto in Tilburg" },
+      "teaser": { "nl": "Dodelijk ongeval op de Burgemeester Letschertweg. Slachtoffer uit Tilburg." },
+      "langNote": "source-nl",
+      "url": "https://www.omroepbrabant.nl/lokaal/tilburg",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Burgemeester Letschertweg",
+      "tags": ["verkeer"]
+    },
+    {
+      "id": "omroep-brabant-2026-09-08-serval",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "omroep",
+      "publishedAt": "2026-09-08T07:30:00+02:00",
+      "title": { "nl": "Ontsnapte serval gespot bij de buren, eigenaar probeert Django te vangen" },
+      "teaser": { "nl": "Serval Django zondagochtend opnieuw gesignaleerd." },
+      "langNote": "source-nl",
+      "url": "https://www.omroepbrabant.nl/lokaal/tilburg",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["dieren"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-08-art-experience",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-09-08T11:00:00+02:00",
+      "title": { "nl": "The Art Experience brengt kunst en beleving naar de Koepelhal" },
+      "teaser": { "nl": "Kunstbeurs in de Koepelhal, 11-13 september." },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/nieuws/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["kunst"],
+      "relatedEventId": "art-experience-2026-09-11"
+    }
+  ]
+}
