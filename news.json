@@ -1,17 +1,35 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "c4e91a27-6b8d-4f11-9e3a-0d7c2b5a8f14",
-  "generatedAt": "2026-09-08T19:26:00+02:00",
+  "deliveryId": "5aa0061f-8c01-4739-84e4-5754764d1460",
+  "generatedAt": "2026-09-09T19:22:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:26 Amsterdam",
+  "source": "Grok verified permalinks 19:22 Amsterdam",
   "headline": {
-    "nl": "Pauwelsdag en boscafés van de gemeente; Omroep over blessure Willem II en dodelijk ongeval Letschertweg",
-    "en": "Municipality on Pauwelsdag and forest cafés; broadcasters on Willem II injury and fatal Letschertweg crash",
-    "ru": "Муниципалитет о Pauwelsdag и лесных кафе; вещатели о травме Willem II и смертельной аварии на Letschertweg"
+    "nl": "Vuurwerk inleveren vandaag, Pauwelsdag en Falcon Leap oefening in Tilburg",
+    "en": "Fireworks drop-off today, Pauwels Day and Falcon Leap exercise in Tilburg",
+    "ru": "Сдача фейерверков сегодня, день Пауэлса и учения Falcon Leap в Тилбурге"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 8,
+  "itemCount": 9,
   "items": [
+    {
+      "id": "omroep-tilburg-2026-09-09-dominique-ten-miles",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-09-09T12:00:00+02:00",
+      "title": {
+        "nl": "Dominique rent Tilburg Ten Miles voor overleden vader en haalt bijna 15.000 euro op"
+      },
+      "teaser": {
+        "nl": "Tilburgse Dominique Loos haalt met familie en vrienden bijna 15.000 euro op voor de Nierstichting tijdens de Tilburg Ten Miles, ter nagedachtenis aan haar vader Edwin."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/dominique-rent-tilburg-ten-miles-voor-overleden-vader-en-haalt-bijna-15-000-euro-op/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["sport", "goededoel"]
+    },
     {
       "id": "gemeente-2026-09-08-pauwelsdag",
       "sourceId": "gemeente",
@@ -19,42 +37,107 @@
       "category": "gemeente",
       "publishedAt": "2026-09-08T00:00:00+02:00",
       "title": {
-        "nl": "Pauwelsdag 2026: treed eens buiten de gebaande paden",
-        "en": "Pauwelsdag 2026: step off the usual paths",
-        "ru": "Pauwelsdag 2026: сойдите с привычных троп"
+        "nl": "Pauwelsdag 2026: treed eens buiten de gebaande paden"
       },
       "teaser": {
-        "nl": "Zondag 13 september activiteiten tussen Tilburg en de Loonse en Drunense Duinen.",
-        "en": "Sunday 13 September: walks, tours and workshops between Tilburg and the Loonse en Drunense Duinen.",
-        "ru": "Воскресенье 13 сентября: прогулки и мастер-классы между Тилбургом и дюнами Loonse en Drunense."
+        "nl": "Zondag 13 september is Pauwelsdag met wandelingen, rondleidingen, proeverijen en kinderactiviteiten in het gebied tussen Tilburg en de Loonse en Drunense Duinen."
       },
-      "langNote": "ui-translated",
+      "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/pauwelsdag-2026-treed-eens-buiten-de-gebaande-paden/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["natuur"]
+      "tags": ["evenement", "natuur"]
     },
     {
-      "id": "gemeente-2026-09-08-boscafe",
+      "id": "gemeente-2026-09-08-boscafes",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
       "publishedAt": "2026-09-08T00:00:00+02:00",
       "title": {
-        "nl": "Boscafés over werkzaamheden in Stadsbos013",
-        "en": "Forest cafés on works in Stadsbos013",
-        "ru": "Лесные кафе о работах в Stadsbos013"
+        "nl": "Boscafés over werkzaamheden in Stadsbos013"
       },
       "teaser": {
-        "nl": "Zondag 20 september toelichting op bomenkap in De Gaas, Reeshofbos en Wilmabos.",
-        "en": "Sunday 20 September briefings on tree works in De Gaas, Reeshofbos and Wilmabos.",
-        "ru": "20 сентября — разъяснения по работам с деревьями в De Gaas, Reeshofbos и Wilmabos."
+        "nl": "Op zondag 20 september organiseren gemeente en bosbeheerder twee boscafés over bomenkap en herplant in De Gaas, Reeshofbos en Wilmabos. Aanmelden verplicht."
       },
-      "langNote": "ui-translated",
+      "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/boscafes-over-werkzaamheden-in-stadsbos013/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["groen"]
+      "tags": ["natuur", "bos"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-08-hoogma",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-09-08T16:00:00+02:00",
+      "title": {
+        "nl": "Willem II opnieuw getroffen door blessureleed: Justin Hoogma maanden aan de kant"
+      },
+      "teaser": {
+        "nl": "Verdediger Justin Hoogma van Willem II heeft een zware knieblessure opgelopen en staat meerdere maanden aan de kant. Hij richt zich op herstel."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/sport/willem-ii-opnieuw-getroffen-door-blessureleed-justin-hoogma-maanden-aan-de-kant/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["sport", "willem-ii"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-08-art-experience",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-09-08T14:00:00+02:00",
+      "title": {
+        "nl": "The Art Experience brengt kunst en beleving naar de Koepelhal"
+      },
+      "teaser": {
+        "nl": "Van 11 tot 13 september wordt de Koepelhal een levendige kunstwereld met twintig kunstenaars, galeries, muziek en een deel van de opbrengst voor Stichting Quiet."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/the-art-experience-brengt-kunst-en-beleving-naar-de-koepelhal/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["kunst", "evenement"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-08-ongeluk",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-09-08T09:23:00+02:00",
+      "title": {
+        "nl": "64-jarige man overleden bij ernstig ongeluk op Burgemeester Letschertweg"
+      },
+      "teaser": {
+        "nl": "Een 64-jarige Tilburger is overleden na een botsing tussen zijn auto en een vrachtwagen op de Burgemeester Letschertweg. Politie doet onderzoek."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/zwaargewonde-bij-ernstig-ongeluk-op-burgemeester-letschertweg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Burgemeester Letschertweg",
+      "tags": ["verkeer", "ongeval"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-08-falcon-leap",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-09-08T12:00:00+02:00",
+      "title": {
+        "nl": "Militaire vliegtuigen vliegen laag over de regio tijdens oefening"
+      },
+      "teaser": {
+        "nl": "Van 7 tot 18 september vliegen militaire vliegtuigen laag over de regio tijdens oefening Falcon Leap, tussen 13-17 uur en 19-23 uur. Mogelijke geluidsoverlast."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/militaire-vliegtuigen-vliegen-laag-over-de-regio-tijdens-oefening/",
+      "paywall": false,
+      "city": "Regio",
+      "tags": ["defensie", "oefening"]
     },
     {
       "id": "gemeente-2026-09-07-falcon-leap",
@@ -63,20 +146,16 @@
       "category": "gemeente",
       "publishedAt": "2026-09-07T00:00:00+02:00",
       "title": {
-        "nl": "Luchtmachtoefening Falcon Leap",
-        "en": "Air force exercise Falcon Leap",
-        "ru": "Учения ВВС Falcon Leap"
+        "nl": "Luchtmachtoefening Falcon Leap"
       },
       "teaser": {
-        "nl": "7–18 september laagvliegen 13:00–17:00 en 19:00–23:00.",
-        "en": "7–18 September low flights 13:00–17:00 and 19:00–23:00.",
-        "ru": "7–18 сентября низкие полёты 13:00–17:00 и 19:00–23:00."
+        "nl": "De luchtmacht houdt van 7 tot en met 18 september oefening Falcon Leap. Militaire vliegtuigen vliegen laag tussen 13:00-17:00 en 19:00-23:00 uur over Tilburg en omstreken."
       },
-      "langNote": "ui-translated",
+      "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/luchtmachtoefening-falcon-leap/",
       "paywall": false,
-      "city": "Regio",
-      "tags": ["luchtmacht"]
+      "city": "Tilburg",
+      "tags": ["defensie"]
     },
     {
       "id": "gemeente-2026-09-04-vuurwerk",
@@ -85,111 +164,17 @@
       "category": "gemeente",
       "publishedAt": "2026-09-04T00:00:00+02:00",
       "title": {
-        "nl": "Nog vuurwerk in huis? Lever het op 9 september in bij de milieustraat",
-        "en": "Fireworks still at home? Hand them in at the milieustraat on 9 September",
-        "ru": "Остался фейерверк? Сдайте 9 сентября на milieustraat"
+        "nl": "Nog vuurwerk in huis? Lever het op 9 september veilig in bij de milieustraat"
       },
       "teaser": {
-        "nl": "Woensdag 9 september inleverpunt Caledoniastraat. F1 blijft toegestaan.",
-        "en": "Wednesday 9 September drop-off at Caledoniastraat. F1 fireworks stay legal.",
-        "ru": "Среда 9 сентября приём на Caledoniastraat. F1 остаётся разрешён."
+        "nl": "Woensdag 9 september van 08:00-13:00 uur kunnen inwoners verboden vuurwerk gratis en anoniem inleveren bij de milieustraat aan de Caledoniastraat. Alleen F1-vuurwerk blijft toegestaan."
       },
-      "langNote": "ui-translated",
+      "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/nog-vuurwerk-in-huis-lever-het-op-9-september-veilig-in-bij-de-milieustraat/",
       "paywall": false,
       "city": "Tilburg",
       "area": "Caledoniastraat",
-      "tags": ["vuurwerk"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-08-hoogma",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-09-08T12:00:00+02:00",
-      "title": {
-        "nl": "Willem II opnieuw getroffen door blessureleed: Justin Hoogma maanden aan de kant",
-        "en": "Willem II hit by injury again: Justin Hoogma out for months",
-        "ru": "Willem II снова теряет игрока из-за травмы: Джастин Хогма вне игры на месяцы"
-      },
-      "teaser": {
-        "nl": "Verdediger Justin Hoogma loopt een zware knieblessure op en valt maanden uit.",
-        "en": "Defender Justin Hoogma suffers a serious knee injury and will be out for months.",
-        "ru": "Защитник Джастин Хогма получил тяжёлую травму колена и выбыл на несколько месяцев."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/sport/willem-ii-opnieuw-getroffen-door-blessureleed-justin-hoogma-maanden-aan-de-kant/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["willem-ii"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-08-pinner",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-09-08T10:00:00+02:00",
-      "title": {
-        "nl": "Pinner gezocht na babbeltruc in Tilburg",
-        "en": "Skimmer sought after a phone scam in Tilburg",
-        "ru": "Ищут мошенника после телефонной аферы в Тилбурге"
-      },
-      "teaser": {
-        "nl": "Slachtoffer belde met iemand die zei dat er problemen waren met de internetverbinding.",
-        "en": "The victim called someone who claimed there were problems with the internet connection.",
-        "ru": "Жертва позвонила человеку, который сказал, что есть проблемы с интернет-соединением."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/pinner-gezocht-na-babbeltruc-in-tilburg/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["oplichting"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-08-letschertweg",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-09-08T09:00:00+02:00",
-      "title": {
-        "nl": "64-jarige man overleden bij ernstig ongeluk op Burgemeester Letschertweg",
-        "en": "64-year-old man dies in serious crash on Burgemeester Letschertweg",
-        "ru": "64-летний мужчина погиб в серьёзном ДТП на Burgemeester Letschertweg"
-      },
-      "teaser": {
-        "nl": "Botsing tussen auto en vrachtwagen. Slachtoffer uit Tilburg.",
-        "en": "Collision between a car and a lorry. The victim was from Tilburg.",
-        "ru": "Столкновение легкового автомобиля и грузовика. Погибший — из Тилбурга."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/zwaargewonde-bij-ernstig-ongeluk-op-burgemeester-letschertweg/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Burgemeester Letschertweg",
-      "tags": ["verkeer"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-08-art-experience",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "cultuur",
-      "publishedAt": "2026-09-08T11:00:00+02:00",
-      "title": {
-        "nl": "The Art Experience brengt kunst en beleving naar de Koepelhal",
-        "en": "The Art Experience brings art and atmosphere to the Koepelhal",
-        "ru": "The Art Experience привозит искусство и впечатления в Koepelhal"
-      },
-      "teaser": {
-        "nl": "Kunstbeurs in de Koepelhal, 11 tot en met 13 september.",
-        "en": "Art fair in the Koepelhal, 11 through 13 September.",
-        "ru": "Ярмарка искусства в Koepelhal, с 11 по 13 сентября."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/the-art-experience-brengt-kunst-en-beleving-naar-de-koepelhal/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["kunst"],
-      "relatedEventId": "art-experience-2026-09-11"
+      "tags": ["vuurwerk", "milieu"]
     }
   ]
 }
