@@ -1,29 +1,67 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "5aa0061f-8c01-4739-84e4-5754764d1460",
-  "generatedAt": "2026-09-09T19:22:00+02:00",
+  "deliveryId": "ea966d58-c0ed-49f7-b9fd-87de38f7a0b9",
+  "generatedAt": "2026-09-10T19:05:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:22 Amsterdam",
+  "source": "Grok verified permalinks 19:05 Amsterdam",
   "headline": {
-    "nl": "Vuurwerk inleveren vandaag, Pauwelsdag en Falcon Leap oefening in Tilburg",
-    "en": "Fireworks drop-off today, Pauwels Day and Falcon Leap exercise in Tilburg",
-    "ru": "Сдача фейерверков сегодня, день Пауэлса и учения Falcon Leap в Тилбурге"
+    "nl": "Tiener aangehouden voor helpdeskfraude; Pauwelsdag en kunstweekend in aantocht",
+    "en": "Teen arrested for helpdesk fraud; Pauwels Day and art weekend ahead",
+    "ru": "Подросток задержан за мошенничество; впереди день Пауэлса и художественный уикенд"
   },
   "headlineLangNote": "ui-translated",
   "itemCount": 9,
   "items": [
+    {
+      "id": "omroep-tilburg-2026-09-10-tiener-helpdeskfraude",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-09-10T12:00:00+02:00",
+      "title": { "nl": "Opnieuw tiener aangehouden die als nepagent slachtoffer oplichtte" },
+      "teaser": { "nl": "De politie heeft donderdag opnieuw een tiener aangehouden op verdenking van helpdeskfraude. De jongen kwam in beeld toen hij met een gestolen bankpas iets wilde afrekenen." },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/opnieuw-tiener-aangehouden-die-als-nepagent-slachtoffer-oplichtte/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["fraude", "politie"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-10-verkrachting-celstraf",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-09-10T11:00:00+02:00",
+      "title": { "nl": "Verkrachting van man en vrouw live op camera: celstraf en tbs geëist" },
+      "teaser": { "nl": "De rechtbank in Breda boog zich over de zaak tegen Kadir B. (32) uit Tilburg, verdacht van verkrachting van een man en een vrouw in zijn woning." },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/verkrachting-van-man-en-vrouw-live-op-camera-celstraf-en-tbs-geeist/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["rechtbank"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-10-geen-treinen",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-09-10T10:00:00+02:00",
+      "title": { "nl": "Opgelet! Binnenkort geen treinen tussen Tilburg en Den Bosch" },
+      "teaser": { "nl": "Reizigers moeten rekening houden met geen treinen tussen Tilburg en Den Bosch volgend weekend door werkzaamheden." },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/opgelet-binnenkort-geen-treinen-tussen-tilburg-en-den-bosch/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["verkeer", "NS"]
+    },
     {
       "id": "omroep-tilburg-2026-09-09-dominique-ten-miles",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
       "publishedAt": "2026-09-09T12:00:00+02:00",
-      "title": {
-        "nl": "Dominique rent Tilburg Ten Miles voor overleden vader en haalt bijna 15.000 euro op"
-      },
-      "teaser": {
-        "nl": "Tilburgse Dominique Loos haalt met familie en vrienden bijna 15.000 euro op voor de Nierstichting tijdens de Tilburg Ten Miles, ter nagedachtenis aan haar vader Edwin."
-      },
+      "title": { "nl": "Dominique rent Tilburg Ten Miles voor overleden vader en haalt bijna 15.000 euro op" },
+      "teaser": { "nl": "Tilburgse Dominique Loos rent de Tilburg Ten Miles voor haar overleden vader en haalt bijna 15.000 euro op voor de Nierstichting." },
       "langNote": "source-nl",
       "url": "https://www.omroeptilburg.nl/regio/tilburg/dominique-rent-tilburg-ten-miles-voor-overleden-vader-en-haalt-bijna-15-000-euro-op/",
       "paywall": false,
@@ -35,31 +73,23 @@
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
-      "publishedAt": "2026-09-08T00:00:00+02:00",
-      "title": {
-        "nl": "Pauwelsdag 2026: treed eens buiten de gebaande paden"
-      },
-      "teaser": {
-        "nl": "Zondag 13 september is Pauwelsdag met wandelingen, rondleidingen, proeverijen en kinderactiviteiten in het gebied tussen Tilburg en de Loonse en Drunense Duinen."
-      },
+      "publishedAt": "2026-09-08T12:00:00+02:00",
+      "title": { "nl": "Pauwelsdag 2026: treed eens buiten de gebaande paden" },
+      "teaser": { "nl": "Zondag 13 september is de Pauwelsdag met wandelingen, rondleidingen, proeverijen en activiteiten in het gebied tussen Tilburg en de Loonse en Drunense Duinen." },
       "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/pauwelsdag-2026-treed-eens-buiten-de-gebaande-paden/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["evenement", "natuur"]
+      "tags": ["natuur", "evenement"]
     },
     {
       "id": "gemeente-2026-09-08-boscafes",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
-      "publishedAt": "2026-09-08T00:00:00+02:00",
-      "title": {
-        "nl": "Boscafés over werkzaamheden in Stadsbos013"
-      },
-      "teaser": {
-        "nl": "Op zondag 20 september organiseren gemeente en bosbeheerder twee boscafés over bomenkap en herplant in De Gaas, Reeshofbos en Wilmabos. Aanmelden verplicht."
-      },
+      "publishedAt": "2026-09-08T11:00:00+02:00",
+      "title": { "nl": "Boscafés over werkzaamheden in Stadsbos013" },
+      "teaser": { "nl": "Op zondag 20 september zijn er boscafés over de bomenkap en herplant in De Gaas, Reeshofbos en Wilmabos. Aanmelden verplicht." },
       "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/boscafes-over-werkzaamheden-in-stadsbos013/",
       "paywall": false,
@@ -67,114 +97,46 @@
       "tags": ["natuur", "bos"]
     },
     {
-      "id": "omroep-tilburg-2026-09-08-hoogma",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-09-08T16:00:00+02:00",
-      "title": {
-        "nl": "Willem II opnieuw getroffen door blessureleed: Justin Hoogma maanden aan de kant"
-      },
-      "teaser": {
-        "nl": "Verdediger Justin Hoogma van Willem II heeft een zware knieblessure opgelopen en staat meerdere maanden aan de kant. Hij richt zich op herstel."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/sport/willem-ii-opnieuw-getroffen-door-blessureleed-justin-hoogma-maanden-aan-de-kant/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["sport", "willem-ii"]
-    },
-    {
       "id": "omroep-tilburg-2026-09-08-art-experience",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "cultuur",
       "publishedAt": "2026-09-08T14:00:00+02:00",
-      "title": {
-        "nl": "The Art Experience brengt kunst en beleving naar de Koepelhal"
-      },
-      "teaser": {
-        "nl": "Van 11 tot 13 september wordt de Koepelhal een levendige kunstwereld met twintig kunstenaars, galeries, muziek en een deel van de opbrengst voor Stichting Quiet."
-      },
+      "title": { "nl": "The Art Experience brengt kunst en beleving naar de Koepelhal" },
+      "teaser": { "nl": "Van 11 tot 13 september verandert de Koepelhal in een levendige kunstwereld met twintig kunstenaars, galeries, muziek en catering." },
       "langNote": "source-nl",
       "url": "https://www.omroeptilburg.nl/regio/tilburg/the-art-experience-brengt-kunst-en-beleving-naar-de-koepelhal/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["kunst", "evenement"]
+      "tags": ["kunst", "Koepelhal"]
     },
     {
-      "id": "omroep-tilburg-2026-09-08-ongeluk",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-09-08T09:23:00+02:00",
-      "title": {
-        "nl": "64-jarige man overleden bij ernstig ongeluk op Burgemeester Letschertweg"
-      },
-      "teaser": {
-        "nl": "Een 64-jarige Tilburger is overleden na een botsing tussen zijn auto en een vrachtwagen op de Burgemeester Letschertweg. Politie doet onderzoek."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/zwaargewonde-bij-ernstig-ongeluk-op-burgemeester-letschertweg/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Burgemeester Letschertweg",
-      "tags": ["verkeer", "ongeval"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-08-falcon-leap",
+      "id": "omroep-tilburg-2026-09-08-hoogma",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
       "publishedAt": "2026-09-08T12:00:00+02:00",
-      "title": {
-        "nl": "Militaire vliegtuigen vliegen laag over de regio tijdens oefening"
-      },
-      "teaser": {
-        "nl": "Van 7 tot 18 september vliegen militaire vliegtuigen laag over de regio tijdens oefening Falcon Leap, tussen 13-17 uur en 19-23 uur. Mogelijke geluidsoverlast."
-      },
+      "title": { "nl": "Willem II opnieuw getroffen door blessureleed: Justin Hoogma maanden aan de kant" },
+      "teaser": { "nl": "Verdediger Justin Hoogma heeft een zware knieblessure opgelopen en staat meerdere maanden aan de kant." },
       "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/militaire-vliegtuigen-vliegen-laag-over-de-regio-tijdens-oefening/",
+      "url": "https://www.omroeptilburg.nl/sport/willem-ii-opnieuw-getroffen-door-blessureleed-justin-hoogma-maanden-aan-de-kant/",
       "paywall": false,
-      "city": "Regio",
-      "tags": ["defensie", "oefening"]
+      "city": "Tilburg",
+      "tags": ["Willem II", "sport"]
     },
     {
       "id": "gemeente-2026-09-07-falcon-leap",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
-      "publishedAt": "2026-09-07T00:00:00+02:00",
-      "title": {
-        "nl": "Luchtmachtoefening Falcon Leap"
-      },
-      "teaser": {
-        "nl": "De luchtmacht houdt van 7 tot en met 18 september oefening Falcon Leap. Militaire vliegtuigen vliegen laag tussen 13:00-17:00 en 19:00-23:00 uur over Tilburg en omstreken."
-      },
+      "publishedAt": "2026-09-07T12:00:00+02:00",
+      "title": { "nl": "Luchtmachtoefening Falcon Leap" },
+      "teaser": { "nl": "Van 7 tot 18 september vliegen militaire vliegtuigen laag over de regio tijdens oefening Falcon Leap, met mogelijke geluidsoverlast." },
       "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/luchtmachtoefening-falcon-leap/",
       "paywall": false,
-      "city": "Tilburg",
-      "tags": ["defensie"]
-    },
-    {
-      "id": "gemeente-2026-09-04-vuurwerk",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-04T00:00:00+02:00",
-      "title": {
-        "nl": "Nog vuurwerk in huis? Lever het op 9 september veilig in bij de milieustraat"
-      },
-      "teaser": {
-        "nl": "Woensdag 9 september van 08:00-13:00 uur kunnen inwoners verboden vuurwerk gratis en anoniem inleveren bij de milieustraat aan de Caledoniastraat. Alleen F1-vuurwerk blijft toegestaan."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/nog-vuurwerk-in-huis-lever-het-op-9-september-veilig-in-bij-de-milieustraat/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Caledoniastraat",
-      "tags": ["vuurwerk", "milieu"]
+      "city": "Regio",
+      "tags": ["defensie", "overlast"]
     }
   ]
 }
