@@ -1,142 +1,182 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "ea966d58-c0ed-49f7-b9fd-87de38f7a0b9",
-  "generatedAt": "2026-09-10T19:05:00+02:00",
+  "deliveryId": "00f9b0f9-039c-4004-86cd-0c3d068eb70b",
+  "generatedAt": "2026-09-11T19:15:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:05 Amsterdam",
+  "source": "Grok verified permalinks 19:15 Amsterdam",
   "headline": {
-    "nl": "Tiener aangehouden voor helpdeskfraude; Pauwelsdag en kunstweekend in aantocht",
-    "en": "Teen arrested for helpdesk fraud; Pauwels Day and art weekend ahead",
-    "ru": "Подросток задержан за мошенничество; впереди день Пауэлса и художественный уикенд"
+    "nl": "Brand bij afvalverwerker snel onder controle; zaterdagmarkt verhuist naar Stadsforum",
+    "en": "Fire at waste processor quickly controlled; Saturday market moves to Stadsforum",
+    "ru": "Пожар на мусороперерабатывающем заводе быстро потушен; субботний рынок переезжает на Stadsforum"
   },
   "headlineLangNote": "ui-translated",
   "itemCount": 9,
   "items": [
     {
-      "id": "omroep-tilburg-2026-09-10-tiener-helpdeskfraude",
+      "id": "omroep-tilburg-2026-09-11-nachtelijke-brand-attero",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "incident",
-      "publishedAt": "2026-09-10T12:00:00+02:00",
-      "title": { "nl": "Opnieuw tiener aangehouden die als nepagent slachtoffer oplichtte" },
-      "teaser": { "nl": "De politie heeft donderdag opnieuw een tiener aangehouden op verdenking van helpdeskfraude. De jongen kwam in beeld toen hij met een gestolen bankpas iets wilde afrekenen." },
+      "publishedAt": "2026-09-11T00:00:00+02:00",
+      "title": {
+        "nl": "Nachtelijke brand bij afvalverwerker in Tilburg snel onder controle"
+      },
+      "teaser": {
+        "nl": "Bij afvalverwerker Attero aan de Vloeiveldweg is in de nacht van donderdag op vrijdag brand uitgebroken in een container. De brandweer had het vuur snel onder controle; niemand raakte gewond."
+      },
       "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/opnieuw-tiener-aangehouden-die-als-nepagent-slachtoffer-oplichtte/",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/nachtelijke-brand-bij-afvalverwerker-in-tilburg-snel-onder-controle/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["fraude", "politie"]
+      "area": "Vloeiveldweg / De Spinder",
+      "tags": ["brand", "Attero"]
     },
     {
-      "id": "omroep-tilburg-2026-09-10-verkrachting-celstraf",
+      "id": "gemeente-2026-09-11-online-diensten-beperkt",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-11T00:00:00+02:00",
+      "title": {
+        "nl": "Online diensten zaterdag beperkt beschikbaar"
+      },
+      "teaser": {
+        "nl": "Op zaterdag 12 september werken we tussen 08:00 en 21:00 uur aan de systemen. Online diensten (Mijn gemeente en formulieren) zijn tijdelijk minder goed bereikbaar; afspraak maken blijft mogelijk."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/online-diensten-zaterdag-beperkt-beschikbaar/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["online", "onderhoud"]
+    },
+    {
+      "id": "gemeente-2026-09-11-zaterdagmarkt-stadsforum",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-11T00:00:00+02:00",
+      "title": {
+        "nl": "Zaterdagmarkt vanaf eind dit jaar helemaal op het Stadsforum"
+      },
+      "teaser": {
+        "nl": "Vanaf eind 2026 staan alle marktkramen op het Stadsforum. Het college besloot tot één aaneengesloten marktterrein voor betere verbinding met het kernwinkelgebied."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/zaterdagmarkt-vanaf-eind-dit-jaar-helemaal-op-het-stadsforum/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Stadsforum",
+      "tags": ["markt", "binnenstad"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-11-rolpad-heuvel",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-11T00:00:00+02:00",
+      "title": {
+        "nl": "Rolpad fietsenstalling Heuvel wordt vernieuwd"
+      },
+      "teaser": {
+        "nl": "Van 14 tot en met 18 september wordt het rolpad naar beneden vernieuwd. Fietsen alleen via trap met fietsgoot; fatbikes en bakfietsen elders stallen."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/rolpad-fietsenstalling-heuvel-wordt-vernieuwd/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Heuvel",
+      "tags": ["fietsenstalling"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-11-documentaire-fontys",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-09-11T00:00:00+02:00",
+      "title": {
+        "nl": "Tilburg maakt het verschil: documentaire wint Fontys-publieksprijs"
+      },
+      "teaser": {
+        "nl": "Crossing oceans, Chasing dreams van Tilburgse journalistiekstudenten won de publieksprijs van de Fontys for Society Awards 2026. De film over Caribische studenten raakte het publiek."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/tilburg-maakt-het-verschil-documentaire-wint-fontys%E2%80%91publieksprijs/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["Fontys", "documentaire"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-11-botsing-ringbaan-zuid",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "incident",
-      "publishedAt": "2026-09-10T11:00:00+02:00",
-      "title": { "nl": "Verkrachting van man en vrouw live op camera: celstraf en tbs geëist" },
-      "teaser": { "nl": "De rechtbank in Breda boog zich over de zaak tegen Kadir B. (32) uit Tilburg, verdacht van verkrachting van een man en een vrouw in zijn woning." },
+      "publishedAt": "2026-09-11T00:00:00+02:00",
+      "title": {
+        "nl": "Flinke botsing op Ringbaan Zuid: bestuurder meegenomen naar het bureau"
+      },
+      "teaser": {
+        "nl": "Donderdagavond botsten twee auto’s op de kruising Ringbaan Zuid / Winkler Prinsstraat. Een inzittende liep een armblessure op; de veroorzaker is meegenomen voor onderzoek op middelen."
+      },
       "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/verkrachting-van-man-en-vrouw-live-op-camera-celstraf-en-tbs-geeist/",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/flinke-botsing-op-ringbaan-zuid-bestuurder-meegenomen-naar-het-bureau/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["rechtbank"]
+      "area": "Ringbaan Zuid",
+      "tags": ["verkeer", "botsing"]
     },
     {
-      "id": "omroep-tilburg-2026-09-10-geen-treinen",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-09-10T10:00:00+02:00",
-      "title": { "nl": "Opgelet! Binnenkort geen treinen tussen Tilburg en Den Bosch" },
-      "teaser": { "nl": "Reizigers moeten rekening houden met geen treinen tussen Tilburg en Den Bosch volgend weekend door werkzaamheden." },
+      "id": "gemeente-2026-09-10-schaatsseizoen-korting",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-10T00:00:00+02:00",
+      "title": {
+        "nl": "Nieuw schaatsseizoen: 50% korting"
+      },
+      "teaser": {
+        "nl": "Op 3 oktober opent de Ireen Wüst IJsbaan. Bezoekers krijgen dit seizoen 50% korting op losse tickets en schaatshuur, behalve in december en de kerstvakantie."
+      },
       "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/opgelet-binnenkort-geen-treinen-tussen-tilburg-en-den-bosch/",
+      "url": "https://www.tilburg.nl/nieuws/item/nieuw-schaatsseizoen-50-korting/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["verkeer", "NS"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-09-dominique-ten-miles",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-09-09T12:00:00+02:00",
-      "title": { "nl": "Dominique rent Tilburg Ten Miles voor overleden vader en haalt bijna 15.000 euro op" },
-      "teaser": { "nl": "Tilburgse Dominique Loos rent de Tilburg Ten Miles voor haar overleden vader en haalt bijna 15.000 euro op voor de Nierstichting." },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/dominique-rent-tilburg-ten-miles-voor-overleden-vader-en-haalt-bijna-15-000-euro-op/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["sport", "goededoel"]
+      "tags": ["schaatsen", "sport"]
     },
     {
       "id": "gemeente-2026-09-08-pauwelsdag",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
-      "publishedAt": "2026-09-08T12:00:00+02:00",
-      "title": { "nl": "Pauwelsdag 2026: treed eens buiten de gebaande paden" },
-      "teaser": { "nl": "Zondag 13 september is de Pauwelsdag met wandelingen, rondleidingen, proeverijen en activiteiten in het gebied tussen Tilburg en de Loonse en Drunense Duinen." },
+      "publishedAt": "2026-09-08T00:00:00+02:00",
+      "title": {
+        "nl": "Pauwelsdag 2026: treed eens buiten de gebaande paden"
+      },
+      "teaser": {
+        "nl": "Zondag 13 september is Pauwelsdag met activiteiten tussen Tilburg en de Loonse en Drunense Duinen: wandelingen, proeverijen, kinderactiviteiten en optredens van 10:00 tot 16:00."
+      },
       "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/pauwelsdag-2026-treed-eens-buiten-de-gebaande-paden/",
       "paywall": false,
-      "city": "Tilburg",
-      "tags": ["natuur", "evenement"]
-    },
-    {
-      "id": "gemeente-2026-09-08-boscafes",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-08T11:00:00+02:00",
-      "title": { "nl": "Boscafés over werkzaamheden in Stadsbos013" },
-      "teaser": { "nl": "Op zondag 20 september zijn er boscafés over de bomenkap en herplant in De Gaas, Reeshofbos en Wilmabos. Aanmelden verplicht." },
-      "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/boscafes-over-werkzaamheden-in-stadsbos013/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["natuur", "bos"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-08-art-experience",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "cultuur",
-      "publishedAt": "2026-09-08T14:00:00+02:00",
-      "title": { "nl": "The Art Experience brengt kunst en beleving naar de Koepelhal" },
-      "teaser": { "nl": "Van 11 tot 13 september verandert de Koepelhal in een levendige kunstwereld met twintig kunstenaars, galeries, muziek en catering." },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/the-art-experience-brengt-kunst-en-beleving-naar-de-koepelhal/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["kunst", "Koepelhal"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-08-hoogma",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-09-08T12:00:00+02:00",
-      "title": { "nl": "Willem II opnieuw getroffen door blessureleed: Justin Hoogma maanden aan de kant" },
-      "teaser": { "nl": "Verdediger Justin Hoogma heeft een zware knieblessure opgelopen en staat meerdere maanden aan de kant." },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/sport/willem-ii-opnieuw-getroffen-door-blessureleed-justin-hoogma-maanden-aan-de-kant/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["Willem II", "sport"]
+      "city": "Regio",
+      "tags": ["Pauwelsdag", "natuur"]
     },
     {
       "id": "gemeente-2026-09-07-falcon-leap",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
-      "publishedAt": "2026-09-07T12:00:00+02:00",
-      "title": { "nl": "Luchtmachtoefening Falcon Leap" },
-      "teaser": { "nl": "Van 7 tot 18 september vliegen militaire vliegtuigen laag over de regio tijdens oefening Falcon Leap, met mogelijke geluidsoverlast." },
+      "publishedAt": "2026-09-07T00:00:00+02:00",
+      "title": {
+        "nl": "Luchtmachtoefening Falcon Leap"
+      },
+      "teaser": {
+        "nl": "Van 7 tot en met 18 september vliegen militaire vliegtuigen op lage hoogte tussen 13:00-17:00 en 19:00-23:00 uur. Mogelijke geluidsoverlast; tijden kunnen wijzigen."
+      },
       "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/luchtmachtoefening-falcon-leap/",
       "paywall": false,
       "city": "Regio",
-      "tags": ["defensie", "overlast"]
+      "tags": ["luchtmacht", "oefening"]
     }
   ]
 }
