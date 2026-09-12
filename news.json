@@ -1,36 +1,17 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "00f9b0f9-039c-4004-86cd-0c3d068eb70b",
-  "generatedAt": "2026-09-11T19:15:00+02:00",
+  "deliveryId": "d0c5f422-5f62-4f22-ada9-60d0bd7af7fb",
+  "generatedAt": "2026-09-12T19:10:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:15 Amsterdam",
+  "source": "Grok verified permalinks 19:10 Amsterdam",
   "headline": {
-    "nl": "Brand bij afvalverwerker snel onder controle; zaterdagmarkt verhuist naar Stadsforum",
-    "en": "Fire at waste processor quickly controlled; Saturday market moves to Stadsforum",
-    "ru": "Пожар на мусороперерабатывающем заводе быстро потушен; субботний рынок переезжает на Stadsforum"
+    "nl": "Stadhuis open voor bezoekers; online diensten beperkt; Pauwelsdag morgen",
+    "en": "City Hall open to visitors; online services limited; Pauwelsdag tomorrow",
+    "ru": "Ратуша открыта для посетителей; онлайн-услуги ограничены; завтра День Пауэлса"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
-    {
-      "id": "omroep-tilburg-2026-09-11-nachtelijke-brand-attero",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-09-11T00:00:00+02:00",
-      "title": {
-        "nl": "Nachtelijke brand bij afvalverwerker in Tilburg snel onder controle"
-      },
-      "teaser": {
-        "nl": "Bij afvalverwerker Attero aan de Vloeiveldweg is in de nacht van donderdag op vrijdag brand uitgebroken in een container. De brandweer had het vuur snel onder controle; niemand raakte gewond."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/nachtelijke-brand-bij-afvalverwerker-in-tilburg-snel-onder-controle/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Vloeiveldweg / De Spinder",
-      "tags": ["brand", "Attero"]
-    },
     {
       "id": "gemeente-2026-09-11-online-diensten-beperkt",
       "sourceId": "gemeente",
@@ -106,23 +87,41 @@
       "tags": ["Fontys", "documentaire"]
     },
     {
-      "id": "omroep-tilburg-2026-09-11-botsing-ringbaan-zuid",
+      "id": "omroep-tilburg-2026-09-11-coronafotoboek",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-09-11T00:00:00+02:00",
+      "title": {
+        "nl": "Tilburgse coronatijd is nu fotoboek: ‘Rare beelden, toen heel gewoon’"
+      },
+      "teaser": {
+        "nl": "Het documentair fotoboek ‘Tilburg Corona’ van Chris Oomes wordt zaterdag 12 september gelanceerd in het Paleis-Raadhuis. Hij legde twee jaar straatbeeld vast tijdens de pandemie."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/tilburgse-coronatijd-is-nu-fotoboek-rare-beelden-toen-heel-gewoon/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["fotoboek", "corona"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-11-nachtelijke-brand-attero",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "incident",
       "publishedAt": "2026-09-11T00:00:00+02:00",
       "title": {
-        "nl": "Flinke botsing op Ringbaan Zuid: bestuurder meegenomen naar het bureau"
+        "nl": "Nachtelijke brand bij afvalverwerker in Tilburg snel onder controle"
       },
       "teaser": {
-        "nl": "Donderdagavond botsten twee auto’s op de kruising Ringbaan Zuid / Winkler Prinsstraat. Een inzittende liep een armblessure op; de veroorzaker is meegenomen voor onderzoek op middelen."
+        "nl": "Bij afvalverwerker Attero aan de Vloeiveldweg is in de nacht van donderdag op vrijdag brand uitgebroken in een container. De brandweer had het vuur snel onder controle; niemand raakte gewond."
       },
       "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/flinke-botsing-op-ringbaan-zuid-bestuurder-meegenomen-naar-het-bureau/",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/nachtelijke-brand-bij-afvalverwerker-in-tilburg-snel-onder-controle/",
       "paywall": false,
       "city": "Tilburg",
-      "area": "Ringbaan Zuid",
-      "tags": ["verkeer", "botsing"]
+      "area": "Vloeiveldweg / De Spinder",
+      "tags": ["brand", "Attero"]
     },
     {
       "id": "gemeente-2026-09-10-schaatsseizoen-korting",
@@ -177,6 +176,24 @@
       "paywall": false,
       "city": "Regio",
       "tags": ["luchtmacht", "oefening"]
+    },
+    {
+      "id": "gemeente-2026-08-24-stadhuis-open-12sep",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-08-24T00:00:00+02:00",
+      "title": {
+        "nl": "Bezoek het Stadhuis en Paleis-Raadhuis op 12 september"
+      },
+      "teaser": {
+        "nl": "Op zaterdag 12 september zijn Paleis-Raadhuis en Stadhuis open van 11:00 tot 16:00. Informatiemarkt, rondleidingen (ook met gebarentolk) en fototentoonstelling ‘Erfgoed van morgen’."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/bezoek-het-stadhuis-en-paleis-raadhuis-op-12-september/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["open dag", "democratie"]
     }
   ]
 }
