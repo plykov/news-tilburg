@@ -1,34 +1,34 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "d0c5f422-5f62-4f22-ada9-60d0bd7af7fb",
-  "generatedAt": "2026-09-12T19:10:00+02:00",
+  "deliveryId": "beb951a6-fcb8-426d-89a4-c7e2b75597b3",
+  "generatedAt": "2026-09-13T19:00:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:10 Amsterdam",
+  "source": "Grok verified permalinks 19:00 Amsterdam",
   "headline": {
-    "nl": "Stadhuis open voor bezoekers; online diensten beperkt; Pauwelsdag morgen",
-    "en": "City Hall open to visitors; online services limited; Pauwelsdag tomorrow",
-    "ru": "Ратуша открыта для посетителей; онлайн-услуги ограничены; завтра День Пауэлса"
+    "nl": "Pauwelsdag vandaag in Landschap Pauwels; zaterdagmarkt verhuist naar Stadsforum",
+    "en": "Pauwelsdag today in Landscape Pauwels; Saturday market moves to Stadsforum",
+    "ru": "Сегодня День Пауэлса в ландшафте Пауэлс; субботний рынок переезжает на Стадсфорум"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "gemeente-2026-09-11-online-diensten-beperkt",
+      "id": "gemeente-2026-09-08-pauwelsdag",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
-      "publishedAt": "2026-09-11T00:00:00+02:00",
+      "publishedAt": "2026-09-08T00:00:00+02:00",
       "title": {
-        "nl": "Online diensten zaterdag beperkt beschikbaar"
+        "nl": "Pauwelsdag 2026: treed eens buiten de gebaande paden"
       },
       "teaser": {
-        "nl": "Op zaterdag 12 september werken we tussen 08:00 en 21:00 uur aan de systemen. Online diensten (Mijn gemeente en formulieren) zijn tijdelijk minder goed bereikbaar; afspraak maken blijft mogelijk."
+        "nl": "Zondag 13 september is de Pauwelsdag. Activiteiten van 10:00 tot 16:00 in het gebied tussen Tilburg en de Loonse en Drunense Duinen: wandelingen, proeverijen, kinderactiviteiten en optredens."
       },
       "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/online-diensten-zaterdag-beperkt-beschikbaar/",
+      "url": "https://www.tilburg.nl/nieuws/item/pauwelsdag-2026-treed-eens-buiten-de-gebaande-paden/",
       "paywall": false,
-      "city": "Tilburg",
-      "tags": ["online", "onderhoud"]
+      "city": "Regio",
+      "tags": ["Pauwelsdag", "natuur"]
     },
     {
       "id": "gemeente-2026-09-11-zaterdagmarkt-stadsforum",
@@ -40,7 +40,7 @@
         "nl": "Zaterdagmarkt vanaf eind dit jaar helemaal op het Stadsforum"
       },
       "teaser": {
-        "nl": "Vanaf eind 2026 staan alle marktkramen op het Stadsforum. Het college besloot tot één aaneengesloten marktterrein voor betere verbinding met het kernwinkelgebied."
+        "nl": "Vanaf eind 2026 staan alle marktkramen op het Stadsforum. Eén aaneengesloten marktterrein voor betere verbinding met het kernwinkelgebied en overzichtelijker indeling."
       },
       "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/zaterdagmarkt-vanaf-eind-dit-jaar-helemaal-op-het-stadsforum/",
@@ -48,6 +48,25 @@
       "city": "Tilburg",
       "area": "Stadsforum",
       "tags": ["markt", "binnenstad"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-11-nachtelijke-brand-attero",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-09-11T00:00:00+02:00",
+      "title": {
+        "nl": "Nachtelijke brand bij afvalverwerker in Tilburg snel onder controle"
+      },
+      "teaser": {
+        "nl": "Bij Attero aan de Vloeiveldweg brand in een container op De Spinder. Brandweer had het vuur snel onder controle; niemand gewond."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/nachtelijke-brand-bij-afvalverwerker-in-tilburg-snel-onder-controle/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Vloeiveldweg",
+      "tags": ["brand", "Attero"]
     },
     {
       "id": "omroep-tilburg-2026-09-11-rolpad-heuvel",
@@ -59,7 +78,7 @@
         "nl": "Rolpad fietsenstalling Heuvel wordt vernieuwd"
       },
       "teaser": {
-        "nl": "Van 14 tot en met 18 september wordt het rolpad naar beneden vernieuwd. Fietsen alleen via trap met fietsgoot; fatbikes en bakfietsen elders stallen."
+        "nl": "Van 14 t/m 18 september wordt het rolpad naar beneden vernieuwd. Toegang alleen via trap met fietsgoot; fatbikes elders stallen."
       },
       "langNote": "source-nl",
       "url": "https://www.omroeptilburg.nl/regio/tilburg/rolpad-fietsenstalling-heuvel-wordt-vernieuwd/",
@@ -78,50 +97,13 @@
         "nl": "Tilburg maakt het verschil: documentaire wint Fontys-publieksprijs"
       },
       "teaser": {
-        "nl": "Crossing oceans, Chasing dreams van Tilburgse journalistiekstudenten won de publieksprijs van de Fontys for Society Awards 2026. De film over Caribische studenten raakte het publiek."
+        "nl": "Crossing oceans, Chasing dreams van Tilburgse journalistiekstudenten won de publieksprijs Fontys for Society Awards 2026 over ervaringen van Caribische studenten."
       },
       "langNote": "source-nl",
       "url": "https://www.omroeptilburg.nl/regio/tilburg/tilburg-maakt-het-verschil-documentaire-wint-fontys%E2%80%91publieksprijs/",
       "paywall": false,
       "city": "Tilburg",
       "tags": ["Fontys", "documentaire"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-11-coronafotoboek",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "cultuur",
-      "publishedAt": "2026-09-11T00:00:00+02:00",
-      "title": {
-        "nl": "Tilburgse coronatijd is nu fotoboek: ‘Rare beelden, toen heel gewoon’"
-      },
-      "teaser": {
-        "nl": "Het documentair fotoboek ‘Tilburg Corona’ van Chris Oomes wordt zaterdag 12 september gelanceerd in het Paleis-Raadhuis. Hij legde twee jaar straatbeeld vast tijdens de pandemie."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/tilburgse-coronatijd-is-nu-fotoboek-rare-beelden-toen-heel-gewoon/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["fotoboek", "corona"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-11-nachtelijke-brand-attero",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-09-11T00:00:00+02:00",
-      "title": {
-        "nl": "Nachtelijke brand bij afvalverwerker in Tilburg snel onder controle"
-      },
-      "teaser": {
-        "nl": "Bij afvalverwerker Attero aan de Vloeiveldweg is in de nacht van donderdag op vrijdag brand uitgebroken in een container. De brandweer had het vuur snel onder controle; niemand raakte gewond."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/nachtelijke-brand-bij-afvalverwerker-in-tilburg-snel-onder-controle/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Vloeiveldweg / De Spinder",
-      "tags": ["brand", "Attero"]
     },
     {
       "id": "gemeente-2026-09-10-schaatsseizoen-korting",
@@ -133,7 +115,7 @@
         "nl": "Nieuw schaatsseizoen: 50% korting"
       },
       "teaser": {
-        "nl": "Op 3 oktober opent de Ireen Wüst IJsbaan. Bezoekers krijgen dit seizoen 50% korting op losse tickets en schaatshuur, behalve in december en de kerstvakantie."
+        "nl": "Op 3 oktober opent de Ireen Wüst IJsbaan. 50% korting op losse tickets en schaatshuur dit seizoen, behalve december en kerstvakantie."
       },
       "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/nieuw-schaatsseizoen-50-korting/",
@@ -142,22 +124,22 @@
       "tags": ["schaatsen", "sport"]
     },
     {
-      "id": "gemeente-2026-09-08-pauwelsdag",
+      "id": "gemeente-2026-09-08-boscafes",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
       "publishedAt": "2026-09-08T00:00:00+02:00",
       "title": {
-        "nl": "Pauwelsdag 2026: treed eens buiten de gebaande paden"
+        "nl": "Boscafés over werkzaamheden in Stadsbos013"
       },
       "teaser": {
-        "nl": "Zondag 13 september is Pauwelsdag met activiteiten tussen Tilburg en de Loonse en Drunense Duinen: wandelingen, proeverijen, kinderactiviteiten en optredens van 10:00 tot 16:00."
+        "nl": "Op zondag 20 september boscafés in De Gaas (10:00) en Reeshofbos (12:00) over bomenwerkzaamheden begin oktober. Aanmelden verplicht, max 40 per wandeling."
       },
       "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/pauwelsdag-2026-treed-eens-buiten-de-gebaande-paden/",
+      "url": "https://www.tilburg.nl/nieuws/item/boscafes-over-werkzaamheden-in-stadsbos013/",
       "paywall": false,
-      "city": "Regio",
-      "tags": ["Pauwelsdag", "natuur"]
+      "city": "Tilburg",
+      "tags": ["bos", "natuur"]
     },
     {
       "id": "gemeente-2026-09-07-falcon-leap",
@@ -169,7 +151,7 @@
         "nl": "Luchtmachtoefening Falcon Leap"
       },
       "teaser": {
-        "nl": "Van 7 tot en met 18 september vliegen militaire vliegtuigen op lage hoogte tussen 13:00-17:00 en 19:00-23:00 uur. Mogelijke geluidsoverlast; tijden kunnen wijzigen."
+        "nl": "Tot en met 18 september vliegen militaire vliegtuigen laag tussen 13:00-17:00 en 19:00-23:00. Mogelijke geluidsoverlast; check X van Vliegbasis Eindhoven."
       },
       "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/luchtmachtoefening-falcon-leap/",
@@ -178,22 +160,22 @@
       "tags": ["luchtmacht", "oefening"]
     },
     {
-      "id": "gemeente-2026-08-24-stadhuis-open-12sep",
+      "id": "gemeente-2026-09-11-online-diensten-beperkt",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
-      "publishedAt": "2026-08-24T00:00:00+02:00",
+      "publishedAt": "2026-09-11T00:00:00+02:00",
       "title": {
-        "nl": "Bezoek het Stadhuis en Paleis-Raadhuis op 12 september"
+        "nl": "Online diensten zaterdag beperkt beschikbaar"
       },
       "teaser": {
-        "nl": "Op zaterdag 12 september zijn Paleis-Raadhuis en Stadhuis open van 11:00 tot 16:00. Informatiemarkt, rondleidingen (ook met gebarentolk) en fototentoonstelling ‘Erfgoed van morgen’."
+        "nl": "Op zaterdag 12 september onderhoud aan systemen 08:00-21:00. Online diensten tijdelijk minder bereikbaar; afspraak maken bleef mogelijk."
       },
       "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/bezoek-het-stadhuis-en-paleis-raadhuis-op-12-september/",
+      "url": "https://www.tilburg.nl/nieuws/item/online-diensten-zaterdag-beperkt-beschikbaar/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["open dag", "democratie"]
+      "tags": ["online", "onderhoud"]
     }
   ]
 }
