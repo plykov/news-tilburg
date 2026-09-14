@@ -1,34 +1,128 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "beb951a6-fcb8-426d-89a4-c7e2b75597b3",
-  "generatedAt": "2026-09-13T19:00:00+02:00",
+  "deliveryId": "fcbfb293-fe27-4416-aba0-da2097404a0c",
+  "generatedAt": "2026-09-14T19:07:26+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:00 Amsterdam",
+  "source": "Grok verified permalinks 19:07 Amsterdam",
   "headline": {
-    "nl": "Pauwelsdag vandaag in Landschap Pauwels; zaterdagmarkt verhuist naar Stadsforum",
-    "en": "Pauwelsdag today in Landscape Pauwels; Saturday market moves to Stadsforum",
-    "ru": "Сегодня День Пауэлса в ландшафте Пауэлс; субботний рынок переезжает на Стадсфорум"
+    "nl": "Stroomstoring na brand transformatorhuis; vermiste vrouw en steekpartij in Tilburg",
+    "en": "Power outage after transformer fire; missing woman and stabbing in Tilburg",
+    "ru": "Отключение электричества после пожара в трансформаторной; пропавшая женщина и ножевое ранение в Тилбурге"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "gemeente-2026-09-08-pauwelsdag",
+      "id": "omroep-tilburg-2026-09-14-bestelbus-botsing",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-09-14T12:15:00+02:00",
+      "title": {
+        "nl": "Bestelbus botst achterop vrachtwagen in Tilburg"
+      },
+      "teaser": {
+        "nl": "Een bestelbus is maandagmiddag achterop een vrachtwagen gebotst op de Burgemeester Letschertweg bij de Eindsestraat. Niemand gewond, bestelbus beschadigd."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/bestelbus-botst-achterop-vrachtwagen-in-tilburg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Burgemeester Letschertweg",
+      "tags": ["verkeer", "ongeval"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-14-stroom-transformatorhuis",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-09-14T12:39:00+02:00",
+      "title": {
+        "nl": "Bedrijven zonder stroom na brand in transformatorhuis in Tilburg"
+      },
+      "teaser": {
+        "nl": "Brand in transformatorhuis Erebusstraat op Vossenberg. Zestien bedrijven zonder stroom, later acht. Brand onder controle, storing verwacht rond 18.00 uur verholpen."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/bedrijven-zonder-stroom-na-brand-in-transformatorhuis-in-tilburg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Vossenberg",
+      "tags": ["stroomstoring", "brand"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-14-trappers-open-dag",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-09-14T00:00:00+02:00",
+      "title": {
+        "nl": "Trappers wint op open dag generale repetitie voor seizoensstart"
+      },
+      "teaser": {
+        "nl": "Tilburg Trappers won zondag 3-0 van Corsaires de Dunkerque op de open dag. Klaar voor competitiestart komende week."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/sport/trappers-wint-op-open-dag-generale-repetitie-voor-seizoensstart/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["Trappers", "ijshockey", "sport"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-14-vrouw-vermist",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-09-14T00:00:00+02:00",
+      "title": {
+        "nl": "Tilburgse vrouw (53) vermist, politie deelt nieuwe beelden"
+      },
+      "teaser": {
+        "nl": "Politie maakt zich grote zorgen om 53-jarige vrouw uit Korvel, vermist sinds vrijdagochtend 11 september. Nieuwe beelden van kleding gedeeld."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/tilburgse-vrouw-53-vermist-politie-deelt-nieuwe-beelden/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Korvel",
+      "tags": ["vermissing", "politie"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-14-steekpartij",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-09-14T00:00:00+02:00",
+      "title": {
+        "nl": "Twee verdachten aangehouden na steekpartij in Tilburg: één gewonde"
+      },
+      "teaser": {
+        "nl": "Zondagmiddag steekpartij Karel Doormanlaan. Gewonde man naar ziekenhuis. Twee verdachten later in Breda aangehouden."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/twee-verdachten-aangehouden-na-steekpartij-in-tilburg-een-gewonde/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Karel Doormanlaan",
+      "tags": ["steekpartij", "politie"]
+    },
+    {
+      "id": "gemeente-2026-09-14-noodsteunpunt",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
-      "publishedAt": "2026-09-08T00:00:00+02:00",
+      "publishedAt": "2026-09-14T00:00:00+02:00",
       "title": {
-        "nl": "Pauwelsdag 2026: treed eens buiten de gebaande paden"
+        "nl": "Gemeente start met proef voor noodsteunpunt in Wijkcentrum De Symfonie"
       },
       "teaser": {
-        "nl": "Zondag 13 september is de Pauwelsdag. Activiteiten van 10:00 tot 16:00 in het gebied tussen Tilburg en de Loonse en Drunense Duinen: wandelingen, proeverijen, kinderactiviteiten en optredens."
+        "nl": "Proef noodsteunpunt in Wijkcentrum De Symfonie voor informatie en hulp bij langdurige stroomstoring of noodsituatie. Oefening in november."
       },
       "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/pauwelsdag-2026-treed-eens-buiten-de-gebaande-paden/",
+      "url": "https://www.tilburg.nl/nieuws/item/gemeente-start-met-proef-voor-noodsteunpunt-in-wijkcentrum-de-symfonie/",
       "paywall": false,
-      "city": "Regio",
-      "tags": ["Pauwelsdag", "natuur"]
+      "city": "Tilburg",
+      "tags": ["noodsteunpunt", "veiligheid"]
     },
     {
       "id": "gemeente-2026-09-11-zaterdagmarkt-stadsforum",
@@ -40,7 +134,7 @@
         "nl": "Zaterdagmarkt vanaf eind dit jaar helemaal op het Stadsforum"
       },
       "teaser": {
-        "nl": "Vanaf eind 2026 staan alle marktkramen op het Stadsforum. Eén aaneengesloten marktterrein voor betere verbinding met het kernwinkelgebied en overzichtelijker indeling."
+        "nl": "Vanaf eind 2026 staan alle marktkramen op het Stadsforum. Eén aaneengesloten marktterrein voor betere verbinding met het kernwinkelgebied."
       },
       "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/zaterdagmarkt-vanaf-eind-dit-jaar-helemaal-op-het-stadsforum/",
@@ -48,25 +142,6 @@
       "city": "Tilburg",
       "area": "Stadsforum",
       "tags": ["markt", "binnenstad"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-11-nachtelijke-brand-attero",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-09-11T00:00:00+02:00",
-      "title": {
-        "nl": "Nachtelijke brand bij afvalverwerker in Tilburg snel onder controle"
-      },
-      "teaser": {
-        "nl": "Bij Attero aan de Vloeiveldweg brand in een container op De Spinder. Brandweer had het vuur snel onder controle; niemand gewond."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/nachtelijke-brand-bij-afvalverwerker-in-tilburg-snel-onder-controle/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Vloeiveldweg",
-      "tags": ["brand", "Attero"]
     },
     {
       "id": "omroep-tilburg-2026-09-11-rolpad-heuvel",
@@ -88,24 +163,6 @@
       "tags": ["fietsenstalling"]
     },
     {
-      "id": "omroep-tilburg-2026-09-11-documentaire-fontys",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-09-11T00:00:00+02:00",
-      "title": {
-        "nl": "Tilburg maakt het verschil: documentaire wint Fontys-publieksprijs"
-      },
-      "teaser": {
-        "nl": "Crossing oceans, Chasing dreams van Tilburgse journalistiekstudenten won de publieksprijs Fontys for Society Awards 2026 over ervaringen van Caribische studenten."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/tilburg-maakt-het-verschil-documentaire-wint-fontys%E2%80%91publieksprijs/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["Fontys", "documentaire"]
-    },
-    {
       "id": "gemeente-2026-09-10-schaatsseizoen-korting",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
@@ -124,58 +181,23 @@
       "tags": ["schaatsen", "sport"]
     },
     {
-      "id": "gemeente-2026-09-08-boscafes",
+      "id": "gemeente-2026-09-01-fietsenstalling-heuvel",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
-      "publishedAt": "2026-09-08T00:00:00+02:00",
+      "publishedAt": "2026-09-01T00:00:00+02:00",
       "title": {
-        "nl": "Boscafés over werkzaamheden in Stadsbos013"
+        "nl": "Fietsenstalling Heuvel tijdelijk lastiger bereikbaar"
       },
       "teaser": {
-        "nl": "Op zondag 20 september boscafés in De Gaas (10:00) en Reeshofbos (12:00) over bomenwerkzaamheden begin oktober. Aanmelden verplicht, max 40 per wandeling."
+        "nl": "Week 14-18 september rolpad naar beneden vernieuwd. Ingang via trap met fietsgoot Mercure-kant; fatbikes en bakfietsen elders."
       },
       "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/boscafes-over-werkzaamheden-in-stadsbos013/",
+      "url": "https://www.tilburg.nl/nieuws/item/fietsenstalling-heuvel-tijdelijk-lastiger-bereikbaar/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["bos", "natuur"]
-    },
-    {
-      "id": "gemeente-2026-09-07-falcon-leap",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-07T00:00:00+02:00",
-      "title": {
-        "nl": "Luchtmachtoefening Falcon Leap"
-      },
-      "teaser": {
-        "nl": "Tot en met 18 september vliegen militaire vliegtuigen laag tussen 13:00-17:00 en 19:00-23:00. Mogelijke geluidsoverlast; check X van Vliegbasis Eindhoven."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/luchtmachtoefening-falcon-leap/",
-      "paywall": false,
-      "city": "Regio",
-      "tags": ["luchtmacht", "oefening"]
-    },
-    {
-      "id": "gemeente-2026-09-11-online-diensten-beperkt",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-11T00:00:00+02:00",
-      "title": {
-        "nl": "Online diensten zaterdag beperkt beschikbaar"
-      },
-      "teaser": {
-        "nl": "Op zaterdag 12 september onderhoud aan systemen 08:00-21:00. Online diensten tijdelijk minder bereikbaar; afspraak maken bleef mogelijk."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/online-diensten-zaterdag-beperkt-beschikbaar/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["online", "onderhoud"]
+      "area": "Heuvel",
+      "tags": ["fietsenstalling"]
     }
   ]
 }
