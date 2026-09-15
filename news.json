@@ -1,17 +1,107 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "fcbfb293-fe27-4416-aba0-da2097404a0c",
-  "generatedAt": "2026-09-14T19:07:26+02:00",
+  "deliveryId": "b85829d7-adcf-46a7-99a6-dc8f676ca4a3",
+  "generatedAt": "2026-09-15T19:17:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:07 Amsterdam",
+  "source": "Grok verified permalinks 19:17 Amsterdam",
   "headline": {
-    "nl": "Stroomstoring na brand transformatorhuis; vermiste vrouw en steekpartij in Tilburg",
-    "en": "Power outage after transformer fire; missing woman and stabbing in Tilburg",
-    "ru": "Отключение электричества после пожара в трансформаторной; пропавшая женщина и ножевое ранение в Тилбурге"
+    "nl": "Prinsjesdag met leerlingen in raadszaal; proces Jairon en nepagent Berkel-Enschot",
+    "en": "Prinsjesdag with schoolchildren in council chamber; Jairon trial and fake police officer in Berkel-Enschot",
+    "ru": "Prinsjesdag со школьниками в зале совета; процесс по делу Jairon и фальшивый полицейский в Berkel-Enschot"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 10,
+  "itemCount": 11,
   "items": [
+    {
+      "id": "gemeente-2026-09-15-gebiedsbezoek-de-baars",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-15T00:00:00+02:00",
+      "title": {
+        "nl": "Gebiedsbezoek Stuurgroep De Baars"
+      },
+      "teaser": {
+        "nl": "Stuurgroep De Baars bezocht het projectgebied. Bestuurders spraken met bewoners en partijen over kansen en ontwikkelingen. Gebiedsvisie volgt 2027."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/gebiedsbezoek-stuurgroep-de-baars/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["De Baars", "gebiedsontwikkeling"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-15-prinsjesdag-leerlingen",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-09-15T00:00:00+02:00",
+      "title": {
+        "nl": "Tilburgse leerlingen beleven Prinsjesdag in de raadszaal"
+      },
+      "teaser": {
+        "nl": "Honderd leerlingen van De Wegwijzer dachten in de raadszaal na over eerlijke verdeling van geld. Programma van gemeente en Tilburg University Junior bij Week van de Democratie."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/headline/tilburgse-leerlingen-beleven-prinsjesdag-in-de-raadszaal/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["Prinsjesdag", "democratie", "onderwijs"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-15-jairon-proces",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-09-15T00:00:00+02:00",
+      "title": {
+        "nl": "Tilburgse Jairon (14) lag wekenlang dood in zijn bed, zes verdachten staan terecht"
+      },
+      "teaser": {
+        "nl": "Proces in Antwerpen over dood van 14-jarige Jairon uit Tilburg in 2022. Vader en vijf anderen terecht voor niet inschakelen medische hulp."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/tilburgse-jairon-14-lag-wekenlang-dood-in-zijn-bed-zes-verdachten-staan-terecht/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["proces", "Jairon"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-15-nepagent-berkel",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-09-15T00:00:00+02:00",
+      "title": {
+        "nl": "80-jarige vrouw uit Berkel-Enschot slachtoffer van nepagent: politie deelt beelden"
+      },
+      "teaser": {
+        "nl": "Vrouw gaf op 30 april sieraden, geld en bankpas mee aan man die zich voordeed als politie. Politie deelt beelden van dader."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/berkel-enschot-udenhout/berkelenschot/80-jarige-vrouw-uit-berkel-enschot-slachtoffer-van-nepagent-politie-deelt-beelden/",
+      "paywall": false,
+      "city": "Berkel-Enschot",
+      "tags": ["oplichting", "nepagent", "politie"]
+    },
+    {
+      "id": "gemeente-2026-09-14-noodsteunpunt",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-14T00:00:00+02:00",
+      "title": {
+        "nl": "Gemeente start met proef voor noodsteunpunt in Wijkcentrum De Symfonie"
+      },
+      "teaser": {
+        "nl": "Proef noodsteunpunt in Wijkcentrum De Symfonie voor informatie en hulp bij langdurige stroomstoring of noodsituatie. Oefening in november."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/gemeente-start-met-proef-voor-noodsteunpunt-in-wijkcentrum-de-symfonie/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["noodsteunpunt", "veiligheid"]
+    },
     {
       "id": "omroep-tilburg-2026-09-14-bestelbus-botsing",
       "sourceId": "omroep-tilburg",
@@ -41,7 +131,7 @@
         "nl": "Bedrijven zonder stroom na brand in transformatorhuis in Tilburg"
       },
       "teaser": {
-        "nl": "Brand in transformatorhuis Erebusstraat op Vossenberg. Zestien bedrijven zonder stroom, later acht. Brand onder controle, storing verwacht rond 18.00 uur verholpen."
+        "nl": "Brand in transformatorhuis Erebusstraat op Vossenberg. Zestien bedrijven zonder stroom, later acht. Brand onder controle."
       },
       "langNote": "source-nl",
       "url": "https://www.omroeptilburg.nl/regio/tilburg/bedrijven-zonder-stroom-na-brand-in-transformatorhuis-in-tilburg/",
@@ -49,24 +139,6 @@
       "city": "Tilburg",
       "area": "Vossenberg",
       "tags": ["stroomstoring", "brand"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-14-trappers-open-dag",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-09-14T00:00:00+02:00",
-      "title": {
-        "nl": "Trappers wint op open dag generale repetitie voor seizoensstart"
-      },
-      "teaser": {
-        "nl": "Tilburg Trappers won zondag 3-0 van Corsaires de Dunkerque op de open dag. Klaar voor competitiestart komende week."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/sport/trappers-wint-op-open-dag-generale-repetitie-voor-seizoensstart/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["Trappers", "ijshockey", "sport"]
     },
     {
       "id": "omroep-tilburg-2026-09-14-vrouw-vermist",
@@ -107,22 +179,22 @@
       "tags": ["steekpartij", "politie"]
     },
     {
-      "id": "gemeente-2026-09-14-noodsteunpunt",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
+      "id": "omroep-tilburg-2026-09-14-trappers-open-dag",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
       "publishedAt": "2026-09-14T00:00:00+02:00",
       "title": {
-        "nl": "Gemeente start met proef voor noodsteunpunt in Wijkcentrum De Symfonie"
+        "nl": "Trappers wint op open dag generale repetitie voor seizoensstart"
       },
       "teaser": {
-        "nl": "Proef noodsteunpunt in Wijkcentrum De Symfonie voor informatie en hulp bij langdurige stroomstoring of noodsituatie. Oefening in november."
+        "nl": "Tilburg Trappers won zondag 3-0 van Corsaires de Dunkerque op de open dag. Klaar voor competitiestart komende week."
       },
       "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/gemeente-start-met-proef-voor-noodsteunpunt-in-wijkcentrum-de-symfonie/",
+      "url": "https://www.omroeptilburg.nl/sport/trappers-wint-op-open-dag-generale-repetitie-voor-seizoensstart/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["noodsteunpunt", "veiligheid"]
+      "tags": ["Trappers", "ijshockey", "sport"]
     },
     {
       "id": "gemeente-2026-09-11-zaterdagmarkt-stadsforum",
@@ -142,62 +214,6 @@
       "city": "Tilburg",
       "area": "Stadsforum",
       "tags": ["markt", "binnenstad"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-11-rolpad-heuvel",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-11T00:00:00+02:00",
-      "title": {
-        "nl": "Rolpad fietsenstalling Heuvel wordt vernieuwd"
-      },
-      "teaser": {
-        "nl": "Van 14 t/m 18 september wordt het rolpad naar beneden vernieuwd. Toegang alleen via trap met fietsgoot; fatbikes elders stallen."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/rolpad-fietsenstalling-heuvel-wordt-vernieuwd/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Heuvel",
-      "tags": ["fietsenstalling"]
-    },
-    {
-      "id": "gemeente-2026-09-10-schaatsseizoen-korting",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-10T00:00:00+02:00",
-      "title": {
-        "nl": "Nieuw schaatsseizoen: 50% korting"
-      },
-      "teaser": {
-        "nl": "Op 3 oktober opent de Ireen Wüst IJsbaan. 50% korting op losse tickets en schaatshuur dit seizoen, behalve december en kerstvakantie."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/nieuw-schaatsseizoen-50-korting/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["schaatsen", "sport"]
-    },
-    {
-      "id": "gemeente-2026-09-01-fietsenstalling-heuvel",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-01T00:00:00+02:00",
-      "title": {
-        "nl": "Fietsenstalling Heuvel tijdelijk lastiger bereikbaar"
-      },
-      "teaser": {
-        "nl": "Week 14-18 september rolpad naar beneden vernieuwd. Ingang via trap met fietsgoot Mercure-kant; fatbikes en bakfietsen elders."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/fietsenstalling-heuvel-tijdelijk-lastiger-bereikbaar/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Heuvel",
-      "tags": ["fietsenstalling"]
     }
   ]
 }
