@@ -1,71 +1,127 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "93e2a14b-fdb8-4c16-9105-e76b9933ff36",
-  "generatedAt": "2026-09-16T19:12:00+02:00",
+  "deliveryId": "6e0586c1-4254-49dd-b77d-5b9d4f1859a9",
+  "generatedAt": "2026-09-17T19:15:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:12 Amsterdam",
+  "source": "Grok verified permalinks 19:15 Amsterdam",
   "headline": {
-    "nl": "Zoekactie vermiste Tilburgse vrouw uitgebreid; noodsteunpunt en marktverplaatsing",
-    "en": "Search for missing Tilburg woman expanded; emergency support point and market relocation",
-    "ru": "Поиски пропавшей тилбургской женщины расширены; пункт экстренной помощи и перенос рынка"
+    "nl": "Schietpartij bij Noorderpark: 26-jarige gewond, politie zoekt verdachte",
+    "en": "Shooting at Noorderpark: 26-year-old injured, police seek suspect",
+    "ru": "Стрельба у Нордерпарка: 26-летний ранен, полиция ищет подозреваемого"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "omroep-brabant-2026-09-16-vrouw-vermist",
-      "sourceId": "omroep-brabant",
-      "sourceName": "Omroep Brabant",
+      "id": "omroep-tilburg-2026-09-17-schietpartij-noorderpark",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
       "category": "incident",
-      "publishedAt": "2026-09-16T15:24:00+02:00",
+      "publishedAt": "2026-09-17T12:00:00+02:00",
       "title": {
-        "nl": "Vrouw (53) uit Tilburg al dagen vermist, zoekteam ingezet"
+        "nl": "26-jarige man gewond bij schietpartij voor sportcomplex, politie zoekt verdachte"
       },
       "teaser": {
-        "nl": "Politie zoekt nog altijd 53-jarige vrouw uit Tilburg vermist sinds 11 september. Zoekactie uitgebreid naar Kampina met Veteranen Search Team en helikopter."
+        "nl": "In de nacht van woensdag op donderdag is bij de ingang van sportcomplex Het Noorderpark in Tilburg geschoten. Een 26-jarige man raakte gewond en is naar het ziekenhuis gebracht. Politie zoekt getuigen."
       },
       "langNote": "source-nl",
-      "url": "https://www.omroepbrabant.nl/nieuws/6027516/vrouw-53-uit-tilburg-al-dagen-vermist-zoekteam-ingezet",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/26-jarige-man-gewond-bij-schietpartij-voor-sportcomplex-politie-zoekt-verdachte/",
       "paywall": false,
       "city": "Tilburg",
-      "area": "Korvel",
-      "tags": ["vermissing", "politie"]
+      "area": "Heikantlaan / Noorderpark",
+      "tags": ["schietpartij", "politie"]
     },
     {
-      "id": "omroep-tilburg-2026-09-15-prinsjesdag-leerlingen",
+      "id": "omroep-tilburg-2026-09-17-kermishuwelijk",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
-      "publishedAt": "2026-09-15T15:40:00+02:00",
+      "publishedAt": "2026-09-17T13:00:00+02:00",
       "title": {
-        "nl": "Tilburgse leerlingen beleven Prinsjesdag in de raadszaal"
+        "nl": "Tilburgs kermishuwelijk krijgt inzegening van Jet van Baast"
       },
       "teaser": {
-        "nl": "Honderd leerlingen van De Wegwijzer dachten in de raadszaal na over eerlijke verdeling van geld. Programma van gemeente en Tilburg University Junior bij Week van de Democratie."
+        "nl": "Twee kermisexploitanten, Hemmo Kreekel en Elisabeth Arjaans, trouwden donderdag in de Oranjezaal van het Paleis-Raadhuis. Jet van Baast, projectleider Tilburgse Kermis, zegende het huwelijk in."
       },
       "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/headline/tilburgse-leerlingen-beleven-prinsjesdag-in-de-raadszaal/",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/tilburgs-kermishuwelijk-krijgt-inzegening-van-jet-van-baast/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["Prinsjesdag", "democratie", "onderwijs"]
+      "tags": ["kermis", "huwelijk"]
     },
     {
-      "id": "omroep-tilburg-2026-09-15-nepagent-berkel",
+      "id": "omroep-tilburg-2026-09-17-viaduct-ringbaan-west",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-09-15T12:06:00+02:00",
+      "category": "omroep",
+      "publishedAt": "2026-09-17T10:00:00+02:00",
       "title": {
-        "nl": "80-jarige vrouw uit Berkel-Enschot slachtoffer van nepagent: politie deelt beelden"
+        "nl": "Zo komt het nieuwe viaduct van de Ringbaan-West eruit te zien"
       },
       "teaser": {
-        "nl": "Vrouw gaf op 30 april sieraden, geld en bankpas mee aan man die zich voordeed als politie. Politie deelt beelden van dader."
+        "nl": "Gemeente kiest variant met zuidelijk deel op palen; onder het viaduct ontstaat een plein dat Spoorpark, Reitse Campus en Kenniskwartier verbindt. Werkzaamheden starten half 2028."
       },
       "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/berkel-enschot-udenhout/berkelenschot/80-jarige-vrouw-uit-berkel-enschot-slachtoffer-van-nepagent-politie-deelt-beelden/",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/zo-komt-het-nieuwe-viaduct-van-de-ringbaan-west-eruit-te-zien/",
       "paywall": false,
-      "city": "Berkel-Enschot",
-      "tags": ["oplichting", "nepagent", "politie"]
+      "city": "Tilburg",
+      "tags": ["infrastructuur", "viaduct"]
+    },
+    {
+      "id": "gemeente-2026-09-16-viaduct-ringbaan-west",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-16T00:00:00+02:00",
+      "title": {
+        "nl": "Ontwerp voor nieuw viaduct Ringbaan-West"
+      },
+      "teaser": {
+        "nl": "Het verouderde viaduct wordt vanaf half 2028 vervangen. Op 14 september presenteerde de gemeente het ontwerp aan omwonenden: zuidkant op palen met plein eronder."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/ontwerp-voor-nieuw-viaduct-ringbaan-west/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["viaduct", "infrastructuur"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-16-festival-circolo",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-09-16T00:00:00+02:00",
+      "title": {
+        "nl": "Festival Circolo tovert Spoorpark om tot circusdorp"
+      },
+      "teaser": {
+        "nl": "Vanaf 16 september verandert het Spoorpark in een tijdelijk circusdorp. Meer buitenprogramma’s en gratis activiteiten onder het motto ‘Join the circus’."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/festival-circolo-tovert-spoorpark-om-tot-circusdorp/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Spoorpark",
+      "tags": ["circus", "festival"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-16-geluk-nummer-13",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-09-16T00:00:00+02:00",
+      "title": {
+        "nl": "Kleine geluksmomenten op nummer 13, levensgroot in de LocHal"
+      },
+      "teaser": {
+        "nl": "Op het StadsBalkon van de LocHal hangen levensgrote portretten van Tilburgers die op huisnummer 13 wonen. Expositie nog tot en met 29 september."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/kleine-geluksmomenten-op-nummer-13-levensgroot-in-de-lochal/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "LocHal",
+      "tags": ["expositie", "fotografie"]
     },
     {
       "id": "gemeente-2026-09-15-gebiedsbezoek-de-baars",
@@ -77,34 +133,16 @@
         "nl": "Gebiedsbezoek Stuurgroep De Baars"
       },
       "teaser": {
-        "nl": "Stuurgroep De Baars bezocht het projectgebied. Bestuurders spraken met bewoners en partijen over kansen en ontwikkelingen. Gebiedsvisie volgt 2027."
+        "nl": "Leden van stuurgroep De Baars bezochten het projectgebied en spraken met bewoners en partijen over kansen en ontwikkelingen."
       },
       "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/gebiedsbezoek-stuurgroep-de-baars/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["De Baars", "gebiedsontwikkeling"]
+      "tags": ["gebiedsontwikkeling"]
     },
     {
-      "id": "omroep-tilburg-2026-09-15-jairon-proces",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-09-15T14:38:00+02:00",
-      "title": {
-        "nl": "Tilburgse Jairon (14) lag wekenlang dood in zijn bed, zes verdachten staan terecht"
-      },
-      "teaser": {
-        "nl": "Proces in Antwerpen over dood van 14-jarige Jairon uit Tilburg in 2022. Vader en vijf anderen terecht voor niet inschakelen medische hulp."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/tilburgse-jairon-14-lag-wekenlang-dood-in-zijn-bed-zes-verdachten-staan-terecht/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["proces", "Jairon"]
-    },
-    {
-      "id": "gemeente-2026-09-14-noodsteunpunt",
+      "id": "gemeente-2026-09-14-noodsteunpunt-symfonie",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
@@ -113,51 +151,13 @@
         "nl": "Gemeente start met proef voor noodsteunpunt in Wijkcentrum De Symfonie"
       },
       "teaser": {
-        "nl": "Proef noodsteunpunt in Wijkcentrum De Symfonie voor informatie en hulp bij langdurige stroomstoring of noodsituatie. Oefening in november."
+        "nl": "Bij langdurige stroomstoring of andere crisis kunnen inwoners terecht voor informatie en hulp. Proef in Wijkcentrum De Symfonie, eerste oefening in november."
       },
       "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/gemeente-start-met-proef-voor-noodsteunpunt-in-wijkcentrum-de-symfonie/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["noodsteunpunt", "veiligheid"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-14-stroom-transformatorhuis",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-09-14T12:39:00+02:00",
-      "title": {
-        "nl": "Bedrijven zonder stroom na brand in transformatorhuis in Tilburg"
-      },
-      "teaser": {
-        "nl": "Brand in transformatorhuis Erebusstraat op Vossenberg. Zestien bedrijven zonder stroom, later acht. Brand onder controle."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/bedrijven-zonder-stroom-na-brand-in-transformatorhuis-in-tilburg/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Vossenberg",
-      "tags": ["stroomstoring", "brand"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-14-vrouw-vermist",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-09-14T10:08:00+02:00",
-      "title": {
-        "nl": "Tilburgse vrouw (53) vermist, politie deelt nieuwe beelden"
-      },
-      "teaser": {
-        "nl": "Politie maakt zich grote zorgen om 53-jarige vrouw uit Korvel, vermist sinds vrijdagochtend 11 september. Nieuwe beelden van kleding gedeeld."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/tilburgse-vrouw-53-vermist-politie-deelt-nieuwe-beelden/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Korvel",
-      "tags": ["vermissing", "politie"]
+      "tags": ["veiligheid", "crisis"]
     },
     {
       "id": "gemeente-2026-09-11-zaterdagmarkt-stadsforum",
@@ -169,7 +169,7 @@
         "nl": "Zaterdagmarkt vanaf eind dit jaar helemaal op het Stadsforum"
       },
       "teaser": {
-        "nl": "Vanaf eind 2026 staan alle marktkramen op het Stadsforum. Eén aaneengesloten marktterrein voor betere verbinding met het kernwinkelgebied."
+        "nl": "Alle marktkramen verhuizen van Koningsplein naar Stadsforum. Eén aaneengesloten marktterrein, betere verbinding met kernwinkelgebied."
       },
       "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/zaterdagmarkt-vanaf-eind-dit-jaar-helemaal-op-het-stadsforum/",
@@ -177,24 +177,6 @@
       "city": "Tilburg",
       "area": "Stadsforum",
       "tags": ["markt", "binnenstad"]
-    },
-    {
-      "id": "gemeente-2026-09-07-falcon-leap",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-07T00:00:00+02:00",
-      "title": {
-        "nl": "Luchtmachtoefening Falcon Leap"
-      },
-      "teaser": {
-        "nl": "Tot en met 18 september vliegen militaire vliegtuigen laag over de regio tussen 13-17 en 19-23 uur. Mogelijke geluidsoverlast."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/luchtmachtoefening-falcon-leap/",
-      "paywall": false,
-      "city": "Regio",
-      "tags": ["Defensie", "oefening"]
     }
   ]
 }
