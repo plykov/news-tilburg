@@ -1,23 +1,38 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "5a91a232-c966-4ac6-aba4-53318a68c3b4",
-  "generatedAt": "2026-09-19T19:15:00+02:00",
+  "deliveryId": "b3e0d107-7996-4ddc-ae2f-ce48e8da28db",
+  "generatedAt": "2026-09-20T19:00:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:15 Amsterdam",
+  "source": "Grok verified permalinks 19:00 Amsterdam",
   "headline": {
-    "nl": "Geen treinen Tilburg-Den Bosch, Eneco Tour en jaarwisselingsshows",
-    "en": "No trains Tilburg-Den Bosch, Eneco Tour and New Year shows",
-    "ru": "Нет поездов Тилбург–Ден-Бош, Eneco Tour и новогодние шоу"
+    "nl": "Vermiste Tilburgse vrouw dood gevonden; jaarwisseling en viaductactueel",
+    "en": "Missing Tilburg woman found dead; New Year plans and viaduct update",
+    "ru": "Пропавшая тилбургская женщина найдена мёртвой; планы на Новый год и виадук"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 9,
+  "itemCount": 8,
   "items": [
+    {
+      "id": "omroep-brabant-2026-09-19-vermiste-vrouw",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-09-19T19:50:00+02:00",
+      "title": { "nl": "Vermiste vrouw (53) uit Tilburg dood gevonden in Oisterwijk" },
+      "teaser": { "nl": "Het lichaam van de 53-jarige vermiste vrouw uit Tilburg is vrijdagavond gevonden aan de Scheibaan in Oisterwijk. Politie: geen misdrijf." },
+      "langNote": "source-nl",
+      "url": "https://www.omroepbrabant.nl/nieuws/6027902/vermiste-vrouw-53-uit-tilburg-dood-gevonden-in-oisterwijk",
+      "paywall": false,
+      "city": "Oisterwijk",
+      "area": "Scheibaan",
+      "tags": ["vermissing", "politie"]
+    },
     {
       "id": "omroep-tilburg-2026-09-18-eneco-tour",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
-      "publishedAt": "2026-09-18T12:00:00+02:00",
+      "publishedAt": "2026-09-18T14:32:00+02:00",
       "title": { "nl": "Wielerronde Eneco Tour heeft Tilburgse etappe" },
       "teaser": { "nl": "Op donderdag 15 oktober komt de Eneco Tour naar Tilburg voor een individuele tijdrit van 13,6 km. Start en finish bij de Stappegoorweg." },
       "langNote": "source-nl",
@@ -46,7 +61,7 @@
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
-      "publishedAt": "2026-09-18T12:00:00+02:00",
+      "publishedAt": "2026-09-18T10:14:00+02:00",
       "title": { "nl": "Reno de Hondt nieuwe teamcaptain van Tilburg Trappers" },
       "teaser": { "nl": "Na drie seizoenen geeft Max Hermens de aanvoerdersband door. Reno de Hondt (nummer 77) wordt de nieuwe captain van de Trappers." },
       "langNote": "source-nl",
@@ -70,19 +85,18 @@
       "tags": ["jaarwisseling", "subsidie"]
     },
     {
-      "id": "omroep-tilburg-2026-09-17-schietpartij-noorderpark",
+      "id": "omroep-tilburg-2026-09-17-viaduct",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-09-17T12:00:00+02:00",
-      "title": { "nl": "26-jarige man gewond bij schietpartij voor sportcomplex, politie zoekt verdachte" },
-      "teaser": { "nl": "In de nacht van woensdag op donderdag is geschoten bij de ingang van sportcomplex Het Noorderpark. Een 26-jarige Tilburger raakte gewond." },
+      "category": "omroep",
+      "publishedAt": "2026-09-17T12:03:00+02:00",
+      "title": { "nl": "Zo komt het nieuwe viaduct van de Ringbaan-West eruit te zien" },
+      "teaser": { "nl": "Gemeente kiest variant met plein onder het zuidelijke deel op palen. Werkzaamheden vanaf half 2028, 1,5 jaar afsluiting." },
       "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/26-jarige-man-gewond-bij-schietpartij-voor-sportcomplex-politie-zoekt-verdachte/",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/zo-komt-het-nieuwe-viaduct-van-de-ringbaan-west-eruit-te-zien/",
       "paywall": false,
       "city": "Tilburg",
-      "area": "Noorderpark / Heikantlaan",
-      "tags": ["schietpartij", "politie"]
+      "tags": ["viaduct", "Ringbaan-West"]
     },
     {
       "id": "gemeente-2026-09-17-doe-t-anders",
@@ -111,35 +125,6 @@
       "paywall": false,
       "city": "Tilburg",
       "tags": ["viaduct", "Ringbaan-West"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-16-festival-circolo",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "cultuur",
-      "publishedAt": "2026-09-16T12:00:00+02:00",
-      "title": { "nl": "Festival Circolo tovert Spoorpark om tot circusdorp" },
-      "teaser": { "nl": "Vanaf 16 september is het Spoorpark een circusdorp met meer buitenprogramma’s en gratis activiteiten onder het motto Join the circus." },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/festival-circolo-tovert-spoorpark-om-tot-circusdorp/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Spoorpark",
-      "tags": ["circus", "festival"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-10-geen-treinen",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-09-10T10:51:00+02:00",
-      "title": { "nl": "Opgelet! Binnenkort geen treinen tussen Tilburg en Den Bosch" },
-      "teaser": { "nl": "Op zaterdag 19 en zondag 20 september rijden geen treinen tussen Den Bosch en Tilburg door werkzaamheden. NS zet bussen in; reken op 30–60 minuten extra reistijd." },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/opgelet-binnenkort-geen-treinen-tussen-tilburg-en-den-bosch/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["NS", "spoor"]
     }
   ]
 }
