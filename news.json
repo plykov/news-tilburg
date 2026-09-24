@@ -1,102 +1,125 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "dea86cf8-1a42-4719-afc2-48183e4a63b6",
-  "generatedAt": "2026-09-21T19:08:03+02:00",
+  "deliveryId": "fb880bcb-b51c-48cd-82f3-fc41309e3727",
+  "generatedAt": "2026-09-24T19:06:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:08 Amsterdam",
+  "source": "Grok verified permalinks 19:06 Amsterdam",
   "headline": {
-    "nl": "Busongeluk Koolhovenlaan, huisdierentuin ETZ en De Nieuwe Vorst open",
-    "en": "Bus crash Koolhovenlaan, ETZ pet garden and De Nieuwe Vorst reopen",
-    "ru": "Авария автобуса на Koolhovenlaan, зоосад в ETZ и открытие De Nieuwe Vorst"
+    "nl": "Zaterdagmarkt verhuist volledig naar Stadsforum; subsidie vuurwerkvrije jaarwisseling open",
+    "en": "Saturday market moves fully to Stadsforum; subsidy for firework-free New Year opens",
+    "ru": "Субботний рынок полностью переезжает на Stadsforum; открывается субсидия на безфейерверочный Новый год"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 10,
+  "itemCount": 7,
   "items": [
     {
-      "id": "omroep-brabant-2026-09-21-bus-koolhovenlaan",
-      "sourceId": "omroep-brabant",
-      "sourceName": "Omroep Brabant",
-      "category": "incident",
-      "publishedAt": "2026-09-21T12:40:00+02:00",
-      "title": { "nl": "Ravage na ongeluk met bus in Tilburg: railing van brug doorboort stadsbus" },
-      "teaser": { "nl": "Maandagochtend botste een stadsbus op de Koolhovenlaan tegen een railing. De railing ging dwars door een passagiersstoel. Chauffeur en passagier ongedeerd." },
-      "langNote": "source-nl",
-      "url": "https://www.omroepbrabant.nl/nieuws/6028033/ravage-na-ongeluk-met-bus-in-tilburg-railing-van-brug-doorboort-stadsbus",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Koolhovenlaan",
-      "tags": ["busongeluk", "verkeer"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-21-huisdierentuin-etz",
+      "id": "omroep-tilburg-2026-09-24-zaterdagmarkt-stadsforum",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
-      "publishedAt": "2026-09-21T10:00:00+02:00",
-      "title": { "nl": "Huisdieren op bezoek bij patiënten van het ETZ: Huisdierentuin officieel geopend" },
-      "teaser": { "nl": "Vanaf vandaag kunnen patiënten in het ETZ Elisabeth hun eigen huisdier (hond, kat of paard) ontmoeten in de nieuwe Huisdierentuin." },
+      "publishedAt": "2026-09-24T12:00:00+02:00",
+      "title": {
+        "nl": "Zaterdagmarkt verhuist eind dit jaar volledig naar Stadsforum"
+      },
+      "teaser": {
+        "nl": "De zaterdagmarkt in Tilburg krijgt vanaf eind dit jaar een nieuwe indeling. Alle marktkramen komen dan bij elkaar op het Stadsforum. Dat heeft het college besloten."
+      },
       "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/huisdieren-op-bezoek-bij-patienten-van-het-etz-huisdierentuin-officieel-geopend/",
+      "url": "https://www.omroeptilburg.nl/headline/zaterdagmarkt-verhuist-eind-dit-jaar-volledig-naar-stadsforum/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["ETZ", "huisdieren"]
+      "tags": ["markt", "stadsforum"]
     },
     {
-      "id": "omroep-tilburg-2026-09-21-nieuwe-vorst",
+      "id": "omroep-tilburg-2026-09-23-subsidie-vuurwerkvrij",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
-      "category": "cultuur",
-      "publishedAt": "2026-09-21T10:00:00+02:00",
-      "title": { "nl": "De nieuwe De Nieuwe Vorst opent na acht jaar werk haar deuren" },
-      "teaser": { "nl": "Na zeven jaar voorbereiding en een jaar bouw is theater De Nieuwe Vorst klaar. Officiële opening in het laatste weekend van september." },
+      "category": "omroep",
+      "publishedAt": "2026-09-23T14:00:00+02:00",
+      "title": {
+        "nl": "Tilburg opent subsidie voor vuurwerkvrije jaarwisseling"
+      },
+      "teaser": {
+        "nl": "De subsidie voor activiteiten die bijdragen aan een vuurwerkvrije jaarwisseling kan vanaf donderdag 1 oktober om 10.00 uur worden aangevraagd. Daarnaast organiseert de gemeente op donderdag 24 september een informatieavond."
+      },
       "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/de-nieuwe-de-nieuwe-vorst-opent-na-acht-jaar-werk-haar-deuren/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["theater", "De Nieuwe Vorst"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-20-autos-uitgebrand",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-09-20T12:00:00+02:00",
-      "title": { "nl": "Drie auto’s uitgebrand in Tilburg-Zuid, politie onderzoekt mogelijk verband" },
-      "teaser": { "nl": "In de nacht van zaterdag op zondag brandden drie auto’s uit aan de Dolemietenweide en Tourmaletstraat. Politie onderzoekt brandstichting." },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/drie-autos-uitgebrand-in-tilburg-zuid-politie-onderzoekt-mogelijk-verband/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Tilburg-Zuid",
-      "tags": ["brand", "politie"]
-    },
-    {
-      "id": "gemeente-2026-09-18-telt-af-2027",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-18T10:00:00+02:00",
-      "title": { "nl": "Tilburg Telt af naar 2027" },
-      "teaser": { "nl": "Twee jaarwisselingsshows op 31 december. Subsidie voor buurtactiviteiten vanaf 1 oktober." },
-      "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/tilburg-telt-af-naar-2027/",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/tilburg-opent-subsidie-voor-vuurwerkvrije-jaarwisseling/",
       "paywall": false,
       "city": "Tilburg",
       "tags": ["jaarwisseling", "subsidie"]
     },
     {
-      "id": "omroep-tilburg-2026-09-17-viaduct",
+      "id": "omroep-tilburg-2026-09-23-ongeval-ringbaan-west",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-09-23T09:00:00+02:00",
+      "title": {
+        "nl": "Gewonde bij ongeval op berucht kruispunt in Tilburg"
+      },
+      "teaser": {
+        "nl": "Een vrouw is in de nacht van dinsdag op woensdag gewond geraakt bij een ongeval met twee personenauto’s op de kruising Ringbaan West met de Baroniebaan. De politie onderzoekt of een van de betrokkenen door rood is gereden."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/gewonde-bij-ongeval-op-berucht-kruispunt-in-tilburg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Ringbaan West / Baroniebaan",
+      "tags": ["verkeer", "ongeval"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-23-kalverstraat-goirle",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
-      "publishedAt": "2026-09-17T12:03:00+02:00",
-      "title": { "nl": "Zo komt het nieuwe viaduct van de Ringbaan-West eruit te zien" },
-      "teaser": { "nl": "Gemeente kiest variant met plein onder het zuidelijke deel op palen. Werkzaamheden vanaf half 2028." },
+      "publishedAt": "2026-09-23T10:00:00+02:00",
+      "title": {
+        "nl": "Werkzaamheden Kalverstraat Goirle twee weken eerder klaar"
+      },
+      "teaser": {
+        "nl": "De werkzaamheden bij de Kalverstraat in Goirle zijn twee weken eerder klaar dan gepland. De straat gaat aan het eind van vrijdag 25 september weer open."
+      },
       "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/zo-komt-het-nieuwe-viaduct-van-de-ringbaan-west-eruit-te-zien/",
+      "url": "https://www.omroeptilburg.nl/regio/goirle/werkzaamheden-kalverstraat-goirle-twee-weken-eerder-klaar/",
+      "paywall": false,
+      "city": "Goirle",
+      "tags": ["werkzaamheden"]
+    },
+    {
+      "id": "gemeente-2026-09-18-tilburg-telt-af",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-18T12:00:00+02:00",
+      "title": {
+        "nl": "Tilburg Telt af naar 2027"
+      },
+      "teaser": {
+        "nl": "De gemeente organiseert dit jaar opnieuw twee jaarwisselingsshows op 31 december. Daarnaast kunnen inwoners opnieuw subsidie aanvragen voor activiteiten om de jaarwisseling vuurwerkvrij te vieren."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/tilburg-telt-af-naar-2027/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["viaduct", "Ringbaan-West"]
+      "tags": ["jaarwisseling"]
+    },
+    {
+      "id": "gemeente-2026-09-17-doe-t-anders",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-17T12:00:00+02:00",
+      "title": {
+        "nl": "Dit is DOE 'T ANDERS"
+      },
+      "teaser": {
+        "nl": "Met DOE 'T ANDERS laten we zien wie we zijn als werkgever en wat voor mensen bij gemeente Tilburg passen. Mensen die kansen zien, initiatief nemen en samen werken aan een gemeente in beweging."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/dit-is-doe-t-anders/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["werkgever"]
     },
     {
       "id": "gemeente-2026-09-16-viaduct-ringbaan-west",
@@ -104,55 +127,17 @@
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
       "publishedAt": "2026-09-16T12:00:00+02:00",
-      "title": { "nl": "Ontwerp voor nieuw viaduct Ringbaan-West" },
-      "teaser": { "nl": "Het verouderde viaduct wordt vanaf half 2028 vervangen. Ontwerp voorziet in plein onder zuidelijke deel op palen." },
+      "title": {
+        "nl": "Ontwerp voor nieuw viaduct Ringbaan-West"
+      },
+      "teaser": {
+        "nl": "Het viaduct Ringbaan West is verouderd. Daarom wordt het vanaf half 2028 vervangen. Op een infoavond presenteerde de gemeente het ontwerp voor het nieuwe viaduct aan omwonenden."
+      },
       "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/ontwerp-voor-nieuw-viaduct-ringbaan-west/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["viaduct", "Ringbaan-West"]
-    },
-    {
-      "id": "gemeente-2026-09-15-gebiedsbezoek-de-baars",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-15T12:00:00+02:00",
-      "title": { "nl": "Gebiedsbezoek Stuurgroep De Baars" },
-      "teaser": { "nl": "Bestuurders bezochten het projectgebied De Baars en spraken met bewoners over kansen en ontwikkelingen." },
-      "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/gebiedsbezoek-stuurgroep-de-baars/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["De Baars"]
-    },
-    {
-      "id": "gemeente-2026-09-14-noodsteunpunt-symfonie",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-14T12:00:00+02:00",
-      "title": { "nl": "Gemeente start met proef voor noodsteunpunt in Wijkcentrum De Symfonie" },
-      "teaser": { "nl": "Proeflocatie voor informatie en hulp bij langdurige stroomstoring of andere noodsituatie. Oefening in november." },
-      "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/gemeente-start-met-proef-voor-noodsteunpunt-in-wijkcentrum-de-symfonie/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["veiligheid", "noodsteunpunt"]
-    },
-    {
-      "id": "gemeente-2026-09-11-zaterdagmarkt-stadsforum",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-11T12:00:00+02:00",
-      "title": { "nl": "Zaterdagmarkt vanaf eind dit jaar helemaal op het Stadsforum" },
-      "teaser": { "nl": "Alle marktkramen verhuizen van Koningsplein en Stadsforum volledig naar het Stadsforum." },
-      "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/zaterdagmarkt-vanaf-eind-dit-jaar-helemaal-op-het-stadsforum/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["markt", "Stadsforum"]
+      "tags": ["infrastructuur", "viaduct"]
     }
   ]
 }
