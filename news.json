@@ -1,23 +1,163 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "fb880bcb-b51c-48cd-82f3-fc41309e3727",
-  "generatedAt": "2026-09-24T19:06:00+02:00",
+  "deliveryId": "05b13237-5215-48e2-bc6b-cefa5c9609f3",
+  "generatedAt": "2026-09-25T19:15:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:06 Amsterdam",
+  "source": "Grok verified permalinks 19:15 Amsterdam",
   "headline": {
-    "nl": "Zaterdagmarkt verhuist volledig naar Stadsforum; subsidie vuurwerkvrije jaarwisseling open",
-    "en": "Saturday market moves fully to Stadsforum; subsidy for firework-free New Year opens",
-    "ru": "Субботний рынок полностью переезжает на Stadsforum; открывается субсидия на безфейерверочный Новый год"
+    "nl": "Gemeente opent opvang De Vaart en test batterijen bij Fabriekskwartier; zaterdagmarkt verhuist",
+    "en": "Municipality opens De Vaart shelter and tests batteries at Fabriekskwartier; Saturday market relocates",
+    "ru": "Муниципалитет открывает приют De Vaart и тестирует батареи на Fabriekskwartier; субботний рынок переезжает"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 7,
+  "itemCount": 9,
   "items": [
+    {
+      "id": "gemeente-2026-09-25-formulieren-burgerzaken-offline",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-25T12:00:00+02:00",
+      "title": {
+        "nl": "Formulieren Burgerzaken tijdelijk offline"
+      },
+      "teaser": {
+        "nl": "Vandaag, 25 september, wordt er tussen 12:00 en 17:30 uur gewerkt aan de BRP. Daardoor zijn de meeste online Burgerzaken-formulieren tijdelijk niet te gebruiken."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/formulieren-burgerzaken-tijdelijk-offline/",
+      "paywall": false,
+      "city": "Tilburg"
+    },
+    {
+      "id": "gemeente-2026-09-25-batterijen-fabriekskwartier",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-25T11:00:00+02:00",
+      "title": {
+        "nl": "Tweede leven voor oude autobatterijen bij bouw Fabriekskwartier"
+      },
+      "teaser": {
+        "nl": "In het nieuwe Fabriekskwartier krijgt een set van 9 gebruikte autobatterijen een 2e leven. De batterijen slaan ’s nachts elektriciteit op en leveren die overdag aan een hijskraan op de bouwplaats."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/tweede-leven-voor-oude-autobatterijen-bij-bouw-fabriekskwartier/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["duurzaamheid", "bouw"]
+    },
+    {
+      "id": "gemeente-2026-09-25-opvang-de-vaart",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-25T10:00:00+02:00",
+      "title": {
+        "nl": "Tilburg en SMO Traverse openen kortdurende opvang ‘De Vaart’"
+      },
+      "teaser": {
+        "nl": "De gemeente gaat het voormalige NOAD-terrein aan de Lovense Kanaaldijk inzetten als kortdurende opvang voor niet-rechthebbende EU-burgers. De opvang krijgt de naam ‘De Vaart’ en gaat maandag 5 oktober open."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/tilburg-en-smo-traverse-openen-kortdurende-opvang-de-vaart/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Lovense Kanaaldijk"
+    },
+    {
+      "id": "gemeente-2026-09-24-subsidie-kleinschalige-evenementen",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-24T10:00:00+02:00",
+      "title": {
+        "nl": "Subsidie voor kleinschalige evenementen aan te vragen vanaf 1 oktober"
+      },
+      "teaser": {
+        "nl": "Wil je een evenement in je wijk of dorp organiseren? Dan kun je vanaf donderdag 1 oktober om 10.00 uur subsidie aanvragen. Op dat moment openen 2 subsidieregelingen: één voor kleinschalige evenementen tijdens de jaarwisseling en één voor kleinschalige evenementen in 2027."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/subsidie-voor-kleinschalige-evenementen-vanaf-1-oktober-aan-te-vragen/",
+      "paywall": false,
+      "city": "Tilburg"
+    },
+    {
+      "id": "gemeente-2026-09-24-koopgedrag-noord-brabant",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-24T09:00:00+02:00",
+      "title": {
+        "nl": "Onderzoek naar koopgedrag Noord-Brabant"
+      },
+      "teaser": {
+        "nl": "Samen met andere Brabantse gemeenten werken we aan aantrekkelijke binnensteden, dorpscentra en een gevarieerd aanbod van winkels en horeca. Om daarin de juiste keuzes te maken, is er het Koopstromenonderzoek Noord-Brabant 2026."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/onderzoek-naar-koopgedrag-noord-brabant/",
+      "paywall": false,
+      "city": "Tilburg"
+    },
+    {
+      "id": "omroep-tilburg-2026-09-24-verkeerslichten-brokxlaan",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-09-24T14:00:00+02:00",
+      "title": {
+        "nl": "Fietsers blij, automobilisten boos: verkeerslichten op Burgemeester Brokxlaan blijven heikelpunt"
+      },
+      "teaser": {
+        "nl": "De verkeerslichten op de Burgemeester Brokxlaan blijven het gesprek van de dag. Fietsers zijn blij dat er nu weer veilig overgestoken kan worden, maar automobilisten staan vaak lang te wachten op een groen sein."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/fietsers-blij-automobilisten-boos-verkeerslichten-op-burgemeester-brokxlaan-blijven-heikelpunt/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Burgemeester Brokxlaan"
+    },
+    {
+      "id": "omroep-tilburg-2026-09-24-gehaktballen-udenhout",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-09-24T13:00:00+02:00",
+      "title": {
+        "nl": "Slager uit Udenhout in top 10 van lekkerste gehaktballen van Nederland"
+      },
+      "teaser": {
+        "nl": "Het is feest bij Keurslagerij Van Hoof uit Udenhout. Het familiebedrijf is genomineerd voor de titel Lekkerste Bal Gehakt 2026. Hun gehaktbal is goed in de smaak gevallen en staat inmiddels in de top 10."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/berkel-enschot-udenhout/udenhout/slager-uit-udenhout-in-top-10-van-lekkerste-gehaktballen-van-nederland/",
+      "paywall": false,
+      "city": "Udenhout"
+    },
+    {
+      "id": "omroep-tilburg-2026-09-24-vriendelijkste-buren",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-09-24T12:00:00+02:00",
+      "title": {
+        "nl": "Deze Tilburgse straat heeft de vriendelijkste buren van Brabant"
+      },
+      "teaser": {
+        "nl": "In het kader van Nationale Burendag heeft PostNL onderzocht in welke straten buren het vaakst een pakketje voor elkaar aannemen. Voor Brabant is dat de Magnoliaerf in Tilburg."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/deze-tilburgse-straat-heeft-de-vriendelijkste-buren-van-brabant/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Magnoliaerf"
+    },
     {
       "id": "omroep-tilburg-2026-09-24-zaterdagmarkt-stadsforum",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
-      "publishedAt": "2026-09-24T12:00:00+02:00",
+      "publishedAt": "2026-09-24T11:00:00+02:00",
       "title": {
         "nl": "Zaterdagmarkt verhuist eind dit jaar volledig naar Stadsforum"
       },
@@ -27,117 +167,7 @@
       "langNote": "source-nl",
       "url": "https://www.omroeptilburg.nl/headline/zaterdagmarkt-verhuist-eind-dit-jaar-volledig-naar-stadsforum/",
       "paywall": false,
-      "city": "Tilburg",
-      "tags": ["markt", "stadsforum"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-23-subsidie-vuurwerkvrij",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-09-23T14:00:00+02:00",
-      "title": {
-        "nl": "Tilburg opent subsidie voor vuurwerkvrije jaarwisseling"
-      },
-      "teaser": {
-        "nl": "De subsidie voor activiteiten die bijdragen aan een vuurwerkvrije jaarwisseling kan vanaf donderdag 1 oktober om 10.00 uur worden aangevraagd. Daarnaast organiseert de gemeente op donderdag 24 september een informatieavond."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/tilburg-opent-subsidie-voor-vuurwerkvrije-jaarwisseling/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["jaarwisseling", "subsidie"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-23-ongeval-ringbaan-west",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-09-23T09:00:00+02:00",
-      "title": {
-        "nl": "Gewonde bij ongeval op berucht kruispunt in Tilburg"
-      },
-      "teaser": {
-        "nl": "Een vrouw is in de nacht van dinsdag op woensdag gewond geraakt bij een ongeval met twee personenauto’s op de kruising Ringbaan West met de Baroniebaan. De politie onderzoekt of een van de betrokkenen door rood is gereden."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/gewonde-bij-ongeval-op-berucht-kruispunt-in-tilburg/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Ringbaan West / Baroniebaan",
-      "tags": ["verkeer", "ongeval"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-23-kalverstraat-goirle",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-09-23T10:00:00+02:00",
-      "title": {
-        "nl": "Werkzaamheden Kalverstraat Goirle twee weken eerder klaar"
-      },
-      "teaser": {
-        "nl": "De werkzaamheden bij de Kalverstraat in Goirle zijn twee weken eerder klaar dan gepland. De straat gaat aan het eind van vrijdag 25 september weer open."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/goirle/werkzaamheden-kalverstraat-goirle-twee-weken-eerder-klaar/",
-      "paywall": false,
-      "city": "Goirle",
-      "tags": ["werkzaamheden"]
-    },
-    {
-      "id": "gemeente-2026-09-18-tilburg-telt-af",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-18T12:00:00+02:00",
-      "title": {
-        "nl": "Tilburg Telt af naar 2027"
-      },
-      "teaser": {
-        "nl": "De gemeente organiseert dit jaar opnieuw twee jaarwisselingsshows op 31 december. Daarnaast kunnen inwoners opnieuw subsidie aanvragen voor activiteiten om de jaarwisseling vuurwerkvrij te vieren."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/tilburg-telt-af-naar-2027/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["jaarwisseling"]
-    },
-    {
-      "id": "gemeente-2026-09-17-doe-t-anders",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-17T12:00:00+02:00",
-      "title": {
-        "nl": "Dit is DOE 'T ANDERS"
-      },
-      "teaser": {
-        "nl": "Met DOE 'T ANDERS laten we zien wie we zijn als werkgever en wat voor mensen bij gemeente Tilburg passen. Mensen die kansen zien, initiatief nemen en samen werken aan een gemeente in beweging."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/dit-is-doe-t-anders/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["werkgever"]
-    },
-    {
-      "id": "gemeente-2026-09-16-viaduct-ringbaan-west",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-16T12:00:00+02:00",
-      "title": {
-        "nl": "Ontwerp voor nieuw viaduct Ringbaan-West"
-      },
-      "teaser": {
-        "nl": "Het viaduct Ringbaan West is verouderd. Daarom wordt het vanaf half 2028 vervangen. Op een infoavond presenteerde de gemeente het ontwerp voor het nieuwe viaduct aan omwonenden."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/ontwerp-voor-nieuw-viaduct-ringbaan-west/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["infrastructuur", "viaduct"]
+      "city": "Tilburg"
     }
   ]
 }
