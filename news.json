@@ -1,0 +1,173 @@
+{
+  "schema": "tilburg.news.v1",
+  "deliveryId": "05b13237-5215-48e2-bc6b-cefa5c9609f3",
+  "generatedAt": "2026-09-25T19:15:00+02:00",
+  "timezone": "Europe/Amsterdam",
+  "source": "Grok verified permalinks 19:15 Amsterdam",
+  "headline": {
+    "nl": "Gemeente opent opvang De Vaart en test batterijen bij Fabriekskwartier; zaterdagmarkt verhuist",
+    "en": "Municipality opens De Vaart shelter and tests batteries at Fabriekskwartier; Saturday market relocates",
+    "ru": "Муниципалитет открывает приют De Vaart и тестирует батареи на Fabriekskwartier; субботний рынок переезжает"
+  },
+  "headlineLangNote": "ui-translated",
+  "itemCount": 9,
+  "items": [
+    {
+      "id": "gemeente-2026-09-25-formulieren-burgerzaken-offline",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-25T12:00:00+02:00",
+      "title": {
+        "nl": "Formulieren Burgerzaken tijdelijk offline"
+      },
+      "teaser": {
+        "nl": "Vandaag, 25 september, wordt er tussen 12:00 en 17:30 uur gewerkt aan de BRP. Daardoor zijn de meeste online Burgerzaken-formulieren tijdelijk niet te gebruiken."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/formulieren-burgerzaken-tijdelijk-offline/",
+      "paywall": false,
+      "city": "Tilburg"
+    },
+    {
+      "id": "gemeente-2026-09-25-batterijen-fabriekskwartier",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-25T11:00:00+02:00",
+      "title": {
+        "nl": "Tweede leven voor oude autobatterijen bij bouw Fabriekskwartier"
+      },
+      "teaser": {
+        "nl": "In het nieuwe Fabriekskwartier krijgt een set van 9 gebruikte autobatterijen een 2e leven. De batterijen slaan ’s nachts elektriciteit op en leveren die overdag aan een hijskraan op de bouwplaats."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/tweede-leven-voor-oude-autobatterijen-bij-bouw-fabriekskwartier/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["duurzaamheid", "bouw"]
+    },
+    {
+      "id": "gemeente-2026-09-25-opvang-de-vaart",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-25T10:00:00+02:00",
+      "title": {
+        "nl": "Tilburg en SMO Traverse openen kortdurende opvang ‘De Vaart’"
+      },
+      "teaser": {
+        "nl": "De gemeente gaat het voormalige NOAD-terrein aan de Lovense Kanaaldijk inzetten als kortdurende opvang voor niet-rechthebbende EU-burgers. De opvang krijgt de naam ‘De Vaart’ en gaat maandag 5 oktober open."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/tilburg-en-smo-traverse-openen-kortdurende-opvang-de-vaart/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Lovense Kanaaldijk"
+    },
+    {
+      "id": "gemeente-2026-09-24-subsidie-kleinschalige-evenementen",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-24T10:00:00+02:00",
+      "title": {
+        "nl": "Subsidie voor kleinschalige evenementen aan te vragen vanaf 1 oktober"
+      },
+      "teaser": {
+        "nl": "Wil je een evenement in je wijk of dorp organiseren? Dan kun je vanaf donderdag 1 oktober om 10.00 uur subsidie aanvragen. Op dat moment openen 2 subsidieregelingen: één voor kleinschalige evenementen tijdens de jaarwisseling en één voor kleinschalige evenementen in 2027."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/subsidie-voor-kleinschalige-evenementen-vanaf-1-oktober-aan-te-vragen/",
+      "paywall": false,
+      "city": "Tilburg"
+    },
+    {
+      "id": "gemeente-2026-09-24-koopgedrag-noord-brabant",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-24T09:00:00+02:00",
+      "title": {
+        "nl": "Onderzoek naar koopgedrag Noord-Brabant"
+      },
+      "teaser": {
+        "nl": "Samen met andere Brabantse gemeenten werken we aan aantrekkelijke binnensteden, dorpscentra en een gevarieerd aanbod van winkels en horeca. Om daarin de juiste keuzes te maken, is er het Koopstromenonderzoek Noord-Brabant 2026."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/onderzoek-naar-koopgedrag-noord-brabant/",
+      "paywall": false,
+      "city": "Tilburg"
+    },
+    {
+      "id": "omroep-tilburg-2026-09-24-verkeerslichten-brokxlaan",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-09-24T14:00:00+02:00",
+      "title": {
+        "nl": "Fietsers blij, automobilisten boos: verkeerslichten op Burgemeester Brokxlaan blijven heikelpunt"
+      },
+      "teaser": {
+        "nl": "De verkeerslichten op de Burgemeester Brokxlaan blijven het gesprek van de dag. Fietsers zijn blij dat er nu weer veilig overgestoken kan worden, maar automobilisten staan vaak lang te wachten op een groen sein."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/fietsers-blij-automobilisten-boos-verkeerslichten-op-burgemeester-brokxlaan-blijven-heikelpunt/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Burgemeester Brokxlaan"
+    },
+    {
+      "id": "omroep-tilburg-2026-09-24-gehaktballen-udenhout",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-09-24T13:00:00+02:00",
+      "title": {
+        "nl": "Slager uit Udenhout in top 10 van lekkerste gehaktballen van Nederland"
+      },
+      "teaser": {
+        "nl": "Het is feest bij Keurslagerij Van Hoof uit Udenhout. Het familiebedrijf is genomineerd voor de titel Lekkerste Bal Gehakt 2026. Hun gehaktbal is goed in de smaak gevallen en staat inmiddels in de top 10."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/berkel-enschot-udenhout/udenhout/slager-uit-udenhout-in-top-10-van-lekkerste-gehaktballen-van-nederland/",
+      "paywall": false,
+      "city": "Udenhout"
+    },
+    {
+      "id": "omroep-tilburg-2026-09-24-vriendelijkste-buren",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-09-24T12:00:00+02:00",
+      "title": {
+        "nl": "Deze Tilburgse straat heeft de vriendelijkste buren van Brabant"
+      },
+      "teaser": {
+        "nl": "In het kader van Nationale Burendag heeft PostNL onderzocht in welke straten buren het vaakst een pakketje voor elkaar aannemen. Voor Brabant is dat de Magnoliaerf in Tilburg."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/deze-tilburgse-straat-heeft-de-vriendelijkste-buren-van-brabant/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Magnoliaerf"
+    },
+    {
+      "id": "omroep-tilburg-2026-09-24-zaterdagmarkt-stadsforum",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-09-24T11:00:00+02:00",
+      "title": {
+        "nl": "Zaterdagmarkt verhuist eind dit jaar volledig naar Stadsforum"
+      },
+      "teaser": {
+        "nl": "De zaterdagmarkt in Tilburg krijgt vanaf eind dit jaar een nieuwe indeling. Alle marktkramen komen dan bij elkaar op het Stadsforum. Dat heeft het college besloten."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/headline/zaterdagmarkt-verhuist-eind-dit-jaar-volledig-naar-stadsforum/",
+      "paywall": false,
+      "city": "Tilburg"
+    }
+  ]
+}
