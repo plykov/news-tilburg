@@ -1,173 +1,196 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "05b13237-5215-48e2-bc6b-cefa5c9609f3",
-  "generatedAt": "2026-09-25T19:15:00+02:00",
+  "deliveryId": "8b9c9a5b-357c-4786-bd92-187bbc3a6d9a",
+  "generatedAt": "2026-09-27T19:00:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:15 Amsterdam",
+  "source": "Grok verified permalinks 19:00 Amsterdam",
   "headline": {
-    "nl": "Gemeente opent opvang De Vaart en test batterijen bij Fabriekskwartier; zaterdagmarkt verhuist",
-    "en": "Municipality opens De Vaart shelter and tests batteries at Fabriekskwartier; Saturday market relocates",
-    "ru": "Муниципалитет открывает приют De Vaart и тестирует батареи на Fabriekskwartier; субботний рынок переезжает"
+    "nl": "Tilburg opent kortdurende opvang De Vaart voor dakloze EU-burgers",
+    "en": "Tilburg opens short-term shelter De Vaart for homeless EU citizens",
+    "ru": "Тильбург открывает краткосрочное убежище De Vaart для бездомных граждан ЕС"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 9,
+  "itemCount": 8,
   "items": [
     {
-      "id": "gemeente-2026-09-25-formulieren-burgerzaken-offline",
+      "id": "gemeente-2026-09-25-opvang-de-vaart",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
-      "publishedAt": "2026-09-25T12:00:00+02:00",
+      "publishedAt": "2026-09-25T00:00:00+02:00",
       "title": {
-        "nl": "Formulieren Burgerzaken tijdelijk offline"
+        "nl": "Tilburg en SMO Traverse openen kortdurende opvang ‘De Vaart’",
+        "en": "Tilburg and SMO Traverse open short-term shelter ‘De Vaart’",
+        "ru": "Тильбург и SMO Traverse открывают краткосрочное убежище «De Vaart»"
       },
       "teaser": {
-        "nl": "Vandaag, 25 september, wordt er tussen 12:00 en 17:30 uur gewerkt aan de BRP. Daardoor zijn de meeste online Burgerzaken-formulieren tijdelijk niet te gebruiken."
+        "nl": "De gemeente gaat het voormalige NOAD-terrein aan de Lovense Kanaaldijk inzetten als kortdurende opvang voor niet-rechthebbende EU-burgers. De opvang krijgt de naam ‘De Vaart’ en gaat maandag 5 oktober open.",
+        "en": "The municipality will use the former NOAD site on Lovense Kanaaldijk as short-term shelter for non-entitled EU citizens. Named ‘De Vaart’, it opens Monday 5 October.",
+        "ru": "Муниципалитет использует бывшую территорию NOAD на Lovense Kanaaldijk как краткосрочное убежище для граждан ЕС без права на пособия. Название «De Vaart», открытие 5 октября."
       },
-      "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/formulieren-burgerzaken-tijdelijk-offline/",
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/tilburg-en-smo-traverse-openen-kortdurende-opvang-de-vaart/",
       "paywall": false,
-      "city": "Tilburg"
+      "city": "Tilburg",
+      "area": "Lovense Kanaaldijk",
+      "tags": ["opvang", "arbeidsmigranten"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-25-opvang-de-vaart",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-09-25T13:58:00+02:00",
+      "title": {
+        "nl": "Dakloze arbeidsmigranten kunnen terecht bij nieuwe opvang ‘De Vaart’",
+        "en": "Homeless labour migrants can go to new shelter ‘De Vaart’",
+        "ru": "Бездомные трудовые мигранты могут обратиться в новое убежище «De Vaart»"
+      },
+      "teaser": {
+        "nl": "Het voormalige NOAD-terrein aan de Lovense Kanaaldijk wordt vanaf 5 oktober een opvanglocatie voor Europeanen die geen recht hebben op sociale voorzieningen. De opvang heet ‘De Vaart’ en kan in het begin zes mensen onderdak bieden.",
+        "en": "From 5 October the former NOAD site on Lovense Kanaaldijk becomes a shelter for Europeans without entitlement to social benefits. Named ‘De Vaart’, it initially houses six people.",
+        "ru": "С 5 октября бывшая территория NOAD на Lovense Kanaaldijk станет убежищем для европейцев без права на социальные пособия. Название «De Vaart», изначально на шесть человек."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/dakloze-arbeidsmigranten-kunnen-terecht-bij-nieuwe-opvang-de-vaart/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Lovense Kanaaldijk",
+      "tags": ["opvang"]
     },
     {
       "id": "gemeente-2026-09-25-batterijen-fabriekskwartier",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
-      "publishedAt": "2026-09-25T11:00:00+02:00",
+      "publishedAt": "2026-09-25T00:00:00+02:00",
       "title": {
-        "nl": "Tweede leven voor oude autobatterijen bij bouw Fabriekskwartier"
+        "nl": "Tweede leven voor oude autobatterijen bij bouw Fabriekskwartier",
+        "en": "Second life for old car batteries at Fabriekskwartier construction",
+        "ru": "Вторая жизнь старых автомобильных батарей на строительстве Fabriekskwartier"
       },
       "teaser": {
-        "nl": "In het nieuwe Fabriekskwartier krijgt een set van 9 gebruikte autobatterijen een 2e leven. De batterijen slaan ’s nachts elektriciteit op en leveren die overdag aan een hijskraan op de bouwplaats."
+        "nl": "In het nieuwe Fabriekskwartier krijgt een set van 9 gebruikte autobatterijen een 2e leven. De batterijen slaan ’s nachts elektriciteit op en leveren die overdag aan een hijskraan op de bouwplaats.",
+        "en": "In the new Fabriekskwartier a set of 9 used car batteries gets a second life. They store electricity at night and supply a crane on the construction site during the day.",
+        "ru": "В новом Fabriekskwartier набор из 9 подержанных автомобильных батарей получает вторую жизнь. Они накапливают электричество ночью и питают кран на стройплощадке днём."
       },
-      "langNote": "source-nl",
+      "langNote": "ui-translated",
       "url": "https://www.tilburg.nl/nieuws/item/tweede-leven-voor-oude-autobatterijen-bij-bouw-fabriekskwartier/",
       "paywall": false,
       "city": "Tilburg",
       "tags": ["duurzaamheid", "bouw"]
     },
     {
-      "id": "gemeente-2026-09-25-opvang-de-vaart",
+      "id": "gemeente-2026-09-24-subsidie-evenementen",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
-      "publishedAt": "2026-09-25T10:00:00+02:00",
+      "publishedAt": "2026-09-24T00:00:00+02:00",
       "title": {
-        "nl": "Tilburg en SMO Traverse openen kortdurende opvang ‘De Vaart’"
+        "nl": "Subsidie voor kleinschalige evenementen aan te vragen vanaf 1 oktober",
+        "en": "Subsidy for small-scale events available from 1 October",
+        "ru": "Субсидии на небольшие мероприятия доступны с 1 октября"
       },
       "teaser": {
-        "nl": "De gemeente gaat het voormalige NOAD-terrein aan de Lovense Kanaaldijk inzetten als kortdurende opvang voor niet-rechthebbende EU-burgers. De opvang krijgt de naam ‘De Vaart’ en gaat maandag 5 oktober open."
+        "nl": "Wil je een evenement in je wijk of dorp organiseren? Dan kun je vanaf donderdag 1 oktober om 10.00 uur subsidie aanvragen. Op dat moment openen 2 subsidieregelingen: één voor kleinschalige evenementen tijdens de jaarwisseling en één voor 2027.",
+        "en": "Want to organise an event in your neighbourhood or village? From Thursday 1 October at 10:00 you can apply for subsidy. Two schemes open: one for New Year events and one for 2027.",
+        "ru": "Хотите организовать мероприятие в районе или деревне? С четверга 1 октября в 10:00 можно подать заявку на субсидию. Открываются две программы: на новогодние события и на 2027 год."
       },
-      "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/tilburg-en-smo-traverse-openen-kortdurende-opvang-de-vaart/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Lovense Kanaaldijk"
-    },
-    {
-      "id": "gemeente-2026-09-24-subsidie-kleinschalige-evenementen",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-24T10:00:00+02:00",
-      "title": {
-        "nl": "Subsidie voor kleinschalige evenementen aan te vragen vanaf 1 oktober"
-      },
-      "teaser": {
-        "nl": "Wil je een evenement in je wijk of dorp organiseren? Dan kun je vanaf donderdag 1 oktober om 10.00 uur subsidie aanvragen. Op dat moment openen 2 subsidieregelingen: één voor kleinschalige evenementen tijdens de jaarwisseling en één voor kleinschalige evenementen in 2027."
-      },
-      "langNote": "source-nl",
+      "langNote": "ui-translated",
       "url": "https://www.tilburg.nl/nieuws/item/subsidie-voor-kleinschalige-evenementen-vanaf-1-oktober-aan-te-vragen/",
       "paywall": false,
-      "city": "Tilburg"
+      "city": "Tilburg",
+      "tags": ["subsidie", "evenementen"]
     },
     {
-      "id": "gemeente-2026-09-24-koopgedrag-noord-brabant",
+      "id": "gemeente-2026-09-24-koopstromen",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
-      "publishedAt": "2026-09-24T09:00:00+02:00",
+      "publishedAt": "2026-09-24T00:00:00+02:00",
       "title": {
-        "nl": "Onderzoek naar koopgedrag Noord-Brabant"
+        "nl": "Onderzoek naar koopgedrag Noord-Brabant",
+        "en": "Survey of shopping behaviour in North Brabant",
+        "ru": "Исследование покупательского поведения в Северном Брабанте"
       },
       "teaser": {
-        "nl": "Samen met andere Brabantse gemeenten werken we aan aantrekkelijke binnensteden, dorpscentra en een gevarieerd aanbod van winkels en horeca. Om daarin de juiste keuzes te maken, is er het Koopstromenonderzoek Noord-Brabant 2026."
+        "nl": "Samen met andere Brabantse gemeenten werken we aan aantrekkelijke binnensteden. Om daarin de juiste keuzes te maken, is er het Koopstromenonderzoek Noord-Brabant 2026.",
+        "en": "Together with other Brabant municipalities we work on attractive city centres. The 2026 North Brabant shopping-flow survey helps make the right choices.",
+        "ru": "Вместе с другими муниципалитетами Брабанта мы работаем над привлекательными центрами. Исследование потоков покупок 2026 помогает принимать правильные решения."
       },
-      "langNote": "source-nl",
+      "langNote": "ui-translated",
       "url": "https://www.tilburg.nl/nieuws/item/onderzoek-naar-koopgedrag-noord-brabant/",
       "paywall": false,
-      "city": "Tilburg"
+      "city": "Tilburg",
+      "tags": ["onderzoek"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-24-zaterdagmarkt",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-09-24T10:06:00+02:00",
+      "title": {
+        "nl": "Zaterdagmarkt verhuist eind dit jaar volledig naar Stadsforum",
+        "en": "Saturday market moves entirely to Stadsforum by end of year",
+        "ru": "Субботний рынок полностью переезжает на Stadsforum к концу года"
+      },
+      "teaser": {
+        "nl": "De zaterdagmarkt in Tilburg krijgt vanaf eind dit jaar een nieuwe indeling. Alle marktkramen komen dan bij elkaar op het Stadsforum. Dat heeft het college besloten.",
+        "en": "From the end of this year Tilburg’s Saturday market gets a new layout. All stalls will stand together on the Stadsforum, the municipal executive decided.",
+        "ru": "С конца этого года субботний рынок Тильбурга получит новую планировку. Все палатки соберутся на Stadsforum, решило городское правление."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/headline/zaterdagmarkt-verhuist-eind-dit-jaar-volledig-naar-stadsforum/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Stadsforum",
+      "tags": ["markt"]
     },
     {
       "id": "omroep-tilburg-2026-09-24-verkeerslichten-brokxlaan",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
-      "publishedAt": "2026-09-24T14:00:00+02:00",
+      "publishedAt": "2026-09-24T00:00:00+02:00",
       "title": {
-        "nl": "Fietsers blij, automobilisten boos: verkeerslichten op Burgemeester Brokxlaan blijven heikelpunt"
+        "nl": "Fietsers blij, automobilisten boos: verkeerslichten op Burgemeester Brokxlaan blijven heikelpunt",
+        "en": "Cyclists happy, drivers angry: traffic lights on Burgemeester Brokxlaan remain sore point",
+        "ru": "Велосипедисты рады, водители злятся: светофоры на Burgemeester Brokxlaan остаются проблемой"
       },
       "teaser": {
-        "nl": "De verkeerslichten op de Burgemeester Brokxlaan blijven het gesprek van de dag. Fietsers zijn blij dat er nu weer veilig overgestoken kan worden, maar automobilisten staan vaak lang te wachten op een groen sein."
+        "nl": "De verkeerslichten op de Burgemeester Brokxlaan blijven het gesprek van de dag. Fietsers zijn blij dat er nu weer veilig overgestoken kan worden, maar automobilisten staan vaak lang te wachten.",
+        "en": "Traffic lights on Burgemeester Brokxlaan remain the talk of the town. Cyclists are glad they can cross safely again, but drivers often wait a long time.",
+        "ru": "Светофоры на Burgemeester Brokxlaan остаются темой дня. Велосипедисты рады безопасным переходам, но водители часто долго ждут."
       },
-      "langNote": "source-nl",
+      "langNote": "ui-translated",
       "url": "https://www.omroeptilburg.nl/regio/tilburg/fietsers-blij-automobilisten-boos-verkeerslichten-op-burgemeester-brokxlaan-blijven-heikelpunt/",
       "paywall": false,
       "city": "Tilburg",
-      "area": "Burgemeester Brokxlaan"
+      "area": "Burgemeester Brokxlaan",
+      "tags": ["verkeer"]
     },
     {
-      "id": "omroep-tilburg-2026-09-24-gehaktballen-udenhout",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-09-24T13:00:00+02:00",
+      "id": "gemeente-2026-09-18-tilburg-telt-af",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-18T00:00:00+02:00",
       "title": {
-        "nl": "Slager uit Udenhout in top 10 van lekkerste gehaktballen van Nederland"
+        "nl": "Tilburg Telt af naar 2027",
+        "en": "Tilburg counts down to 2027",
+        "ru": "Тильбург отсчитывает время до 2027"
       },
       "teaser": {
-        "nl": "Het is feest bij Keurslagerij Van Hoof uit Udenhout. Het familiebedrijf is genomineerd voor de titel Lekkerste Bal Gehakt 2026. Hun gehaktbal is goed in de smaak gevallen en staat inmiddels in de top 10."
+        "nl": "De gemeente organiseert dit jaar opnieuw twee jaarwisselingsshows op 31 december. Daarnaast kunnen inwoners opnieuw subsidie aanvragen voor leuke activiteiten om samen de laatste dag van het jaar te vieren.",
+        "en": "The municipality again organises two New Year’s Eve shows on 31 December. Residents can also apply for subsidy for neighbourhood activities to celebrate the last day of the year together.",
+        "ru": "Муниципалитет снова организует два новогодних шоу 31 декабря. Жители также могут подать заявку на субсидию для районных мероприятий в последний день года."
       },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/berkel-enschot-udenhout/udenhout/slager-uit-udenhout-in-top-10-van-lekkerste-gehaktballen-van-nederland/",
-      "paywall": false,
-      "city": "Udenhout"
-    },
-    {
-      "id": "omroep-tilburg-2026-09-24-vriendelijkste-buren",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-09-24T12:00:00+02:00",
-      "title": {
-        "nl": "Deze Tilburgse straat heeft de vriendelijkste buren van Brabant"
-      },
-      "teaser": {
-        "nl": "In het kader van Nationale Burendag heeft PostNL onderzocht in welke straten buren het vaakst een pakketje voor elkaar aannemen. Voor Brabant is dat de Magnoliaerf in Tilburg."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/deze-tilburgse-straat-heeft-de-vriendelijkste-buren-van-brabant/",
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/tilburg-telt-af-naar-2027/",
       "paywall": false,
       "city": "Tilburg",
-      "area": "Magnoliaerf"
-    },
-    {
-      "id": "omroep-tilburg-2026-09-24-zaterdagmarkt-stadsforum",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-09-24T11:00:00+02:00",
-      "title": {
-        "nl": "Zaterdagmarkt verhuist eind dit jaar volledig naar Stadsforum"
-      },
-      "teaser": {
-        "nl": "De zaterdagmarkt in Tilburg krijgt vanaf eind dit jaar een nieuwe indeling. Alle marktkramen komen dan bij elkaar op het Stadsforum. Dat heeft het college besloten."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/headline/zaterdagmarkt-verhuist-eind-dit-jaar-volledig-naar-stadsforum/",
-      "paywall": false,
-      "city": "Tilburg"
+      "tags": ["jaarwisseling"]
     }
   ]
 }
