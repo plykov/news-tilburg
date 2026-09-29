@@ -1,17 +1,73 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "9a818263-8e35-4da4-b574-4cd02e732949",
-  "generatedAt": "2026-09-28T19:07:00+02:00",
+  "deliveryId": "6b748329-6f40-48e8-96ea-33428bfbf43f",
+  "generatedAt": "2026-09-29T19:00:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:07 Amsterdam",
+  "source": "Grok verified permalinks 19:00 Amsterdam",
   "headline": {
-    "nl": "Opvang De Vaart opent 5 oktober; Guus Meeuwis in Slimste Mens; Ten Miles recorddruk",
-    "en": "Shelter De Vaart opens 5 Oct; Guus Meeuwis in Slimste Mens; record Tilburg Ten Miles",
-    "ru": "Приют De Vaart откроется 5 октября; Guus Meeuwis в Slimste Mens; рекордный Tilburg Ten Miles"
+    "nl": "Documentaire over kerksluitingen, Weekend van de Wetenschap en nieuwe opvang De Vaart",
+    "en": "Documentary on church closures, Science Weekend and new shelter De Vaart",
+    "ru": "Документальный фильм о закрытии церквей, Научный уикенд и новый приют De Vaart"
   },
   "headlineLangNote": "ui-translated",
   "itemCount": 9,
   "items": [
+    {
+      "id": "omroep-tilburg-2026-09-29-documentaire-kerksluitingen",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-09-29T12:00:00+02:00",
+      "title": {
+        "nl": "Documentaire volgt 25 jaar kerksluitingen en herbestemmingen in Tilburg"
+      },
+      "teaser": {
+        "nl": "De documentaire ‘Ite missa est’ van Zeus Hoenderop gaat donderdag 1 oktober in première bij wijkcentrum De Poorten. De film laat de herbestemming van drie Tilburgse kerken zien en de impact op de mensen."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/documentaire-volgt-25-jaar-kerksluitingen-en-herbestemmingen-in-tilburg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["documentaire", "kerken"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-29-mishandeling-zuid-oosterstraat",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-09-29T11:00:00+02:00",
+      "title": {
+        "nl": "52-jarige man mishandeld door jongemannen, politie zoekt verdachten"
+      },
+      "teaser": {
+        "nl": "Een 52-jarige fietser is gewond geraakt na mishandeling door twee jongemannen in de Zuid-Oosterstraat. De politie zoekt de verdachten en toont signalementen."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/52-jarige-man-mishandeld-door-jongemannen-politie-zoekt-verdachten/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Zuid-Oosterstraat",
+      "tags": ["mishandeling", "opsporing"]
+    },
+    {
+      "id": "omroep-tilburg-2026-09-29-weekend-wetenschap-spoorzone",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-09-29T10:00:00+02:00",
+      "title": {
+        "nl": "Weekend van de Wetenschap strijkt neer in Spoorzone"
+      },
+      "teaser": {
+        "nl": "De Tilburgse Spoorzone staat dit weekend in het teken van wetenschap en technologie. Kinderen kennismaken met AI, robots en VR tijdens het landelijke Weekend van de Wetenschap op 3 en 4 oktober."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/weekend-van-de-wetenschap-strijkt-neer-in-spoorzone/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Spoorzone",
+      "tags": ["wetenschap", "kinderen"]
+    },
     {
       "id": "omroep-tilburg-2026-09-28-guus-meeuwis-slimste-mens",
       "sourceId": "omroep-tilburg",
@@ -19,20 +75,16 @@
       "category": "omroep",
       "publishedAt": "2026-09-28T12:00:00+02:00",
       "title": {
-        "nl": "Guus Meeuwis doet mee aan De Slimste Mens in Vlaanderen",
-        "en": "Guus Meeuwis joins The Smartest Person in Flanders",
-        "ru": "Guus Meeuwis участвует в The Smartest Person во Фландрии"
+        "nl": "Guus Meeuwis doet mee aan De Slimste Mens in Vlaanderen"
       },
       "teaser": {
-        "nl": "Tilburgs trots Guus Meeuwis is een van de 38 deelnemers aan de Vlaamse versie van De Slimste Mens. Het seizoen start 5 oktober.",
-        "en": "Tilburg pride Guus Meeuwis is one of 38 contestants in the Flemish version of The Smartest Person. Season starts 5 October.",
-        "ru": "Гордость Тилбурга Guus Meeuwis — один из 38 участников фламандской версии The Smartest Person. Сезон стартует 5 октября."
+        "nl": "Tilburgs trots Guus Meeuwis is een van de 38 deelnemers aan de Vlaamse versie van De Slimste Mens. Het nieuwe seizoen begint op maandag 5 oktober."
       },
-      "langNote": "ui-translated",
+      "langNote": "source-nl",
       "url": "https://www.omroeptilburg.nl/regio/tilburg/guus-meeuwis-doet-mee-aan-de-slimste-mens-in-vlaanderen/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["cultuur", "media"]
+      "tags": ["Guus Meeuwis"]
     },
     {
       "id": "omroep-tilburg-2026-09-28-tilburg-ten-miles",
@@ -41,43 +93,16 @@
       "category": "omroep",
       "publishedAt": "2026-09-28T12:00:00+02:00",
       "title": {
-        "nl": "Tranen van vreugde, verdriet en trots bij erg drukke Tilburg Ten Miles",
-        "en": "Tears of joy, sorrow and pride at very busy Tilburg Ten Miles",
-        "ru": "Слёзы радости, горя и гордости на очень многолюдном Tilburg Ten Miles"
+        "nl": "Tranen van vreugde, verdriet en trots bij erg drukke Tilburg Ten Miles"
       },
       "teaser": {
-        "nl": "Zo’n 20.000 sporters deden mee, een record. Verhalen van hardlopers met kanker, MS en andere uitdagingen maakten het weekend emotioneel.",
-        "en": "Around 20,000 athletes took part, a record. Stories of runners with cancer, MS and other challenges made the weekend emotional.",
-        "ru": "Около 20 000 спортсменов — рекорд. Истории бегунов с раком, РС и другими трудностями сделали выходные эмоциональными."
+        "nl": "Zo’n 20.000 sporters deden mee aan de Tilburg Ten Miles. Emotionele verhalen van hardlopers die de 16,1 kilometer volbrachten, waaronder een ongeneeslijk zieke man."
       },
-      "langNote": "ui-translated",
+      "langNote": "source-nl",
       "url": "https://www.omroeptilburg.nl/sport/tranen-van-vreugde-verdriet-en-trots-bij-erg-drukke-tilburg-ten-miles/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["sport"]
-    },
-    {
-      "id": "gemeente-2026-09-25-opvang-de-vaart",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-25T12:00:00+02:00",
-      "title": {
-        "nl": "Tilburg en SMO Traverse openen kortdurende opvang ‘De Vaart’",
-        "en": "Tilburg and SMO Traverse open short-stay shelter ‘De Vaart’",
-        "ru": "Тилбург и SMO Traverse открывают краткосрочный приют «De Vaart»"
-      },
-      "teaser": {
-        "nl": "Vanaf 5 oktober biedt het voormalige NOAD-terrein kortdurende opvang voor niet-rechthebbende EU-burgers. Plek voor 6, later uitbreidbaar tot 12.",
-        "en": "From 5 October the former NOAD site offers short-stay shelter for non-entitled EU citizens. Capacity 6, expandable to 12.",
-        "ru": "С 5 октября бывшая территория NOAD предоставляет краткосрочный приют для граждан ЕС без права на пособия. Мест 6, позже до 12."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.tilburg.nl/nieuws/item/tilburg-en-smo-traverse-openen-kortdurende-opvang-de-vaart/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Lovense Kanaaldijk",
-      "tags": ["opvang", "sociale-zaken"]
+      "tags": ["sport", "Ten Miles"]
     },
     {
       "id": "gemeente-2026-09-25-batterijen-fabriekskwartier",
@@ -86,43 +111,36 @@
       "category": "gemeente",
       "publishedAt": "2026-09-25T12:00:00+02:00",
       "title": {
-        "nl": "Tweede leven voor oude autobatterijen bij bouw Fabriekskwartier",
-        "en": "Second life for used car batteries at Fabriekskwartier construction",
-        "ru": "Вторая жизнь старых автомобильных батарей на стройке Fabriekskwartier"
+        "nl": "Tweede leven voor oude autobatterijen bij bouw Fabriekskwartier"
       },
       "teaser": {
-        "nl": "Negen gebruikte autobatterijen slaan ’s nachts stroom op en leveren die overdag aan een hijskraan, zodat de bouw door kan ondanks netcongestie.",
-        "en": "Nine used car batteries store power at night and supply a crane by day so construction can continue despite grid congestion.",
-        "ru": "Девять подержанных автомобильных батарей накапливают ночью энергию и днём питают кран, чтобы стройка шла несмотря на перегрузку сети."
+        "nl": "In het nieuwe Fabriekskwartier krijgen 9 gebruikte autobatterijen een tweede leven. Ze slaan ’s nachts elektriciteit op en leveren die overdag aan een hijskraan, zodat de woningbouw door kan gaan."
       },
-      "langNote": "ui-translated",
+      "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/tweede-leven-voor-oude-autobatterijen-bij-bouw-fabriekskwartier/",
       "paywall": false,
       "city": "Tilburg",
+      "area": "Fabriekskwartier",
       "tags": ["duurzaamheid", "bouw"]
     },
     {
-      "id": "omroep-tilburg-2026-09-25-opvang-de-vaart",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-09-25T13:58:00+02:00",
+      "id": "gemeente-2026-09-25-opvang-de-vaart",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-25T12:00:00+02:00",
       "title": {
-        "nl": "Dakloze arbeidsmigranten kunnen terecht bij nieuwe opvang ‘De Vaart’",
-        "en": "Homeless labour migrants can use new shelter ‘De Vaart’",
-        "ru": "Бездомные трудовые мигранты смогут обратиться в новый приют «De Vaart»"
+        "nl": "Tilburg en SMO Traverse openen kortdurende opvang ‘De Vaart’”
       },
       "teaser": {
-        "nl": "Kortdurende opvang op het voormalige NOAD-terrein opent 5 oktober. Begeleiding gericht op herstel, werk of terugkeer. Winteropvang deelt het gebouw.",
-        "en": "Short-stay shelter on the former NOAD site opens 5 October. Guidance aimed at recovery, work or return. Winter shelter shares the building.",
-        "ru": "Краткосрочный приют на бывшей территории NOAD откроется 5 октября. Сопровождение нацелено на восстановление, работу или возвращение. Зимний приют делит здание."
+        "nl": "Het voormalige NOAD-terrein aan de Lovense Kanaaldijk wordt vanaf 5 oktober kortdurende opvang voor niet-rechthebbende EU-burgers. Plek voor 6 tot 12 mensen, uitgevoerd door SMO Traverse."
       },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/dakloze-arbeidsmigranten-kunnen-terecht-bij-nieuwe-opvang-de-vaart/",
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/tilburg-en-smo-traverse-openen-kortdurende-opvang-de-vaart/",
       "paywall": false,
       "city": "Tilburg",
       "area": "Lovense Kanaaldijk",
-      "tags": ["opvang"]
+      "tags": ["opvang", "dakloos"]
     },
     {
       "id": "gemeente-2026-09-24-subsidie-evenementen",
@@ -131,16 +149,12 @@
       "category": "gemeente",
       "publishedAt": "2026-09-24T12:00:00+02:00",
       "title": {
-        "nl": "Subsidie voor kleinschalige evenementen aan te vragen vanaf 1 oktober",
-        "en": "Subsidy for small-scale events available from 1 October",
-        "ru": "Субсидия на небольшие мероприятия доступна с 1 октября"
+        "nl": "Subsidie voor kleinschalige evenementen aan te vragen vanaf 1 oktober"
       },
       "teaser": {
-        "nl": "Vanaf 1 oktober 10.00 uur openen twee regelingen: voor vuurwerkvrije jaarwisseling (max €5.000) en voor kleinschalige evenementen in 2027 (max €9.000).",
-        "en": "From 1 October 10:00 two schemes open: for firework-free New Year (max €5,000) and for small events in 2027 (max €9,000).",
-        "ru": "С 1 октября в 10:00 открываются две программы: для нового года без фейерверков (макс. €5000) и для небольших мероприятий 2027 (макс. €9000)."
+        "nl": "Vanaf donderdag 1 oktober om 10.00 uur openen twee subsidieregelingen: voor kleinschalige evenementen tijdens de jaarwisseling en voor evenementen in 2027."
       },
-      "langNote": "ui-translated",
+      "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/subsidie-voor-kleinschalige-evenementen-vanaf-1-oktober-aan-te-vragen/",
       "paywall": false,
       "city": "Tilburg",
@@ -153,64 +167,16 @@
       "category": "gemeente",
       "publishedAt": "2026-09-24T12:00:00+02:00",
       "title": {
-        "nl": "Onderzoek naar koopgedrag Noord-Brabant",
-        "en": "Research into shopping behaviour in North Brabant",
-        "ru": "Исследование покупательского поведения в Северном Брабанте"
+        "nl": "Onderzoek naar koopgedrag Noord-Brabant"
       },
       "teaser": {
-        "nl": "Alle Brabantse gemeenten doen mee aan het Koopstromenonderzoek 2026. Inwoners kunnen meedoen via online vragenlijst; resultaten helpen winkelgebieden verbeteren.",
-        "en": "All Brabant municipalities join the 2026 Shopping Flow Survey. Residents can take part via online questionnaire; results help improve shopping areas.",
-        "ru": "Все муниципалитеты Брабанта участвуют в исследовании потоков покупок 2026. Жители могут пройти онлайн-опрос; результаты помогут улучшить торговые зоны."
+        "nl": "Samen met andere Brabantse gemeenten loopt het Koopstromenonderzoek Noord-Brabant 2026. Inwoners kunnen meedoen via een online vragenlijst tot 8 november."
       },
-      "langNote": "ui-translated",
+      "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/onderzoek-naar-koopgedrag-noord-brabant/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["economie", "onderzoek"]
-    },
-    {
-      "id": "omroep-tilburg-2026-09-23-subsidie-vuurwerkvrij",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-09-23T14:52:00+02:00",
-      "title": {
-        "nl": "Tilburg opent subsidie voor vuurwerkvrije jaarwisseling",
-        "en": "Tilburg opens subsidy for firework-free New Year",
-        "ru": "Тилбург открывает субсидию на Новый год без фейерверков"
-      },
-      "teaser": {
-        "nl": "Vanaf 1 oktober kan subsidie tot €5.000 per initiatief worden aangevraagd. Twee centrale shows op oudejaarsavond in Reeshofpark en Stadsforum.",
-        "en": "From 1 October subsidy up to €5,000 per initiative can be applied for. Two central shows on New Year’s Eve in Reeshofpark and Stadsforum.",
-        "ru": "С 1 октября можно подать заявку на субсидию до €5000 на инициативу. Два центральных шоу в канун Нового года в Reeshofpark и Stadsforum."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/tilburg-opent-subsidie-voor-vuurwerkvrije-jaarwisseling/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["subsidie", "jaarwisseling"]
-    },
-    {
-      "id": "gemeente-2026-09-16-viaduct-ringbaan-west",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-16T12:00:00+02:00",
-      "title": {
-        "nl": "Ontwerp voor nieuw viaduct Ringbaan-West",
-        "en": "Design for new Ringbaan-West viaduct",
-        "ru": "Проект нового виадука Ringbaan-West"
-      },
-      "teaser": {
-        "nl": "Het verouderde viaduct wordt vanaf half 2028 vervangen. Op 14 september presenteerde de gemeente het ontwerp aan omwonenden; werkzaamheden ca. 1,5 jaar.",
-        "en": "The outdated viaduct will be replaced from mid-2028. On 14 September the municipality presented the design to residents; works approx. 1.5 years.",
-        "ru": "Устаревший виадук заменят с середины 2028. 14 сентября муниципалитет представил проект жителям; работы около 1,5 лет."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.tilburg.nl/nieuws/item/ontwerp-voor-nieuw-viaduct-ringbaan-west/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["infrastructuur"]
+      "tags": ["onderzoek", "winkelen"]
     }
   ]
 }
