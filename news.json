@@ -1,15 +1,1 @@
-{
-  "schema": "tilburg.news.v1",
-  "deliveryId": "12f90ed5-46d5-4298-8a1c-a35b9f599047",
-  "generatedAt": "2026-09-30T19:07:00+02:00",
-  "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:07 Amsterdam",
-  "headline": {
-    "nl": "Ronde van Nederland terug in Tilburg; NS opent onbemande stationswinkel",
-    "en": "Tour of the Netherlands returns to Tilburg; NS opens unmanned station shop",
-    "ru": "Тур Нидерландов возвращается в Тилбург; NS открывает магазин без персонала"
-  },
-  "headlineLangNote": "ui-translated",
-  "itemCount": 10,
-  "items": []
-}
+see-local
