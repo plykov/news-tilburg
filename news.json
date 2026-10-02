@@ -1,1 +1,264 @@
-PLACEHOLDER
+{
+  "schema": "tilburg.news.v1",
+  "deliveryId": "b611728c-1e34-4f12-abfc-65394c1d9681",
+  "generatedAt": "2026-10-02T19:09:00+02:00",
+  "timezone": "Europe/Amsterdam",
+  "source": "Grok verified permalinks 19:09 Amsterdam",
+  "headline": {
+    "nl": "Motorrijder zwaargewond op de N260; chaos op Spoorlaan–Heuvelring",
+    "en": "Motorcyclist seriously injured on the N260; chaos at Spoorlaan–Heuvelring",
+    "ru": "Мотоциклист тяжело ранен на N260; хаос на пересечении Spoorlaan и Heuvelring"
+  },
+  "headlineLangNote": "ui-translated",
+  "itemCount": 11,
+  "items": [
+    {
+      "id": "omroep-tilburg-2026-10-02-motor-n260",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-10-02T12:00:00+02:00",
+      "title": {
+        "nl": "Motorrijder ernstig gewond op de N260 in Tilburg",
+        "en": "Motorcyclist seriously injured on the N260 in Tilburg",
+        "ru": "Мотоциклист тяжело ранен на N260 в Тилбурге"
+      },
+      "teaser": {
+        "nl": "Donderdagavond raakte een motorrijder zeer ernstig gewond op de Burgemeester Letschertweg (N260). Hij kwam vanuit Tilburg-Noord tegen een betonband en is in zorgwekkende toestand naar het ziekenhuis gebracht.",
+        "en": "On Thursday evening a motorcyclist was very seriously injured on Burgemeester Letschertweg (N260). Coming from Tilburg-Noord he hit a concrete kerb and was taken to hospital in a worrying condition.",
+        "ru": "В четверг вечером мотоциклист тяжело пострадал на Burgemeester Letschertweg (N260). Он ехал со стороны Tilburg-Noord, ударился о бетонный бордюр и в тяжёлом состоянии доставлен в больницу."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/motorrijder-ernstig-gewond-op-de-n260-in-tilburg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Burgemeester Letschertweg",
+      "tags": ["verkeer", "ongeval"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-02-spoorlaan-heuvelring",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-02T12:00:00+02:00",
+      "title": {
+        "nl": "Wegwerkzaamheden zetten verkeer op z'n kop in Tilburg: 'Snap er niks van'",
+        "en": "Roadworks turn traffic upside down in Tilburg: 'I do not understand it'",
+        "ru": "Дорожные работы перевернули движение в Тилбурге: «Ничего не понимаю»"
+      },
+      "teaser": {
+        "nl": "Op de kruising Spoorlaan–Heuvelring is de situatie onduidelijk door werkzaamheden voor de Parkring. De gemeente zegt dit weekend tijdelijke aanpassingen te willen doen.",
+        "en": "The Spoorlaan–Heuvelring junction is unclear because of works for the Parkring. The municipality says it wants temporary fixes this weekend.",
+        "ru": "На перекрёстке Spoorlaan–Heuvelring из-за работ под Parkring непонятно, куда ехать. Муниципалитет хочет временные правки в эти выходные."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/wegwerkzaamheden-zetten-verkeer-op-zn-kop-in-tilburg-snap-er-niks-van/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Spoorlaan / Heuvelring",
+      "tags": ["verkeer", "Parkring"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-02-nk-snelwandelen",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-10-02T12:00:00+02:00",
+      "title": {
+        "nl": "NK snelwandelen krijgt in Tilburg voor het eerst marathonafstand",
+        "en": "Dutch race-walking championships in Tilburg add the marathon distance for the first time",
+        "ru": "Чемпионат Нидерландов по спортивной ходьбе в Тилбурге впервые на марафонской дистанции"
+      },
+      "teaser": {
+        "nl": "Zondag is het NK snelwandelen voor de 27ste keer in Tilburg, op het parcours van Wielervereniging Pijnenburg. Mannen lopen voor het eerst de marathon; vrouwen een halve marathon.",
+        "en": "On Sunday the Dutch race-walking championships are in Tilburg for the 27th time, on the Wielervereniging Pijnenburg circuit. Men race the marathon for the first time; women a half marathon.",
+        "ru": "В воскресенье чемпионат Нидерландов по спортивной ходьбе в 27-й раз в Тилбурге, на круге Wielervereniging Pijnenburg. Мужчины впервые идут марафон, женщины — полумарафон."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/nk-snelwandelen-krijgt-in-tilburg-voor-het-eerst-marathonafstand/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["sport", "NK"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-02-huisvesting-arbeidsmigranten",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-02T12:00:00+02:00",
+      "title": {
+        "nl": "Huisvesting arbeidsmigranten in de regio voldoet op tientallen plekken niet aan de regels",
+        "en": "Migrant-worker housing in the region fails the rules at dozens of sites",
+        "ru": "Жильё трудовых мигрантов в регионе на десятках адресов не соответствует правилам"
+      },
+      "teaser": {
+        "nl": "BIT Hart van Brabant controleerde 21–25 september 107 locaties in acht gemeenten. Bij twintig panden was de brandveiligheid niet op orde; tijdens een controle is een voortvluchtige Poolse man aangehouden.",
+        "en": "BIT Hart van Brabant checked 107 sites in eight municipalities on 21–25 September. Fire safety failed at twenty buildings; a Polish man wanted by the courts was arrested during one check.",
+        "ru": "BIT Hart van Brabant 21–25 сентября проверил 107 адресов в восьми муниципалитетах. В двадцати зданиях не было пожарной безопасности; на одной проверке задержали разыскиваемого поляка."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/huisvesting-arbeidsmigranten-in-de-regio-voldoet-op-tientallen-plekken-niet-aan-de-regels/",
+      "paywall": false,
+      "city": "Regio",
+      "tags": ["handhaving", "arbeidsmigranten"]
+    },
+    {
+      "id": "omroep-brabant-2026-10-01-tijgermug",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-10-01T17:00:00+02:00",
+      "title": {
+        "nl": "Na Uden en Mierlo duikt tijgermug ook op in Tilburg: bewoners krijgen brief",
+        "en": "After Uden and Mierlo, the tiger mosquito also turns up in Tilburg: residents get a letter",
+        "ru": "После Удена и Мирло тигровая комариха найдена и в Тилбурге: жителям разослали письмо"
+      },
+      "teaser": {
+        "nl": "De Aziatische tijgermug is half september gevonden rond de Magazijnstraat. De NVWA bestrijdt tot uiterlijk november en vraagt bewoners stilstaand water te verwijderen.",
+        "en": "The Asian tiger mosquito was found around Magazijnstraat in mid-September. The NVWA is treating the area until November at the latest and asks residents to remove standing water.",
+        "ru": "Азиатского тигрового комара нашли в середине сентября у Magazijnstraat. NVWA обрабатывает район до ноября и просит убирать стоячую воду."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6029451/na-uden-en-mierlo-duikt-tijgermug-ook-op-in-tilburg-bewoners-krijgen-brief",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Magazijnstraat",
+      "tags": ["NVWA", "tijgermug"]
+    },
+    {
+      "id": "gemeente-2026-10-01-isolatiesubsidie",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-01T12:00:00+02:00",
+      "title": {
+        "nl": "Nieuwe isolatiesubsidie: meer inwoners komen in aanmerking",
+        "en": "New insulation grant: more residents qualify",
+        "ru": "Новая субсидия на утепление: больше жителей имеют право"
+      },
+      "teaser": {
+        "nl": "De Subsidieregeling Isolatie 2026-2028 verhoogt de WOZ-grens naar 477.000 euro en het bedrag naar 2.250 euro per woning. Zelf isoleren en VvE's vallen nu ook onder de regeling.",
+        "en": "The 2026-2028 insulation scheme raises the WOZ cap to 477,000 euro and the grant to 2,250 euro per home. DIY insulation and owners' associations are now covered.",
+        "ru": "Программа утепления 2026–2028 поднимает потолок WOZ до 477 000 евро и сумму до 2 250 евро на дом. Самостоятельное утепление и ТСЖ теперь тоже входят."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/nieuwe-isolatiesubsidie-meer-inwoners-komen-in-aanmerking-1/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["subsidie", "isolatie"]
+    },
+    {
+      "id": "gemeente-2026-10-01-startbouwregeling",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-01T12:00:00+02:00",
+      "title": {
+        "nl": "Startbouwregeling Tilburg helpt woningbouw op gang",
+        "en": "Tilburg start-construction scheme is meant to get housing builds moving",
+        "ru": "Схема Startbouwregeling в Тилбурге должна запустить жилищное строительство"
+      },
+      "teaser": {
+        "nl": "Projecten voor sociale huur, middeldure huur en betaalbare koop die financieel vastzitten kunnen subsidie aanvragen als de bouw binnen een jaar na verlening kan starten. Publicatie in het Gemeenteblad is 1 oktober 2026.",
+        "en": "Social, mid-rent and affordable owner-occupier projects that are stuck financially can apply if building can start within a year of the grant. Publication in the Gemeenteblad is 1 October 2026.",
+        "ru": "Проекты социального, среднего арендного и доступного жилья, застрявшие по деньгам, могут подать заявку, если стройка стартует в течение года после субсидии. Публикация в Gemeenteblad — 1 октября 2026."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/startbouwregeling-tilburg-helpt-woningbouw-op-gang/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["woningbouw", "subsidie"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-01-ek-wielrennen-2028",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-01T10:30:00+02:00",
+      "title": {
+        "nl": "Tilburg is startplaats voor EK Wielrennen 2028",
+        "en": "Tilburg will host the start of the 2028 European road cycling championships",
+        "ru": "Тилбург станет местом старта шоссейного чемпионата Европы 2028"
+      },
+      "teaser": {
+        "nl": "Noord-Brabant organiseert met Tilburg, Breda, Bergen op Zoom, Roosendaal, de KNWU en Golazo het EK Wielrennen 2028. De wegwedstrijden starten in Tilburg en finishen in Breda.",
+        "en": "Noord-Brabant will stage the 2028 European road cycling championships with Tilburg, Breda, Bergen op Zoom, Roosendaal, the KNWU and Golazo. The road races start in Tilburg and finish in Breda.",
+        "ru": "Северный Брабант проведёт шоссейный чемпионат Европы 2028 вместе с Тилбургом, Бредой, Берген-оп-Зоомом, Росендалом, KNWU и Golazo. Групповые гонки стартуют в Тилбурге и финишируют в Бреде."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/tilburg-is-startplaats-voor-ek-wielrennen-2028/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["wielrennen", "EK 2028"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-01-machineongeluk-boterberg",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-10-01T11:00:00+02:00",
+      "title": {
+        "nl": "Man zwaargewond nadat zijn been bekneld raakt in machine",
+        "en": "Man seriously injured after his leg is trapped in a machine",
+        "ru": "Мужчина тяжело ранен: нога застряла в станке"
+      },
+      "teaser": {
+        "nl": "Bij een bedrijf aan de Boterberg raakte donderdagochtend een man zwaargewond toen zijn been in een machine kwam. Brandweer bevrijdde hem; politie en arbeidsinspectie onderzoeken het ongeval.",
+        "en": "A man was seriously injured on Thursday morning at a company on Boterberg when his leg was caught in a machine. Firefighters freed him; police and the labour inspectorate are investigating.",
+        "ru": "В четверг утром на предприятии на Boterberg мужчина тяжело пострадал: нога попала в станок. Пожарные освободили его; полиция и инспекция труда расследуют случай."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/man-zwaargewond-nadat-zijn-been-bekneld-raakt-in-machine/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Boterberg",
+      "tags": ["bedrijfsongeval"]
+    },
+    {
+      "id": "gemeente-2026-09-30-ronde-van-nederland",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-30T12:00:00+02:00",
+      "title": {
+        "nl": "Ronde van Nederland na 25 jaar terug in Tilburg",
+        "en": "Tour of the Netherlands returns to Tilburg after 25 years",
+        "ru": "Тур Нидерландов возвращается в Тилбург спустя 25 лет"
+      },
+      "teaser": {
+        "nl": "Op donderdag 15 oktober komen de wielrenners van de Eneco Tour door Goirle en Hilvarenbeek. Start en finish van de individuele tijdrit van 13,6 kilometer liggen op Stappegoor.",
+        "en": "On Thursday 15 October Eneco Tour riders pass through Goirle and Hilvarenbeek. The 13.6 km individual time trial starts and finishes at Stappegoor.",
+        "ru": "В четверг 15 октября велогонщики Eneco Tour проедут через Гойрле и Хилваренбек. Индивидуальная гонка на 13,6 км стартует и финиширует на Стаппегор."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/ronde-van-nederland-na-25-jaar-terug-in-tilburg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Stappegoor",
+      "tags": ["wielrennen", "Eneco Tour"]
+    },
+    {
+      "id": "gemeente-2026-09-25-de-vaart",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-25T12:00:00+02:00",
+      "title": {
+        "nl": "Tilburg en SMO Traverse openen kortdurende opvang De Vaart",
+        "en": "Tilburg and SMO Traverse open short-stay shelter De Vaart",
+        "ru": "Тилбург и SMO Traverse открывают приют краткосрочного пребывания De Vaart"
+      },
+      "teaser": {
+        "nl": "Het voormalige NOAD-terrein aan de Lovense Kanaaldijk wordt kortdurende opvang voor niet-rechthebbende EU-burgers. De Vaart opent maandag 5 oktober, met plek voor 6 tot 12 mensen.",
+        "en": "The former NOAD site on Lovense Kanaaldijk becomes short-stay shelter for destitute EU citizens. De Vaart opens Monday 5 October, with space for 6 to 12 people.",
+        "ru": "Бывшая площадка NOAD на Lovense Kanaaldijk станет краткосрочным приютом для граждан ЕС без права на помощь. De Vaart откроется в понедельник 5 октября, на 6–12 человек."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/tilburg-en-smo-traverse-openen-kortdurende-opvang-de-vaart/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Lovense Kanaaldijk",
+      "tags": ["opvang"]
+    }
+  ]
+}
