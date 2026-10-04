@@ -1,23 +1,46 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "815cb048-bec9-446a-a125-9dca137ada35",
-  "generatedAt": "2026-10-03T19:12:00+02:00",
+  "deliveryId": "4ba11654-7057-458b-8f37-b34bbb2402aa",
+  "generatedAt": "2026-10-04T19:10:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:12 Amsterdam",
+  "source": "Grok verified permalinks 19:10 Amsterdam",
   "headline": {
-    "nl": "Trappers wint 7-2; murf/murw trekt Tilburg uit de comfortzone",
-    "en": "Trappers win 7-2; murf/murw pulls Tilburg out of its comfort zone",
-    "ru": "Trappers побеждают 7:2; murf/murw выводит Тилбург из зоны комфорта"
+    "nl": "Ireen Wüst IJsbaan bleef dicht; murf/murw sluit het weekend",
+    "en": "Ireen Wüst ice rink stayed shut; murf/murw closes the weekend",
+    "ru": "Ледовый Ireen Wüst остался закрыт; murf/murw закрывает уикенд"
   },
   "headlineLangNote": "ui-translated",
   "itemCount": 10,
   "items": [
     {
+      "id": "omroep-brabant-2026-10-03-ijsbaan-dicht",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "omroep",
+      "publishedAt": "2026-10-03T15:25:00+02:00",
+      "title": {
+        "nl": "Schaatsers staan voor dichte ijsbaan: 'We hebben een half jaar gewacht'",
+        "en": "Skaters face a closed rink: 'We waited half a year'",
+        "ru": "Конькобежцы у закрытого катка: «Мы ждали полгода»"
+      },
+      "teaser": {
+        "nl": "Zaterdag bleef de Ireen Wüst IJsbaan in Tilburg dicht. Door een storing zit de bovenste ijslaag niet vast; de baan lag vol water. Wanneer de 400-meterbaan weer open kan, is niet bekend.",
+        "en": "On Saturday the Ireen Wüst ice rink in Tilburg stayed closed. A fault left the top ice layer loose and the rink full of water. It is not known when the 400-metre track can reopen.",
+        "ru": "В субботу ледовый Ireen Wüst в Тилбурге остался закрыт. Из-за сбоя верхний слой льда не держится, каток залит водой. Когда снова откроется 400-метровка, неизвестно."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6029598/schaatsers-staan-voor-dichte-ijsbaan-we-hebben-een-half-jaar-gewacht",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Ireen Wüst IJsbaan",
+      "tags": ["schaatsen", "storing"]
+    },
+    {
       "id": "omroep-tilburg-2026-10-03-murf-murw",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "cultuur",
-      "publishedAt": "2026-10-03T12:00:00+02:00",
+      "publishedAt": "2026-10-03T14:34:00+02:00",
       "title": {
         "nl": "Borsten, superhelden en jazz trekken Tilburgers uit hun comfortzone op murf/murw 2026",
         "en": "Breasts, superheroes and jazz pull Tilburgers out of their comfort zone at murf/murw 2026",
@@ -85,7 +108,7 @@
       "id": "omroep-tilburg-2026-10-02-nk-snelwandelen",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
-      "category": "cultuur",
+      "category": "omroep",
       "publishedAt": "2026-10-02T13:30:00+02:00",
       "title": {
         "nl": "NK snelwandelen krijgt in Tilburg voor het eerst marathonafstand",
@@ -124,29 +147,6 @@
       "paywall": false,
       "city": "Tilburg",
       "tags": ["parkeren", "laadpalen"]
-    },
-    {
-      "id": "omroep-tilburg-2026-10-02-motor-n260",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-10-02T09:31:00+02:00",
-      "title": {
-        "nl": "Motorrijder ernstig gewond op de N260 in Tilburg",
-        "en": "Motorcyclist seriously injured on the N260 in Tilburg",
-        "ru": "Мотоциклист тяжело ранен на N260 в Тилбурге"
-      },
-      "teaser": {
-        "nl": "Donderdagavond raakte een motorrijder zeer ernstig gewond op de Burgemeester Letschertweg (N260). Hij kwam vanuit Tilburg-Noord tegen een betonband en is in zorgwekkende toestand naar het ziekenhuis gebracht.",
-        "en": "On Thursday evening a motorcyclist was very seriously injured on Burgemeester Letschertweg (N260). Coming from Tilburg-Noord he hit a concrete kerb and was taken to hospital in a worrying condition.",
-        "ru": "В четверг вечером мотоциклист тяжело пострадал на Burgemeester Letschertweg (N260). Он ехал со стороны Tilburg-Noord, ударился о бетонный бордюр и в тяжёлом состоянии доставлен в больницу."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/motorrijder-ernstig-gewond-op-de-n260-in-tilburg/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Burgemeester Letschertweg",
-      "tags": ["verkeer", "ongeval"]
     },
     {
       "id": "gemeente-2026-10-01-isolatiesubsidie",
