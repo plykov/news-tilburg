@@ -1,17 +1,107 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "eeaa9269-027b-450c-b705-676d4a6878b6",
-  "generatedAt": "2026-10-05T19:12:00+02:00",
+  "deliveryId": "81790fc9-abc7-4cf8-b8b7-0eed5c734add",
+  "generatedAt": "2026-10-06T19:07:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:12 Amsterdam",
+  "source": "Grok verified permalinks 19:07 Amsterdam",
   "headline": {
-    "nl": "De Vaart opent; tijgermug in de Besterd, botsing Lage Witsiebaan",
-    "en": "De Vaart opens; tiger mosquito in Besterd, crash on Lage Witsiebaan",
-    "ru": "De Vaart открывается; тигровая комар в Бестерде, авария на Lage Witsiebaan"
+    "nl": "Tweede Tilburgse wijkagent voor de rechter; inbrekers op heterdaad aan Kalenbergplaats",
+    "en": "Second Tilburg neighbourhood officer in court; burglars caught in the act on Kalenbergplaats",
+    "ru": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0442\u0438\u043b\u0431\u0443\u0440\u0433\u0441\u043a\u0438\u0439 \u0443\u0447\u0430\u0441\u0442\u043a\u043e\u0432\u044b\u0439 \u0432 \u0441\u0443\u0434\u0435; \u0432\u0437\u043b\u043e\u043c\u0449\u0438\u043a\u043e\u0432 \u0437\u0430\u0434\u0435\u0440\u0436\u0430\u043b\u0438 \u0441 \u043f\u043e\u043b\u0438\u0447\u043d\u044b\u043c \u043d\u0430 Kalenbergplaats"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
+    {
+      "id": "omroep-brabant-2026-10-06-wijkagent",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-10-06T14:03:00+02:00",
+      "title": {
+        "nl": "Tweede Tilburgse wijkagent opgepakt voor lekken van geheimen aan criminelen",
+        "en": "Second Tilburg neighbourhood officer arrested for leaking secrets to criminals",
+        "ru": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0442\u0438\u043b\u0431\u0443\u0440\u0433\u0441\u043a\u0438\u0439 \u0443\u0447\u0430\u0441\u0442\u043a\u043e\u0432\u044b\u0439 \u0437\u0430\u0434\u0435\u0440\u0436\u0430\u043d \u0437\u0430 \u0441\u043b\u0438\u0432 \u0441\u0435\u043a\u0440\u0435\u0442\u043e\u0432 \u043a\u0440\u0438\u043c\u0438\u043d\u0430\u043b\u0443"
+      },
+      "teaser": {
+        "nl": "Op de eerste openbare zitting in Breda bleek dat de in de zomer opgepakte hoofdagent Furkan U. (28) uit Veghel ook wijkagent in Tilburg was. Hij ontkent tips te hebben doorgesluisd; de volgende tussentijdse zitting is in december.",
+        "en": "At the first public hearing in Breda it emerged that chief officer Furkan U. (28) from Veghel, arrested in the summer, was also a neighbourhood officer in Tilburg. He denies passing on tips; the next interim hearing is in December.",
+        "ru": "\u041d\u0430 \u043f\u0435\u0440\u0432\u043e\u043c \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u043c \u0437\u0430\u0441\u0435\u0434\u0430\u043d\u0438\u0438 \u0432 \u0411\u0440\u0435\u0434\u0435 \u0432\u044b\u044f\u0441\u043d\u0438\u043b\u043e\u0441\u044c, \u0447\u0442\u043e \u0430\u0440\u0435\u0441\u0442\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043b\u0435\u0442\u043e\u043c \u0433\u043b\u0430\u0432\u043d\u044b\u0439 \u0430\u0433\u0435\u043d\u0442 Furkan U. (28) \u0438\u0437 \u0412\u0435\u0433\u0445\u0435\u043b\u044f \u0442\u0430\u043a\u0436\u0435 \u0431\u044b\u043b \u0443\u0447\u0430\u0441\u0442\u043a\u043e\u0432\u044b\u043c \u0432 \u0422\u0438\u043b\u0431\u0443\u0440\u0433\u0435. \u041e\u043d \u043e\u0442\u0440\u0438\u0446\u0430\u0435\u0442 \u0441\u043b\u0438\u0432; \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0435 \u043f\u0440\u043e\u043c\u0435\u0436\u0443\u0442\u043e\u0447\u043d\u043e\u0435 \u0437\u0430\u0441\u0435\u0434\u0430\u043d\u0438\u0435 \u2014 \u0432 \u0434\u0435\u043a\u0430\u0431\u0440\u0435."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6029893/tweede-tilburgse-wijkagent-opgepakt-voor-lekken-van-geheimen-aan-criminelen",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["politie", "rechtbank"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-06-conducteur-oisterwijk",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-10-06T12:00:00+02:00",
+      "title": {
+        "nl": "Conducteur mishandeld in Oisterwijk, verdachte mogelijk minderjarig",
+        "en": "Conductor assaulted in Oisterwijk, suspect may have been a minor",
+        "ru": "\u041a\u043e\u043d\u0434\u0443\u043a\u0442\u043e\u0440\u0430 \u0438\u0437\u0431\u0438\u043b\u0438 \u0432 \u041e\u0439\u0441\u0442\u0435\u0440\u0432\u0435\u0439\u043a\u0435, \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u0432\u0430\u0435\u043c\u044b\u0439 \u043c\u043e\u0433 \u0431\u044b\u0442\u044c \u043d\u0435\u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u043e\u043b\u0435\u0442\u043d\u0438\u043c"
+      },
+      "teaser": {
+        "nl": "Een hoofdconducteur is op 2 mei 2026 mishandeld in Oisterwijk door een reiziger zonder geldig vervoersbewijs. De politie zoekt een toen vermoedelijk 16- of 17-jarige en geeft geblurde beelden vrij via Bureau Brabant.",
+        "en": "A head conductor was assaulted in Oisterwijk on 2 May 2026 by a passenger without a valid ticket. Police are looking for someone thought to have been 16 or 17 and have released blurred images via Bureau Brabant.",
+        "ru": "2 \u043c\u0430\u044f 2026 \u0433\u043b\u0430\u0432\u043d\u043e\u0433\u043e \u043a\u043e\u043d\u0434\u0443\u043a\u0442\u043e\u0440\u0430 \u0438\u0437\u0431\u0438\u043b\u0438 \u0432 \u041e\u0439\u0441\u0442\u0435\u0440\u0432\u0435\u0439\u043a\u0435 \u043f\u0430\u0441\u0441\u0430\u0436\u0438\u0440 \u0431\u0435\u0437 \u0431\u0438\u043b\u0435\u0442\u0430. \u041f\u043e\u043b\u0438\u0446\u0438\u044f \u0438\u0449\u0435\u0442 \u0442\u043e\u0433\u0434\u0430 \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e 16- \u0438\u043b\u0438 17-\u043b\u0435\u0442\u043d\u0435\u0433\u043e \u0438 \u043f\u0443\u0431\u043b\u0438\u043a\u0443\u0435\u0442 \u0440\u0430\u0437\u043c\u044b\u0442\u044b\u0435 \u043a\u0430\u0434\u0440\u044b \u0447\u0435\u0440\u0435\u0437 Bureau Brabant."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/conducteur-mishandeld-in-oisterwijk-politie-zoekt-mogelijk-minderjarige-verdachte/",
+      "paywall": false,
+      "city": "Oisterwijk",
+      "tags": ["politie", "openbaar vervoer"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-06-inbrekers-kalenbergplaats",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-10-06T12:00:00+02:00",
+      "title": {
+        "nl": "Inbrekers op heterdaad betrapt in Tilburg",
+        "en": "Burglars caught in the act in Tilburg",
+        "ru": "\u0412\u0437\u043b\u043e\u043c\u0449\u0438\u043a\u043e\u0432 \u0432 \u0422\u0438\u043b\u0431\u0443\u0440\u0433\u0435 \u0437\u0430\u0434\u0435\u0440\u0436\u0430\u043b\u0438 \u0441 \u043f\u043e\u043b\u0438\u0447\u043d\u044b\u043c"
+      },
+      "teaser": {
+        "nl": "Maandagmiddag rond half twaalf hield de politie twee mannen van 41 en 43 uit Den Haag aan bij een woning aan de Kalenbergplaats. In hun auto lag een vuurwapen; dezelfde dag zouden ze ook elders in de straat hebben geprobeerd in te breken.",
+        "en": "On Monday around 11:30 police arrested two men, 41 and 43, from The Hague at a home on Kalenbergplaats. A firearm was in their car; the same day they are said to have tried to break in elsewhere on the street.",
+        "ru": "\u0412 \u043f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a \u043e\u043a\u043e\u043b\u043e 11:30 \u043f\u043e\u043b\u0438\u0446\u0438\u044f \u0437\u0430\u0434\u0435\u0440\u0436\u0430\u043b\u0430 \u0434\u0432\u0443\u0445 \u043c\u0443\u0436\u0447\u0438\u043d 41 \u0438 43 \u043b\u0435\u0442 \u0438\u0437 \u0413\u0430\u0430\u0433\u0438 \u0443 \u0434\u043e\u043c\u0430 \u043d\u0430 Kalenbergplaats. \u0412 \u043c\u0430\u0448\u0438\u043d\u0435 \u043b\u0435\u0436\u0430\u043b \u043e\u0433\u043d\u0435\u0441\u0442\u0440\u0435\u043b\u044c\u043d\u044b\u0439 \u043f\u0438\u0441\u0442\u043e\u043b\u0435\u0442; \u0432 \u0442\u043e\u0442 \u0436\u0435 \u0434\u0435\u043d\u044c \u043e\u043d\u0438, \u043f\u043e \u0434\u0430\u043d\u043d\u044b\u043c, \u043f\u044b\u0442\u0430\u043b\u0438\u0441\u044c \u0432\u043b\u043e\u043c\u0430\u0442\u044c\u0441\u044f \u0435\u0449\u0451 \u0432 \u043e\u0434\u043d\u043e\u043c \u0434\u043e\u043c\u0435 \u043d\u0430 \u044d\u0442\u043e\u0439 \u0443\u043b\u0438\u0446\u0435."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/inbrekers-op-heterdaad-betrapt-in-tilburg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Kalenbergplaats",
+      "tags": ["inbraak", "politie"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-06-witwasstraat-hilvarenbeek",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-06T12:00:00+02:00",
+      "title": {
+        "nl": "Witwasstraat en Geurlab in Hilvarenbeek tijdens Week van de Veiligheid",
+        "en": "Money-laundering lane and scent lab in Hilvarenbeek during Safety Week",
+        "ru": "\u0412\u0438\u0442\u0432\u0430\u0441\u0441\u0442\u0440\u0430\u0430\u0442 \u0438 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u0437\u0430\u043f\u0430\u0445\u043e\u0432 \u0432 \u0425\u0438\u043b\u0432\u0430\u0440\u0435\u043d\u0431\u0435\u043a\u0435 \u043d\u0430 \u041d\u0435\u0434\u0435\u043b\u0435 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438"
+      },
+      "teaser": {
+        "nl": "Donderdag 8 oktober staat de Ondermijningsbus van 14.30 tot ongeveer 19.00 uur op de parkeerplaats van de Jumbo aan de Hilverstraat. Bezoekers kunnen in de Witwasstraat en het Geurlab signalen van ondermijning herkennen.",
+        "en": "On Thursday 8 October the undermining bus is on the Jumbo car park on Hilverstraat from 14:30 until about 19:00. Visitors can learn the signs of undermining crime in the money-laundering lane and the scent lab.",
+        "ru": "\u0412 \u0447\u0435\u0442\u0432\u0435\u0440\u0433 8 \u043e\u043a\u0442\u044f\u0431\u0440\u044f \u0430\u0432\u0442\u043e\u0431\u0443\u0441 \u043f\u043e \u043f\u043e\u0434\u0440\u044b\u0432\u043d\u043e\u0439 \u043f\u0440\u0435\u0441\u0442\u0443\u043f\u043d\u043e\u0441\u0442\u0438 \u0441\u0442\u043e\u0438\u0442 \u043d\u0430 \u043f\u0430\u0440\u043a\u043e\u0432\u043a\u0435 Jumbo \u043d\u0430 Hilverstraat \u0441 14:30 \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e \u0434\u043e 19:00. \u0412 \u0432\u0438\u0442\u0432\u0430\u0441\u0441\u0442\u0440\u0430\u0430\u0442\u0435 \u0438 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u0437\u0430\u043f\u0430\u0445\u043e\u0432 \u043c\u043e\u0436\u043d\u043e \u0443\u0437\u043d\u0430\u0442\u044c \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0438 \u043f\u043e\u0434\u0440\u044b\u0432\u043d\u043e\u0439 \u043f\u0440\u0435\u0441\u0442\u0443\u043f\u043d\u043e\u0441\u0442\u0438."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/hilvarenbeek/witwasstraat-en-geurlab-in-hilvarenbeek-tijdens-week-van-de-veiligheid/",
+      "paywall": false,
+      "city": "Hilvarenbeek",
+      "area": "Hilverstraat",
+      "tags": ["veiligheid", "ondermijning"]
+    },
     {
       "id": "omroep-tilburg-2026-10-05-tijgermug-besterd",
       "sourceId": "omroep-tilburg",
@@ -34,29 +124,6 @@
       "city": "Tilburg",
       "area": "Besterd",
       "tags": ["tijgermug", "NVWA"]
-    },
-    {
-      "id": "omroep-tilburg-2026-10-05-trappers-leipzig",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-10-05T12:00:00+02:00",
-      "title": {
-        "nl": "Bjorn Borgman ziet Trappers op stoom: 'Iedereen werkt voor elkaar'",
-        "en": "Bjorn Borgman sees Trappers rolling: 'Everyone works for each other'",
-        "ru": "Bjorn Borgman \u043e Trappers: \u00ab\u0412\u0441\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0442 \u0434\u0440\u0443\u0433 \u043d\u0430 \u0434\u0440\u0443\u0433\u0430\u00bb"
-      },
-      "teaser": {
-        "nl": "Trappers won zondag uit bij KSW Icefighters Leipzig met 5-6 en staat na zes duels op 18 punten bovenaan de Oberliga Nord. Vrijdag thuis tegen Rostock Piranhas.",
-        "en": "Trappers won 5-6 away at KSW Icefighters Leipzig on Sunday and sit top of Oberliga Nord on 18 points after six games. Friday at home against Rostock Piranhas.",
-        "ru": "\u0412 \u0432\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u044c\u0435 Trappers \u0432\u044b\u0438\u0433\u0440\u0430\u043b\u0438 \u0432 \u0433\u043e\u0441\u0442\u044f\u0445 \u0443 KSW Icefighters Leipzig 5:6 \u0438 \u043b\u0438\u0434\u0438\u0440\u0443\u044e\u0442 \u0432 Oberliga Nord \u0441 18 \u043e\u0447\u043a\u0430\u043c\u0438 \u043f\u043e\u0441\u043b\u0435 \u0448\u0435\u0441\u0442\u0438 \u043c\u0430\u0442\u0447\u0435\u0439. \u0412 \u043f\u044f\u0442\u043d\u0438\u0446\u0443 \u0434\u043e\u043c\u0430 \u0441 Rostock Piranhas."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/sport/bjorn-borgman-ziet-trappers-op-stoom-iedereen-werkt-voor-elkaar/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "IJssportcentrum",
-      "tags": ["ijshockey", "Trappers"]
     },
     {
       "id": "omroep-tilburg-2026-10-05-verkeerslichten",
@@ -82,29 +149,6 @@
       "tags": ["verkeer", "verkeerslichten"]
     },
     {
-      "id": "omroep-brabant-2026-10-05-lage-witsiebaan",
-      "sourceId": "omroep-brabant",
-      "sourceName": "Omroep Brabant",
-      "category": "incident",
-      "publishedAt": "2026-10-05T10:54:00+02:00",
-      "title": {
-        "nl": "Auto's botsen op elkaar bij winkelcentrum",
-        "en": "Cars collide near a shopping centre",
-        "ru": "\u041c\u0430\u0448\u0438\u043d\u044b \u0441\u0442\u043e\u043b\u043a\u043d\u0443\u043b\u0438\u0441\u044c \u0443 \u0442\u043e\u0440\u0433\u043e\u0432\u043e\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0430"
-      },
-      "teaser": {
-        "nl": "Maandagochtend botsten twee auto's op de Lage Witsiebaan in Tilburg, ter hoogte van een winkelcentrum. Beide bestuurders raakten lichtgewond; de politie sloot kort een rijbaan.",
-        "en": "On Monday morning two cars collided on Lage Witsiebaan in Tilburg, near a shopping centre. Both drivers were slightly injured; police briefly closed a lane.",
-        "ru": "\u0412 \u043f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a \u0443\u0442\u0440\u043e\u043c \u0434\u0432\u0435 \u043c\u0430\u0448\u0438\u043d\u044b \u0441\u0442\u043e\u043b\u043a\u043d\u0443\u043b\u0438\u0441\u044c \u043d\u0430 Lage Witsiebaan \u0432 \u0422\u0438\u043b\u0431\u0443\u0440\u0433\u0435, \u0443 \u0442\u043e\u0440\u0433\u043e\u0432\u043e\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0430. \u041e\u0431\u0430 \u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f \u043b\u0435\u0433\u043a\u043e \u0440\u0430\u043d\u0435\u043d\u044b; \u043f\u043e\u043b\u0438\u0446\u0438\u044f \u043d\u0435\u043d\u0430\u0434\u043e\u043b\u0433\u043e \u043f\u0435\u0440\u0435\u043a\u0440\u044b\u043b\u0430 \u043f\u043e\u043b\u043e\u0441\u0443."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroepbrabant.nl/nieuws/6029739/autos-botsen-op-elkaar-bij-winkelcentrum",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Lage Witsiebaan",
-      "tags": ["ongeval", "112"]
-    },
-    {
       "id": "gemeente-2026-10-02-laadplekken",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
@@ -125,28 +169,6 @@
       "paywall": false,
       "city": "Tilburg",
       "tags": ["parkeren", "laadpalen"]
-    },
-    {
-      "id": "gemeente-2026-10-01-isolatiesubsidie",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-10-01T12:00:00+02:00",
-      "title": {
-        "nl": "Nieuwe isolatiesubsidie: meer inwoners komen in aanmerking",
-        "en": "New insulation grant: more residents qualify",
-        "ru": "\u041d\u043e\u0432\u0430\u044f \u0441\u0443\u0431\u0441\u0438\u0434\u0438\u044f \u043d\u0430 \u0443\u0442\u0435\u043f\u043b\u0435\u043d\u0438\u0435: \u0431\u043e\u043b\u044c\u0448\u0435 \u0436\u0438\u0442\u0435\u043b\u0435\u0439 \u0438\u043c\u0435\u044e\u0442 \u043f\u0440\u0430\u0432\u043e"
-      },
-      "teaser": {
-        "nl": "De Subsidieregeling Isolatie 2026-2028 verhoogt de WOZ-grens naar 477.000 euro en het bedrag naar 2.250 euro per woning. Zelf isoleren en VvE's vallen nu ook onder de regeling.",
-        "en": "The 2026-2028 insulation scheme raises the WOZ cap to 477,000 euro and the grant to 2,250 euro per home. DIY insulation and owners' associations are now covered.",
-        "ru": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u0443\u0442\u0435\u043f\u043b\u0435\u043d\u0438\u044f 2026\u20132028 \u043f\u043e\u0434\u043d\u0438\u043c\u0430\u0435\u0442 \u043f\u043e\u0442\u043e\u043b\u043e\u043a WOZ \u0434\u043e 477 000 \u0435\u0432\u0440\u043e \u0438 \u0441\u0443\u043c\u043c\u0443 \u0434\u043e 2 250 \u0435\u0432\u0440\u043e \u043d\u0430 \u0434\u043e\u043c. \u0421\u0430\u043c\u043e\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0443\u0442\u0435\u043f\u043b\u0435\u043d\u0438\u0435 \u0438 \u0422\u0421\u0416 \u0442\u0435\u043f\u0435\u0440\u044c \u0442\u043e\u0436\u0435 \u0432\u0445\u043e\u0434\u044f\u0442."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.tilburg.nl/nieuws/item/nieuwe-isolatiesubsidie-meer-inwoners-komen-in-aanmerking-1/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["subsidie", "isolatie"]
     },
     {
       "id": "gemeente-2026-10-01-startbouwregeling",
@@ -192,52 +214,6 @@
       "city": "Tilburg",
       "area": "Stappegoor",
       "tags": ["wielrennen", "Eneco Tour"]
-    },
-    {
-      "id": "omroep-tilburg-2026-10-03-murf-murw",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "cultuur",
-      "publishedAt": "2026-10-03T14:34:00+02:00",
-      "title": {
-        "nl": "Borsten, superhelden en jazz trekken Tilburgers uit hun comfortzone op murf/murw 2026",
-        "en": "Breasts, superheroes and jazz pull Tilburgers out of their comfort zone at murf/murw 2026",
-        "ru": "\u0413\u0440\u0443\u0434\u044c, \u0441\u0443\u043f\u0435\u0440\u0433\u0435\u0440\u043e\u0438 \u0438 \u0434\u0436\u0430\u0437 \u0432\u044b\u0442\u0430\u0441\u043a\u0438\u0432\u0430\u044e\u0442 \u0442\u0438\u043b\u0431\u0443\u0440\u0436\u0446\u0435\u0432 \u0438\u0437 \u0437\u043e\u043d\u044b \u043a\u043e\u043c\u0444\u043e\u0440\u0442\u0430 \u043d\u0430 murf/murw 2026"
-      },
-      "teaser": {
-        "nl": "Het festival in De Nieuwe Vorst en Paradox liep van 2 tot en met 4 oktober. Artistiek leider Simon van Iersel noemt het thema Don't Be Evil; vrijdag noemt hij de meest terughoudende dag.",
-        "en": "The festival at De Nieuwe Vorst and Paradox ran from 2 to 4 October. Artistic director Simon van Iersel cites the theme Don't Be Evil and calls Friday the most restrained day.",
-        "ru": "\u0424\u0435\u0441\u0442\u0438\u0432\u0430\u043b\u044c \u0432 De Nieuwe Vorst \u0438 Paradox \u0448\u0451\u043b \u0441 2 \u043f\u043e 4 \u043e\u043a\u0442\u044f\u0431\u0440\u044f. \u0425\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c Simon van Iersel \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u0442\u0435\u043c\u0443 Don't Be Evil \u0438 \u0441\u0447\u0438\u0442\u0430\u0435\u0442 \u043f\u044f\u0442\u043d\u0438\u0446\u0443 \u0441\u0430\u043c\u044b\u043c \u0441\u0434\u0435\u0440\u0436\u0430\u043d\u043d\u044b\u043c \u0434\u043d\u0451\u043c."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/cultuur/borsten-superhelden-en-jazz-trekken-tilburgers-uit-hun-comfortzone-op-murf-murw-2026/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "De Nieuwe Vorst",
-      "tags": ["festival", "murf/murw"]
-    },
-    {
-      "id": "gemeente-2026-09-25-de-vaart",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-25T12:00:00+02:00",
-      "title": {
-        "nl": "Tilburg en SMO Traverse openen kortdurende opvang De Vaart",
-        "en": "Tilburg and SMO Traverse open short-stay shelter De Vaart",
-        "ru": "\u0422\u0438\u043b\u0431\u0443\u0440\u0433 \u0438 SMO Traverse \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044e\u0442 \u043f\u0440\u0438\u044e\u0442 \u043a\u0440\u0430\u0442\u043a\u043e\u0441\u0440\u043e\u0447\u043d\u043e\u0433\u043e \u043f\u0440\u0435\u0431\u044b\u0432\u0430\u043d\u0438\u044f De Vaart"
-      },
-      "teaser": {
-        "nl": "Het voormalige NOAD-terrein aan de Lovense Kanaaldijk wordt kortdurende opvang voor niet-rechthebbende EU-burgers. De Vaart opent maandag 5 oktober, met plek voor 6 tot 12 mensen.",
-        "en": "The former NOAD site on Lovense Kanaaldijk becomes short-stay shelter for destitute EU citizens. De Vaart opens Monday 5 October, with space for 6 to 12 people.",
-        "ru": "\u0411\u044b\u0432\u0448\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430 NOAD \u043d\u0430 Lovense Kanaaldijk \u0441\u0442\u0430\u043d\u0435\u0442 \u043a\u0440\u0430\u0442\u043a\u043e\u0441\u0440\u043e\u0447\u043d\u044b\u043c \u043f\u0440\u0438\u044e\u0442\u043e\u043c \u0434\u043b\u044f \u0433\u0440\u0430\u0436\u0434\u0430\u043d \u0415\u0421 \u0431\u0435\u0437 \u043f\u0440\u0430\u0432\u0430 \u043d\u0430 \u043f\u043e\u043c\u043e\u0449\u044c. De Vaart \u043e\u0442\u043a\u0440\u043e\u0435\u0442\u0441\u044f \u0432 \u043f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a 5 \u043e\u043a\u0442\u044f\u0431\u0440\u044f, \u043d\u0430 6\u201312 \u0447\u0435\u043b\u043e\u0432\u0435\u043a."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.tilburg.nl/nieuws/item/tilburg-en-smo-traverse-openen-kortdurende-opvang-de-vaart/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Lovense Kanaaldijk",
-      "tags": ["opvang"]
     }
   ]
 }
