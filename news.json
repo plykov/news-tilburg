@@ -1,1 +1,241 @@
-PLACEHOLDER
+{
+  "schema": "tilburg.news.v1",
+  "deliveryId": "9a152d30-6ba6-4569-9ac7-e789a0913ba6",
+  "generatedAt": "2026-10-07T19:08:00+02:00",
+  "timezone": "Europe/Amsterdam",
+  "source": "Grok verified permalinks 19:08 Amsterdam",
+  "headline": {
+    "nl": "Hulpdiensten oefenen een helikoptercrash op een sloopflat in Tilburg",
+    "en": "Emergency services rehearse a helicopter crash on a Tilburg demolition flat",
+    "ru": "Спасатели отрабатывают крушение вертолёта на сносимой многоэтажке в Тилбурге"
+  },
+  "headlineLangNote": "ui-translated",
+  "itemCount": 10,
+  "items": [
+    {
+      "id": "omroep-brabant-2026-10-07-reddingsoefening",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "omroep",
+      "publishedAt": "2026-10-07T16:05:00+02:00",
+      "title": {
+        "nl": "Flat in Tilburg verandert in rampplek voor spectaculaire reddingsoefening",
+        "en": "Tilburg flat turned into a disaster site for a rescue exercise",
+        "ru": "Многоэтажка в Тилбурге стала площадкой зрелищных спасательных учений"
+      },
+      "teaser": {
+        "nl": "Op een leegstaand pand oefenen STH en USAR tot en met vrijdag met een nagebootste crash. Publiek kan meekijken aan de kant van de Ringbaan Zuid.",
+        "en": "STH and USAR are training on an empty building through Friday with a staged crash. The public can watch from the Ringbaan Zuid side.",
+        "ru": "STH и USAR до пятницы тренируются на пустом здании по сценарию крушения. Смотреть можно со стороны Ringbaan Zuid."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6030062/flat-in-tilburg-verandert-in-rampplek-voor-spectaculaire-reddingsoefening",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Ringbaan Zuid",
+      "tags": ["oefening", "brandweer"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-07-helikopteroefening",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-07T12:00:00+02:00",
+      "title": {
+        "nl": "Helikoptercrash op flat nagebootst tijdens grote oefening in Tilburg",
+        "en": "Helicopter crash on a flat staged in a large Tilburg exercise",
+        "ru": "Крушение вертолёта на многоэтажку разыграли на больших учениях в Тилбурге"
+      },
+      "teaser": {
+        "nl": "USAR en de brandweer oefenen woensdag bij een in scène gezette instorting aan de Generaal Smutslaan. De oefening duurt tot en met 9 oktober; het pand wordt gesloopt voor Ringpark Zuid.",
+        "en": "USAR and the fire service trained on Wednesday at a staged collapse on Generaal Smutslaan. The exercise runs through 9 October; the building is being demolished for Ringpark Zuid.",
+        "ru": "USAR и пожарные в среду отрабатывали постановочное обрушение на Generaal Smutslaan. Учения идут до 9 октября; дом сносят под Ringpark Zuid."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/helikoptercrash-op-flat-nagebootst-tijdens-grote-oefening-in-tilburg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Generaal Smutslaan",
+      "tags": ["oefening", "brandweer"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-07-actie-aletta",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-10-07T12:00:00+02:00",
+      "title": {
+        "nl": "Actie Aletta brengt gesprek over veiligheid en vrijheid naar Tilburg",
+        "en": "Actie Aletta brings the talk on safety and freedom to Tilburg",
+        "ru": "Actie Aletta привозит в Тилбург разговор о безопасности и свободе"
+      },
+      "teaser": {
+        "nl": "Woensdag 7 oktober is 013 de vierde stop van de landelijke tour, thema Creating Safe Spaces. Burgemeester Gräper opent; Mariëtte Hamer spreekt, XXJULÍA sluit af.",
+        "en": "On Wednesday 7 October 013 is the fourth stop of the national tour, theme Creating Safe Spaces. Mayor Gräper opens; Mariëtte Hamer speaks and XXJULÍA closes.",
+        "ru": "В среду 7 октября 013 — четвёртая остановка тура, тема Creating Safe Spaces. Открывает бургомистр Gräper, выступает Mariëtte Hamer, закрывает XXJULÍA."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/actie-aletta-brengt-gesprek-over-veiligheid-en-vrijheid-naar-tilburg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "013",
+      "tags": ["veiligheid", "013"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-07-kinderboekenweek",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-10-07T12:00:00+02:00",
+      "title": {
+        "nl": "Tijdens de Kinderboekenweek mag ieder kind schitteren",
+        "en": "During Children's Book Week every child gets the spotlight",
+        "ru": "На Неделе детской книги каждый ребёнок может оказаться в центре внимания"
+      },
+      "teaser": {
+        "nl": "Tot en met 11 oktober loopt de Kinderboekenweek met thema Spot aan!. In Tilburg zijn er workshops, voorlezen en DigiDoeners, onder meer bij Bibliotheek Heyhoef.",
+        "en": "Children's Book Week runs through 11 October with the theme Spot aan!. Tilburg has workshops, reading aloud and DigiDoeners, including at Bibliotheek Heyhoef.",
+        "ru": "Неделя детской книги идёт до 11 октября с темой Spot aan!. В Тилбурге мастер-классы, чтение вслух и DigiDoeners, в том числе в Bibliotheek Heyhoef."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/tijdens-de-kinderboekenweek-mag-ieder-kind-schitteren/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["kinderboekenweek", "bibliotheek"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-07-scouting-berkel",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-07T12:00:00+02:00",
+      "title": {
+        "nl": "Geen plek meer bij de scouting, kinderen gaan op zoek naar een andere hobby",
+        "en": "No room left at scouting, children look for another hobby",
+        "ru": "В скаутах больше нет мест, дети ищут другое занятие"
+      },
+      "teaser": {
+        "nl": "In Berkel-Enschot staan per leeftijdsgroep vijf tot tien kinderen op de wachtlijst. De Blokhut moet ook weg: het pand wordt buitenschoolse opvang, een nieuwe locatie is er nog niet.",
+        "en": "In Berkel-Enschot five to ten children per age group are on the waiting list. The Blokhut must also go: the building becomes after-school care and no new site has been found.",
+        "ru": "В Berkel-Enschot в каждой возрастной группе в очереди пять–десять детей. Blokhut тоже придётся оставить: здание станет продлёнкой, новой площадки пока нет."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/berkel-enschot-udenhout/geen-plek-meer-bij-de-scouting-kinderen-gaan-op-zoek-naar-een-andere-hobby/",
+      "paywall": false,
+      "city": "Berkel-Enschot",
+      "tags": ["scouting", "wachtlijst"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-06-witwasstraat-hilvarenbeek",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-06T12:00:00+02:00",
+      "title": {
+        "nl": "Witwasstraat en Geurlab in Hilvarenbeek tijdens Week van de Veiligheid",
+        "en": "Money-laundering lane and scent lab in Hilvarenbeek during Safety Week",
+        "ru": "Витвасстраат и лаборатория запахов в Хилваренбеке на Неделе безопасности"
+      },
+      "teaser": {
+        "nl": "Donderdag 8 oktober staat de Ondermijningsbus van 14.30 tot ongeveer 19.00 uur op de parkeerplaats van de Jumbo aan de Hilverstraat.",
+        "en": "On Thursday 8 October the undermining bus is on the Jumbo car park on Hilverstraat from 14:30 until about 19:00.",
+        "ru": "В четверг 8 октября автобус по подрывной преступности стоит на парковке Jumbo на Hilverstraat с 14:30 примерно до 19:00."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/hilvarenbeek/witwasstraat-en-geurlab-in-hilvarenbeek-tijdens-week-van-de-veiligheid/",
+      "paywall": false,
+      "city": "Hilvarenbeek",
+      "area": "Hilverstraat",
+      "tags": ["veiligheid", "ondermijning"]
+    },
+    {
+      "id": "gemeente-2026-10-02-laadplekken",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-02T12:00:00+02:00",
+      "title": {
+        "nl": "Proef met laadplekken van start",
+        "en": "Trial with charging bays starts",
+        "ru": "Стартовал пилот с зарядными местами"
+      },
+      "teaser": {
+        "nl": "Op 36 locaties mogen ook brandstofauto's parkeren naast een laadpaal, aangegeven met een laadtegel of groen bord. De proef loopt met Vattenfall InCharge, twee provincies en negentien gemeenten.",
+        "en": "At 36 sites petrol and diesel cars may also park next to a charger, marked by a charging tile or a green sign. The trial runs with Vattenfall InCharge, two provinces and nineteen municipalities.",
+        "ru": "На 36 площадках рядом с зарядкой можно ставить и бензиновые машины — это отмечено плиткой или зелёным знаком. Пилот идёт с Vattenfall InCharge, двумя провинциями и 19 муниципалитетами."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/proef-met-laadplekken-van-start/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["parkeren", "laadpalen"]
+    },
+    {
+      "id": "gemeente-2026-10-01-isolatiesubsidie",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-01T12:00:00+02:00",
+      "title": {
+        "nl": "Nieuwe isolatiesubsidie: meer inwoners komen in aanmerking",
+        "en": "New insulation subsidy: more residents qualify",
+        "ru": "Новая субсидия на утепление: право получают больше жителей"
+      },
+      "teaser": {
+        "nl": "De Subsidieregeling Isolatie 2026-2028 verhoogt de WOZ-grens naar €477.000 en het bedrag naar €2.250. Zelf doen en VvE's mogen mee; combineren met ISDE kan.",
+        "en": "The Insulation Subsidy 2026-2028 raises the WOZ cap to €477,000 and the amount to €2,250. DIY and owners' associations qualify; combining with ISDE is allowed.",
+        "ru": "Субсидия на утепление 2026–2028 поднимает потолок WOZ до €477.000 и сумму до €2.250. Можно делать самому и через VvE; совмещать с ISDE разрешено."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/nieuwe-isolatiesubsidie-meer-inwoners-komen-in-aanmerking-1/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["subsidie", "isolatie"]
+    },
+    {
+      "id": "gemeente-2026-10-01-startbouw",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-01T12:00:00+02:00",
+      "title": {
+        "nl": "Startbouwregeling Tilburg helpt woningbouw op gang",
+        "en": "Tilburg start-construction scheme gets housing builds moving",
+        "ru": "Схема Startbouwregeling помогает запустить стройку жилья в Тилбурге"
+      },
+      "teaser": {
+        "nl": "Projecten voor sociale huur, middeldure huur en betaalbare koop die financieel vastzitten kunnen subsidie aanvragen als de bouw binnen een jaar na verlening kan starten. Publicatie was 1 oktober 2026.",
+        "en": "Social, mid-range rental and affordable owner-occupier projects stuck on finance can apply if building can start within a year of the grant. Publication was 1 October 2026.",
+        "ru": "Проекты социального, среднего арендного и доступного жилья, застрявшие по деньгам, могут просить субсидию, если стройка начнётся в течение года после решения. Публикация — 1 октября 2026."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/startbouwregeling-tilburg-helpt-woningbouw-op-gang/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["woningbouw", "subsidie"]
+    },
+    {
+      "id": "gemeente-2026-09-30-ronde-nederland",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-09-30T12:00:00+02:00",
+      "title": {
+        "nl": "Ronde van Nederland na 25 jaar terug in Tilburg",
+        "en": "Tour of the Netherlands returns to Tilburg after 25 years",
+        "ru": "Тур Нидерландов возвращается в Тилбург спустя 25 лет"
+      },
+      "teaser": {
+        "nl": "Donderdag 15 oktober is er een tijdrit van 13,6 km met start en finish op Stappegoor. Het peloton komt door Goirle en Hilvarenbeek; op het Olympiaplein is een fietsfestival.",
+        "en": "On Thursday 15 October there is a 13.6 km time trial starting and finishing at Stappegoor. The riders pass through Goirle and Hilvarenbeek; there is a bike festival on Olympiaplein.",
+        "ru": "В четверг 15 октября — разделка 13,6 км со стартом и финишем на Stappegoor. Пелотон идёт через Goirle и Hilvarenbeek; на Olympiaplein велофестиваль."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/ronde-van-nederland-na-25-jaar-terug-in-tilburg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Stappegoor",
+      "tags": ["wielrennen", "Eneco Tour"]
+    }
+  ]
+}
