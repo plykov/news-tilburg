@@ -1,17 +1,129 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "4414c7c5-706f-4237-8c89-4f10e3ef0c8d",
-  "generatedAt": "2026-10-08T19:12:00+02:00",
+  "deliveryId": "2c461b14-aaa1-4dc4-bcb5-a4aef0a3926c",
+  "generatedAt": "2026-10-09T19:15:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:12 Amsterdam",
+  "source": "Grok verified permalinks 19:15 Amsterdam",
   "headline": {
-    "nl": "Vier nieuwe flitspalen actief; Dansdagen Tilburg starten vrijdag",
-    "en": "Four new speed cameras live; Dansdagen Tilburg starts Friday",
-    "ru": "Четыре новые камеры включены; Dansdagen Tilburg стартуют в пятницу"
+    "nl": "College legt begroting 2027 voor; Parkring-aanleg start in januari",
+    "en": "College sends the 2027 budget to council; Parkring works start in January",
+    "ru": "Коллегия внесла бюджет 2027; укладка Parkring стартует в январе"
   },
   "headlineLangNote": "ui-translated",
   "itemCount": 10,
   "items": [
+    {
+      "id": "gemeente-2026-10-09-programmabegroting",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-09T12:00:00+02:00",
+      "title": {
+        "nl": "Programmabegroting 2027: blijven investeren in de stad en de dorpen",
+        "en": "2027 programme budget: keep investing in the city and the villages",
+        "ru": "Программный бюджет 2027: инвестиции в город и деревни продолжаются"
+      },
+      "teaser": {
+        "nl": "Het college bood vrijdag 9 oktober de Programmabegroting 2027 aan de raad aan. Eerste begroting van deze bestuursperiode, in lijn met het coalitieakkoord; richting de Perspectiefnota 2028 komt een bezuinigingspakket.",
+        "en": "On Friday 9 October the college sent the 2027 programme budget to the council. First budget of this term, in line with the coalition agreement; a savings package is due ahead of the 2028 outlook note.",
+        "ru": "В пятницу 9 октября коллегия внесла программный бюджет 2027 в совет. Первый бюджет этого срока, по линии коалиционного соглашения; к записке-прогнозу 2028 готовят пакет сокращений."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/programmabegroting-2027-blijven-investeren-in-de-stad-en-de-dorpen/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["begroting", "raad"]
+    },
+    {
+      "id": "gemeente-2026-10-09-parkring",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-09T12:00:00+02:00",
+      "title": {
+        "nl": "Voortgang werkzaamheden en planning Parkring",
+        "en": "Progress and schedule for the Parkring",
+        "ru": "Ход работ и график Parkring"
+      },
+      "teaser": {
+        "nl": "Voorbereidend werk aan de Heuvelring loopt tot 18 december; aanleg van het eerste deel start begin januari 2027. Doorlooptijd gaat van twee naar drie jaar. Het college vraagt 7,7 miljoen euro extra.",
+        "en": "Preparatory work on the Heuvelring runs until 18 December; the first section starts in early January 2027. Duration moves from two to three years. The college asks for an extra 7.7 million euros.",
+        "ru": "Подготовка на Heuvelring идёт до 18 декабря; первый участок стартует в начале января 2027. Срок с двух лет до трёх. Коллегия просит ещё 7,7 млн евро."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/voortgang-werkzaamheden-en-planning-parkring/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Heuvelring",
+      "tags": ["parkring", "verkeer"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-09-mono-bekeuringen",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-09T12:00:00+02:00",
+      "title": {
+        "nl": "Ruim 200 bekeuringen bij controle op telefoongebruik achter het stuur",
+        "en": "More than 200 fines in a phone-at-the-wheel check",
+        "ru": "Более 200 штрафов на контроле телефона за рулём"
+      },
+      "teaser": {
+        "nl": "Bij een MONO-actie donderdag schreef de politie 209 bekeuringen uit, waarvan 84 na spotters op onder meer de A58 richting Tilburg en de Ringbaan-West. Vaste camera's op de A16 en A58 leverden 111 bonnen op.",
+        "en": "In a Thursday MONO action police wrote 209 fines, 84 after spotters including on the A58 toward Tilburg and Ringbaan-West. Fixed cameras on the A16 and A58 produced 111 tickets.",
+        "ru": "На акции MONO в четверг полиция выписала 209 штрафов, 84 после наблюдателей, в том числе на A58 в сторону Тилбурга и Ringbaan-West. Стационарные камеры на A16 и A58 дали 111 протоколов."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/ruim-200-bekeuringen-bij-controle-op-telefoongebruik-achter-het-stuur/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Ringbaan-West / A58",
+      "tags": ["verkeer", "politie"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-09-paarse-vrijdag",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-09T12:00:00+02:00",
+      "title": {
+        "nl": "Paarse Vrijdag in Tilburg: De vlag hangt voor iedereen uit",
+        "en": "Purple Friday in Tilburg: the flag is out for everyone",
+        "ru": "Пурпурная пятница в Тилбурге: флаг вывешен для всех"
+      },
+      "teaser": {
+        "nl": "Beatrix College, Theresialyceum en Koning Willem II College besteden vrijdag aandacht aan de LGBTQI+-gemeenschap, met kramen, mentorlessen en posters. Op het Beatrix College valt de dag samen met de toetsweek.",
+        "en": "Beatrix College, Theresialyceum and Koning Willem II College mark Friday for the LGBTQI+ community with stalls, mentor lessons and posters. At Beatrix College the day coincides with exam week.",
+        "ru": "Beatrix College, Theresialyceum и Koning Willem II College отмечают пятницу для LGBTQI+-сообщества: стойки, классные часы и плакаты. В Beatrix College день совпал с неделей контрольных."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/paarse-vrijdag-in-tilburg-de-vlag-hangt-voor-iedereen-uit/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["paarse vrijdag", "scholen"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-09-busstaking",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-09T12:00:00+02:00",
+      "title": {
+        "nl": "Buschauffeurs staken woensdag, vakbonden dreigen met wekelijkse acties tot kerst",
+        "en": "Bus drivers strike Wednesday; unions threaten weekly action until Christmas",
+        "ru": "Водители автобусов бастуют в среду; профсоюзы грозят еженедельными акциями до Рождества"
+      },
+      "teaser": {
+        "nl": "FNV en CNV melden een landelijke staking op woensdag 14 oktober na vastgelopen cao-overleg, ook bij Arriva. Zonder resultaat willen de bonden tot kerst wekelijks een dag staken; de datum daarna volgt later.",
+        "en": "FNV and CNV report a national strike on Wednesday 14 October after stalled collective talks, including at Arriva. Without a result the unions want a strike day each week until Christmas; the next date comes later.",
+        "ru": "FNV en CNV сообщают о национальной забастовке в среду 14 октября после срыва переговоров по колдоговору, в том числе в Arriva. Без результата профсоюзы хотят бастовать по дню в неделю до Рождества; следующую дату назовут позже."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/buschauffeurs-staken-woensdag-vakbonden-dreigen-met-wekelijkse-acties-tot-kerst/",
+      "paywall": false,
+      "city": "Regio",
+      "tags": ["staking", "ov"]
+    },
     {
       "id": "omroep-tilburg-2026-10-08-flitspalen",
       "sourceId": "omroep-tilburg",
@@ -24,9 +136,9 @@
         "ru": "Вот где в Тилбурге стоят новые камеры"
       },
       "teaser": {
-        "nl": "Vier vaste flitspalen zijn vanaf vandaag in werking: twee bij de fietsoversteek Baroniebaan/Stroomlaan en twee op de Ringbaan-Oost bij de Gelrebaan. Ze controleren snelheid en rood licht.",
-        "en": "Four fixed cameras are live from today: two at the Baroniebaan/Stroomlaan cycle crossing and two on Ringbaan-Oost at Gelrebaan. They check speed and red lights.",
-        "ru": "С сегодня работают четыре стационарные камеры: две у велоперехода Baroniebaan/Stroomlaan и две на Ringbaan-Oost у Gelrebaan. Контролируют скорость и красный свет."
+        "nl": "Vier vaste flitspalen zijn in werking: twee bij de fietsoversteek Baroniebaan/Stroomlaan en twee op de Ringbaan-Oost bij de Gelrebaan. Ze controleren snelheid en rood licht.",
+        "en": "Four fixed cameras are live: two at the Baroniebaan/Stroomlaan cycle crossing and two on Ringbaan-Oost at Gelrebaan. They check speed and red lights.",
+        "ru": "Работают четыре стационарные камеры: две у велоперехода Baroniebaan/Stroomlaan и две на Ringbaan-Oost у Gelrebaan. Контролируют скорость и красный свет."
       },
       "langNote": "ui-translated",
       "url": "https://www.omroeptilburg.nl/regio/tilburg/op-deze-plekken-in-tilburg-staan-nieuwe-flitspalen/",
@@ -34,29 +146,6 @@
       "city": "Tilburg",
       "area": "Baroniebaan / Ringbaan-Oost",
       "tags": ["verkeer", "flitspalen"]
-    },
-    {
-      "id": "omroep-tilburg-2026-10-08-berkel-boom",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-10-08T12:00:00+02:00",
-      "title": {
-        "nl": "Auto botst tegen boom in Berkel-Enschot, bestuurder aangehouden",
-        "en": "Car hits a tree in Berkel-Enschot, driver arrested",
-        "ru": "Машина врезалась в дерево в Беркел-Энсхоте, водитель задержан"
-      },
-      "teaser": {
-        "nl": "Donderdagmiddag vloog een automobilist uit de bocht tussen Durendaelweg en Berkelseweg, raakte een bord en kwam tegen een boom. Een voorband was kaal; de politie hield de bestuurder aan.",
-        "en": "On Thursday afternoon a driver left the road between Durendaelweg and Berkelseweg, hit a sign and stopped against a tree. A front tyre was bald; police arrested the driver.",
-        "ru": "В четверг днём водитель слетел между Durendaelweg и Berkelseweg, задел знак и встал в дерево. Передняя шина была лысой; полиция задержала водителя."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/berkel-enschot-udenhout/auto-botst-tegen-boom-in-berkel-enschot-bestuurder-aangehouden/",
-      "paywall": false,
-      "city": "Berkel-Enschot",
-      "area": "Durendaelweg / Berkelseweg",
-      "tags": ["ongeval", "politie"]
     },
     {
       "id": "omroep-tilburg-2026-10-08-dansdagen",
@@ -80,75 +169,6 @@
       "city": "Tilburg",
       "area": "Stadsforum",
       "tags": ["dans", "festival"]
-    },
-    {
-      "id": "omroep-brabant-2026-10-07-siriusstraat",
-      "sourceId": "omroep-brabant",
-      "sourceName": "Omroep Brabant",
-      "category": "incident",
-      "publishedAt": "2026-10-07T18:25:00+02:00",
-      "title": {
-        "nl": "Grote hoeveelheid grondstoffen voor drugs gevonden bij bedrijf in Tilburg",
-        "en": "Large quantity of drug precursors found at a Tilburg business",
-        "ru": "На предприятии в Тилбурге нашли большое количество прекурсоров для наркотиков"
-      },
-      "teaser": {
-        "nl": "In een pand aan de Siriusstraat vond de politie woensdagmiddag ongeveer tien pallets met dozen. Een 24-jarige man is aangehouden; wat er precies in de dozen zit, is nog niet bekend.",
-        "en": "At a building on Siriusstraat police found about ten pallets of boxes on Wednesday afternoon. A 24-year-old man was arrested; what is in the boxes is not yet known.",
-        "ru": "В здании на Siriusstraat полиция в среду днём нашла около десяти паллет с коробками. Задержан 24-летний; что именно в коробках, пока неясно."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroepbrabant.nl/nieuws/6030105/grote-hoeveelheid-grondstoffen-voor-drugs-gevonden-bij-bedrijf-in-tilburg",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Siriusstraat",
-      "tags": ["politie", "drugs"]
-    },
-    {
-      "id": "omroep-brabant-2026-10-07-reddingsoefening",
-      "sourceId": "omroep-brabant",
-      "sourceName": "Omroep Brabant",
-      "category": "omroep",
-      "publishedAt": "2026-10-07T16:05:00+02:00",
-      "title": {
-        "nl": "Flat in Tilburg verandert in rampplek voor spectaculaire reddingsoefening",
-        "en": "Tilburg flat turned into a disaster site for a rescue exercise",
-        "ru": "Многоэтажка в Тилбурге стала площадкой зрелищных спасательных учений"
-      },
-      "teaser": {
-        "nl": "Hulpdiensten oefenen deze week op een leegstaand pand met een nagebootste helikoptercrash. De oefening loopt tot en met vrijdag; de helikopter komt van vliegbasis Gilze-Rijen.",
-        "en": "Emergency services are training this week on an empty building with a staged helicopter crash. The exercise runs through Friday; the helicopter is from Gilze-Rijen air base.",
-        "ru": "Службы на этой неделе тренируются на пустом здании по сценарию крушения вертолёта. Учения до пятницы; вертолёт с базы Gilze-Rijen."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroepbrabant.nl/nieuws/6030062/flat-in-tilburg-verandert-in-rampplek-voor-spectaculaire-reddingsoefening",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Ringbaan Zuid",
-      "tags": ["oefening", "brandweer"]
-    },
-    {
-      "id": "omroep-tilburg-2026-10-07-helikopteroefening",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-10-07T12:00:00+02:00",
-      "title": {
-        "nl": "Helikoptercrash op flat nagebootst tijdens grote oefening in Tilburg",
-        "en": "Helicopter crash on a flat staged in a large Tilburg exercise",
-        "ru": "Крушение вертолёта на многоэтажку разыграли на больших учениях в Тилбурге"
-      },
-      "teaser": {
-        "nl": "USAR en de brandweer oefenen bij een in scène gezette instorting aan de Generaal Smutslaan. De oefening duurt tot en met 9 oktober; het pand wordt gesloopt voor Ringpark Zuid.",
-        "en": "USAR and the fire service are training at a staged collapse on Generaal Smutslaan. The exercise runs through 9 October; the building is being demolished for Ringpark Zuid.",
-        "ru": "USAR и пожарные отрабатывают постановочное обрушение на Generaal Smutslaan. Учения идут до 9 октября; дом сносят под Ringpark Zuid."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/helikoptercrash-op-flat-nagebootst-tijdens-grote-oefening-in-tilburg/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Generaal Smutslaan",
-      "tags": ["oefening", "brandweer"]
     },
     {
       "id": "gemeente-2026-10-02-laadplekken",
@@ -215,29 +235,6 @@
       "paywall": false,
       "city": "Tilburg",
       "tags": ["woningbouw", "subsidie"]
-    },
-    {
-      "id": "gemeente-2026-09-30-ronde-nederland",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-30T12:00:00+02:00",
-      "title": {
-        "nl": "Ronde van Nederland na 25 jaar terug in Tilburg",
-        "en": "Tour of the Netherlands returns to Tilburg after 25 years",
-        "ru": "Тур Нидерландов возвращается в Тилбург спустя 25 лет"
-      },
-      "teaser": {
-        "nl": "Donderdag 15 oktober is er een tijdrit van 13,6 km met start en finish op Stappegoor. Het peloton komt door Goirle en Hilvarenbeek; op het Olympiaplein is een fietsfestival.",
-        "en": "On Thursday 15 October there is a 13.6 km time trial starting and finishing at Stappegoor. The riders pass through Goirle and Hilvarenbeek; there is a bike festival on Olympiaplein.",
-        "ru": "В четверг 15 октября — разделка 13,6 км со стартом и финишем на Stappegoor. Пелотон идёт через Goirle и Hilvarenbeek; на Olympiaplein велофестиваль."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.tilburg.nl/nieuws/item/ronde-van-nederland-na-25-jaar-terug-in-tilburg/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Stappegoor",
-      "tags": ["wielrennen", "Eneco Tour"]
     }
   ]
 }
