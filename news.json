@@ -1,17 +1,62 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "2c461b14-aaa1-4dc4-bcb5-a4aef0a3926c",
-  "generatedAt": "2026-10-09T19:15:00+02:00",
+  "deliveryId": "bbaa95a8-801f-4157-9e59-d7ddfaea49bb",
+  "generatedAt": "2026-10-10T19:10:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:15 Amsterdam",
+  "source": "Grok verified permalinks 19:10 Amsterdam",
   "headline": {
-    "nl": "College legt begroting 2027 voor; Parkring-aanleg start in januari",
-    "en": "College sends the 2027 budget to council; Parkring works start in January",
-    "ru": "Коллегия внесла бюджет 2027; укладка Parkring стартует в январе"
+    "nl": "Trappers winnen 6-3 bij terugkeer Dalhuisen; begroting 2027 naar de raad",
+    "en": "Trappers win 6-3 on Dalhuisen's return; 2027 budget goes to council",
+    "ru": "Trappers побеждают 6-3 при возвращении Dalhuisen; бюджет 2027 уходит в совет"
   },
   "headlineLangNote": "ui-translated",
   "itemCount": 10,
   "items": [
+    {
+      "id": "omroep-tilburg-2026-10-10-trappers-rostock",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-10T10:05:00+02:00",
+      "title": {
+        "nl": "Sterke eindsprint bezorgt Trappers de volle buit bij terugkeer Mike Dalhuisen",
+        "en": "Strong finish gives Trappers the full points on Mike Dalhuisen's return",
+        "ru": "Сильный финиш приносит Trappers полные очки при возвращении Mike Dalhuisen"
+      },
+      "teaser": {
+        "nl": "Tilburg Trappers won vrijdagavond met 6-3 van Rostock Piranhas. Mike Dalhuisen maakte na zeven weken blessureleed zijn rentree. De Tilburgers komen zondag uit in Herford.",
+        "en": "Tilburg Trappers beat Rostock Piranhas 6-3 on Friday night. Mike Dalhuisen returned after seven weeks out injured. The Tilburgers play in Herford on Sunday.",
+        "ru": "Tilburg Trappers обыграли Rostock Piranhas 6-3 в пятницу вечером. Mike Dalhuisen вернулся после семи недель травмы. В воскресенье тилбургцы играют в Herford."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/sport/sterke-eindsprint-bezorgt-trappers-de-volle-buit-bij-terugkeer-mike-dalhuisen/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["ijshockey", "trappers"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-10-marrons",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-10-10T09:40:00+02:00",
+      "title": {
+        "nl": "Surinaamse gemeenschap viert Dag der Marrons in Tilburg",
+        "en": "Surinamese community marks Day of the Maroons in Tilburg",
+        "ru": "Суринамское сообщество отмечает День маронов в Тилбурге"
+      },
+      "teaser": {
+        "nl": "Zondag 11 oktober staat in buurthuis De Back de Dag der Marrons centraal, met lezingen, dans en een traditioneel plengoffer. Marrons zijn nazaten van vrijgevochten slaafgemaakten uit Suriname.",
+        "en": "On Sunday 11 October community centre De Back hosts Day of the Maroons with talks, dance and a traditional libation. Maroons are descendants of enslaved people who freed themselves in Suriname.",
+        "ru": "В воскресенье 11 октября в центре De Back отмечают День маронов: лекции, танцы и традиционное возлияние. Мароны — потомки порабощённых, освободившихся в Суринаме."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/surinaamse-gemeenschap-viert-dag-der-marrons-in-tilburg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Schout Backstraat",
+      "tags": ["marrons", "cultuur"]
+    },
     {
       "id": "gemeente-2026-10-09-programmabegroting",
       "sourceId": "gemeente",
@@ -62,7 +107,7 @@
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
-      "publishedAt": "2026-10-09T12:00:00+02:00",
+      "publishedAt": "2026-10-09T17:14:00+02:00",
       "title": {
         "nl": "Ruim 200 bekeuringen bij controle op telefoongebruik achter het stuur",
         "en": "More than 200 fines in a phone-at-the-wheel check",
@@ -81,55 +126,11 @@
       "tags": ["verkeer", "politie"]
     },
     {
-      "id": "omroep-tilburg-2026-10-09-paarse-vrijdag",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-10-09T12:00:00+02:00",
-      "title": {
-        "nl": "Paarse Vrijdag in Tilburg: De vlag hangt voor iedereen uit",
-        "en": "Purple Friday in Tilburg: the flag is out for everyone",
-        "ru": "Пурпурная пятница в Тилбурге: флаг вывешен для всех"
-      },
-      "teaser": {
-        "nl": "Beatrix College, Theresialyceum en Koning Willem II College besteden vrijdag aandacht aan de LGBTQI+-gemeenschap, met kramen, mentorlessen en posters. Op het Beatrix College valt de dag samen met de toetsweek.",
-        "en": "Beatrix College, Theresialyceum and Koning Willem II College mark Friday for the LGBTQI+ community with stalls, mentor lessons and posters. At Beatrix College the day coincides with exam week.",
-        "ru": "Beatrix College, Theresialyceum и Koning Willem II College отмечают пятницу для LGBTQI+-сообщества: стойки, классные часы и плакаты. В Beatrix College день совпал с неделей контрольных."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/paarse-vrijdag-in-tilburg-de-vlag-hangt-voor-iedereen-uit/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["paarse vrijdag", "scholen"]
-    },
-    {
-      "id": "omroep-tilburg-2026-10-09-busstaking",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-10-09T12:00:00+02:00",
-      "title": {
-        "nl": "Buschauffeurs staken woensdag, vakbonden dreigen met wekelijkse acties tot kerst",
-        "en": "Bus drivers strike Wednesday; unions threaten weekly action until Christmas",
-        "ru": "Водители автобусов бастуют в среду; профсоюзы грозят еженедельными акциями до Рождества"
-      },
-      "teaser": {
-        "nl": "FNV en CNV melden een landelijke staking op woensdag 14 oktober na vastgelopen cao-overleg, ook bij Arriva. Zonder resultaat willen de bonden tot kerst wekelijks een dag staken; de datum daarna volgt later.",
-        "en": "FNV and CNV report a national strike on Wednesday 14 October after stalled collective talks, including at Arriva. Without a result the unions want a strike day each week until Christmas; the next date comes later.",
-        "ru": "FNV en CNV сообщают о национальной забастовке в среду 14 октября после срыва переговоров по колдоговору, в том числе в Arriva. Без результата профсоюзы хотят бастовать по дню в неделю до Рождества; следующую дату назовут позже."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/buschauffeurs-staken-woensdag-vakbonden-dreigen-met-wekelijkse-acties-tot-kerst/",
-      "paywall": false,
-      "city": "Regio",
-      "tags": ["staking", "ov"]
-    },
-    {
       "id": "omroep-tilburg-2026-10-08-flitspalen",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
-      "publishedAt": "2026-10-08T12:00:00+02:00",
+      "publishedAt": "2026-10-08T16:30:00+02:00",
       "title": {
         "nl": "Op deze plekken in Tilburg staan nieuwe flitspalen",
         "en": "These are the sites of Tilburg's new speed cameras",
@@ -152,7 +153,7 @@
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "cultuur",
-      "publishedAt": "2026-10-08T12:00:00+02:00",
+      "publishedAt": "2026-10-08T15:34:00+02:00",
       "title": {
         "nl": "Tilburg krijgt nieuw dansfestival: ‘Je hoeft geen goede danser te zijn om mee te doen’",
         "en": "Tilburg gets a new dance festival: you do not need to be a good dancer to join",
