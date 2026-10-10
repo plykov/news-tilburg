@@ -1,0 +1,241 @@
+{
+  "schema": "tilburg.news.v1",
+  "deliveryId": "bbaa95a8-801f-4157-9e59-d7ddfaea49bb",
+  "generatedAt": "2026-10-10T19:10:00+02:00",
+  "timezone": "Europe/Amsterdam",
+  "source": "Grok verified permalinks 19:10 Amsterdam",
+  "headline": {
+    "nl": "Trappers winnen 6-3 bij terugkeer Dalhuisen; begroting 2027 naar de raad",
+    "en": "Trappers win 6-3 on Dalhuisen's return; 2027 budget goes to council",
+    "ru": "Trappers побеждают 6-3 при возвращении Dalhuisen; бюджет 2027 уходит в совет"
+  },
+  "headlineLangNote": "ui-translated",
+  "itemCount": 10,
+  "items": [
+    {
+      "id": "omroep-tilburg-2026-10-10-trappers-rostock",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-10T10:05:00+02:00",
+      "title": {
+        "nl": "Sterke eindsprint bezorgt Trappers de volle buit bij terugkeer Mike Dalhuisen",
+        "en": "Strong finish gives Trappers the full points on Mike Dalhuisen's return",
+        "ru": "Сильный финиш приносит Trappers полные очки при возвращении Mike Dalhuisen"
+      },
+      "teaser": {
+        "nl": "Tilburg Trappers won vrijdagavond met 6-3 van Rostock Piranhas. Mike Dalhuisen maakte na zeven weken blessureleed zijn rentree. De Tilburgers komen zondag uit in Herford.",
+        "en": "Tilburg Trappers beat Rostock Piranhas 6-3 on Friday night. Mike Dalhuisen returned after seven weeks out injured. The Tilburgers play in Herford on Sunday.",
+        "ru": "Tilburg Trappers обыграли Rostock Piranhas 6-3 в пятницу вечером. Mike Dalhuisen вернулся после семи недель травмы. В воскресенье тилбургцы играют в Herford."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/sport/sterke-eindsprint-bezorgt-trappers-de-volle-buit-bij-terugkeer-mike-dalhuisen/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["ijshockey", "trappers"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-10-marrons",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-10-10T09:40:00+02:00",
+      "title": {
+        "nl": "Surinaamse gemeenschap viert Dag der Marrons in Tilburg",
+        "en": "Surinamese community marks Day of the Maroons in Tilburg",
+        "ru": "Суринамское сообщество отмечает День маронов в Тилбурге"
+      },
+      "teaser": {
+        "nl": "Zondag 11 oktober staat in buurthuis De Back de Dag der Marrons centraal, met lezingen, dans en een traditioneel plengoffer. Marrons zijn nazaten van vrijgevochten slaafgemaakten uit Suriname.",
+        "en": "On Sunday 11 October community centre De Back hosts Day of the Maroons with talks, dance and a traditional libation. Maroons are descendants of enslaved people who freed themselves in Suriname.",
+        "ru": "В воскресенье 11 октября в центре De Back отмечают День маронов: лекции, танцы и традиционное возлияние. Мароны — потомки порабощённых, освободившихся в Суринаме."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/surinaamse-gemeenschap-viert-dag-der-marrons-in-tilburg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Schout Backstraat",
+      "tags": ["marrons", "cultuur"]
+    },
+    {
+      "id": "gemeente-2026-10-09-programmabegroting",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-09T12:00:00+02:00",
+      "title": {
+        "nl": "Programmabegroting 2027: blijven investeren in de stad en de dorpen",
+        "en": "2027 programme budget: keep investing in the city and the villages",
+        "ru": "Программный бюджет 2027: инвестиции в город и деревни продолжаются"
+      },
+      "teaser": {
+        "nl": "Het college bood vrijdag 9 oktober de Programmabegroting 2027 aan de raad aan. Eerste begroting van deze bestuursperiode, in lijn met het coalitieakkoord; richting de Perspectiefnota 2028 komt een bezuinigingspakket.",
+        "en": "On Friday 9 October the college sent the 2027 programme budget to the council. First budget of this term, in line with the coalition agreement; a savings package is due ahead of the 2028 outlook note.",
+        "ru": "В пятницу 9 октября коллегия внесла программный бюджет 2027 в совет. Первый бюджет этого срока, по линии коалиционного соглашения; к записке-прогнозу 2028 готовят пакет сокращений."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/programmabegroting-2027-blijven-investeren-in-de-stad-en-de-dorpen/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["begroting", "raad"]
+    },
+    {
+      "id": "gemeente-2026-10-09-parkring",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-09T12:00:00+02:00",
+      "title": {
+        "nl": "Voortgang werkzaamheden en planning Parkring",
+        "en": "Progress and schedule for the Parkring",
+        "ru": "Ход работ и график Parkring"
+      },
+      "teaser": {
+        "nl": "Voorbereidend werk aan de Heuvelring loopt tot 18 december; aanleg van het eerste deel start begin januari 2027. Doorlooptijd gaat van twee naar drie jaar. Het college vraagt 7,7 miljoen euro extra.",
+        "en": "Preparatory work on the Heuvelring runs until 18 December; the first section starts in early January 2027. Duration moves from two to three years. The college asks for an extra 7.7 million euros.",
+        "ru": "Подготовка на Heuvelring идёт до 18 декабря; первый участок стартует в начале января 2027. Срок с двух лет до трёх. Коллегия просит ещё 7,7 млн евро."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/voortgang-werkzaamheden-en-planning-parkring/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Heuvelring",
+      "tags": ["parkring", "verkeer"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-09-mono-bekeuringen",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-09T17:14:00+02:00",
+      "title": {
+        "nl": "Ruim 200 bekeuringen bij controle op telefoongebruik achter het stuur",
+        "en": "More than 200 fines in a phone-at-the-wheel check",
+        "ru": "Более 200 штрафов на контроле телефона за рулём"
+      },
+      "teaser": {
+        "nl": "Bij een MONO-actie donderdag schreef de politie 209 bekeuringen uit, waarvan 84 na spotters op onder meer de A58 richting Tilburg en de Ringbaan-West. Vaste camera's op de A16 en A58 leverden 111 bonnen op.",
+        "en": "In a Thursday MONO action police wrote 209 fines, 84 after spotters including on the A58 toward Tilburg and Ringbaan-West. Fixed cameras on the A16 and A58 produced 111 tickets.",
+        "ru": "На акции MONO в четверг полиция выписала 209 штрафов, 84 после наблюдателей, в том числе на A58 в сторону Тилбурга и Ringbaan-West. Стационарные камеры на A16 и A58 дали 111 протоколов."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/ruim-200-bekeuringen-bij-controle-op-telefoongebruik-achter-het-stuur/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Ringbaan-West / A58",
+      "tags": ["verkeer", "politie"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-08-flitspalen",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-08T16:30:00+02:00",
+      "title": {
+        "nl": "Op deze plekken in Tilburg staan nieuwe flitspalen",
+        "en": "These are the sites of Tilburg's new speed cameras",
+        "ru": "Вот где в Тилбурге стоят новые камеры"
+      },
+      "teaser": {
+        "nl": "Vier vaste flitspalen zijn in werking: twee bij de fietsoversteek Baroniebaan/Stroomlaan en twee op de Ringbaan-Oost bij de Gelrebaan. Ze controleren snelheid en rood licht.",
+        "en": "Four fixed cameras are live: two at the Baroniebaan/Stroomlaan cycle crossing and two on Ringbaan-Oost at Gelrebaan. They check speed and red lights.",
+        "ru": "Работают четыре стационарные камеры: две у велоперехода Baroniebaan/Stroomlaan и две на Ringbaan-Oost у Gelrebaan. Контролируют скорость и красный свет."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/op-deze-plekken-in-tilburg-staan-nieuwe-flitspalen/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Baroniebaan / Ringbaan-Oost",
+      "tags": ["verkeer", "flitspalen"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-08-dansdagen",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-10-08T15:34:00+02:00",
+      "title": {
+        "nl": "Tilburg krijgt nieuw dansfestival: ‘Je hoeft geen goede danser te zijn om mee te doen’",
+        "en": "Tilburg gets a new dance festival: you do not need to be a good dancer to join",
+        "ru": "В Тилбурге новый танцевальный фестиваль: участвовать можно и без опыта"
+      },
+      "teaser": {
+        "nl": "Dansdagen Tilburg, onderdeel van de Nederlandse Dansdagen, loopt van 9 tot en met 11 oktober. Vrijdag neemt Sèri Collective de DansDome op het Stadsforum over met een Afro-dansworkshop en battle.",
+        "en": "Dansdagen Tilburg, part of the Nederlandse Dansdagen, runs from 9 to 11 October. On Friday Sèri Collective takes over the DansDome on Stadsforum with an Afro dance workshop and battle.",
+        "ru": "Dansdagen Tilburg, часть Nederlandse Dansdagen, идёт с 9 по 11 октября. В пятницу Sèri Collective занимает DansDome на Stadsforum: воркшоп афро-танца и баттл."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/headline/tilburg-krijgt-nieuw-dansfestival-je-hoeft-geen-goede-danser-te-zijn-om-mee-te-doen/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Stadsforum",
+      "tags": ["dans", "festival"]
+    },
+    {
+      "id": "gemeente-2026-10-02-laadplekken",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-02T12:00:00+02:00",
+      "title": {
+        "nl": "Proef met laadplekken van start",
+        "en": "Trial with charging bays starts",
+        "ru": "Стартовал пилот с зарядными местами"
+      },
+      "teaser": {
+        "nl": "Op 36 locaties mogen ook brandstofauto's parkeren naast een laadpaal, aangegeven met een laadtegel of groen bord. De proef loopt met Vattenfall InCharge, twee provincies en negentien gemeenten.",
+        "en": "At 36 sites petrol and diesel cars may also park next to a charger, marked by a charging tile or a green sign. The trial runs with Vattenfall InCharge, two provinces and nineteen municipalities.",
+        "ru": "На 36 площадках рядом с зарядкой можно ставить и бензиновые машины — это отмечено плиткой или зелёным знаком. Пилот идёт с Vattenfall InCharge, двумя провинциями и 19 муниципалитетами."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/proef-met-laadplekken-van-start/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["parkeren", "laadpalen"]
+    },
+    {
+      "id": "gemeente-2026-10-01-isolatiesubsidie",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-01T12:00:00+02:00",
+      "title": {
+        "nl": "Nieuwe isolatiesubsidie: meer inwoners komen in aanmerking",
+        "en": "New insulation subsidy: more residents qualify",
+        "ru": "Новая субсидия на утепление: право получают больше жителей"
+      },
+      "teaser": {
+        "nl": "De Subsidieregeling Isolatie 2026-2028 verhoogt de WOZ-grens naar €477.000 en het bedrag naar €2.250. Zelf doen en VvE's mogen mee; combineren met ISDE kan.",
+        "en": "The Insulation Subsidy 2026-2028 raises the WOZ cap to €477,000 and the amount to €2,250. DIY and owners' associations qualify; combining with ISDE is allowed.",
+        "ru": "Субсидия на утепление 2026–2028 поднимает потолок WOZ до €477.000 и сумму до €2.250. Можно делать самому и через VvE; совмещать с ISDE разрешено."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/nieuwe-isolatiesubsidie-meer-inwoners-komen-in-aanmerking-1/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["subsidie", "isolatie"]
+    },
+    {
+      "id": "gemeente-2026-10-01-startbouw",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-01T12:00:00+02:00",
+      "title": {
+        "nl": "Startbouwregeling Tilburg helpt woningbouw op gang",
+        "en": "Tilburg start-construction scheme gets housing builds moving",
+        "ru": "Схема Startbouwregeling помогает запустить стройку жилья в Тилбурге"
+      },
+      "teaser": {
+        "nl": "Projecten voor sociale huur, middeldure huur en betaalbare koop die financieel vastzitten kunnen subsidie aanvragen als de bouw binnen een jaar na verlening kan starten. Publicatie was 1 oktober 2026.",
+        "en": "Social, mid-range rental and affordable owner-occupier projects stuck on finance can apply if building can start within a year of the grant. Publication was 1 October 2026.",
+        "ru": "Проекты социального, среднего арендного и доступного жилья, застрявшие по деньгам, могут просить субсидию, если стройка начнётся в течение года после решения. Публикация — 1 октября 2026."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/startbouwregeling-tilburg-helpt-woningbouw-op-gang/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["woningbouw", "subsidie"]
+    }
+  ]
+}
