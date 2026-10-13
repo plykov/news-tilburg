@@ -1,217 +1,146 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "b31646d9-6062-4dc7-a554-6d5c679c54eb",
-  "generatedAt": "2026-10-12T19:10:10+02:00",
+  "deliveryId": "d999099c-2f89-4a45-976a-d10cfd7b3702",
+  "generatedAt": "2026-10-13T19:08:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:10 Amsterdam",
+  "source": "Grok verified permalinks 19:08 Amsterdam",
   "headline": {
-    "nl": "Ernstige mishandeling Piusstraat, AH-distributiecentrum stilgelegd en stroomstoring in Tilburg",
-    "en": "Serious assault on Piusstraat, AH distribution centre halted and power outage in Tilburg",
-    "ru": "Серьёзное нападение на Piusstraat, остановлен распределительный центр AH и отключение электричества в Тилбурге"
+    "nl": "Begroting 2027 gepresenteerd, crash Bredaseweg en Parkring-voorbereidingen",
+    "en": "Budget 2027 presented, Bredaseweg crash and Parkring preparations",
+    "ru": "Бюджет 2027 представлен, авария на Bredaseweg и подготовка Parkring"
   },
   "headlineLangNote": "ui-translated",
   "itemCount": 9,
   "items": [
     {
-      "id": "omroep-brabant-2026-10-12-ah-distributiecentrum",
-      "sourceId": "omroep-brabant",
-      "sourceName": "Omroep Brabant",
-      "category": "omroep",
-      "publishedAt": "2026-10-12T17:05:00+02:00",
-      "title": {
-        "nl": "Distributiecentrum Albert Heijn stilgelegd: mogelijk gevolgen voor winkels",
-        "en": "Albert Heijn distribution centre halted: possible consequences for shops",
-        "ru": "Распределительный центр Albert Heijn остановлен: возможные последствия для магазинов"
-      },
-      "teaser": {
-        "nl": "Het werk in het distributiecentrum van Albert Heijn in Tilburg ligt stil door een online veiligheidsincident. Ook andere distributiecentra liggen plat.",
-        "en": "Work at the Albert Heijn distribution centre in Tilburg is halted due to an online security incident. Other distribution centres are also down.",
-        "ru": "Работа на распределительном центре Albert Heijn в Тилбурге остановлена из-за онлайн-инцидента безопасности. Другие центры тоже стоят."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroepbrabant.nl/nieuws/6030708/distributiecentrum-albert-heijn-stilgelegd-mogelijk-gevolgen-voor-winkels",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["supermarkt", "storing"]
-    },
-    {
-      "id": "politie-2026-10-12-mishandeling-piusstraat",
-      "sourceId": "politie",
-      "sourceName": "Politie",
-      "category": "incident",
-      "publishedAt": "2026-10-12T16:28:00+02:00",
-      "title": {
-        "nl": "Zware mishandeling Piusstraat Tilburg, politie zoekt getuigen",
-        "en": "Serious assault on Piusstraat Tilburg, police seek witnesses",
-        "ru": "Серьёзное нападение на Piusstraat в Тилбурге, полиция ищет свидетелей"
-      },
-      "teaser": {
-        "nl": "Zondagavond is een 28-jarige man ernstig mishandeld door meerdere personen aan de Piusstraat. De verdachten zijn gevlucht; politie zoekt getuigen.",
-        "en": "Sunday evening a 28-year-old man was seriously assaulted by several people on the Piusstraat. The suspects fled; police seek witnesses.",
-        "ru": "Вечером в воскресенье 28-летний мужчина был серьёзно избит несколькими лицами на Piusstraat. Подозреваемые скрылись; полиция ищет свидетелей."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.politie.nl/gezocht/getuigenoproep/2026/oktober/08-zware-mishandeling-piusstraat-tilburg",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Piusstraat",
-      "tags": ["politie", "mishandeling"]
-    },
-    {
-      "id": "omroep-brabant-2026-10-12-stroomstoring-tilburg",
-      "sourceId": "omroep-brabant",
-      "sourceName": "Omroep Brabant",
-      "category": "incident",
-      "publishedAt": "2026-10-12T12:47:00+02:00",
-      "title": {
-        "nl": "Stroomstoring in Tilburg: oorzaak nog onbekend",
-        "en": "Power outage in Tilburg: cause still unknown",
-        "ru": "Отключение электричества в Тилбурге: причина пока неизвестна"
-      },
-      "teaser": {
-        "nl": "De stroomstoring in Tilburg is opgelost. Minder dan 25 adressen in postcodegebied 5038 zaten sinds vanmiddag zonder elektriciteit.",
-        "en": "The power outage in Tilburg has been resolved. Fewer than 25 addresses in postcode area 5038 were without electricity since this afternoon.",
-        "ru": "Отключение электричества в Тилбурге устранено. Менее 25 адресов в районе 5038 оставались без света с полудня."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroepbrabant.nl/nieuws/6030661/stroomstoring-in-tilburg-oorzaak-nog-onbekend",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["stroom", "storing"]
-    },
-    {
-      "id": "omroep-tilburg-2026-10-12-stoptober-bus",
+      "id": "omroep-tilburg-2026-10-13-begroting",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
-      "publishedAt": "2026-10-12T14:00:00+02:00",
-      "title": {
-        "nl": "Stoptober Supporttour bus geeft gas voor aandacht voor het stoppen met roken",
-        "en": "Stoptober Support Tour bus draws attention to quitting smoking",
-        "ru": "Автобус Stoptober Supporttour привлекает внимание к отказу от курения"
-      },
-      "teaser": {
-        "nl": "De Stoptober Supporttourbus stopte maandagmiddag op het Stadhuisplein in Tilburg om mensen te helpen stoppen met roken en vapen.",
-        "en": "The Stoptober Support Tour bus stopped Monday afternoon at Stadhuisplein in Tilburg to help people quit smoking and vaping.",
-        "ru": "Автобус Stoptober Supporttour остановился в понедельник днём на Stadhuisplein в Тилбурге, чтобы помочь людям бросить курить и вейпить."
-      },
-      "langNote": "ui-translated",
+      "publishedAt": "2026-10-13T14:16:00+02:00",
+      "title": {"nl": "Tilburg presenteert eerste begroting van nieuwe bestuursperiode: meer woningen, boa's en investeringen in cultuur"},
+      "teaser": {"nl": "Het college presenteerde de begroting 2027 met investeringen in woningbouw, veiligheid, jeugdzorg en cultuur. Extra boa's en aandacht voor betaalbare woningen."},
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/tilburg-presenteert-eerste-begroting-van-nieuwe-bestuursperiode-meer-woningen-boas-en-investeringen-in-cultuur/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["begroting", "woningbouw", "veiligheid"]
+    },
+    {
+      "id": "omroep-brabant-2026-10-12-mishandeling",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-10-12T16:27:00+02:00",
+      "title": {"nl": "Man (28) ernstig mishandeld door groep in Tilburg, politie zoekt getuigen"},
+      "teaser": {"nl": "Een 28-jarige man is zondagavond aan de Piusstraat ernstig mishandeld door een groep van ongeveer acht personen. De politie zoekt getuigen."},
+      "langNote": "source-nl",
+      "url": "https://www.omroepbrabant.nl/nieuws/6030702/man-28-ernstig-mishandeld-door-groep-in-tilburg-politie-zoekt-getuigen",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Piusstraat",
+      "tags": ["incident", "politie"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-12-stoptober",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-12T00:00:00+02:00",
+      "title": {"nl": "Stoptober Supporttour bus geeft gas voor aandacht voor het stoppen met roken"},
+      "teaser": {"nl": "De Stoptober Supporttourbus stopte op het Stadhuisplein. De tour helpt mensen stoppen met roken en vapen."},
+      "langNote": "source-nl",
       "url": "https://www.omroeptilburg.nl/regio/tilburg/stoptober-supporttour-bus-geeft-gas-voor-aandacht-voor-het-stoppen-met-roken/",
       "paywall": false,
       "city": "Tilburg",
       "area": "Stadhuisplein",
-      "tags": ["gezondheid", "stoptober"]
+      "tags": ["gezondheid"]
     },
     {
-      "id": "omroep-tilburg-2026-10-12-a65-n65-afsluiting",
+      "id": "omroep-tilburg-2026-10-12-a65",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
-      "publishedAt": "2026-10-12T12:00:00+02:00",
-      "title": {
-        "nl": "A65/N65 tussen Tilburg en Vught bijna vier dagen afgesloten",
-        "en": "A65/N65 between Tilburg and Vught closed for almost four days",
-        "ru": "A65/N65 между Тилбургом и Вухтом закрыта почти на четыре дня"
-      },
-      "teaser": {
-        "nl": "De A65/N65 richting Den Bosch is tussen 30 oktober en 2 november afgesloten voor groot onderhoud. Extra reistijd ongeveer een kwartier.",
-        "en": "The A65/N65 towards Den Bosch is closed between 30 October and 2 November for major maintenance. Extra travel time about 15 minutes.",
-        "ru": "A65/N65 в сторону Ден-Боса закрыта с 30 октября по 2 ноября на капитальный ремонт. Дополнительное время в пути около 15 минут."
-      },
-      "langNote": "ui-translated",
+      "publishedAt": "2026-10-12T00:00:00+02:00",
+      "title": {"nl": "A65/N65 tussen Tilburg en Vught bijna vier dagen afgesloten"},
+      "teaser": {"nl": "Van 30 oktober tot 2 november is de A65/N65 richting Den Bosch afgesloten voor groot onderhoud. Extra reistijd ongeveer een kwartier."},
+      "langNote": "source-nl",
       "url": "https://www.omroeptilburg.nl/regio/tilburg/a65-n65-tussen-tilburg-en-vught-bijna-vier-dagen-afgesloten/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["verkeer", "werkzaamheden"]
+      "tags": ["verkeer", "onderhoud"]
     },
     {
-      "id": "omroep-tilburg-2026-10-12-170km-hilvarenbeek",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
+      "id": "omroep-brabant-2026-10-11-crash-bredaseweg",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
       "category": "incident",
-      "publishedAt": "2026-10-12T11:00:00+02:00",
-      "title": {
-        "nl": "Man rijdt 170 kilometer per uur op N269, rijbewijs ingenomen",
-        "en": "Man drives 170 km/h on N269, licence confiscated",
-        "ru": "Мужчина ехал 170 км/ч по N269, права изъяты"
-      },
-      "teaser": {
-        "nl": "Een man uit Polen reed zondagavond 170 km/u op de N269 in Hilvarenbeek (limiet 100). Zijn rijbewijs is ingenomen.",
-        "en": "A man from Poland drove 170 km/h on the N269 in Hilvarenbeek on Sunday evening (limit 100). His licence was confiscated.",
-        "ru": "Мужчина из Польши ехал 170 км/ч по N269 в Хилваренбеке вечером в воскресенье (лимит 100). Права изъяты."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/hilvarenbeek/man-rijdt-170-kilometer-per-uur-op-n269-rijbewijs-ingenomen/",
-      "paywall": false,
-      "city": "Hilvarenbeek",
-      "tags": ["politie", "verkeer"]
-    },
-    {
-      "id": "omroep-tilburg-2026-10-12-trappers-herford",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-10-12T10:00:00+02:00",
-      "title": {
-        "nl": "Trappers strandt in overtime tegen Herford: ‘Een goede start is altijd belangrijk’",
-        "en": "Trappers fall in overtime against Herford: ‘A good start is always important’",
-        "ru": "Trappers проигрывают в овертайме Herford: «Хороший старт всегда важен»"
-      },
-      "teaser": {
-        "nl": "Tilburg Trappers verloren zondagavond met 3-2 van Herforder Ice Dragons in overtime na zeven overwinningen op rij.",
-        "en": "Tilburg Trappers lost 3-2 to Herforder Ice Dragons in overtime on Sunday evening after seven straight wins.",
-        "ru": "Tilburg Trappers проиграли 3-2 Herforder Ice Dragons в овертайме вечером в воскресенье после семи побед подряд."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/sport/trappers-strandt-in-overtime-tegen-herford-een-goede-start-is-altijd-belangrijk/",
+      "publishedAt": "2026-10-11T13:30:00+02:00",
+      "title": {"nl": "Buren over keiharde crash in Tilburg: 'Mensenleven is niet te vervangen'"},
+      "teaser": {"nl": "Een gehuurde BMW M5 ramde zondagnacht geparkeerde auto's op de Bredaseweg. De buurt spreekt van een racebaan."},
+      "langNote": "source-nl",
+      "url": "https://www.omroepbrabant.nl/nieuws/6030520/buren-over-keiharde-crash-in-tilburg-mensenleven-is-niet-te-vervangen",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["sport", "ijshockey"]
+      "area": "Bredaseweg",
+      "tags": ["incident", "verkeer"]
     },
     {
-      "id": "gemeente-2026-10-09-programmabegroting-2027",
+      "id": "gemeente-2026-10-09-programmabegroting",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
       "publishedAt": "2026-10-09T00:00:00+02:00",
-      "title": {
-        "nl": "Programmabegroting 2027: blijven investeren in de stad en de dorpen",
-        "en": "Programme budget 2027: continuing to invest in the city and villages",
-        "ru": "Программный бюджет 2027: продолжение инвестиций в город и деревни"
-      },
-      "teaser": {
-        "nl": "Op 9 oktober heeft het college de Programmabegroting 2027 aangeboden aan de gemeenteraad. Het college bouwt verder op de plannen uit het coalitieakkoord.",
-        "en": "On 9 October the executive presented the 2027 programme budget to the council. The college continues the plans from the coalition agreement.",
-        "ru": "9 октября коллегия представила программный бюджет 2027 совету. Коллегия продолжает планы из коалиционного соглашения."
-      },
-      "langNote": "ui-translated",
+      "title": {"nl": "Programmabegroting 2027: blijven investeren in de stad en de dorpen"},
+      "teaser": {"nl": "Het college bood de Programmabegroting 2027 aan de raad aan. Investeringen in woningbouw, veiligheid, jeugdzorg en leefomgeving."},
+      "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/programmabegroting-2027-blijven-investeren-in-de-stad-en-de-dorpen/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["begroting", "bestuur"]
+      "tags": ["begroting", "raad"]
     },
     {
-      "id": "gemeente-2026-10-09-parkring-planning",
+      "id": "gemeente-2026-10-09-parkring",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
       "publishedAt": "2026-10-09T00:00:00+02:00",
-      "title": {
-        "nl": "Voortgang werkzaamheden en planning Parkring",
-        "en": "Progress on works and planning for the Parkring",
-        "ru": "Ход работ и планирование Parkring"
-      },
-      "teaser": {
-        "nl": "Voorbereidende werkzaamheden aan de Heuvelring zijn eind september gestart. Begin januari 2027 start de aanleg van het eerste deel van de Parkring.",
-        "en": "Preparatory works on the Heuvelring started at the end of September. Construction of the first part of the Parkring begins in early January 2027.",
-        "ru": "Подготовительные работы на Heuvelring начались в конце сентября. Строительство первой части Parkring стартует в начале января 2027."
-      },
-      "langNote": "ui-translated",
+      "title": {"nl": "Voortgang werkzaamheden en planning Parkring"},
+      "teaser": {"nl": "Voorbereidende werkzaamheden aan de Heuvelring zijn gestart. Aanleg eerste deel Parkring begint januari 2027, met behoud van 75 bomen."},
+      "langNote": "source-nl",
       "url": "https://www.tilburg.nl/nieuws/item/voortgang-werkzaamheden-en-planning-parkring/",
       "paywall": false,
       "city": "Tilburg",
       "area": "Heuvelring",
-      "tags": ["verkeer", "binnenstad"]
+      "tags": ["parkring", "verkeer", "groen"]
+    },
+    {
+      "id": "omroep-brabant-2026-10-08-flitspalen",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "omroep",
+      "publishedAt": "2026-10-08T15:30:00+02:00",
+      "title": {"nl": "Nieuwe flitspalen in Tilburg: op deze plekken staan ze"},
+      "teaser": {"nl": "Vier nieuwe vaste flitspalen zijn actief op Ringbaan-Oost en Baroniebaan/Stroomlaan. Ze controleren snelheid en rood licht."},
+      "langNote": "source-nl",
+      "url": "https://www.omroepbrabant.nl/nieuws/6030092/nieuwe-flitspalen-in-tilburg-op-deze-plekken-staan-ze",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["verkeer", "veiligheid"]
+    },
+    {
+      "id": "gemeente-2026-10-02-laadplekken",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-02T00:00:00+02:00",
+      "title": {"nl": "Proef met laadplekken van start"},
+      "teaser": {"nl": "Op 36 locaties mogen ook brandstofauto's parkeren naast een laadpaal. Proef om de openbare ruimte beter te benutten."},
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/proef-met-laadplekken-van-start/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["parkeren", "elektrisch"]
     }
   ]
 }
