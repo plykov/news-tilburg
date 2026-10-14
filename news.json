@@ -1,1 +1,38 @@
-$(cat /tmp/news.json)
+{
+  "schema": "tilburg.news.v1",
+  "deliveryId": "8f197444-91ae-4148-8f27-251129b1f87c",
+  "generatedAt": "2026-10-14T19:08:19+02:00",
+  "timezone": "Europe/Amsterdam",
+  "source": "Grok verified permalinks 19:08 Amsterdam",
+  "headline": {
+    "nl": "Ongevallen in Tilburg en Berkel-Enschot, Oliemeulen vraagt steun, techniekdag voor jongeren",
+    "en": "Accidents in Tilburg and Berkel-Enschot, Oliemeulen seeks support, tech day for youth",
+    "ru": "Аварии в Тилбурге и Беркель-Энсхоте, Олимеулен просит поддержку, день техники для молодежи"
+  },
+  "headlineLangNote": "ui-translated",
+  "itemCount": 10,
+  "items": [
+    {
+      "id": "omroep-tilburg-2026-10-14-techniek-talent",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-10-14T00:00:00+02:00",
+      "title": {
+        "nl": "Techniek zoekt talent: Tilburg laat jongeren kennismaken met de sector",
+        "en": "Tech seeks talent: Tilburg introduces young people to the sector",
+        "ru": "Техника ищет таланты: Тилбург знакомит молодежь с отраслью"
+      },
+      "teaser": {
+        "nl": "Middelbare scholieren ontdekken op 14 en 15 oktober in de Koepelhal de wereld van techniek tijdens Toekomstig Techniek Talent.",
+        "en": "Secondary school students discover the world of technology in the Koepelhal on 14 and 15 October during Future Tech Talent.",
+        "ru": "Ученики средней школы открывают мир технологий в Koepelhal 14 и 15 октября во время Future Tech Talent."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/techniek-zoekt-talent-tilburg-laat-jongeren-kennismaken-met-de-sector/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["techniek", "jongeren", "evenement"]
+    }
+  ]
+}
