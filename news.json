@@ -1,38 +1,210 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "8f197444-91ae-4148-8f27-251129b1f87c",
-  "generatedAt": "2026-10-14T19:08:19+02:00",
+  "deliveryId": "56606a45-ef1f-4256-8688-ff86c87af256",
+  "generatedAt": "2026-10-15T19:09:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:08 Amsterdam",
+  "source": "Grok verified permalinks 19:09 Amsterdam",
   "headline": {
-    "nl": "Ongevallen in Tilburg en Berkel-Enschot, Oliemeulen vraagt steun, techniekdag voor jongeren",
-    "en": "Accidents in Tilburg and Berkel-Enschot, Oliemeulen seeks support, tech day for youth",
-    "ru": "Аварии в Тилбурге и Беркель-Энсхоте, Олимеулен просит поддержку, день техники для молодежи"
+    "nl": "Eneco Tour-tijdrit trekt publiek in Tilburg; file na autobrand A58 en aanhouding na verkeersconflict",
+    "en": "Eneco Tour time trial draws crowds in Tilburg; queue after A58 car fire and arrest after traffic conflict",
+    "ru": "Тайм-триал Eneco Tour привлекает публику в Тилбурге; пробка после пожара авто на A58 и задержание после дорожного конфликта"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "omroep-tilburg-2026-10-14-techniek-talent",
+      "id": "omroep-tilburg-2026-10-15-eneco-tour-smaak",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
-      "category": "cultuur",
-      "publishedAt": "2026-10-14T00:00:00+02:00",
+      "category": "omroep",
+      "publishedAt": "2026-10-15T17:03:00+02:00",
       "title": {
-        "nl": "Techniek zoekt talent: Tilburg laat jongeren kennismaken met de sector",
-        "en": "Tech seeks talent: Tilburg introduces young people to the sector",
-        "ru": "Техника ищет таланты: Тилбург знакомит молодежь с отраслью"
+        "nl": "Eneco Tour valt in de smaak bij de Tilburgers: ‘Mag wel vaker terugkomen’",
+        "en": "Eneco Tour is a hit with Tilburg residents: ‘It could come back more often’",
+        "ru": "Eneco Tour нравится жителям Тилбурга: «Может возвращаться чаще»"
       },
       "teaser": {
-        "nl": "Middelbare scholieren ontdekken op 14 en 15 oktober in de Koepelhal de wereld van techniek tijdens Toekomstig Techniek Talent.",
-        "en": "Secondary school students discover the world of technology in the Koepelhal on 14 and 15 October during Future Tech Talent.",
-        "ru": "Ученики средней школы открывают мир технологий в Koepelhal 14 и 15 октября во время Future Tech Talent."
+        "nl": "Tilburg was donderdag het decor van de tijdrit tijdens de Eneco Tour. Zowel de mannen als de vrouwen reden een route door onder meer Goirle en Hilvarenbeek. Uiteindelijk was de Zweed Jakob Söderqvist de snelste bij de mannen en de Nederlandse Lieke Nooijen bij de vrouwen.",
+        "en": "Tilburg was the setting for the time trial during the Eneco Tour on Thursday. Both men and women rode a route through Goirle and Hilvarenbeek among other places. In the end, Swede Jakob Söderqvist was the fastest among the men and Dutch rider Lieke Nooijen among the women.",
+        "ru": "Тилбург в четверг стал местом проведения тайм-триала на Eneco Tour. И мужчины, и женщины проехали маршрут через Гойрле и Хилваренбек среди прочего. В итоге швед Якоб Сёдерквист оказался быстрейшим среди мужчин, а голландка Лике Нойен — среди женщин."
       },
       "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/techniek-zoekt-talent-tilburg-laat-jongeren-kennismaken-met-de-sector/",
+      "url": "https://www.omroeptilburg.nl/sport/eneco-tour-valt-in-de-smaak-bij-de-tilburgers-mag-wel-vaker-terugkomen/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["techniek", "jongeren", "evenement"]
+      "tags": ["sport", "wielrennen"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-15-mishandeling-verkeersconflict",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-10-15T11:07:00+02:00",
+      "title": {
+        "nl": "53-jarige vrouw aangehouden na mishandeling van vrouw (33) bij verkeersconflict",
+        "en": "53-year-old woman arrested after assaulting woman (33) following traffic conflict",
+        "ru": "53-летняя женщина задержана после избиения 33-летней женщины после дорожного конфликта"
+      },
+      "teaser": {
+        "nl": "Een 53-jarige vrouw uit Tilburg heeft een 33-jarige vrouw mishandeld na een verkeersconflict op de Sint-Josephstraat in Tilburg. Ze zou het slachtoffer hebben geschopt en geslagen. Het slachtoffer raakte lichtgewond en heeft aangifte gedaan bij de politie.",
+        "en": "A 53-year-old woman from Tilburg assaulted a 33-year-old woman after a traffic conflict on Sint-Josephstraat in Tilburg. She allegedly kicked and hit the victim. The victim sustained minor injuries and reported the incident to the police.",
+        "ru": "53-летняя женщина из Тилбурга избила 33-летнюю женщину после дорожного конфликта на Sint-Josephstraat в Тилбурге. Она якобы пинала и била жертву. Пострадавшая получила лёгкие травмы и подала заявление в полицию."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/53-jarige-vrouw-aangehouden-na-mishandeling-van-vrouw-33-bij-verkeersconflict/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Sint-Josephstraat",
+      "tags": ["incident", "politie"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-15-auto-brand-a58",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-10-15T09:32:00+02:00",
+      "title": {
+        "nl": "Auto vliegt in brand op A58, lange file tussen Breda en Tilburg",
+        "en": "Car catches fire on A58, long queue between Breda and Tilburg",
+        "ru": "Автомобиль загорелся на A58, длинная пробка между Бредой и Тилбургом"
+      },
+      "teaser": {
+        "nl": "Een auto vloog donderdagochtend in brand op de A58 van Breda naar Tilburg, ter hoogte van Tilburg-Centrum West. Hierdoor ontstond een lange file. Inmiddels is de brand geblust en kan het verkeer weer doorrijden.",
+        "en": "A car caught fire on Thursday morning on the A58 from Breda to Tilburg, near Tilburg-Centrum West. This caused a long queue. The fire has since been extinguished and traffic can flow again.",
+        "ru": "В четверг утром автомобиль загорелся на A58 из Бреды в Тилбург, в районе Tilburg-Centrum West. Из-за этого образовалась длинная пробка. Пожар уже потушен, и движение возобновлено."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/auto-vliegt-in-brand-op-a58-lange-file-tussen-breda-en-tilburg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["verkeer", "brand"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-15-oisterwijk-begroting-2027",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-15T12:00:00+02:00",
+      "title": {
+        "nl": "Oisterwijk zet in begroting 2027 in op woningbouw en leefbaarheid",
+        "en": "Oisterwijk focuses on housing and liveability in 2027 budget",
+        "ru": "Остервейк делает ставку на жилищное строительство и качество жизни в бюджете 2027"
+      },
+      "teaser": {
+        "nl": "Woningbouw, leefbaarheid en veiligheid hebben de komende jaren prioriteit in Oisterwijk. Dat blijkt uit de begroting voor 2027 die het college aan de gemeenteraad heeft aangeboden.",
+        "en": "Housing construction, liveability and safety are priorities for the coming years in Oisterwijk. This is clear from the 2027 budget that the executive has presented to the municipal council.",
+        "ru": "Жилищное строительство, качество жизни и безопасность являются приоритетами на ближайшие годы в Остервейке. Это следует из бюджета на 2027 год, который коллегия представила муниципальному совету."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/oisterwijk/oisterwijk-zet-in-begroting-2027-in-op-woningbouw-en-leefbaarheid/",
+      "paywall": false,
+      "city": "Oisterwijk"
+    },
+    {
+      "id": "gemeente-2026-10-09-programmabegroting-2027",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-09T12:00:00+02:00",
+      "title": {
+        "nl": "Programmabegroting 2027: blijven investeren in de stad en de dorpen",
+        "en": "Programme budget 2027: continuing to invest in the city and the villages",
+        "ru": "Программный бюджет 2027: продолжаем инвестировать в город и деревни"
+      },
+      "teaser": {
+        "nl": "Op vrijdag 9 oktober heeft het college van B&W de Programmabegroting 2027 aangeboden aan de gemeenteraad. In de eerste begroting van deze bestuursperiode borduurt het college verder op de plannen die afgelopen zomer zijn gepresenteerd in het coalitieakkoord.",
+        "en": "On Friday 9 October the executive board presented the 2027 Programme Budget to the municipal council. In the first budget of this administrative period the executive builds further on the plans presented last summer in the coalition agreement.",
+        "ru": "В пятницу 9 октября коллегия B&W представила муниципальному совету программный бюджет на 2027 год. В первом бюджете этого периода правления коллегия продолжает планы, представленные прошлым летом в коалиционном соглашении."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/programmabegroting-2027-blijven-investeren-in-de-stad-en-de-dorpen/",
+      "paywall": false,
+      "city": "Tilburg"
+    },
+    {
+      "id": "gemeente-2026-10-09-parkring-planning",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-09T12:00:00+02:00",
+      "title": {
+        "nl": "Voortgang werkzaamheden en planning Parkring",
+        "en": "Progress on works and planning Parkring",
+        "ru": "Ход работ и планирование Parkring"
+      },
+      "teaser": {
+        "nl": "De voorbereidende werkzaamheden voor de Parkring zijn eind september gestart aan de Heuvelring. Begin januari 2027 start de gemeente met de aanleg van het eerste deel van de Parkring aan de Heuvelring.",
+        "en": "Preparatory works for the Parkring started at the end of September at the Heuvelring. In early January 2027 the municipality will start construction of the first part of the Parkring at the Heuvelring.",
+        "ru": "Подготовительные работы по Parkring начались в конце сентября на Heuvelring. В начале января 2027 года муниципалитет начнёт строительство первой части Parkring на Heuvelring."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/voortgang-werkzaamheden-en-planning-parkring/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Heuvelring"
+    },
+    {
+      "id": "gemeente-2026-10-02-proef-laadplekken",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-02T12:00:00+02:00",
+      "title": {
+        "nl": "Proef met laadplekken van start",
+        "en": "Trial with charging spots starts",
+        "ru": "Начался эксперимент с зарядными местами"
+      },
+      "teaser": {
+        "nl": "De gemeente Tilburg doet mee aan een proef, waarbij laadplekken voor elektrische auto's anders worden ingericht. Op 36 locaties mogen ook brandstofauto's parkeren naast een laadpaal.",
+        "en": "The municipality of Tilburg is taking part in a trial in which charging spots for electric cars are arranged differently. At 36 locations petrol and diesel cars may also park next to a charging point.",
+        "ru": "Муниципалитет Тилбурга участвует в эксперименте, в котором места для зарядки электромобилей организованы иначе. На 36 локациях бензиновые и дизельные автомобили также могут парковаться рядом с зарядной станцией."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/proef-met-laadplekken-van-start/",
+      "paywall": false,
+      "city": "Tilburg"
+    },
+    {
+      "id": "gemeente-2026-10-01-isolatiesubsidie",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-01T12:00:00+02:00",
+      "title": {
+        "nl": "Nieuwe isolatiesubsidie: meer inwoners komen in aanmerking",
+        "en": "New insulation subsidy: more residents eligible",
+        "ru": "Новая субсидия на изоляцию: больше жителей имеют право"
+      },
+      "teaser": {
+        "nl": "Goed nieuws voor woningeigenaren. De gemeente heeft een nieuwe Subsidieregeling Isolatie 2026-2028 vastgesteld. Daardoor komen meer inwoners in aanmerking voor subsidie om hun woning te isoleren.",
+        "en": "Good news for homeowners. The municipality has adopted a new Insulation Subsidy Scheme 2026-2028. As a result more residents are eligible for a subsidy to insulate their home.",
+        "ru": "Хорошая новость для владельцев жилья. Муниципалитет утвердил новую схему субсидий на изоляцию 2026–2028. Благодаря этому больше жителей имеют право на субсидию для утепления жилья."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/nieuwe-isolatiesubsidie-meer-inwoners-komen-in-aanmerking-1/",
+      "paywall": false,
+      "city": "Tilburg"
+    },
+    {
+      "id": "gemeente-2026-10-01-startbouwregeling",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-01T12:00:00+02:00",
+      "title": {
+        "nl": "Startbouwregeling Tilburg helpt woningbouw op gang",
+        "en": "Tilburg start-construction scheme helps housing construction get underway",
+        "ru": "Схема Startbouwregeling Tilburg помогает запустить жилищное строительство"
+      },
+      "teaser": {
+        "nl": "Woningbouwprojecten in de gemeente Tilburg die door financiële redenen niet kunnen starten, kunnen aanspraak maken op de Startbouwregeling Tilburg. De regeling is bedoeld om de bouw van sociale huurwoningen, middeldure huurwoningen en betaalbare koopwoningen te versnellen.",
+        "en": "Housing projects in the municipality of Tilburg that cannot start for financial reasons can apply for the Tilburg Start Construction Scheme. The scheme is intended to speed up construction of social rental homes, mid-priced rental homes and affordable owner-occupied homes.",
+        "ru": "Жилищные проекты в муниципалитете Тилбурга, которые не могут начаться по финансовым причинам, могут претендовать на схему Startbouwregeling Tilburg. Схема предназначена для ускорения строительства социального арендного жилья, среднеценового арендного жилья и доступного жилья в собственность."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/startbouwregeling-tilburg-helpt-woningbouw-op-gang/",
+      "paywall": false,
+      "city": "Tilburg"
     }
   ]
 }
