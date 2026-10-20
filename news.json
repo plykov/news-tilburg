@@ -1,17 +1,89 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "a05acb57-0a76-4587-8718-c53508d401e4",
-  "generatedAt": "2026-10-19T19:07:00+02:00",
+  "deliveryId": "481877bf-bc71-4907-96a0-5abed20ec0bd",
+  "generatedAt": "2026-10-20T19:15:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:07 Amsterdam",
+  "source": "Grok verified permalinks 19:15 Amsterdam",
   "headline": {
-    "nl": "Overval horecazaak en botsing op Ringbaan-West; verkeerslichten Katterug in aanbouw",
-    "en": "Robbery at hospitality venue and collision on Ringbaan-West; traffic lights at Katterug under construction",
-    "ru": "Ограбление заведения общепита и столкновение на Ringbaan-West; светофоры у Katterug в строительстве"
+    "nl": "Máxima-bezoek aan 013 afgelast; Stegeman weg bij Willem II en file door vrachtwagen op A58",
+    "en": "Máxima visit to 013 cancelled; Stegeman leaves Willem II and traffic jam from truck on A58",
+    "ru": "Визит Максимы в 013 отменён; Стегеман уходит из Willem II и пробка из-за грузовика на A58"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
+    {
+      "id": "omroep-brabant-2026-10-20-maxima-013-afgelast",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "cultuur",
+      "publishedAt": "2026-10-20T07:50:00+02:00",
+      "title": { "nl": "Werkbezoek Máxima op 7 oktober in 013 op laatste moment afgelast" },
+      "teaser": { "nl": "Een werkbezoek van koningin Máxima aan Poppodium 013 in Tilburg is afgeblazen. Ze zou op 7 oktober komen, met een optreden van de pro-Palestijnse band Droom Dit." },
+      "langNote": "source-nl",
+      "url": "https://www.omroepbrabant.nl/nieuws/6031594/werkbezoek-maxima-op-7-oktober-in-013-op-laatste-moment-afgelast",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["cultuur", "koningshuis", "013"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-20-willem-ii-stegeman",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-20T12:00:00+02:00",
+      "title": { "nl": "Trainer John Stegeman weg bij Willem II vanwege tegenvallende prestaties" },
+      "teaser": { "nl": "Willem II neemt afscheid van trainer John Stegeman vanwege de tegenvallende resultaten. De club staat momenteel laatste in de Eredivisie." },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/sport/john-stegeman-weg-bij-willem-ii-vanwege-tegenvallende-prestaties/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["sport", "voetbal", "willem-ii"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-20-vrachtwagen-a58",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-10-20T14:15:00+02:00",
+      "title": { "nl": "Vrachtwagen met pech op A58 bij Tilburg, flinke file richting Breda" },
+      "teaser": { "nl": "Op de A58 voor afrit Tilburg-Reeshof staat een vrachtwagen met pech door schuivende betonplaten. Rechterrijstrook dicht, file tot tien kilometer." },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/vrachtwagen-met-pech-op-a58-bij-tilburg-flinke-file-richting-breda/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "A58 / Tilburg-Reeshof",
+      "tags": ["verkeer", "file", "incident"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-20-verkeerslichten-katterug",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-20T10:00:00+02:00",
+      "title": { "nl": "Nieuwe verkeerslichten bij Katterug moeten drukte verminderen" },
+      "teaser": { "nl": "Werkzaamheden voor nieuwe verkeerslichten bij de Paleisring ter hoogte van de Katterug zijn maandag begonnen. Vanaf 2 november in gebruik." },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/headline/nieuwe-verkeerslichten-bij-katterug-moeten-drukte-verminderen/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Paleisring / Katterug",
+      "tags": ["verkeer", "werkzaamheden"]
+    },
+    {
+      "id": "gemeente-2026-10-19-warmteprogramma",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-19T00:00:00+02:00",
+      "title": { "nl": "Ontwerp-Warmteprogramma ter inzage" },
+      "teaser": { "nl": "Tilburg werkt naar een toekomst zonder aardgas. Het ontwerp-Warmteprogramma ligt tot 30 november 2026 ter inzage voor reacties." },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/ontwerp-warmteprogramma-ter-inzage/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["duurzaamheid", "energie", "inzage"]
+    },
     {
       "id": "omroep-tilburg-2026-10-19-horecazaak-overval",
       "sourceId": "omroep-tilburg",
@@ -58,25 +130,11 @@
       "tags": ["incident", "inbraak", "politie"]
     },
     {
-      "id": "omroep-tilburg-2026-10-19-trappers-weekend",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-10-19T12:00:00+02:00",
-      "title": { "nl": "Van goaliegevecht tot overtuigende zege: Trappers boekt succesvol weekend" },
-      "teaser": { "nl": "Tilburg Trappers won dit weekend twee keer: 2-5 van Hannover Indians en overtuigend van Hammer Eisbären, inclusief een gevecht tussen de goalies." },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/sport/van-goaliegevecht-tot-overtuigende-zege-trappers-boekt-succesvol-weekend/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["sport", "ijshockey"]
-    },
-    {
       "id": "omroep-tilburg-2026-10-19-busstaking",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
-      "publishedAt": "2026-10-19T12:00:00+02:00",
+      "publishedAt": "2026-10-19T13:33:00+02:00",
       "title": { "nl": "Donderdag rijden er opnieuw geen bussen door landelijke staking" },
       "teaser": { "nl": "Buschauffeurs in het streekvervoer leggen donderdag 22 oktober opnieuw het werk neer. De vakbonden blijven vechten voor een betere cao." },
       "langNote": "source-nl",
@@ -84,21 +142,6 @@
       "paywall": false,
       "city": "Regio",
       "tags": ["ov", "staking"]
-    },
-    {
-      "id": "omroep-tilburg-2026-10-19-documentaireserie-gilze-rijen",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "cultuur",
-      "publishedAt": "2026-10-19T12:00:00+02:00",
-      "title": { "nl": "Documentaireserie laat kleurrijk gezicht van Gilze en Rijen zien" },
-      "teaser": { "nl": "De serie Gilze en Rijen in Kleur portretteert inwoners aan de hand van kleuren. Vanaf vandaag wekelijks te zien bij Omroep Tilburg." },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/nieuws/documentaireserie-laat-kleurrijk-gezicht-van-gilze-en-rijen-zien/",
-      "paywall": false,
-      "city": "Regio",
-      "area": "Gilze en Rijen",
-      "tags": ["cultuur", "documentaire"]
     },
     {
       "id": "gemeente-2026-10-16-verkeerslichten-katterug",
@@ -114,35 +157,6 @@
       "city": "Tilburg",
       "area": "Paleisring / Katterug",
       "tags": ["verkeer", "werkzaamheden"]
-    },
-    {
-      "id": "omroep-tilburg-2026-10-16-kapsalon-schouwburgring",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-10-16T14:22:00+02:00",
-      "title": { "nl": "Sloopplannen Schouwburgring dwingen kapsalon tot sluiting: ‘Moeilijke keuze’" },
-      "teaser": { "nl": "Na 36 jaar neemt eigenaresse Natasja Vastré afscheid van Fleur Hairstyling in Tilburg vanwege plannen voor de Cityring." },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/sloopplannen-op-schouwburgring-dwingen-kapsalon-tot-sluiting-moeilijke-keuze/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Schouwburgring",
-      "tags": ["ondernemers", "gemeente"]
-    },
-    {
-      "id": "gemeente-2026-10-09-programmabegroting-2027",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-10-09T00:00:00+02:00",
-      "title": { "nl": "Programmabegroting 2027: blijven investeren in de stad en de dorpen" },
-      "teaser": { "nl": "Het college van B&W heeft de Programmabegroting 2027 aangeboden aan de gemeenteraad. Investeringen volgen het coalitieakkoord." },
-      "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/programmabegroting-2027-blijven-investeren-in-de-stad-en-de-dorpen/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["begroting", "bestuur"]
     }
   ]
 }
