@@ -1,17 +1,73 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "6294b884-f36a-4118-bde1-655fd25dcb40",
-  "generatedAt": "2026-10-21T19:15:00+02:00",
+  "deliveryId": "ae5cff2b-b5c4-4608-bab9-1ea5aa703a16",
+  "generatedAt": "2026-10-22T19:08:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:15 Amsterdam",
+  "source": "Grok verified permalinks 19:08 Amsterdam",
   "headline": {
-    "nl": "Geschiedenis Bels Lijntje tot leven en enquête buiten spelen; politie houdt minderjarigen vast na zedenzaken",
-    "en": "Bels Lijntje history brought to life and outdoor play survey; police hold minors after sex offence cases",
-    "ru": "История Bels Lijntje оживлена и опрос об играх на улице; полиция удерживает несовершеннолетних после сексуальных преступлений"
+    "nl": "Busstaking legt regio stil; bezuiniging op Mondiale Bewustwording en Smulhoek krijgt opvolger",
+    "en": "Bus strike brings region to a halt; cut to Global Awareness funding and Smulhoek finds successor",
+    "ru": "Забастовка автобусов парализует регион; сокращение финансирования глобальной осведомлённости и Smulhoek находит преемника"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 6,
+  "itemCount": 8,
   "items": [
+    {
+      "id": "omroep-tilburg-2026-10-22-mondiale-bewustwording",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-22T00:00:00+02:00",
+      "title": { "nl": "Bezuiniging op Mondiale Bewustwording raakt veel initiatieven" },
+      "teaser": { "nl": "Het programma Mondiale Bewustwording dreigt per 1 januari te verdwijnen. Daarmee zou een einde komen aan de jaarlijkse gemeentelijke subsidie van 300.000 euro, waarmee vele maatschappelijke initiatieven in de stad worden gesteund." },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/bezuiniging-op-mondiale-bewustwording-raakt-veel-initiatieven/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["bezuiniging", "subsidie", "mondiaal"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-22-smulhoek",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-22T00:00:00+02:00",
+      "title": { "nl": "Johan en Ine vinden opvolger voor de Smulhoek en nemen afscheid" },
+      "teaser": { "nl": "Na een lange zoektocht is er eindelijk een opvolger gevonden voor snackbar De Smulhoek. Johan (77) en Ine (70) vonden het na bijna 44 jaar achter de toonbank mooi geweest. Op 1 december sluiten zij definitief de deuren." },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/johan-en-ine-vinden-opvolger-voor-de-smulhoek-en-nemen-afscheid/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["horeca", "afscheid", "snackbar"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-22-uilennest",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-22T00:00:00+02:00",
+      "title": { "nl": "Café ‘t Uilennest blijft toch nog tijdelijk geopend: ‘Gemeente heeft uitstel gegeven’" },
+      "teaser": { "nl": "Café ‘t Uilennest mag nog tot donderdag 5 november open blijven. De eigenaren Gemma en Atilla moesten eigenlijk de deuren op woensdag 28 oktober sluiten maar de gemeente heeft uitstel gegeven." },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/cafe-t-uilennest-blijf-toch-nog-tijdelijke-geopend/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["horeca", "vergunning", "bibob"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-19-busstaking",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-19T13:33:00+02:00",
+      "title": { "nl": "Donderdag rijden er opnieuw geen bussen door landelijke staking" },
+      "teaser": { "nl": "Buschauffeurs in het streekvervoer leggen donderdag 22 oktober opnieuw het werk neer. Hierdoor rijden er de hele dag geen bussen in de regio." },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/donderdag-rijden-er-opnieuw-geen-bussen-door-landelijke-staking/",
+      "paywall": false,
+      "city": "Regio",
+      "tags": ["staking", "ov", "bus"]
+    },
     {
       "id": "gemeente-2026-10-21-bels-lijntje",
       "sourceId": "gemeente",
@@ -24,7 +80,7 @@
       "url": "https://www.tilburg.nl/nieuws/item/geschiedenis-bels-lijntje-komt-tot-leven/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["cultuur", "fietsroute", "geschiedenis"]
+      "tags": ["fietsroute", "geschiedenis", "cultuur"]
     },
     {
       "id": "gemeente-2026-10-21-buiten-bewegen",
@@ -38,35 +94,7 @@
       "url": "https://www.tilburg.nl/nieuws/item/jouw-mening-over-buiten-bewegen-en-spelen/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["spelen", "sport", "enquete"]
-    },
-    {
-      "id": "politie-2026-10-20-zedendelicten",
-      "sourceId": "politie",
-      "sourceName": "Politie",
-      "category": "incident",
-      "publishedAt": "2026-10-20T00:00:00+02:00",
-      "title": { "nl": "Twee minderjarige verdachten aangehouden na drie zedendelicten" },
-      "teaser": { "nl": "De politie heeft in de nacht van 16 op 17 oktober twee minderjarige verdachten uit Tilburg aangehouden op verdenking van betrokkenheid bij drie zedendelicten. Zij blijven in voorlopige hechtenis." },
-      "langNote": "source-nl",
-      "url": "https://www.politie.nl/nieuws/2026/oktober/20/08-twee-minderjarige-verdachten-aangehouden-na-drie-meldingen-van-zedendelicten.html",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["politie", "zedendelict", "aanhouding"]
-    },
-    {
-      "id": "omroep-brabant-2026-10-16-stroomstoring",
-      "sourceId": "omroep-brabant",
-      "sourceName": "Omroep Brabant",
-      "category": "incident",
-      "publishedAt": "2026-10-16T10:47:00+02:00",
-      "title": { "nl": "Stroomstoring in Tilburg door graafwerkzaamheden" },
-      "teaser": { "nl": "De stroomstoring in Tilburg is opgelost. Minder dan 25 adressen zaten zonder stroom door een beschadigde kabel bij graafwerkzaamheden." },
-      "langNote": "source-nl",
-      "url": "https://www.omroepbrabant.nl/nieuws/6031289/stroomstoring-in-tilburg-door-graafwerkzaamheden",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["stroom", "storing", "incident"]
+      "tags": ["spelen", "sport", "enquête"]
     },
     {
       "id": "gemeente-2026-10-19-warmteprogramma",
