@@ -1,1 +1,188 @@
-{"schema":"tilburg.news.v1","deliveryId":"d43159d1-57d6-4cf9-9dec-20e9fb09aa8d","generatedAt":"2026-10-23T19:08:00+02:00","timezone":"Europe/Amsterdam","source":"Grok verified permalinks 19:08 Amsterdam","headline":{"nl":"Systeemonderhoud gemeente en treinstilstand Tilburg-Eindhoven","en":"Municipal system maintenance and train stoppage Tilburg-Eindhoven","ru":"Техническое обслуживание систем муниципалитета и остановка поездов Тилбург-Эйндховен"},"headlineLangNote":"ui-translated","itemCount":9,"items":[{"id":"gemeente-2026-10-23-onderhoud-systemen","sourceId":"gemeente","sourceName":"Gemeente Tilburg","category":"gemeente","publishedAt":"2026-10-23T00:00:00+02:00","title":{"nl":"Onderhoud aan onze systemen","en":"Maintenance on our systems","ru":"Техническое обслуживание наших систем"},"teaser":{"nl":"Op zaterdag 24 oktober werken we tussen 7:30 en 18:00 uur aan onze systemen. Daardoor werken sommige online formulieren tijdelijk niet.","en":"On Saturday 24 October we will work on our systems between 7:30 and 18:00. Some online forms will temporarily not work.","ru":"В субботу 24 октября мы будем работать над нашими системами с 7:30 до 18:00. Некоторые онлайн-формы временно не будут работать."},"langNote":"ui-translated","url":"https://www.tilburg.nl/nieuws/item/onderhoud-aan-onze-systemen/","paywall":false,"city":"Tilburg","tags":["onderhoud","digitale diensten"]},{"id":"omroep-tilburg-2026-10-23-geen-treinen-tilburg-eindhoven","sourceId":"omroep-tilburg","sourceName":"Omroep Tilburg","category":"omroep","publishedAt":"2026-10-23T00:00:00+02:00","title":{"nl":"Opgelet! Binnenkort geen treinen tussen Tilburg en Eindhoven","en":"Attention! Soon no trains between Tilburg and Eindhoven","ru":"Внимание! Скоро не будет поездов между Тилбургом и Эйндховеном"},"teaser":{"nl":"ProRail werkt in het weekend van 31 oktober tot 2 november aan het spoor tussen Tilburg en Eindhoven. Er rijden dan geen treinen tussen Tilburg en Boxtel.","en":"ProRail will work on the track between Tilburg and Eindhoven from 31 October to 2 November. No trains will run between Tilburg and Boxtel.","ru":"ProRail будет работать на пути между Тилбургом и Эйндховеном с 31 октября по 2 ноября. Поезда между Тилбургом и Бокстелем ходить не будут."},"langNote":"ui-translated","url":"https://www.omroeptilburg.nl/regio/tilburg/opgelet-binnenkort-geen-treinen-tussen-tilburg-en-eindhoven/","paywall":false,"city":"Tilburg","tags":["verkeer","trein"]},{"id":"omroep-tilburg-2026-10-23-fvd-vegan-eis","sourceId":"omroep-tilburg","sourceName":"Omroep Tilburg","category":"omroep","publishedAt":"2026-10-23T00:00:00+02:00","title":{"nl":"FvD strijdt tegen ‘vegan eis’ van gemeente, maar het ligt anders","en":"FvD fights against municipality's ‘vegan requirement’, but the situation is different","ru":"FvD борется против «веганского требования» муниципалитета, но ситуация иная"},"teaser":{"nl":"De fractie van Forum voor Democratie neemt het op voor een horecaondernemer in Udenhout die haar deuren moet sluiten. De gemeente ontkent dat het menu een rol speelt.","en":"The Forum for Democracy faction takes up the cause of a hospitality entrepreneur in Udenhout who must close her doors. The municipality denies that the menu plays a role.","ru":"Фракция Форума за демократию поддерживает предпринимателя в сфере общепита в Уденхауте, которая должна закрыть свои двери. Муниципалитет отрицает, что меню играет роль."},"langNote":"ui-translated","url":"https://www.omroeptilburg.nl/regio/tilburg/berkel-enschot-udenhout/udenhout/fvd-strijdt-tegen-vegan-eis-van-gemeente-maar-het-ligt-anders/","paywall":false,"city":"Udenhout","tags":["politiek","horeca"]},{"id":"omroep-tilburg-2026-10-23-wijkkranten","sourceId":"omroep-tilburg","sourceName":"Omroep Tilburg","category":"omroep","publishedAt":"2026-10-23T00:00:00+02:00","title":{"nl":"Tilburgse wijkkranten zoeken naar toekomst: de een stopt, de ander floreert","en":"Tilburg neighborhood newspapers look for a future: one stops, the other flourishes","ru":"Районные газеты Тилбурга ищут будущее: одна останавливается, другая процветает"},"teaser":{"nl":"Vrijwilligerstekorten en stijgende kosten zorgen bij verschillende Tilburgse wijkkranten voor problemen. Terwijl Tilburg-Noord stopt, laten andere initiatieven zien dat buurtjournalistiek toekomst heeft.","en":"Volunteer shortages and rising costs cause problems for various Tilburg neighborhood newspapers. While Tilburg-Noord stops, other initiatives show that neighborhood journalism has a future.","ru":"Нехватка волонтеров и растущие расходы создают проблемы для различных районных газет Тилбурга. Пока Тилбург-Норд останавливается, другие инициативы показывают, что районная журналистика имеет будущее."},"langNote":"ui-translated","url":"https://www.omroeptilburg.nl/headline/tilburgse-wijkkranten-zoeken-naar-toekomst-de-een-stopt-de-ander-floreert/","paywall":false,"city":"Tilburg","tags":["media","wijk"]},{"id":"omroep-tilburg-2026-10-23-de-tram","sourceId":"omroep-tilburg","sourceName":"Omroep Tilburg","category":"cultuur","publishedAt":"2026-10-23T00:00:00+02:00","title":{"nl":"Van oude tramlijn tot buurtverhaal: De TRAM laat Tilburg de buurt herontdekken","en":"From old tram line to neighborhood story: De TRAM lets Tilburg rediscover the neighborhood","ru":"От старой трамвайной линии к истории района: De TRAM позволяет Тилбургу заново открыть район"},"teaser":{"nl":"Zes weken lang bracht de pop-uproute ‘De TRAM’ de geschiedenis van het Tilburgse Museumkwartier tot leven. De route is nog tot 25 oktober te bezichtigen.","en":"For six weeks the pop-up route ‘De TRAM’ brought the history of Tilburg’s Museumkwartier to life. The route can still be viewed until 25 October.","ru":"В течение шести недель поп-ап-маршрут «De TRAM» оживил историю Музейного квартала Тилбурга. Маршрут можно еще увидеть до 25 октября."},"langNote":"ui-translated","url":"https://www.omroeptilburg.nl/cultuur/van-oude-tramlijn-tot-buurtverhaal-de-tram-laat-tilburg-de-buurt-herontdekken/","paywall":false,"city":"Tilburg","tags":["cultuur","museumkwartier"]},{"id":"omroep-tilburg-2026-10-23-code-geel","sourceId":"omroep-tilburg","sourceName":"Omroep Tilburg","category":"omroep","publishedAt":"2026-10-23T00:00:00+02:00","title":{"nl":"Code geel voor zware windstoten in Noord-Brabant","en":"Code yellow for heavy wind gusts in North Brabant","ru":"Желтый код для сильных порывов ветра в Северном Брабанте"},"teaser":{"nl":"Het KNMI heeft code geel afgegeven voor zware windstoten in Noord-Brabant. De waarschuwing geldt vrijdag 23 oktober van 17.00 tot 23.00 uur.","en":"The KNMI has issued code yellow for heavy wind gusts in North Brabant. The warning applies on Friday 23 October from 17:00 to 23:00.","ru":"KNMI выпустил желтый код для сильных порывов ветра в Северном Брабанте. Предупреждение действует в пятницу 23 октября с 17:00 до 23:00."},"langNote":"ui-translated","url":"https://www.omroeptilburg.nl/regio/code-geel-voor-zware-windstoten-in-noord-brabant/","paywall":false,"city":"Regio","tags":["weer"]},{"id":"gemeente-2026-10-21-bels-lijntje","sourceId":"gemeente","sourceName":"Gemeente Tilburg","category":"gemeente","publishedAt":"2026-10-21T00:00:00+02:00","title":{"nl":"Geschiedenis Bels Lijntje komt tot leven","en":"History of Bels Lijntje comes to life","ru":"История Bels Lijntje оживает"},"teaser":{"nl":"Het Bels Lijntje is nu een populaire fietsroute. Samen met andere partijen brengt de gemeente die bijzondere geschiedenis langs de route weer tot leven.","en":"The Bels Lijntje is now a popular cycling route. Together with other parties the municipality brings that special history along the route back to life.","ru":"Bels Lijntje теперь популярный велосипедный маршрут. Вместе с другими сторонами муниципалитет оживляет эту особую историю вдоль маршрута."},"langNote":"ui-translated","url":"https://www.tilburg.nl/nieuws/item/geschiedenis-bels-lijntje-komt-tot-leven/","paywall":false,"city":"Tilburg","tags":["fietsen","geschiedenis"]},{"id":"omroep-tilburg-2026-10-22-uilennest","sourceId":"omroep-tilburg","sourceName":"Omroep Tilburg","category":"omroep","publishedAt":"2026-10-22T00:00:00+02:00","title":{"nl":"Café ‘t Uilennest blijft toch nog tijdelijk geopend: ‘Gemeente heeft uitstel gegeven’","en":"Café ‘t Uilennest remains temporarily open after all: ‘Municipality has granted postponement’","ru":"Кафе ‘t Uilennest все же остается временно открытым: «Муниципалитет предоставил отсрочку»"},"teaser":{"nl":"Café ‘t Uilennest mag nog tot donderdag 5 november open blijven. De eigenaren moesten eigenlijk de deuren op 28 oktober sluiten.","en":"Café ‘t Uilennest may remain open until Thursday 5 November. The owners were actually supposed to close the doors on 28 October.","ru":"Кафе ‘t Uilennest может оставаться открытым до четверга 5 ноября. Владельцы на самом деле должны были закрыть двери 28 октября."},"langNote":"ui-translated","url":"https://www.omroeptilburg.nl/regio/tilburg/cafe-t-uilennest-blijf-toch-nog-tijdelijke-geopend/","paywall":false,"city":"Tilburg","area":"Koestraat","tags":["horeca","vergunning"]},{"id":"politie-2026-10-20-minderjarigen-zedendelicten","sourceId":"politie","sourceName":"Politie","category":"incident","publishedAt":"2026-10-20T00:00:00+02:00","title":{"nl":"Twee minderjarige verdachten aangehouden na drie zedendelicten","en":"Two minor suspects arrested after three sex offences","ru":"Два несовершеннолетних подозреваемых арестованы после трех сексуальных преступлений"},"teaser":{"nl":"De politie heeft twee minderjarige verdachten uit Tilburg aangehouden op verdenking van betrokkenheid bij drie zedendelicten. Zij blijven in voorlopige hechtenis.","en":"The police have arrested two minor suspects from Tilburg on suspicion of involvement in three sex offences. They remain in pre-trial detention.","ru":"Полиция арестовала двух несовершеннолетних подозреваемых из Тилбурга по подозрению в причастности к трем сексуальным преступлениям. Они остаются под предварительным арестом."},"langNote":"ui-translated","url":"https://www.politie.nl/nieuws/2026/oktober/20/08-twee-minderjarige-verdachten-aangehouden-na-drie-meldingen-van-zedendelicten.html","paywall":false,"city":"Tilburg","tags":["politie","incident"]}]}
+{
+  "schema": "tilburg.news.v1",
+  "deliveryId": "4e719c51-b031-4f1e-a412-e75962a93a19",
+  "generatedAt": "2026-10-24T19:08:46+02:00",
+  "timezone": "Europe/Amsterdam",
+  "source": "Grok verified permalinks 19:08 Amsterdam",
+  "headline": {
+    "nl": "Trappers wint 8-1, gemeente systemen onderhouden en stormschade in regio",
+    "en": "Trappers win 8-1, municipal systems under maintenance and storm damage in the region",
+    "ru": "Трапперс победили 8-1, муниципальные системы на обслуживании и штормовые повреждения в регионе"
+  },
+  "headlineLangNote": "ui-translated",
+  "itemCount": 8,
+  "items": [
+    {
+      "id": "omroep-tilburg-2026-10-24-trappers-8-1",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-24T00:00:00+02:00",
+      "title": {
+        "nl": "Trappers dendert door in Oberliga, mede dankzij dit duo: ‘Ik ken Reno al 25 jaar’",
+        "en": "Trappers storm through in the Oberliga, thanks in part to this duo: ‘I've known Reno for 25 years’",
+        "ru": "Трапперс уверенно идут в Оберлиге, отчасти благодаря этому дуэту: «Я знаю Рено уже 25 лет»"
+      },
+      "teaser": {
+        "nl": "Tilburg Trappers won vrijdagavond overtuigend met 8-1 van TecArt Black Dragons. Danny Stempher en Reno de Hondt waren belangrijk in de derde periode.",
+        "en": "Tilburg Trappers convincingly beat TecArt Black Dragons 8-1 on Friday evening. Danny Stempher and Reno de Hondt were important in the third period.",
+        "ru": "Tilburg Trappers убедительно победили TecArt Black Dragons 8-1 в пятницу вечером. Дэнни Стемпхер и Рено де Хондт были важны в третьем периоде."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/sport/trappers-dendert-door-in-oberliga-mede-dankzij-dit-duo-ik-ken-reno-al-25-jaar/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["sport", "ijshockey", "Trappers"]
+    },
+    {
+      "id": "gemeente-2026-10-23-onderhoud-systemen",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-23T00:00:00+02:00",
+      "title": {
+        "nl": "Onderhoud aan onze systemen",
+        "en": "Maintenance on our systems",
+        "ru": "Обслуживание наших систем"
+      },
+      "teaser": {
+        "nl": "Op zaterdag 24 oktober werken we tussen 7:30 en 18:00 uur aan onze systemen. Sommige online formulieren werken tijdelijk niet.",
+        "en": "On Saturday 24 October we work on our systems between 7:30 and 18:00. Some online forms will temporarily not work.",
+        "ru": "В субботу 24 октября мы работаем над нашими системами с 7:30 до 18:00. Некоторые онлайн-формы временно не работают."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/onderhoud-aan-onze-systemen/",
+      "paywall": false,
+      "city": "Tilburg"
+    },
+    {
+      "id": "omroep-tilburg-2026-10-23-geen-treinen",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-23T00:00:00+02:00",
+      "title": {
+        "nl": "Opgelet! Binnenkort geen treinen tussen Tilburg en Eindhoven",
+        "en": "Attention! Soon no trains between Tilburg and Eindhoven",
+        "ru": "Внимание! Скоро не будет поездов между Тилбургом и Эйндховеном"
+      },
+      "teaser": {
+        "nl": "ProRail werkt van 31 oktober tot 2 november aan het spoor. Er rijden geen treinen tussen Tilburg en Boxtel; NS zet snelbussen in.",
+        "en": "ProRail works on the track from 31 October to 2 November. No trains between Tilburg and Boxtel; NS runs express buses.",
+        "ru": "ProRail работает на путях с 31 октября по 2 ноября. Нет поездов между Тилбургом и Бокстелом; NS запускает экспресс-автобусы."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/opgelet-binnenkort-geen-treinen-tussen-tilburg-en-eindhoven/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["verkeer", "ns", "prorail"]
+    },
+    {
+      "id": "omroep-brabant-2026-10-23-ruzie-buurmalsenlaan",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-10-23T20:32:00+02:00",
+      "title": {
+        "nl": "Man gewond bij ruzie in huis in Tilburg, verdachte slaat op de vlucht",
+        "en": "Man injured in house argument in Tilburg, suspect flees",
+        "ru": "Мужчина ранен в ссоре в доме в Тилбурге, подозреваемый скрылся"
+      },
+      "teaser": {
+        "nl": "Een man is vrijdagavond gewond geraakt bij een ruzie aan de Buurmalsenlaan. Hij is naar het ziekenhuis gebracht; de politie zoekt de verdachte.",
+        "en": "A man was injured Friday evening in an argument on the Buurmalsenlaan. He was taken to hospital; police are looking for the suspect.",
+        "ru": "Мужчина был ранен в пятницу вечером в ссоре на Буурмалсенлаан. Его доставили в больницу; полиция ищет подозреваемого."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6032187/man-gewond-bij-ruzie-in-huis-in-tilburg-verdachte-slaat-op-de-vlucht",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Buurmalsenlaan"
+    },
+    {
+      "id": "omroep-tilburg-2026-10-23-tram-museumkwartier",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-10-23T00:00:00+02:00",
+      "title": {
+        "nl": "Van oude tramlijn tot buurtverhaal: De TRAM laat Tilburg de buurt herontdekken",
+        "en": "From old tram line to neighbourhood story: De TRAM lets Tilburg rediscover the neighbourhood",
+        "ru": "От старой трамвайной линии к истории района: De TRAM позволяет Тилбургу заново открыть район"
+      },
+      "teaser": {
+        "nl": "Zes weken lang bracht de pop-uproute ‘De TRAM’ de geschiedenis van het Museumkwartier tot leven. De route is nog tot 25 oktober te bezichtigen.",
+        "en": "For six weeks the pop-up route ‘De TRAM’ brought the history of the Museumkwartier to life. The route can still be viewed until 25 October.",
+        "ru": "Шесть недель поп-ап маршрут ‘De TRAM’ оживлял историю Музейного квартала. Маршрут можно осмотреть до 25 октября."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/cultuur/van-oude-tramlijn-tot-buurtverhaal-de-tram-laat-tilburg-de-buurt-herontdekken/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Museumkwartier"
+    },
+    {
+      "id": "gemeente-2026-10-21-bels-lijntje",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-21T00:00:00+02:00",
+      "title": {
+        "nl": "Geschiedenis Bels Lijntje komt tot leven",
+        "en": "History of Bels Lijntje comes to life",
+        "ru": "История Bels Lijntje оживает"
+      },
+      "teaser": {
+        "nl": "Langs de populaire fietsroute Bels Lijntje komen informatieborden, een stalen wachthuisje en meer voorzieningen die de oude spoorweggeschiedenis tonen.",
+        "en": "Along the popular cycle route Bels Lijntje come information boards, a steel waiting house and more facilities showing the old railway history.",
+        "ru": "Вдоль популярного веломаршрута Bels Lijntje появляются информационные щиты, стальной домик ожидания и другие объекты, показывающие старую железнодорожную историю."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/geschiedenis-bels-lijntje-komt-tot-leven/",
+      "paywall": false,
+      "city": "Tilburg"
+    },
+    {
+      "id": "politie-2026-10-20-zedendelicten",
+      "sourceId": "politie",
+      "sourceName": "Politie",
+      "category": "incident",
+      "publishedAt": "2026-10-20T00:00:00+02:00",
+      "title": {
+        "nl": "Twee minderjarige verdachten aangehouden na drie zedendelicten",
+        "en": "Two underage suspects arrested after three sexual offences",
+        "ru": "Двое несовершеннолетних подозреваемых задержаны после трёх сексуальных преступлений"
+      },
+      "teaser": {
+        "nl": "In de nacht van 16 op 17 oktober zijn twee minderjarigen uit Tilburg aangehouden. De rechter-commissaris hield hen in voorlopige hechtenis.",
+        "en": "On the night of 16 to 17 October two minors from Tilburg were arrested. The examining magistrate kept them in pre-trial detention.",
+        "ru": "В ночь с 16 на 17 октября двое несовершеннолетних из Тилбурга были задержаны. Следственный судья оставил их под предварительным арестом."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.politie.nl/nieuws/2026/oktober/20/08-twee-minderjarige-verdachten-aangehouden-na-drie-meldingen-van-zedendelicten.html",
+      "paywall": false,
+      "city": "Tilburg"
+    },
+    {
+      "id": "gemeente-2026-10-19-warmteprogramma",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-19T00:00:00+02:00",
+      "title": {
+        "nl": "Ontwerp-Warmteprogramma ter inzage",
+        "en": "Draft Heat Programme available for inspection",
+        "ru": "Проект программы отопления доступен для ознакомления"
+      },
+      "teaser": {
+        "nl": "Tot en met 30 november 2026 kun je reageren op het ontwerp-Warmteprogramma. Documenten liggen digitaal en op papier ter inzage.",
+        "en": "Until 30 November 2026 you can respond to the draft Heat Programme. Documents are available digitally and on paper.",
+        "ru": "До 30 ноября 2026 года можно отреагировать на проект программы отопления. Документы доступны в цифровом виде и на бумаге."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/ontwerp-warmteprogramma-ter-inzage/",
+      "paywall": false,
+      "city": "Tilburg"
+    }
+  ]
+}
