@@ -1,17 +1,40 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "4e719c51-b031-4f1e-a412-e75962a93a19",
-  "generatedAt": "2026-10-24T19:08:46+02:00",
+  "deliveryId": "b573dddb-af54-4b39-adbf-159a5b0c6a80",
+  "generatedAt": "2026-10-25T20:10:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:08 Amsterdam",
+  "source": "Grok verified permalinks 20:10 Amsterdam",
   "headline": {
-    "nl": "Trappers wint 8-1, gemeente systemen onderhouden en stormschade in regio",
-    "en": "Trappers win 8-1, municipal systems under maintenance and storm damage in the region",
-    "ru": "Трапперс победили 8-1, муниципальные системы на обслуживании и штормовые повреждения в регионе"
+    "nl": "Politie bevestigt schoten bij Van der Valk na camerabeelden; gemeente notices over warmte en Bels Lijntje blijven actueel",
+    "en": "Police confirm shots at Van der Valk after camera footage; municipal notices on heat and Bels Lijntje remain current",
+    "ru": "Полиция подтверждает выстрелы у Van der Valk после видеозаписей; муниципальные уведомления о тепле и Bels Lijntje остаются актуальными"
   },
   "headlineLangNote": "ui-translated",
   "itemCount": 8,
   "items": [
+    {
+      "id": "omroep-brabant-2026-10-25-schoten-hotel",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-10-25T11:35:00+02:00",
+      "title": {
+        "nl": "Geen aanwijzing voor schoten bij hotel, tot politie beelden terugkijkt",
+        "en": "No indication of shots at hotel, until police review footage",
+        "ru": "Никаких признаков выстрелов у отеля, пока полиция не просмотрела записи"
+      },
+      "teaser": {
+        "nl": "Een melding van schoten bij het Van der Valk Hotel in Tilburg leek zaterdagavond vals alarm. Na het terugkijken van camerabeelden gaat de politie er toch van uit dat er is geschoten. Niemand raakte gewond.",
+        "en": "A report of shots at the Van der Valk Hotel in Tilburg seemed a false alarm on Saturday evening. After reviewing camera footage the police now assume shots were fired. No one was injured.",
+        "ru": "Сообщение о выстрелах у отеля Van der Valk в Тилбурге казалось ложной тревогой в субботу вечером. После просмотра видеозаписей полиция теперь считает, что выстрелы были. Никто не пострадал."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6032277/geen-aanwijzing-voor-schoten-bij-hotel-tot-politie-beelden-terugkijkt",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Dokter Bloemenstraat",
+      "tags": ["politie", "incident"]
+    },
     {
       "id": "omroep-tilburg-2026-10-24-trappers-8-1",
       "sourceId": "omroep-tilburg",
@@ -35,27 +58,6 @@
       "tags": ["sport", "ijshockey", "Trappers"]
     },
     {
-      "id": "gemeente-2026-10-23-onderhoud-systemen",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-10-23T00:00:00+02:00",
-      "title": {
-        "nl": "Onderhoud aan onze systemen",
-        "en": "Maintenance on our systems",
-        "ru": "Обслуживание наших систем"
-      },
-      "teaser": {
-        "nl": "Op zaterdag 24 oktober werken we tussen 7:30 en 18:00 uur aan onze systemen. Sommige online formulieren werken tijdelijk niet.",
-        "en": "On Saturday 24 October we work on our systems between 7:30 and 18:00. Some online forms will temporarily not work.",
-        "ru": "В субботу 24 октября мы работаем над нашими системами с 7:30 до 18:00. Некоторые онлайн-формы временно не работают."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.tilburg.nl/nieuws/item/onderhoud-aan-onze-systemen/",
-      "paywall": false,
-      "city": "Tilburg"
-    },
-    {
       "id": "omroep-tilburg-2026-10-23-geen-treinen",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
@@ -76,28 +78,6 @@
       "paywall": false,
       "city": "Tilburg",
       "tags": ["verkeer", "ns", "prorail"]
-    },
-    {
-      "id": "omroep-brabant-2026-10-23-ruzie-buurmalsenlaan",
-      "sourceId": "omroep-brabant",
-      "sourceName": "Omroep Brabant",
-      "category": "incident",
-      "publishedAt": "2026-10-23T20:32:00+02:00",
-      "title": {
-        "nl": "Man gewond bij ruzie in huis in Tilburg, verdachte slaat op de vlucht",
-        "en": "Man injured in house argument in Tilburg, suspect flees",
-        "ru": "Мужчина ранен в ссоре в доме в Тилбурге, подозреваемый скрылся"
-      },
-      "teaser": {
-        "nl": "Een man is vrijdagavond gewond geraakt bij een ruzie aan de Buurmalsenlaan. Hij is naar het ziekenhuis gebracht; de politie zoekt de verdachte.",
-        "en": "A man was injured Friday evening in an argument on the Buurmalsenlaan. He was taken to hospital; police are looking for the suspect.",
-        "ru": "Мужчина был ранен в пятницу вечером в ссоре на Буурмалсенлаан. Его доставили в больницу; полиция ищет подозреваемого."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroepbrabant.nl/nieuws/6032187/man-gewond-bij-ruzie-in-huis-in-tilburg-verdachte-slaat-op-de-vlucht",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Buurmalsenlaan"
     },
     {
       "id": "omroep-tilburg-2026-10-23-tram-museumkwartier",
@@ -143,25 +123,47 @@
       "city": "Tilburg"
     },
     {
-      "id": "politie-2026-10-20-zedendelicten",
-      "sourceId": "politie",
-      "sourceName": "Politie",
-      "category": "incident",
-      "publishedAt": "2026-10-20T00:00:00+02:00",
+      "id": "gemeente-2026-10-21-mening-buiten-spelen",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-21T00:00:00+02:00",
       "title": {
-        "nl": "Twee minderjarige verdachten aangehouden na drie zedendelicten",
-        "en": "Two underage suspects arrested after three sexual offences",
-        "ru": "Двое несовершеннолетних подозреваемых задержаны после трёх сексуальных преступлений"
+        "nl": "Jouw mening over buiten bewegen en spelen",
+        "en": "Your opinion on outdoor moving and playing",
+        "ru": "Ваше мнение о занятиях спортом и играх на улице"
       },
       "teaser": {
-        "nl": "In de nacht van 16 op 17 oktober zijn twee minderjarigen uit Tilburg aangehouden. De rechter-commissaris hield hen in voorlopige hechtenis.",
-        "en": "On the night of 16 to 17 October two minors from Tilburg were arrested. The examining magistrate kept them in pre-trial detention.",
-        "ru": "В ночь с 16 на 17 октября двое несовершеннолетних из Тилбурга были задержаны. Следственный судья оставил их под предварительным арестом."
+        "nl": "De gemeente vraagt inwoners via een vragenlijst hoe zij speel- en sportplekken in de buurt ervaren. Invullen kan tot en met 15 november.",
+        "en": "The municipality asks residents via a questionnaire how they experience play and sports places in the neighbourhood. Filling in is possible until 15 November.",
+        "ru": "Муниципалитет спрашивает жителей через анкету, как они воспринимают игровые и спортивные площадки в районе. Заполнение возможно до 15 ноября."
       },
       "langNote": "ui-translated",
-      "url": "https://www.politie.nl/nieuws/2026/oktober/20/08-twee-minderjarige-verdachten-aangehouden-na-drie-meldingen-van-zedendelicten.html",
+      "url": "https://www.tilburg.nl/nieuws/item/jouw-mening-over-buiten-bewegen-en-spelen/",
       "paywall": false,
       "city": "Tilburg"
+    },
+    {
+      "id": "omroep-tilburg-2026-10-22-uilennest",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-22T00:00:00+02:00",
+      "title": {
+        "nl": "Café ‘t Uilennest blijft toch nog tijdelijk geopend: ‘Gemeente heeft uitstel gegeven’",
+        "en": "Café ‘t Uilennest remains temporarily open after all: ‘Municipality has granted postponement’",
+        "ru": "Кафе ‘t Uilennest всё же временно остаётся открытым: «Муниципалитет дал отсрочку»"
+      },
+      "teaser": {
+        "nl": "Café ‘t Uilennest mag nog tot 5 november open blijven. De gemeente heeft uitstel gegeven; de zaak loopt via de rechter.",
+        "en": "Café ‘t Uilennest may remain open until 5 November. The municipality granted postponement; the case is proceeding via the court.",
+        "ru": "Кафе ‘t Uilennest может оставаться открытым до 5 ноября. Муниципалитет дал отсрочку; дело идёт через суд."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/cafe-t-uilennest-blijf-toch-nog-tijdelijke-geopend/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Koestraat"
     },
     {
       "id": "gemeente-2026-10-19-warmteprogramma",
