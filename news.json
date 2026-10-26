@@ -1,1 +1,194 @@
-$(cat /tmp/news.json)
+{
+  "schema": "tilburg.news.v1",
+  "deliveryId": "30805638-d9ea-4f0a-907b-cf0dee48f95b",
+  "generatedAt": "2026-10-26T19:09:10+01:00",
+  "timezone": "Europe/Amsterdam",
+  "source": "Grok verified permalinks 19:09 Amsterdam",
+  "headline": {
+    "nl": "Politie vindt duizenden kilo’s druggrondstoffen in Tilburg; busnetwerk vernieuwd vanaf december",
+    "en": "Police find thousands of kilos of drug precursors in Tilburg; bus network renewed from December",
+    "ru": "Полиция нашла тысячи килограммов прекурсоров для наркотиков в Тилбурге; автобусная сеть обновляется с декабря"
+  },
+  "headlineLangNote": "ui-translated",
+  "itemCount": 8,
+  "items": [
+    {
+      "id": "omroep-tilburg-2026-10-26-drugs-grondstoffen",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-10-26T14:00:00+01:00",
+      "title": {
+        "nl": "Duizenden kilo’s grondstoffen voor synthetische drugs gevonden in Tilburg",
+        "en": "Thousands of kilos of precursors for synthetic drugs found in Tilburg",
+        "ru": "Тысячи килограммов прекурсоров для синтетических наркотиков найдены в Тилбурге"
+      },
+      "teaser": {
+        "nl": "De politie heeft maandagmiddag duizenden kilo’s grondstoffen aangetroffen die worden gebruikt voor de productie van synthetische drugs in een pand aan de Goirkestraat. Er is nog niemand aangehouden.",
+        "en": "Police found thousands of kilos of precursors used for synthetic drug production in a building on Goirkestraat on Monday afternoon. No one has been arrested yet.",
+        "ru": "Полиция обнаружила тысячи килограммов прекурсоров, используемых для производства синтетических наркотиков, в здании на Goirkestraat в понедельник днём. Никто ещё не задержан."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/duizenden-kilos-grondstoffen-voor-synthetische-drugs-gevonden-in-tilburg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Goirkestraat",
+      "tags": ["politie", "drugs"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-26-busnetwerk",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-26T13:00:00+01:00",
+      "title": {
+        "nl": "Compleet nieuw busnetwerk in regio Tilburg: nieuwe haltes, routes en nummers",
+        "en": "Completely new bus network in Tilburg region: new stops, routes and numbers",
+        "ru": "Полностью новая автобусная сеть в регионе Тилбурга: новые остановки, маршруты и номера"
+      },
+      "teaser": {
+        "nl": "Arriva rijdt vanaf zondag 13 december een volledig nieuwe dienstregeling met vernieuwde bushaltes, routes, vertrektijden en lijnnummers voor de hele regio.",
+        "en": "From Sunday 13 December Arriva will operate a completely new timetable with renewed bus stops, routes, departure times and line numbers across the region.",
+        "ru": "С воскресенья 13 декабря Arriva запускает полностью новое расписание с обновлёнными остановками, маршрутами, временами отправления и номерами линий по всему региону."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/compleet-nieuw-busnetwerk-in-regio-tilburg-nieuwe-haltes-lijnnummers-en-routes/",
+      "paywall": false,
+      "city": "Regio",
+      "tags": ["ov", "arriva"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-26-elfde-van-de-elfde",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-26T12:00:00+01:00",
+      "title": {
+        "nl": "Elfde van de Elfde Tilburg onzeker: horeca botst met gemeente over tieners",
+        "en": "Eleventh of the Eleventh in Tilburg uncertain: hospitality clashes with municipality over teenagers",
+        "ru": "Одиннадцатое ноября в Тилбурге под вопросом: общепит конфликтует с муниципалитетом из-за подростков"
+      },
+      "teaser": {
+        "nl": "De gemeente en horeca botsen over of minderjarigen altijd welkom zijn tijdens de Elfde van de Elfde. Het feest staat daardoor op losse schroeven; dinsdag volgt overleg.",
+        "en": "The municipality and hospitality sector clash over whether minors are always welcome during the Eleventh of the Eleventh. The festival is therefore in doubt; talks follow on Tuesday.",
+        "ru": "Муниципалитет и общепит спорят, всегда ли несовершеннолетние welcome на Одиннадцатое ноября. Фестиваль под угрозой; во вторник пройдут переговоры."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/elfde-van-de-elfde-tilburg-onzeker-horeca-botst-met-gemeente-over-tieners/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["carnaval"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-24-trappers",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-24T11:09:00+02:00",
+      "title": {
+        "nl": "Trappers dendert door in Oberliga, mede dankzij dit duo: ‘Ik ken Reno al 25 jaar’",
+        "en": "Trappers continue strong in Oberliga, partly thanks to this duo: ‘I’ve known Reno for 25 years’",
+        "ru": "Trappers продолжают успешно в Oberliga, отчасти благодаря этому дуэту: «Я знаю Рено уже 25 лет»"
+      },
+      "teaser": {
+        "nl": "Tilburg Trappers won vrijdagavond overtuigend met 8-1 van TecArt Black Dragons. Captain Reno de Hondt speelde een hoofdrol.",
+        "en": "Tilburg Trappers won convincingly 8-1 on Friday evening against TecArt Black Dragons. Captain Reno de Hondt played a leading role.",
+        "ru": "Tilburg Trappers уверенно победили в пятницу вечером со счётом 8-1 против TecArt Black Dragons. Капитан Рено де Хондт сыграл ключевую роль."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/sport/trappers-dendert-door-in-oberliga-mede-dankzij-dit-duo-ik-ken-reno-al-25-jaar/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["sport", "ijshockey"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-23-wijkkranten",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-23T15:31:00+02:00",
+      "title": {
+        "nl": "Tilburgse wijkkranten zoeken naar toekomst: de een stopt, de ander floreert",
+        "en": "Tilburg neighbourhood newspapers seek a future: one stops, another thrives",
+        "ru": "Районные газеты Тилбурга ищут будущее: одна закрывается, другая процветает"
+      },
+      "teaser": {
+        "nl": "Wijkkrant Tilburg-Noord stopt door gebrek aan vrijwilligers, terwijl andere initiatieven zoals digitale platforms en De Koppel laten zien dat buurtjournalistiek toekomst heeft.",
+        "en": "Neighbourhood paper Tilburg-Noord stops due to lack of volunteers, while other initiatives such as digital platforms and De Koppel show that neighbourhood journalism still has a future.",
+        "ru": "Районная газета Tilburg-Noord закрывается из-за нехватки волонтёров, в то время как другие инициативы, такие как цифровые платформы и De Koppel, показывают, что у районной журналистики есть будущее."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/headline/tilburgse-wijkkranten-zoeken-naar-toekomst-de-een-stopt-de-ander-floreert/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["media"]
+    },
+    {
+      "id": "gemeente-2026-10-21-bels-lijntje",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-21T00:00:00+02:00",
+      "title": {
+        "nl": "Geschiedenis Bels Lijntje komt tot leven",
+        "en": "History of the Bels Lijntje comes to life",
+        "ru": "История Bels Lijntje оживает"
+      },
+      "teaser": {
+        "nl": "Langs de populaire fietsroute, die vroeger een spoorwegverbinding was tussen Tilburg en Turnhout, staan nu informatieborden, picknickbanken en een stalen frame van een oud wachthuisje.",
+        "en": "Along the popular cycle route that was once a railway connection between Tilburg and Turnhout there are now information boards, picnic benches and a steel frame of an old watchman’s hut.",
+        "ru": "Вдоль популярного велосипедного маршрута, который раньше был железнодорожной линией между Тилбургом и Турнхаутом, теперь установлены информационные щиты, скамейки для пикника и стальной каркас старого сторожевого домика."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/geschiedenis-bels-lijntje-komt-tot-leven/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Stadsbos013",
+      "tags": ["fietsen", "geschiedenis"]
+    },
+    {
+      "id": "gemeente-2026-10-21-buiten-bewegen",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-21T00:00:00+02:00",
+      "title": {
+        "nl": "Jouw mening over buiten bewegen en spelen",
+        "en": "Your opinion on outdoor exercise and play",
+        "ru": "Ваше мнение об активном отдыхе и играх на улице"
+      },
+      "teaser": {
+        "nl": "De gemeente vraagt inwoners via een vragenlijst hoe zij speel- en sportplekken in de buurt ervaren. Invullen kan tot en met 15 november.",
+        "en": "The municipality asks residents via a questionnaire how they experience play and sports areas in the neighbourhood. Responses are open until 15 November.",
+        "ru": "Муниципалитет через анкету спрашивает жителей, как они воспринимают игровые и спортивные площадки в районе. Ответы принимаются до 15 ноября."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/jouw-mening-over-buiten-bewegen-en-spelen/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["spelen", "sport"]
+    },
+    {
+      "id": "gemeente-2026-10-19-warmteprogramma",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-19T00:00:00+02:00",
+      "title": {
+        "nl": "Ontwerp-Warmteprogramma ter inzage",
+        "en": "Draft Heat Programme open for inspection",
+        "ru": "Проект программы теплоснабжения вынесен на обсуждение"
+      },
+      "teaser": {
+        "nl": "Tilburg werkt naar een toekomst zonder aardgas. Het ontwerp-Warmteprogramma ligt ter inzage tot en met 30 november 2026; zienswijzen kunnen worden ingediend.",
+        "en": "Tilburg is working towards a future without natural gas. The draft Heat Programme is open for inspection until 30 November 2026; opinions can be submitted.",
+        "ru": "Тилбург движется к будущему без природного газа. Проект программы теплоснабжения доступен для ознакомления до 30 ноября 2026 года; можно подавать замечания."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/ontwerp-warmteprogramma-ter-inzage/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["duurzaam", "energie"]
+    }
+  ]
+}
