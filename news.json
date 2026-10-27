@@ -1,17 +1,83 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "30805638-d9ea-4f0a-907b-cf0dee48f95b",
-  "generatedAt": "2026-10-26T19:09:10+01:00",
+  "deliveryId": "a41eaff4-e163-46a0-a8d0-d3cb8f35d292",
+  "generatedAt": "2026-10-27T19:09:22+01:00",
   "timezone": "Europe/Amsterdam",
   "source": "Grok verified permalinks 19:09 Amsterdam",
   "headline": {
-    "nl": "Politie vindt duizenden kilo’s druggrondstoffen in Tilburg; busnetwerk vernieuwd vanaf december",
-    "en": "Police find thousands of kilos of drug precursors in Tilburg; bus network renewed from December",
-    "ru": "Полиция нашла тысячи килограммов прекурсоров для наркотиков в Тилбурге; автобусная сеть обновляется с декабря"
+    "nl": "A58 bij Tilburg kort afgesloten na omgevallen aanhangwagen; De Mus keert eenmalig terug",
+    "en": "A58 near Tilburg briefly closed after overturned trailer; De Mus returns for one night",
+    "ru": "А58 у Тилбурга кратко закрыта после опрокинутого прицепа; De Mus возвращается на один вечер"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 8,
+  "itemCount": 9,
   "items": [
+    {
+      "id": "omroep-tilburg-2026-10-27-a58-aanhangwagen",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-10-27T10:58:00+01:00",
+      "title": {
+        "nl": "Deel A58 bij Tilburg tijdelijk afgesloten door omgevallen aanhangwagen",
+        "en": "Section of A58 near Tilburg temporarily closed by overturned trailer",
+        "ru": "Участок А58 у Тилбурга временно закрыт из-за опрокинутого прицепа"
+      },
+      "teaser": {
+        "nl": "Dinsdagochtend viel een aanhangwagen om op de A58 tussen Tilburg-Centrum West en knooppunt De Baars. De bestuurder bleef ongedeerd; de weg was kort volledig afgesloten en er ontstond file.",
+        "en": "On Tuesday morning a trailer overturned on the A58 between Tilburg-Centrum West and junction De Baars. The driver was unharmed; the road was briefly fully closed and a queue formed.",
+        "ru": "Во вторник утром на А58 между Tilburg-Centrum West и развязкой De Baars опрокинулся прицеп. Водитель не пострадал; дорога была кратко полностью закрыта, образовалась пробка."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/deel-a58-bij-tilburg-tijdelijk-afgesloten-door-omgevallen-aanhangwagen/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["verkeer", "a58"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-27-de-mus",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-10-27T12:41:00+01:00",
+      "title": {
+        "nl": "Theateravond De Mus keert eenmalig terug dankzij toevallige vondst",
+        "en": "Theatre evening De Mus returns once thanks to chance find",
+        "ru": "Театральный вечер De Mus возвращается один раз благодаря случайной находке"
+      },
+      "teaser": {
+        "nl": "Theateravond De Mus keert op 27 november eenmalig terug in De Nachtzuster. Organisatoren vonden geld in een oude kassa en besloten nog één variétéavond te organiseren.",
+        "en": "Theatre evening De Mus returns once on 27 November at De Nachtzuster. Organisers found money in an old till and decided to stage one more variety night.",
+        "ru": "Театральный вечер De Mus возвращается один раз 27 ноября в De Nachtzuster. Организаторы нашли деньги в старой кассе и решили устроить ещё один варьете-вечер."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/cultuur/theateravond-de-mus-keert-eenmalig-terug-dankzij-toevallige-vondst/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["theater", "cultuur"]
+    },
+    {
+      "id": "omroep-brabant-2026-10-27-moslimgemeenschap",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "omroep",
+      "publishedAt": "2026-10-27T13:45:00+01:00",
+      "title": {
+        "nl": "Moslimgemeenschap Tilburg in crisis: ‘Sektarische verdeeldheid’",
+        "en": "Tilburg Muslim community in crisis: ‘Sectarian division’",
+        "ru": "Мусульманская община Тилбурга в кризисе: «Сектантское разделение»"
+      },
+      "teaser": {
+        "nl": "Binnen de Tilburgse moslimgemeenschap is verdeeldheid ontstaan rond het overlegorgaan Verenigd Tilburg. De voorzitter van de El-Feth Moskee wilde zijn bestuur schorsen; partijen verwijzen naar personen rond Soner Atasoy.",
+        "en": "Division has arisen within the Tilburg Muslim community around the consultation body Verenigd Tilburg. The chair of El-Feth Mosque wanted to suspend his board; parties point to persons around Soner Atasoy.",
+        "ru": "В мусульманской общине Тилбурга возникло разделение вокруг консультативного органа Verenigd Tilburg. Председатель мечети El-Feth хотел отстранить свой совет; стороны указывают на лиц вокруг Soner Atasoy."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6032432/moslimgemeenschap-tilburg-in-crisis-sektarische-verdeeldheid",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["gemeenschap"]
+    },
     {
       "id": "omroep-tilburg-2026-10-26-drugs-grondstoffen",
       "sourceId": "omroep-tilburg",
@@ -80,55 +146,11 @@
       "tags": ["carnaval"]
     },
     {
-      "id": "omroep-tilburg-2026-10-24-trappers",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-10-24T11:09:00+02:00",
-      "title": {
-        "nl": "Trappers dendert door in Oberliga, mede dankzij dit duo: ‘Ik ken Reno al 25 jaar’",
-        "en": "Trappers continue strong in Oberliga, partly thanks to this duo: ‘I’ve known Reno for 25 years’",
-        "ru": "Trappers продолжают успешно в Oberliga, отчасти благодаря этому дуэту: «Я знаю Рено уже 25 лет»"
-      },
-      "teaser": {
-        "nl": "Tilburg Trappers won vrijdagavond overtuigend met 8-1 van TecArt Black Dragons. Captain Reno de Hondt speelde een hoofdrol.",
-        "en": "Tilburg Trappers won convincingly 8-1 on Friday evening against TecArt Black Dragons. Captain Reno de Hondt played a leading role.",
-        "ru": "Tilburg Trappers уверенно победили в пятницу вечером со счётом 8-1 против TecArt Black Dragons. Капитан Рено де Хондт сыграл ключевую роль."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/sport/trappers-dendert-door-in-oberliga-mede-dankzij-dit-duo-ik-ken-reno-al-25-jaar/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["sport", "ijshockey"]
-    },
-    {
-      "id": "omroep-tilburg-2026-10-23-wijkkranten",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-10-23T15:31:00+02:00",
-      "title": {
-        "nl": "Tilburgse wijkkranten zoeken naar toekomst: de een stopt, de ander floreert",
-        "en": "Tilburg neighbourhood newspapers seek a future: one stops, another thrives",
-        "ru": "Районные газеты Тилбурга ищут будущее: одна закрывается, другая процветает"
-      },
-      "teaser": {
-        "nl": "Wijkkrant Tilburg-Noord stopt door gebrek aan vrijwilligers, terwijl andere initiatieven zoals digitale platforms en De Koppel laten zien dat buurtjournalistiek toekomst heeft.",
-        "en": "Neighbourhood paper Tilburg-Noord stops due to lack of volunteers, while other initiatives such as digital platforms and De Koppel show that neighbourhood journalism still has a future.",
-        "ru": "Районная газета Tilburg-Noord закрывается из-за нехватки волонтёров, в то время как другие инициативы, такие как цифровые платформы и De Koppel, показывают, что у районной журналистики есть будущее."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/headline/tilburgse-wijkkranten-zoeken-naar-toekomst-de-een-stopt-de-ander-floreert/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["media"]
-    },
-    {
       "id": "gemeente-2026-10-21-bels-lijntje",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
-      "publishedAt": "2026-10-21T00:00:00+02:00",
+      "publishedAt": "2026-10-21T00:00:00+01:00",
       "title": {
         "nl": "Geschiedenis Bels Lijntje komt tot leven",
         "en": "History of the Bels Lijntje comes to life",
@@ -151,7 +173,7 @@
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
-      "publishedAt": "2026-10-21T00:00:00+02:00",
+      "publishedAt": "2026-10-21T00:00:00+01:00",
       "title": {
         "nl": "Jouw mening over buiten bewegen en spelen",
         "en": "Your opinion on outdoor exercise and play",
@@ -173,7 +195,7 @@
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
-      "publishedAt": "2026-10-19T00:00:00+02:00",
+      "publishedAt": "2026-10-19T00:00:00+01:00",
       "title": {
         "nl": "Ontwerp-Warmteprogramma ter inzage",
         "en": "Draft Heat Programme open for inspection",
