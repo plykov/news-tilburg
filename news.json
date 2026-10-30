@@ -1,35 +1,150 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "f0575b2a-a429-4f49-9302-5818018d89b8",
-  "generatedAt": "2026-10-29T19:08:00+01:00",
+  "deliveryId": "b0499976-5856-45fb-bb84-a833451cbec9",
+  "generatedAt": "2026-10-30T19:10:00+01:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:08 Amsterdam",
+  "source": "Grok verified permalinks 19:10 Amsterdam",
   "headline": {
-    "nl": "Willem II haalt Jurgen Streppel terug; politie zoekt getuigen overval Oeralweg",
-    "en": "Willem II brings back Jurgen Streppel; police seek witnesses for Oeralweg robbery",
-    "ru": "Виллем II возвращает Юргена Стреппеля; полиция ищет свидетелей ограбления на Оэралвег"
+    "nl": "Tilburg investeert 1,3 miljoen in evenementen 2027; ETZ beperkt zorg voor Zilveren Kruis",
+    "en": "Tilburg invests 1.3 million in 2027 events; ETZ limits care for Zilveren Kruis",
+    "ru": "Тильбург инвестирует 1,3 млн в события 2027; ETZ ограничивает помощь для Zilveren Kruis"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "politie-2026-10-29-oeralweg",
-      "sourceId": "politie",
-      "sourceName": "Politie",
-      "category": "incident",
-      "publishedAt": "2026-10-29T00:00:00+01:00",
+      "id": "gemeente-2026-10-30-evenementen-2027",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-30T00:00:00+01:00",
       "title": {
-        "nl": "Diefstal met geweld op de Oeralweg in Tilburg"
+        "nl": "Tilburg investeert in 2027 ruim 1,3 miljoen in evenementen",
+        "en": "Tilburg invests over 1.3 million in events for 2027",
+        "ru": "Тильбург инвестирует более 1,3 млн в мероприятия на 2027 год"
       },
       "teaser": {
-        "nl": "In de nacht van 28 op 29 oktober is een minderjarige mishandeld en beroofd van fatbike en pinpas op de Oeralweg. Politie zoekt getuigen en camerabeelden."
+        "nl": "De gemeente ondersteunt 23 stadsbrede evenementen met 600.000 euro subsidie. Daarnaast is er 740.000 euro voor meerjarige subsidies.",
+        "en": "The municipality supports 23 city-wide events with 600,000 euro subsidy. An additional 740,000 euro is available for multi-year subsidies.",
+        "ru": "Муниципалитет поддерживает 23 городских мероприятия субсидией 600 000 евро. Дополнительно 740 000 евро на многолетние субсидии."
       },
-      "langNote": "source-nl",
-      "url": "https://www.politie.nl/gezocht/getuigenoproep/2026/oktober/08-diefstal-met-geweld-op-de-oeralweg-in-tilburg",
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/tilburg-investeert-in-2027-ruim-13-miljoen-in-evenementen/",
       "paywall": false,
       "city": "Tilburg",
-      "area": "Oeralweg",
-      "tags": ["politie", "overval"]
+      "tags": ["evenementen", "subsidie"]
+    },
+    {
+      "id": "gemeente-2026-10-30-natuurherstel-helikopter",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-30T00:00:00+01:00",
+      "title": {
+        "nl": "Natuurherstel met helikopter boven Stadsbos013",
+        "en": "Nature restoration with helicopter over Stadsbos013",
+        "ru": "Восстановление природы с вертолётом над Stadsbos013"
+      },
+      "teaser": {
+        "nl": "Van 9 tot 18 november strooit Bosgroep Zuid Nederland steenmeel uit boven verzuurde bosgebieden met een helikopter. Delen zijn tijdelijk afgesloten.",
+        "en": "From 9 to 18 November, Bosgroep Zuid Nederland will spread rock dust over acidified forest areas by helicopter. Parts will be temporarily closed.",
+        "ru": "С 9 по 18 ноября Bosgroep Zuid Nederland разбросает каменную муку над закисленными лесами с вертолёта. Части будут временно закрыты."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/natuurherstel-met-helikopter-boven-stadsbos013/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Stadsbos013",
+      "tags": ["natuur", "stadsbos"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-30-geen-treinen-aanrijding",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-30T00:00:00+01:00",
+      "title": {
+        "nl": "Geen treinen tussen Tilburg en Eindhoven door aanrijding",
+        "en": "No trains between Tilburg and Eindhoven due to collision",
+        "ru": "Нет поездов между Тильбургом и Эйндховеном из-за столкновения"
+      },
+      "teaser": {
+        "nl": "Door een aanrijding rijden er geen treinen tussen Boxtel en Eindhoven Centraal. Reizigers vanuit Tilburg kunnen niet verder dan Boxtel. NS verwacht hervatting vanaf 14.45 uur.",
+        "en": "Due to a collision, no trains run between Boxtel and Eindhoven Centraal. Travellers from Tilburg cannot go beyond Boxtel. NS expects resumption from 14:45.",
+        "ru": "Из-за столкновения нет поездов между Бокстелом и Эйндховеном. Пассажиры из Тильбурга не могут ехать дальше Бокстела. NS ожидает возобновление с 14:45."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/geen-treinen-tussen-tilburg-en-eindhoven-door-aanrijding-2/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["ns", "verkeer"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-30-etz-zilveren-kruis",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-30T00:00:00+01:00",
+      "title": {
+        "nl": "ETZ plant vanaf november geen nieuwe afspraken meer in voor deel verzekerden Zilveren Kruis",
+        "en": "ETZ will no longer schedule new appointments for some Zilveren Kruis insured from November",
+        "ru": "ETZ с ноября не планирует новые приёмы для части застрахованных Zilveren Kruis"
+      },
+      "teaser": {
+        "nl": "Het zorgbudget voor Zilveren Kruis, Interpolis, FBTO en andere is bijna bereikt. Spoedeisende zorg en bestaande afspraken blijven mogelijk.",
+        "en": "The care budget for Zilveren Kruis, Interpolis, FBTO and others is almost reached. Emergency care and existing appointments remain possible.",
+        "ru": "Бюджет на помощь для Zilveren Kruis, Interpolis, FBTO почти исчерпан. Экстренная помощь и существующие записи остаются возможными."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/etz-plant-vanaf-november-geen-nieuwe-afspraken-meer-in-voor-deel-verzekerden-zilveren-kruis/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["zorg", "etz"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-30-colombiaanse-vrouwen-oisterwijk",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-10-30T00:00:00+01:00",
+      "title": {
+        "nl": "Colombiaanse vrouwen in huis Oisterwijk gevonden, vier mannen verdacht van mensenhandel",
+        "en": "Colombian women found in Oisterwijk house, four men suspected of human trafficking",
+        "ru": "Колумбийские женщины найдены в доме в Ойстервейке, четверо мужчин подозреваются в торговле людьми"
+      },
+      "teaser": {
+        "nl": "Politie hield op 13 oktober vier mannen aan na langdurig onderzoek. Twee Colombiaanse vrouwen werden in een woning in Oisterwijk aangetroffen.",
+        "en": "Police arrested four men on 13 October after a long investigation. Two Colombian women were found in a house in Oisterwijk.",
+        "ru": "Полиция задержала четверых мужчин 13 октября после длительного расследования. Двух колумбийских женщин нашли в доме в Ойстервейке."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/oisterwijk/colombiaanse-vrouwen-in-huis-oisterwijk-gevonden-vier-mannen-verdacht-van-mensenhandel/",
+      "paywall": false,
+      "city": "Oisterwijk",
+      "tags": ["politie", "mensenhandel"]
+    },
+    {
+      "id": "omroep-brabant-2026-10-29-explosie-wijnruitweg",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-10-29T17:45:00+01:00",
+      "title": {
+        "nl": "Explosie in Tilburg bij huis met kinderen: 'Allemaal erg geschrokken'",
+        "en": "Explosion in Tilburg at house with children: 'Everyone very shocked'",
+        "ru": "Взрыв в Тильбурге у дома с детьми: 'Все сильно напуганы'"
+      },
+      "teaser": {
+        "nl": "In een huis aan de Wijnruitweg ging woensdagnacht een explosief af. De voordeur is zwaar beschadigd; het gezin is geschrokken maar ongedeerd.",
+        "en": "An explosive went off Wednesday night at a house on Wijnruitweg. The front door is heavily damaged; the family is shocked but unharmed.",
+        "ru": "В среду ночью в доме на Wijnruitweg взорвалось устройство. Входная дверь сильно повреждена; семья напугана, но не пострадала."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6032947/explosie-in-tilburg-bij-huis-met-kinderen-allemaal-erg-geschrokken",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Wijnruitweg",
+      "tags": ["explosie", "politie"]
     },
     {
       "id": "omroep-tilburg-2026-10-29-willem-ii-streppel",
@@ -38,52 +153,43 @@
       "category": "omroep",
       "publishedAt": "2026-10-29T00:00:00+01:00",
       "title": {
-        "nl": "Willem II haalt oud-bekende Jurgen Streppel terug als nieuwe coach"
+        "nl": "Willem II haalt oud-bekende Jurgen Streppel terug als nieuwe coach",
+        "en": "Willem II brings back familiar face Jurgen Streppel as new coach",
+        "ru": "Willem II возвращает знакомого Jurgen Streppel в качестве нового тренера"
       },
       "teaser": {
-        "nl": "Jurgen Streppel (57) keert terug als hoofdtrainer van Willem II om de club te behoeden voor degradatie. Hij was eerder vijf seizoenen coach."
+        "nl": "Jurgen Streppel (57) keert terug als hoofdtrainer. Hij was eerder vijf seizoenen bij de club en richt zich op handhaving.",
+        "en": "Jurgen Streppel (57) returns as head coach. He previously spent five seasons at the club and focuses on survival.",
+        "ru": "Jurgen Streppel (57) возвращается главным тренером. Ранее он провёл пять сезонов в клубе и фокусируется на сохранении места."
       },
-      "langNote": "source-nl",
+      "langNote": "ui-translated",
       "url": "https://www.omroeptilburg.nl/sport/willem-ii-haalt-oud-bekende-jurgen-streppel-terug-als-nieuwe-coach/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["sport", "Willem II"]
+      "tags": ["sport", "willem-ii"]
     },
     {
-      "id": "omroep-tilburg-2026-10-29-50plus",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-10-29T00:00:00+01:00",
+      "id": "omroep-brabant-2026-10-28-vapes-thc-tilburg",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-10-28T16:24:00+01:00",
       "title": {
-        "nl": "50Plus niet in het stadsbestuur, maar Henk van Tilborg blijft zich inzetten"
+        "nl": "Tienduizenden vapes met THC en smaakjes gevonden in Tilburg",
+        "en": "Tens of thousands of THC and flavoured vapes found in Tilburg",
+        "ru": "Десятки тысяч вейпов с THC и ароматами найдены в Тильбурге"
       },
       "teaser": {
-        "nl": "Fractievoorzitter Henk van Tilborg focust vanuit de oppositie op zorg, woningen en veiligheid voor ouderen na de verkiezingen."
+        "nl": "In een gebouw aan de Lannerstraat zijn 5100 THC-vapes en 17120 smaakvapes aangetroffen, waarde bijna 500.000 euro. Een 28-jarige is aangehouden.",
+        "en": "In a building on Lannerstraat, 5100 THC vapes and 17120 flavoured vapes were found, worth nearly 500,000 euro. A 28-year-old was arrested.",
+        "ru": "В здании на Lannerstraat найдены 5100 THC-вейпов и 17120 ароматизированных, стоимостью почти 500 000 евро. Задержан 28-летний."
       },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/50plus-uit-de-gemeenteraad-maar-wel-betrokken/",
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6032786/tienduizenden-vapes-met-thc-en-smaakjes-gevonden-in-tilburg",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["politiek", "ouderen"]
-    },
-    {
-      "id": "omroep-tilburg-2026-10-29-berkel-vitaliteit",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-10-29T00:00:00+01:00",
-      "title": {
-        "nl": "Ouderen in Berkel-Enschot krijgen een ‘lichamelijke APK’ op de vitaliteitsdag"
-      },
-      "teaser": {
-        "nl": "Ouderen kregen uitleg over fysieke en mentale gezondheid en konden tests doen bij Cultureel Centrum De Schalm."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/berkel-enschot-udenhout/berkelenschot/ouderen-in-berkel-enschot-krijgen-een-lichamelijke-apk-op-de-vitaliteitsdag/",
-      "paywall": false,
-      "city": "Berkel-Enschot",
-      "area": "De Schalm"
+      "area": "Lannerstraat",
+      "tags": ["politie", "drugs"]
     },
     {
       "id": "gemeente-2026-10-28-strooizout",
@@ -92,108 +198,20 @@
       "category": "gemeente",
       "publishedAt": "2026-10-28T00:00:00+01:00",
       "title": {
-        "nl": "Strooizout gratis op te halen"
+        "nl": "Strooizout gratis op te halen",
+        "en": "Free road salt available for collection",
+        "ru": "Бесплатная дорожная соль доступна для получения"
       },
       "teaser": {
-        "nl": "Vanaf 2 november kunnen inwoners per adres maximaal één zak van 3 kilo gratis strooizout ophalen bij de milieustraat of Mobiele Recyclestraat."
+        "nl": "Vanaf 2 november kunnen inwoners per adres maximaal één zak van 3 kilo strooizout ophalen bij de Mobiele Recyclestraat en milieustraat Albion.",
+        "en": "From 2 November, residents can collect a maximum of one 3 kg bag of road salt per address at the Mobile Recycling Street and environmental depot Albion.",
+        "ru": "С 2 ноября жители могут получить максимум один 3-килограммовый мешок соли по адресу на Мобильной перерабатывающей улице и экологической станции Альбион."
       },
-      "langNote": "source-nl",
+      "langNote": "ui-translated",
       "url": "https://www.tilburg.nl/nieuws/item/strooizout-gratis-op-te-halen/",
       "paywall": false,
       "city": "Tilburg",
       "tags": ["gladheid", "winter"]
-    },
-    {
-      "id": "omroep-brabant-2026-10-28-elfde",
-      "sourceId": "omroep-brabant",
-      "sourceName": "Omroep Brabant",
-      "category": "omroep",
-      "publishedAt": "2026-10-28T11:17:00+01:00",
-      "title": {
-        "nl": "Gemeente en horeca Tilburg zijn er nog niet uit over de Elfde van de Elfde"
-      },
-      "teaser": {
-        "nl": "Gesprek over toelaten van tieners leverde geen witte of zwarte rook op. Standpunten zijn helder; volgende week verder praten."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroepbrabant.nl/nieuws/6032610/gemeente-en-horeca-tilburg-zijn-er-nog-niet-uit-over-de-elfde-van-de-elfde",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["carnaval", "horeca"]
-    },
-    {
-      "id": "politie-2026-10-28-vapes",
-      "sourceId": "politie",
-      "sourceName": "Politie",
-      "category": "incident",
-      "publishedAt": "2026-10-28T00:00:00+01:00",
-      "title": {
-        "nl": "Politie neemt bijna 500.000 euro aan (THC)-vapes in beslag"
-      },
-      "teaser": {
-        "nl": "In een pand aan de Lannerstraat zijn 5100 THC-vapes en 17120 smaakvapes aangetroffen. Een 28-jarige man is aangehouden."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.politie.nl/nieuws/2026/oktober/28/08-politie-neemt-bijna-500.000-euro-aan-thc-vapes-in-beslag.html",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Lannerstraat",
-      "tags": ["politie", "drugs"]
-    },
-    {
-      "id": "omroep-tilburg-2026-10-28-stroomstoring",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-10-28T00:00:00+01:00",
-      "title": {
-        "nl": "21.000 huishoudens zaten zonder stroom door uitgevallen transformator"
-      },
-      "teaser": {
-        "nl": "Transformator in Oosteind viel uit; ongeveer 21.000 huishoudens in Tilburg en regio een uur zonder stroom."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/stroomstoring-tilburg-en-rijen-transformator-uitgevallen/",
-      "paywall": false,
-      "city": "Regio",
-      "tags": ["stroomstoring", "Enexis"]
-    },
-    {
-      "id": "omroep-tilburg-2026-10-26-drugs-grondstoffen",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-10-26T00:00:00+01:00",
-      "title": {
-        "nl": "Duizenden kilo's grondstoffen voor synthetische drugs gevonden in Tilburg"
-      },
-      "teaser": {
-        "nl": "Politie trof duizenden kilo's grondstoffen aan in een pand aan de Goirkestraat. Niemand aangehouden; stoffen worden vernietigd."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/duizenden-kilos-grondstoffen-voor-synthetische-drugs-gevonden-in-tilburg/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Goirkestraat",
-      "tags": ["politie", "drugs"]
-    },
-    {
-      "id": "gemeente-2026-10-19-warmteprogramma",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-10-19T00:00:00+01:00",
-      "title": {
-        "nl": "Ontwerp-Warmteprogramma ter inzage"
-      },
-      "teaser": {
-        "nl": "Tot en met 30 november 2026 kan iedereen reageren op het ontwerp-Warmteprogramma voor een toekomst zonder aardgas."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/ontwerp-warmteprogramma-ter-inzage/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["duurzaamheid", "energie"]
     }
   ]
 }
