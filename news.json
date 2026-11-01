@@ -1,1 +1,182 @@
-FULL_CONTENT_HERE
+{
+  "schema": "tilburg.news.v1",
+  "deliveryId": "2a5d793b-04f2-40ac-9229-6c5b5db6fa65",
+  "generatedAt": "2026-11-01T19:08:47+01:00",
+  "timezone": "Europe/Amsterdam",
+  "source": "Grok verified permalinks 19:08 Amsterdam",
+  "headline": {
+    "nl": "Politieauto botst in Tilburg; gemeente steunt evenementen 2027 en start natuurherstel",
+    "en": "Police car collides in Tilburg; municipality supports 2027 events and starts nature restoration",
+    "ru": "Полицейская машина столкнулась в Тилбурге; муниципалитет поддерживает мероприятия 2027 года и начинает восстановление природы"
+  },
+  "headlineLangNote": "ui-translated",
+  "itemCount": 9,
+  "items": [
+    {
+      "id": "omroep-brabant-2026-11-01-politieauto-botsing",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-11-01T09:26:00+01:00",
+      "title": {
+        "nl": "Flinke schade nadat politieauto inhaalt en op kerende auto botst in Tilburg"
+      },
+      "teaser": {
+        "nl": "Een politieauto is zaterdagavond op een andere auto gebotst op de Bredaseweg in Tilburg bij de kruising met de Roggestraat. Beide auto's raakten zwaar beschadigd en een lantaarnpaal brak af."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroepbrabant.nl/nieuws/6033197/flinke-schade-nadat-politieauto-inhaalt-en-op-kerende-auto-botst-in-tilburg",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Bredaseweg",
+      "tags": ["verkeer", "politie"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-31-trappers-verkiel",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-31T09:28:00+01:00",
+      "title": {
+        "nl": "Trappers-jubilaris viert 750ste wedstrijd met monsterzege: ‘Het is een extra cadeautje’"
+      },
+      "teaser": {
+        "nl": "Verdediger Jordy Verkiel speelde zijn 750ste wedstrijd voor Tilburg Trappers. De ploeg won met 9-2 van Herforder Ice Dragons."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/sport/trappers-jubilaris-viert-750ste-wedstrijd-met-monsterzege-het-is-een-extra-cadeautje/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["sport", "ijshockey"]
+    },
+    {
+      "id": "gemeente-2026-10-30-evenementen-2027",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-30T00:00:00+01:00",
+      "title": {
+        "nl": "Tilburg investeert in 2027 ruim 1,3 miljoen in evenementen"
+      },
+      "teaser": {
+        "nl": "De gemeente ondersteunt 23 stadsbrede evenementen met subsidie voor in totaal 600.000 euro. Daarnaast is er 740.000 euro voor evenementen met meerjarige subsidie."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/tilburg-investeert-in-2027-ruim-13-miljoen-in-evenementen/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["evenementen", "subsidie"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-30-etz-zilveren-kruis",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-30T11:01:00+01:00",
+      "title": {
+        "nl": "ETZ plant vanaf november geen nieuwe afspraken meer in voor deel verzekerden Zilveren Kruis"
+      },
+      "teaser": {
+        "nl": "Vanaf 1 november plant het Elisabeth-TweeSteden Ziekenhuis geen nieuwe afspraken meer voor verzekerden van Zilveren Kruis en gelieerde verzekeraars, omdat het zorgbudget bijna is bereikt."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/etz-plant-vanaf-november-geen-nieuwe-afspraken-meer-in-voor-deel-verzekerden-zilveren-kruis/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["zorg", "ziekenhuis"]
+    },
+    {
+      "id": "gemeente-2026-10-30-natuurherstel-helikopter",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-30T00:00:00+01:00",
+      "title": {
+        "nl": "Natuurherstel met helikopter boven Stadsbos013"
+      },
+      "teaser": {
+        "nl": "Van 9 tot en met 18 november strooit Bosgroep Zuid Nederland steenmeel uit met een helikopter boven delen van Stadsbos013 om de verzuurde bodem te herstellen."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/natuurherstel-met-helikopter-boven-stadsbos013/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Stadsbos013",
+      "tags": ["natuur", "duurzaam"]
+    },
+    {
+      "id": "omroep-brabant-2026-10-29-explosie-wijnruitweg",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-10-29T17:45:00+01:00",
+      "title": {
+        "nl": "Explosie in Tilburg bij huis met vijf kinderen: 'Allemaal erg geschrokken'"
+      },
+      "teaser": {
+        "nl": "In een huis aan de Wijnruitweg ging woensdagnacht een explosief af. De voordeur raakte zwaar beschadigd, maar niemand raakte gewond. De politie doet onderzoek."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroepbrabant.nl/nieuws/6032947/explosie-in-tilburg-bij-huis-met-vijf-kinderen-allemaal-erg-geschrokken",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Wijnruitweg",
+      "tags": ["incident", "explosie"]
+    },
+    {
+      "id": "gemeente-2026-10-28-strooizout",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-28T00:00:00+01:00",
+      "title": {
+        "nl": "Strooizout gratis op te halen"
+      },
+      "teaser": {
+        "nl": "Vanaf 2 november kunnen inwoners gratis één zak strooizout van 3 kilo ophalen bij de Mobiele Recyclestraat en milieustraat Albion."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/strooizout-gratis-op-te-halen/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["winter", "veiligheid"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-28-elfde-van-de-elfde",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-28T12:55:00+01:00",
+      "title": {
+        "nl": "Gemeente en horeca Tilburg zijn er nog niet uit over de Elfde van de Elfde"
+      },
+      "teaser": {
+        "nl": "Na een gesprek over de organisatie van 11/11 is er nog geen overeenstemming. Partijen praten volgende week verder over het toelaten van tieners op pleinfeesten."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/gemeente-en-horeca-tilburg-zijn-er-nog-niet-uit-over-de-elfde-van-de-elfde/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["carnaval", "horeca"]
+    },
+    {
+      "id": "omroep-brabant-2026-10-26-drugsgrondstoffen-goirkestraat",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-10-26T15:32:00+01:00",
+      "title": {
+        "nl": "Duizenden kilo's grondstoffen voor synthetische drugs gevonden in Tilburg"
+      },
+      "teaser": {
+        "nl": "In een bedrijfsunit aan de Goirkestraat zijn duizenden kilo's grondstoffen voor synthetische drugs gevonden. Het is geen werkend lab; er is niemand aangehouden."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroepbrabant.nl/nieuws/6032440/duizenden-kilos-grondstoffen-voor-synthetische-drugs-gevonden-in-tilburg",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Goirkestraat",
+      "tags": ["politie", "drugs"]
+    }
+  ]
+}
