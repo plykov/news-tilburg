@@ -1,1 +1,194 @@
-PLACEHOLDER
+{
+  "schema": "tilburg.news.v1",
+  "deliveryId": "56a9b49e-377c-4866-9535-c9c1c10bb0f5",
+  "generatedAt": "2026-11-02T19:08:45+01:00",
+  "timezone": "Europe/Amsterdam",
+  "source": "Grok verified permalinks 19:08 Amsterdam",
+  "headline": {
+    "nl": "Overleden vrouw in Tilburg, politie sluit misdrijf niet uit",
+    "en": "Deceased woman found in Tilburg, police do not rule out crime",
+    "ru": "В Тилбурге найдена умершая женщина, полиция не исключает преступление"
+  },
+  "headlineLangNote": "ui-translated",
+  "itemCount": 8,
+  "items": [
+    {
+      "id": "omroep-tilburg-2026-11-02-overleden-vrouw",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-11-02T09:00:00+01:00",
+      "title": {
+        "nl": "Overleden vrouw aangetroffen in woning in Tilburg, politie sluit misdrijf niet uit",
+        "en": "Deceased woman found in home in Tilburg, police do not rule out crime",
+        "ru": "В доме в Тилбурге найдена умершая женщина, полиция не исключает преступление"
+      },
+      "teaser": {
+        "nl": "De politie heeft in een woning aan de Berkenrodelaan in Tilburg het lichaam van de 54-jarige bewoonster gevonden. Zij is mogelijk door een misdrijf om het leven gekomen.",
+        "en": "Police found the body of the 54-year-old resident in a home on Berkenrodelaan in Tilburg. She may have been killed by a crime.",
+        "ru": "Полиция обнаружила тело 54-летней жительницы в доме на Беркенроделаан в Тилбурге. Возможно, она стала жертвой преступления."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/overleden-vrouw-aangetroffen-in-woning-in-tilburg-politie-sluit-misdrijf-niet-uit/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Berkenrodelaan",
+      "tags": ["politie", "onderzoek"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-02-kunstscene",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-11-02T00:00:00+01:00",
+      "title": {
+        "nl": "Recordaantal ateliers opent deuren bij jubileumjaar Kunstscene",
+        "en": "Record number of ateliers open doors for Kunstscene jubilee",
+        "ru": "Рекордное число мастерских открывает двери в юбилейный год Kunstscene"
+      },
+      "teaser": {
+        "nl": "Een recordaantal van 91 locaties opent de deuren tijdens de vijfde editie van festival Kunstscene. Tilburgse makers laten zien wat er achter de deuren gebeurt.",
+        "en": "A record number of 91 locations open their doors during the fifth edition of the Kunstscene festival. Tilburg makers show what happens behind the doors.",
+        "ru": "Рекордные 91 локация открывают двери во время пятого фестиваля Kunstscene. Тилбургские художники показывают, что происходит за дверями."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/recordaantal-ateliers-opent-deuren-bij-jubileumjaar-kunstscene/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["kunst", "festival"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-02-gierboys",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-11-02T00:00:00+01:00",
+      "title": {
+        "nl": "‘Kunst maken leidt tot frictie’, Gierboys over debuutplaat ‘Ontmaskerd’",
+        "en": "‘Making art leads to friction’, Gierboys on debut album ‘Ontmaskerd’",
+        "ru": "«Создание искусства ведет к трению», Gierboys о дебютном альбоме «Ontmaskerd»"
+      },
+      "teaser": {
+        "nl": "Gierboys Steven de Kok en Tommy Smits brengen op 6 november hun debuutplaat ‘Ontmaskerd’ uit. Het carnavals- en kunstcollectief uit Tilburg vertelt over het schrijfproces.",
+        "en": "Gierboys Steven de Kok and Tommy Smits release their debut album ‘Ontmaskerd’ on 6 November. The Tilburg carnival and art collective talks about the writing process.",
+        "ru": "Gierboys Steven de Kok en Tommy Smits выпускают дебютный альбом «Ontmaskerd» 6 ноября. Тилбургский карнавально-художественный коллектив рассказывает о процессе написания."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/cultuur/kunst-maken-leidt-tot-frictie-gierboys-over-debuutplaat-ontmaskerd/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["muziek", "carnaval"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-02-trappers",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-02T00:00:00+01:00",
+      "title": {
+        "nl": "Trappers verliest van aartsrivaal Hannover Scorpions, voorsprong blijft vier punten",
+        "en": "Trappers loses to arch-rival Hannover Scorpions, lead remains four points",
+        "ru": "Trappers проигрывает заклятому сопернику Hannover Scorpions, преимущество остается четыре очка"
+      },
+      "teaser": {
+        "nl": "Het is Tilburg Trappers zondagavond niet gelukt om verder uit te lopen op aartsrivaal Hannover Scorpions. De Duitsers wonnen uiteindelijk met 4-0.",
+        "en": "Tilburg Trappers failed to extend their lead over arch-rival Hannover Scorpions on Sunday evening. The Germans ultimately won 4-0.",
+        "ru": "Tilburg Trappers не удалось в воскресенье вечером увеличить отрыв от заклятого соперника Hannover Scorpions. Немцы в итоге выиграли 4-0."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/sport/trappers-verliest-van-aartsrivaal-hannover-scorpions-voorsprong-blijft-vier-punten/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["ijshockey", "sport"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-02-studenten-inbreker",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-11-02T00:00:00+01:00",
+      "title": {
+        "nl": "Studenten houden inbreker tegen die hun huis insluipt",
+        "en": "Students stop burglar who breaks into their house",
+        "ru": "Студенты остановили взломщика, проникшего в их дом"
+      },
+      "teaser": {
+        "nl": "Studenten van een studentenhuis aan de Ringbaan Oost in Tilburg hebben in de nacht van 31 oktober op 1 november een inbreker tegengehouden. De 31-jarige verdachte werd betrapt.",
+        "en": "Students of a student house on Ringbaan Oost in Tilburg stopped a burglar in the night of 31 October to 1 November. The 31-year-old suspect was caught.",
+        "ru": "Студенты студенческого дома на Ringbaan Oost в Тилбурге остановили взломщика в ночь с 31 октября на 1 ноября. 31-летний подозреваемый был пойман."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/studenten-houden-inbreker-tegen-die-hun-huis-insluipt/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Ringbaan Oost",
+      "tags": ["inbraak", "politie"]
+    },
+    {
+      "id": "gemeente-2026-10-30-evenementen-2027",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-30T00:00:00+01:00",
+      "title": {
+        "nl": "Tilburg investeert in 2027 ruim 1,3 miljoen in evenementen",
+        "en": "Tilburg invests over 1.3 million in events in 2027",
+        "ru": "Тилбург инвестирует более 1,3 миллиона в мероприятия в 2027 году"
+      },
+      "teaser": {
+        "nl": "Ook in 2027 kunnen inwoners rekenen op een breed aanbod aan evenementen. De gemeente ondersteunt 23 stadsbrede evenementen met subsidie.",
+        "en": "In 2027 residents can also count on a wide range of events. The municipality supports 23 city-wide events with subsidies.",
+        "ru": "В 2027 году жители также могут рассчитывать на широкий спектр мероприятий. Муниципалитет поддерживает 23 городских мероприятия субсидиями."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/tilburg-investeert-in-2027-ruim-13-miljoen-in-evenementen/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["evenementen", "subsidie"]
+    },
+    {
+      "id": "gemeente-2026-10-30-natuurherstel",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-30T00:00:00+01:00",
+      "title": {
+        "nl": "Natuurherstel met helikopter boven Stadsbos013",
+        "en": "Nature restoration with helicopter over Stadsbos013",
+        "ru": "Восстановление природы с помощью вертолета над Stadsbos013"
+      },
+      "teaser": {
+        "nl": "De bodem van Landgoed Sparrenhof, Heidepark-Vredelust, Reeshofbos en De Gaas (Stadbos013) is verzuurd en verarmd. Daarom strooit Bosgroep Zuid Nederland hier van 9 tot en met 18 november steenmeel uit met een helikopter.",
+        "en": "The soil of Landgoed Sparrenhof, Heidepark-Vredelust, Reeshofbos and De Gaas (Stadbos013) is acidified and depleted. Therefore Bosgroep Zuid Nederland will spread rock dust there from 9 to 18 November with a helicopter.",
+        "ru": "Почва Landgoed Sparrenhof, Heidepark-Vredelust, Reeshofbos и De Gaas (Stadbos013) закислена и обеднена. Поэтому Bosgroep Zuid Nederland будет рассыпать каменную муку с 9 по 18 ноября с помощью вертолета."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/natuurherstel-met-helikopter-boven-stadsbos013/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["natuur", "stadsbos"]
+    },
+    {
+      "id": "gemeente-2026-10-28-strooizout",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-28T00:00:00+01:00",
+      "title": {
+        "nl": "Strooizout gratis op te halen",
+        "en": "Free road salt available for pickup",
+        "ru": "Бесплатная дорожная соль доступна для получения"
+      },
+      "teaser": {
+        "nl": "De winter staat voor de deur en gladheid kan verraderlijk zijn. Haal vanaf 2 november gratis strooizout in huis. Per adres kunt u maximaal één zak van 3 kilo ophalen.",
+        "en": "Winter is approaching and slippery conditions can be treacherous. Pick up free road salt from 2 November. Per address you can collect a maximum of one 3 kilo bag.",
+        "ru": "Зима приближается, и скользкость может быть коварной. Заберите бесплатную дорожную соль с 2 ноября. На один адрес можно получить максимум один мешок весом 3 кг."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/strooizout-gratis-op-te-halen/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["gladheid", "winter"]
+    }
+  ]
+}
