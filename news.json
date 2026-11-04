@@ -1,1 +1,239 @@
-PLACEHOLDER
+{
+  "schema": "tilburg.news.v1",
+  "deliveryId": "27f6bf16-ed5d-4f71-9dad-3224a348ffd4",
+  "generatedAt": "2026-11-04T19:09:55+01:00",
+  "timezone": "Europe/Amsterdam",
+  "source": "Grok verified permalinks 19:09 Amsterdam",
+  "headline": {
+    "nl": "Forensisch onderzoek naar uitgebrande auto van dakloos stel; Trappers wint 4-2",
+    "en": "Forensic investigation into burned-out car of homeless couple; Trappers win 4-2",
+    "ru": "Судебно-медицинское расследование сгоревшего автомобиля бездомной пары; Trappers победили 4-2"
+  },
+  "headlineLangNote": "ui-translated",
+  "itemCount": 10,
+  "items": [
+    {
+      "id": "omroep-tilburg-2026-11-04-uitgebrande-auto",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-11-04T14:00:00+01:00",
+      "title": {
+        "nl": "Forensische Opsporing onderzoekt uitgebrande auto van dakloos stel in Tilburg",
+        "en": "Forensic Investigation examines burned-out car of homeless couple in Tilburg",
+        "ru": "Судебная экспертиза исследует сгоревший автомобиль бездомной пары в Тильбурге"
+      },
+      "teaser": {
+        "nl": "Forensische Opsporing doet sporenonderzoek bij de uitgebrande auto van een dakloos stel aan de Goirkekanaaldijk. De politie bekijkt of er sprake is van brandstichting.",
+        "en": "Forensic Investigation is conducting a forensic examination of the burned-out car of a homeless couple on the Goirkekanaaldijk. Police are checking for possible arson.",
+        "ru": "Судебная экспертиза проводит исследование сгоревшего автомобиля бездомной пары на Goirkekanaaldijk. Полиция проверяет возможность поджога."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/forensische-opsporing-onderzoekt-uitgebrande-auto-van-dakloos-stel-in-tilburg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Goirkekanaaldijk",
+      "tags": ["politie", "brand"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-04-vmbo-mbo",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-04T12:00:00+01:00",
+      "title": {
+        "nl": "Tien Tilburgse vmbo-leerlingen behalen vroegtijdig mbo-certificaat",
+        "en": "Ten Tilburg vmbo students obtain early mbo certificate",
+        "ru": "Десять учеников vmbo в Тильбурге получают сертификат mbo досрочно"
+      },
+      "teaser": {
+        "nl": "Tien leerlingen van Campus013 hebben een certificaat voor elektra- en installatietechniek op mbo-niveau behaald. Dit geeft vrijstelling in hun vervolgopleiding.",
+        "en": "Ten students from Campus013 have obtained an mbo-level certificate in electrical and installation technology. This grants exemption in their further education.",
+        "ru": "Десять учеников Campus013 получили сертификат уровня mbo по электротехнике и монтажу. Это даёт освобождение в их дальнейшем обучении."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/tien-tilburgse-vmbo-leerlingen-behalen-vroegtijdig-mbo-certificaat/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["onderwijs"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-04-evenementen-2027",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-04T14:10:00+01:00",
+      "title": {
+        "nl": "Tilburg pompt 1,3 miljoen in evenementen: dit kun je in 2027 verwachten",
+        "en": "Tilburg pumps 1.3 million into events: this is what you can expect in 2027",
+        "ru": "Тильбург вкладывает 1,3 млн в события: вот чего ждать в 2027 году"
+      },
+      "teaser": {
+        "nl": "De gemeente ondersteunt 23 stadsbrede evenementen met 600.000 euro. Daarnaast is 740.000 euro beschikbaar voor elf evenementen met meerjarige subsidie.",
+        "en": "The municipality supports 23 city-wide events with 600,000 euros. An additional 740,000 euros is available for eleven events with multi-year subsidies.",
+        "ru": "Муниципалитет поддерживает 23 городских события на 600 000 евро. Ещё 740 000 евро доступны для одиннадцати событий с многолетними субсидиями."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/tilburg-pompt-13-miljoen-in-evenementen-dit-kun-je-in-2027-verwachten/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["evenementen", "subsidie"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-04-kristallnacht",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-11-04T10:57:00+01:00",
+      "title": {
+        "nl": "Hoogleraar Arnoud-Jan Bijsterveld spreekt tijdens Tilburgse Kristallnachtherdenking",
+        "en": "Professor Arnoud-Jan Bijsterveld speaks at Tilburg Kristallnacht commemoration",
+        "ru": "Профессор Арноуд-Ян Бейстервельд выступает на памятном мероприятии Kristallnacht в Тильбурге"
+      },
+      "teaser": {
+        "nl": "Op zondag 8 november vertelt emeritus-hoogleraar Arnoud-Jan Bijsterveld in de LocHal over de Jodenvervolging in Noord-Brabant. Zijn film ‘Hier was Bertram’ wordt vertoond.",
+        "en": "On Sunday 8 November, emeritus professor Arnoud-Jan Bijsterveld will speak in the LocHal about the persecution of Jews in North Brabant. His film ‘Hier was Bertram’ will be shown.",
+        "ru": "В воскресенье 8 ноября профессор-эмерит Арноуд-Ян Бейстервельд расскажет в LocHal о преследовании евреев в Северном Брабанте. Будет показан его фильм «Hier was Bertram»."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/hoogleraar-arnoud-jan-bijsterveld-spreekt-tijdens-tilburgse-kristallnachtherdenking/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["herdenking", "cultuur"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-04-trappers-herner",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-04T09:24:00+01:00",
+      "title": {
+        "nl": "Zonder vol gas te geven verslaat Trappers hekkensluiter",
+        "en": "Without going full throttle, Trappers defeat bottom team",
+        "ru": "Не выкладываясь полностью, Trappers обыграли аутсайдера"
+      },
+      "teaser": {
+        "nl": "Tilburg Trappers won dinsdagavond met 4-2 van Herner EV Miners. Goalie Danylo Douma stopte een penaltyshot in zijn eerste Oberliga-optreden.",
+        "en": "Tilburg Trappers beat Herner EV Miners 4-2 on Tuesday evening. Goalie Danylo Douma stopped a penalty shot in his first Oberliga appearance.",
+        "ru": "Tilburg Trappers победили Herner EV Miners со счётом 4-2 во вторник вечером. Вратарь Данило Дума отразил буллит в своём первом матче в Оберлиге."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/sport/zonder-vol-gas-te-geven-verslaat-trappers-hekkensluiter/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["sport", "ijshockey", "Trappers"]
+    },
+    {
+      "id": "omroep-brabant-2026-11-04-oisterwijk-netstation",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "omroep",
+      "publishedAt": "2026-11-04T09:29:00+01:00",
+      "title": {
+        "nl": "Oisterwijk wil grond verkopen voor nieuw netstation",
+        "en": "Oisterwijk wants to sell land for new grid station",
+        "ru": "Ойстервейк хочет продать землю под новую сетевую станцию"
+      },
+      "teaser": {
+        "nl": "De gemeente Oisterwijk is van plan een stuk grond van 18,5 m² aan het Meulenbaantje te verkopen aan Enexis Netbeheer voor een nieuw netstation.",
+        "en": "The municipality of Oisterwijk plans to sell a 18.5 m² plot of land on the Meulenbaantje to Enexis Netbeheer for a new grid station.",
+        "ru": "Муниципалитет Ойстервейка планирует продать участок площадью 18,5 м² на Meulenbaantje компании Enexis Netbeheer для новой сетевой станции."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6033498/oisterwijk-wil-grond-verkopen-voor-nieuw-netstation",
+      "paywall": false,
+      "city": "Oisterwijk",
+      "area": "Meulenbaantje",
+      "tags": ["energie", "infrastructuur"]
+    },
+    {
+      "id": "gemeente-2026-10-30-evenementen-2027",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-30T12:00:00+01:00",
+      "title": {
+        "nl": "Tilburg investeert in 2027 ruim 1,3 miljoen in evenementen",
+        "en": "Tilburg invests over 1.3 million in events for 2027",
+        "ru": "Тильбург инвестирует более 1,3 млн в события на 2027 год"
+      },
+      "teaser": {
+        "nl": "De gemeente ondersteunt 23 stadsbrede evenementen met in totaal 600.000 euro subsidie. Daarnaast is 740.000 euro beschikbaar voor meerjarige subsidies.",
+        "en": "The municipality supports 23 city-wide events with a total of 600,000 euros in subsidies. An additional 740,000 euros is available for multi-year subsidies.",
+        "ru": "Муниципалитет поддерживает 23 городских события субсидиями на общую сумму 600 000 евро. Ещё 740 000 евро доступны для многолетних субсидий."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/tilburg-investeert-in-2027-ruim-13-miljoen-in-evenementen/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["evenementen", "subsidie"]
+    },
+    {
+      "id": "gemeente-2026-10-30-natuurherstel-helikopter",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-30T12:00:00+01:00",
+      "title": {
+        "nl": "Natuurherstel met helikopter boven Stadsbos013",
+        "en": "Nature restoration with helicopter over Stadsbos013",
+        "ru": "Восстановление природы с помощью вертолёта над Stadsbos013"
+      },
+      "teaser": {
+        "nl": "Van 9 tot en met 18 november strooit Bosgroep Zuid Nederland steenmeel uit met een helikopter boven delen van Stadsbos013 om de verzuurde bodem te herstellen.",
+        "en": "From 9 to 18 November, Bosgroep Zuid Nederland will spread rock dust by helicopter over parts of Stadsbos013 to restore the acidified soil.",
+        "ru": "С 9 по 18 ноября Bosgroep Zuid Nederland будет рассыпать каменную пыль с вертолёта над частями Stadsbos013 для восстановления закислённой почвы."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/natuurherstel-met-helikopter-boven-stadsbos013/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Stadsbos013",
+      "tags": ["natuur", "duurzaam"]
+    },
+    {
+      "id": "gemeente-2026-10-28-strooizout",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-28T12:00:00+01:00",
+      "title": {
+        "nl": "Strooizout gratis op te halen",
+        "en": "Free road salt available for collection",
+        "ru": "Бесплатная соль для посыпки дорог доступна для получения"
+      },
+      "teaser": {
+        "nl": "Vanaf 2 november kunnen inwoners per adres maximaal één zak van 3 kilo strooizout ophalen bij de Mobiele Recyclestraat en milieustraat Albion.",
+        "en": "From 2 November, residents can collect a maximum of one 3-kilo bag of road salt per address at the Mobile Recycling Street and Albion environmental street.",
+        "ru": "С 2 ноября жители могут получить максимум один мешок соли весом 3 кг на адрес в Мобильной перерабатывающей улице и на экологической улице Albion."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/strooizout-gratis-op-te-halen/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["winter", "gladheid"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-02-kunstscene",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-11-02T12:00:00+01:00",
+      "title": {
+        "nl": "Recordaantal ateliers opent deuren bij jubileumjaar Kunstscene",
+        "en": "Record number of studios open doors for Kunstscene anniversary",
+        "ru": "Рекордное число ателье открывает двери в юбилейный год Kunstscene"
+      },
+      "teaser": {
+        "nl": "Een recordaantal van 91 locaties opent de deuren tijdens de vijfde editie van festival Kunstscene op 7 en 8 november.",
+        "en": "A record number of 91 locations open their doors during the fifth edition of the Kunstscene festival on 7 and 8 November.",
+        "ru": "Рекордное число из 91 локации открывает двери во время пятой эдиции фестиваля Kunstscene 7 и 8 ноября."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/recordaantal-ateliers-opent-deuren-bij-jubileumjaar-kunstscene/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["kunst", "festival"]
+    }
+  ]
+}
