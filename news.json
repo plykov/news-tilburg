@@ -1,0 +1,162 @@
+{
+  "schema": "tilburg.news.v1",
+  "deliveryId": "259a57c6-15e0-4db2-91de-2be74ee6edab",
+  "generatedAt": "2026-11-07T19:15:00+01:00",
+  "timezone": "Europe/Amsterdam",
+  "source": "Grok verified permalinks 19:15 Amsterdam",
+  "headline": {
+    "nl": "ETZ-werkzaamheden en Elf-Elf convenant markeren Tilburgs nieuws",
+    "en": "ETZ works and Elf-Elf covenant mark Tilburg news",
+    "ru": "Работы ETZ и соглашение Elf-Elf отмечают новости Тилбурга"
+  },
+  "headlineLangNote": "ui-translated",
+  "itemCount": 8,
+  "items": [
+    {
+      "id": "gemeente-2026-11-06-etz-werkzaamheden",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-06T00:00:00+01:00",
+      "title": {
+        "nl": "Werkzaamheden rond ETZ starten 9 november"
+      },
+      "teaser": {
+        "nl": "Vanaf maandag 9 november werkt de gemeente Tilburg aan de verkeerssituatie rond het ETZ, het Kinder- en Jongerencentrum Leijpark en de Professor van Buchemlaan voor betere doorstroming en veiligheid."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/werkzaamheden-rond-etz-starten-9-november/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["verkeer", "ETZ"]
+    },
+    {
+      "id": "gemeente-2026-11-06-energiehub-spinder",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-06T00:00:00+01:00",
+      "title": {
+        "nl": "Reacties op onderzoeksplan energiehub SpinderVossenberg verwerkt"
+      },
+      "teaser": {
+        "nl": "De Nota van Antwoord op het onderzoeksplan voor energiehub SpinderVossenberg is gepubliceerd na reacties van omwonenden en betrokkenen."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/reacties-op-onderzoeksplan-energiehub-spindervossenberg-verwerkt/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["energie", "duurzaamheid"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-06-elf-elf-convenant",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-06T00:00:00+01:00",
+      "title": {
+        "nl": "Elf-Elf in Tilburg gaat door, partijen tekenen convenant"
+      },
+      "teaser": {
+        "nl": "Gemeente, horeca en Carnavalsstichting Tilburg hebben een convenant getekend waardoor Elf-Elf doorgaat met meer toezicht en buddy's voor veiligheid."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/elf-elf-in-tilburg-gaat-door-partijen-tekenen-convenant/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["carnaval", "veiligheid"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-06-helikopter-bossen",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-06T00:00:00+01:00",
+      "title": {
+        "nl": "Helikopter boven Tilburgse bossen: 140 hectare krijgt laagje steenmeel"
+      },
+      "teaser": {
+        "nl": "Van 9 tot 18 november strooit Bosgroep Zuid Nederland steenmeel over 140 hectare bosbodem in Stadsbos013 om verzuring tegen te gaan."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/helikopter-boven-tilburgse-bossen-140-hectare-krijgt-laagje-steenmeel/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["natuur", "milieu"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-06-belg-aangehouden",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-11-06T00:00:00+01:00",
+      "title": {
+        "nl": "49-jarige man uit België aangehouden voor betrokkenheid bij overleden vrouw in Tilburg"
+      },
+      "teaser": {
+        "nl": "Belgische politie hield een 49-jarige man aan op verzoek van Nederland in verband met het overlijden van een 54-jarige vrouw aan de Berkenrodelaan."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/49-jarige-man-uit-belgie-aangehouden-voor-betrokkenheid-bij-overleden-vrouw-in-tilburg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Berkenrodelaan",
+      "tags": ["politie", "incident"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-06-autobrand",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-11-06T00:00:00+01:00",
+      "title": {
+        "nl": "Enorme vuurzee bij autobrand in Tilburg, twee auto’s zwaar beschadigd"
+      },
+      "teaser": {
+        "nl": "In de nacht van donderdag op vrijdag brandden twee auto’s aan de Sint Eustatiusstraat; brandstichting wordt niet uitgesloten."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/enorme-vuurzee-bij-autobrand-in-tilburg-twee-autos-zwaar-beschadigd/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Sint Eustatiusstraat",
+      "tags": ["brand", "politie"]
+    },
+    {
+      "id": "gemeente-2026-11-05-elf-elf-afspraken",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-05T00:00:00+01:00",
+      "title": {
+        "nl": "CST, horeca en gemeente maken samen afspraken over Elf-elf"
+      },
+      "teaser": {
+        "nl": "Carnavalsstichting Tilburg, horeca en gemeente hebben afspraken vastgelegd in een convenant voor een toegankelijke en veilige Elf-elf."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.tilburg.nl/nieuws/item/cst-horeca-en-gemeente-maken-samen-afspraken-over-elf-elf/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["carnaval"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-05-kermisroute",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-05T00:00:00+01:00",
+      "title": {
+        "nl": "Kermisroute gaat op de schop: Nostalgische kermis gaat verhuizen van plek"
+      },
+      "teaser": {
+        "nl": "De gemeente start in 2027 een pilot waarbij de nostalgische kermis verhuist naar de Schouwburgpromenade en het Besterdplein niet meer wordt gebruikt."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/kermisroute-gaat-op-de-schop-nostalgische-kermis-gaat-verhuizen-van-plek/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["kermis", "evenement"]
+    }
+  ]
+}
