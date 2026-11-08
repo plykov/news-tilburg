@@ -1,17 +1,36 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "259a57c6-15e0-4db2-91de-2be74ee6edab",
-  "generatedAt": "2026-11-07T19:15:00+01:00",
+  "deliveryId": "67a27137-ed7a-400a-9fcb-fa4aafbb1622",
+  "generatedAt": "2026-11-08T19:09:00+01:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:15 Amsterdam",
+  "source": "Grok verified permalinks 19:09 Amsterdam",
   "headline": {
-    "nl": "ETZ-werkzaamheden en Elf-Elf convenant markeren Tilburgs nieuws",
-    "en": "ETZ works and Elf-Elf covenant mark Tilburg news",
-    "ru": "Работы ETZ и соглашение Elf-Elf отмечают новости Тилбурга"
+    "nl": "ETZ-werkzaamheden starten maandag, Elf-Elf convenant en aanhouding markeren Tilburgs nieuws",
+    "en": "ETZ works start Monday, Elf-Elf covenant and arrest mark Tilburg news",
+    "ru": "Работы ETZ начнутся в понедельник, соглашение Elf-Elf и арест отмечают новости Тилбурга"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 8,
+  "itemCount": 9,
   "items": [
+    {
+      "id": "omroep-brabant-2026-11-07-auto-crash-kwadehoek",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-11-07T05:49:00+01:00",
+      "title": {
+        "nl": "Auto schiet rechtdoor in bocht en crasht in Tilburg, vrouw gewond"
+      },
+      "teaser": {
+        "nl": "Een auto is vrijdagnacht gecrasht in de bosjes naast de Kwadehoek in Tilburg. De bestuurster miste de bocht richting Riel, was onder invloed en zonder rijbewijs."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroepbrabant.nl/nieuws/6033939/auto-schiet-rechtdoor-in-bocht-en-crasht-in-tilburg-vrouw-gewond",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Kwadehoek",
+      "tags": ["verkeer", "politie"]
+    },
     {
       "id": "gemeente-2026-11-06-etz-werkzaamheden",
       "sourceId": "gemeente",
@@ -104,23 +123,22 @@
       "tags": ["politie", "incident"]
     },
     {
-      "id": "omroep-tilburg-2026-11-06-autobrand",
+      "id": "omroep-tilburg-2026-11-06-willem-ii-pec",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-11-06T00:00:00+01:00",
+      "category": "omroep",
+      "publishedAt": "2026-11-06T21:55:00+01:00",
       "title": {
-        "nl": "Enorme vuurzee bij autobrand in Tilburg, twee auto’s zwaar beschadigd"
+        "nl": "Willem II strijdt voor de overwinning, maar moet de punten delen met PEC"
       },
       "teaser": {
-        "nl": "In de nacht van donderdag op vrijdag brandden twee auto’s aan de Sint Eustatiusstraat; brandstichting wordt niet uitgesloten."
+        "nl": "Willem II speelde vrijdagavond 1-1 gelijk tegen PEC Zwolle na snelle openingsgoals."
       },
       "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/enorme-vuurzee-bij-autobrand-in-tilburg-twee-autos-zwaar-beschadigd/",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/willem-ii-strijdt-voor-de-overwinning-maar-moet-de-punten-delen-met-pec/",
       "paywall": false,
       "city": "Tilburg",
-      "area": "Sint Eustatiusstraat",
-      "tags": ["brand", "politie"]
+      "tags": ["sport", "Willem II"]
     },
     {
       "id": "gemeente-2026-11-05-elf-elf-afspraken",
@@ -141,22 +159,22 @@
       "tags": ["carnaval"]
     },
     {
-      "id": "omroep-tilburg-2026-11-05-kermisroute",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-11-05T00:00:00+01:00",
+      "id": "gemeente-2026-10-30-evenementen-2027",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-30T00:00:00+01:00",
       "title": {
-        "nl": "Kermisroute gaat op de schop: Nostalgische kermis gaat verhuizen van plek"
+        "nl": "Tilburg investeert in 2027 ruim 1,3 miljoen in evenementen"
       },
       "teaser": {
-        "nl": "De gemeente start in 2027 een pilot waarbij de nostalgische kermis verhuist naar de Schouwburgpromenade en het Besterdplein niet meer wordt gebruikt."
+        "nl": "De gemeente ondersteunt 23 stadsbrede evenementen met subsidie en heeft extra budget voor meerjarige subsidies."
       },
       "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/kermisroute-gaat-op-de-schop-nostalgische-kermis-gaat-verhuizen-van-plek/",
+      "url": "https://www.tilburg.nl/nieuws/item/tilburg-investeert-in-2027-ruim-13-miljoen-in-evenementen/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["kermis", "evenement"]
+      "tags": ["evenementen", "subsidie"]
     }
   ]
 }
