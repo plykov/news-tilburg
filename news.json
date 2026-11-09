@@ -1,126 +1,89 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "67a27137-ed7a-400a-9fcb-fa4aafbb1622",
-  "generatedAt": "2026-11-08T19:09:00+01:00",
+  "deliveryId": "8993354d-b338-461d-89ac-4ad796d478bb",
+  "generatedAt": "2026-11-09T19:12:13+01:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:09 Amsterdam",
+  "source": "Grok verified permalinks 19:12 Amsterdam",
   "headline": {
-    "nl": "ETZ-werkzaamheden starten maandag, Elf-Elf convenant en aanhouding markeren Tilburgs nieuws",
-    "en": "ETZ works start Monday, Elf-Elf covenant and arrest mark Tilburg news",
-    "ru": "Работы ETZ начнутся в понедельник, соглашение Elf-Elf и арест отмечают новости Тилбурга"
+    "nl": "ETZ-werkzaamheden en Sparrenhof-herstel starten vandaag, helikopter strooit steenmeel",
+    "en": "ETZ works and Sparrenhof restoration start today, helicopter spreads rock dust",
+    "ru": "Работы ETZ и восстановление Sparrenhof начинаются сегодня, вертолет рассеивает каменную муку"
   },
   "headlineLangNote": "ui-translated",
   "itemCount": 9,
   "items": [
     {
-      "id": "omroep-brabant-2026-11-07-auto-crash-kwadehoek",
-      "sourceId": "omroep-brabant",
-      "sourceName": "Omroep Brabant",
-      "category": "incident",
-      "publishedAt": "2026-11-07T05:49:00+01:00",
-      "title": {
-        "nl": "Auto schiet rechtdoor in bocht en crasht in Tilburg, vrouw gewond"
-      },
-      "teaser": {
-        "nl": "Een auto is vrijdagnacht gecrasht in de bosjes naast de Kwadehoek in Tilburg. De bestuurster miste de bocht richting Riel, was onder invloed en zonder rijbewijs."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroepbrabant.nl/nieuws/6033939/auto-schiet-rechtdoor-in-bocht-en-crasht-in-tilburg-vrouw-gewond",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Kwadehoek",
-      "tags": ["verkeer", "politie"]
-    },
-    {
-      "id": "gemeente-2026-11-06-etz-werkzaamheden",
+      "id": "gemeente-2026-11-09-sparrenhof-lanen",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
-      "publishedAt": "2026-11-06T00:00:00+01:00",
+      "publishedAt": "2026-11-09T00:00:00+01:00",
       "title": {
-        "nl": "Werkzaamheden rond ETZ starten 9 november"
+        "nl": "Werk aan lanen en bos Landgoed Sparrenhof"
       },
       "teaser": {
-        "nl": "Vanaf maandag 9 november werkt de gemeente Tilburg aan de verkeerssituatie rond het ETZ, het Kinder- en Jongerencentrum Leijpark en de Professor van Buchemlaan voor betere doorstroming en veiligheid."
+        "nl": "Vanaf half november vervangt de gemeente ongeveer 450 zieke of afgestorven bomen langs de lanen op Landgoed Sparrenhof om het historische karakter en de biodiversiteit te behouden."
       },
       "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/werkzaamheden-rond-etz-starten-9-november/",
+      "url": "https://www.tilburg.nl/nieuws/item/werk-aan-lanen-en-bos-landgoed-sparrenhof/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["natuur", "bomen"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-09-etz-parkeerterrein",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-09T00:00:00+01:00",
+      "title": {
+        "nl": "Werkzaamheden parkeerterrein ETZ van start om verkeerschaos aan te pakken"
+      },
+      "teaser": {
+        "nl": "Vanaf 9 november worden in- en uitritten van het ETZ-parkeerterrein aangepast en een extra uitrit gebouwd om files bij de Professor van Buchemlaan te verminderen."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/werkzaamheden-parkeerterrein-etz-van-start-om-verkeerschaos-aan-te-pakken/",
       "paywall": false,
       "city": "Tilburg",
       "tags": ["verkeer", "ETZ"]
     },
     {
-      "id": "gemeente-2026-11-06-energiehub-spinder",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-11-06T00:00:00+01:00",
-      "title": {
-        "nl": "Reacties op onderzoeksplan energiehub SpinderVossenberg verwerkt"
-      },
-      "teaser": {
-        "nl": "De Nota van Antwoord op het onderzoeksplan voor energiehub SpinderVossenberg is gepubliceerd na reacties van omwonenden en betrokkenen."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/reacties-op-onderzoeksplan-energiehub-spindervossenberg-verwerkt/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["energie", "duurzaamheid"]
-    },
-    {
-      "id": "omroep-tilburg-2026-11-06-elf-elf-convenant",
+      "id": "omroep-tilburg-2026-11-09-spoorpark-groenteam",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
-      "publishedAt": "2026-11-06T00:00:00+01:00",
+      "publishedAt": "2026-11-09T00:00:00+01:00",
       "title": {
-        "nl": "Elf-Elf in Tilburg gaat door, partijen tekenen convenant"
+        "nl": "Spoorpark Groenteam wint vrijwilligersprijs: ‘Niemand verwachtte het’"
       },
       "teaser": {
-        "nl": "Gemeente, horeca en Carnavalsstichting Tilburg hebben een convenant getekend waardoor Elf-Elf doorgaat met meer toezicht en buddy's voor veiligheid."
+        "nl": "Het Spoorpark Groenteam is uitgeroepen tot beste Vrijwilligersorganisatie van het Jaar 2026 en ontving een cheque en trofee in aanwezigheid van de burgemeester."
       },
       "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/elf-elf-in-tilburg-gaat-door-partijen-tekenen-convenant/",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/spoorpark-groenteam-wint-vrijwilligersprijs-niemand-verwachtte-het/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["carnaval", "veiligheid"]
+      "tags": ["vrijwilligers", "Spoorpark"]
     },
     {
-      "id": "omroep-tilburg-2026-11-06-helikopter-bossen",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-11-06T00:00:00+01:00",
-      "title": {
-        "nl": "Helikopter boven Tilburgse bossen: 140 hectare krijgt laagje steenmeel"
-      },
-      "teaser": {
-        "nl": "Van 9 tot 18 november strooit Bosgroep Zuid Nederland steenmeel over 140 hectare bosbodem in Stadsbos013 om verzuring tegen te gaan."
-      },
-      "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/helikopter-boven-tilburgse-bossen-140-hectare-krijgt-laagje-steenmeel/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["natuur", "milieu"]
-    },
-    {
-      "id": "omroep-tilburg-2026-11-06-belg-aangehouden",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
+      "id": "omroep-brabant-2026-11-08-hert-reiger",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
       "category": "incident",
-      "publishedAt": "2026-11-06T00:00:00+01:00",
+      "publishedAt": "2026-11-08T14:56:00+01:00",
       "title": {
-        "nl": "49-jarige man uit België aangehouden voor betrokkenheid bij overleden vrouw in Tilburg"
+        "nl": "Vastzittend hert en reiger met raster om z'n snavel houden brandweer bezig"
       },
       "teaser": {
-        "nl": "Belgische politie hield een 49-jarige man aan op verzoek van Nederland in verband met het overlijden van een 54-jarige vrouw aan de Berkenrodelaan."
+        "nl": "In Tilburg bevrijdde de brandweer een damhert dat vastzat in een poort aan de Hoevensekanaaldijk; in Oisterwijk vloog een reiger met een raster om de snavel."
       },
       "langNote": "source-nl",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/49-jarige-man-uit-belgie-aangehouden-voor-betrokkenheid-bij-overleden-vrouw-in-tilburg/",
+      "url": "https://www.omroepbrabant.nl/nieuws/6033992/vastzittend-hert-en-reiger-met-raster-om-zn-snavel-houden-brandweer-bezig",
       "paywall": false,
       "city": "Tilburg",
-      "area": "Berkenrodelaan",
-      "tags": ["politie", "incident"]
+      "area": "Hoevensekanaaldijk",
+      "tags": ["brandweer", "dieren"]
     },
     {
       "id": "omroep-tilburg-2026-11-06-willem-ii-pec",
@@ -141,40 +104,77 @@
       "tags": ["sport", "Willem II"]
     },
     {
-      "id": "gemeente-2026-11-05-elf-elf-afspraken",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-11-05T00:00:00+01:00",
+      "id": "politie-2026-11-06-verdachte-aangehouden",
+      "sourceId": "politie",
+      "sourceName": "Politie",
+      "category": "incident",
+      "publishedAt": "2026-11-06T00:00:00+01:00",
       "title": {
-        "nl": "CST, horeca en gemeente maken samen afspraken over Elf-elf"
+        "nl": "Verdachte aangehouden in onderzoek naar overleden vrouw Tilburg"
       },
       "teaser": {
-        "nl": "Carnavalsstichting Tilburg, horeca en gemeente hebben afspraken vastgelegd in een convenant voor een toegankelijke en veilige Elf-elf."
+        "nl": "Belgische politie hield op verzoek van Nederland een 49-jarige man aan, verdacht van betrokkenheid bij het overlijden van een 54-jarige vrouw aan de Berkenrodenlaan."
       },
       "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/cst-horeca-en-gemeente-maken-samen-afspraken-over-elf-elf/",
+      "url": "https://www.politie.nl/nieuws/2026/november/6/08-verdachte-aangehouden-in-onderzoek-naar-overleden-vrouw-tilburg.html",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["carnaval"]
+      "area": "Berkenrodenlaan",
+      "tags": ["politie"]
     },
     {
-      "id": "gemeente-2026-10-30-evenementen-2027",
+      "id": "gemeente-2026-11-06-etz-werkzaamheden",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
-      "publishedAt": "2026-10-30T00:00:00+01:00",
+      "publishedAt": "2026-11-06T00:00:00+01:00",
       "title": {
-        "nl": "Tilburg investeert in 2027 ruim 1,3 miljoen in evenementen"
+        "nl": "Werkzaamheden rond ETZ starten 9 november"
       },
       "teaser": {
-        "nl": "De gemeente ondersteunt 23 stadsbrede evenementen met subsidie en heeft extra budget voor meerjarige subsidies."
+        "nl": "Vanaf maandag 9 november werkt de gemeente Tilburg aan de verkeerssituatie rond het ETZ, het Kinder- en Jongerencentrum Leijpark en de Professor van Buchemlaan voor betere doorstroming en veiligheid."
       },
       "langNote": "source-nl",
-      "url": "https://www.tilburg.nl/nieuws/item/tilburg-investeert-in-2027-ruim-13-miljoen-in-evenementen/",
+      "url": "https://www.tilburg.nl/nieuws/item/werkzaamheden-rond-etz-starten-9-november/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["evenementen", "subsidie"]
+      "tags": ["verkeer", "ETZ"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-06-helikopter-bossen",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-06T00:00:00+01:00",
+      "title": {
+        "nl": "Helikopter boven Tilburgse bossen: 140 hectare krijgt laagje steenmeel"
+      },
+      "teaser": {
+        "nl": "Van 9 tot 18 november strooit Bosgroep Zuid Nederland steenmeel over 140 hectare bosbodem in Stadsbos013 om verzuring tegen te gaan."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/helikopter-boven-tilburgse-bossen-140-hectare-krijgt-laagje-steenmeel/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["natuur", "milieu"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-06-elf-elf-convenant",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-06T00:00:00+01:00",
+      "title": {
+        "nl": "Elf-Elf in Tilburg gaat door, partijen tekenen convenant"
+      },
+      "teaser": {
+        "nl": "Gemeente, horeca en Carnavalsstichting Tilburg hebben een convenant getekend waardoor Elf-Elf doorgaat met meer toezicht en buddy's voor veiligheid."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/elf-elf-in-tilburg-gaat-door-partijen-tekenen-convenant/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["carnaval", "veiligheid"]
     }
   ]
 }
