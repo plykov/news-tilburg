@@ -1,1 +1,15 @@
-PLACEHOLDER_AGAIN
+{
+  "schema": "tilburg.news.v1",
+  "deliveryId": "55610b29-5292-420e-9dbc-b653da2dd70d",
+  "generatedAt": "2026-11-11T19:15:00+01:00",
+  "timezone": "Europe/Amsterdam",
+  "source": "Grok verified permalinks 19:15 Amsterdam",
+  "headline": {
+    "nl": "Elf-Elf in Kruikenstad: drukte op Piusplein en Stadhuisstraat, politie zoekt beelden na misdrijf",
+    "en": "Elf-Elf in Kruikenstad: crowds on Piusplein and Stadhuisstraat, police seek footage after crime",
+    "ru": "Эльф-Эльф в Круйкенстаде: толпы на Пьюсплейн и Стадхейсстрат, полиция ищет записи после преступления"
+  },
+  "headlineLangNote": "ui-translated",
+  "itemCount": 9,
+  "items": []
+}
