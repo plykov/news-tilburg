@@ -11,5 +11,23 @@
   },
   "headlineLangNote": "ui-translated",
   "itemCount": 9,
-  "items": []
+  "items": [
+    {
+      "id": "omroep-brabant-2026-11-11-piusplein-vol",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "omroep",
+      "publishedAt": "2026-11-11T18:01:00+01:00",
+      "title": {
+        "nl": "Tilburg: Piusplein en Stadhuisstraat zijn vol, ga ergens anders heen"
+      },
+      "teaser": {
+        "nl": "Gemeente Tilburg laat weten dat het erg druk is in de stad. Vooral op het Piusplein en in de Stadhuisstraat is er momenteel geen ruimte meer voor extra bezoekers."
+      },
+      "langNote": "source-nl",
+      "url": "https://www.omroepbrabant.nl/nieuws/6034459/tilburg-piusplein-en-stadhuisstraat-zijn-vol-ga-ergens-anders-heen",
+      "paywall": false,
+      "city": "Tilburg"
+    }
+  ]
 }
