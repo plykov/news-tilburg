@@ -1,33 +1,242 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "55610b29-5292-420e-9dbc-b653da2dd70d",
-  "generatedAt": "2026-11-11T19:15:00+01:00",
+  "deliveryId": "bca15566-e335-4f27-b0fb-364ad6fb5643",
+  "generatedAt": "2026-11-12T19:15:00+01:00",
   "timezone": "Europe/Amsterdam",
   "source": "Grok verified permalinks 19:15 Amsterdam",
   "headline": {
-    "nl": "Elf-Elf in Kruikenstad: drukte op Piusplein en Stadhuisstraat, politie zoekt beelden na misdrijf",
-    "en": "Elf-Elf in Kruikenstad: crowds on Piusplein and Stadhuisstraat, police seek footage after crime",
-    "ru": "Эльф-Эльф в Круйкенстаде: толпы на Пьюсплейн и Стадхейсстрат, полиция ищет записи после преступления"
+    "nl": "Balies Burgerzaken 20 en 23 november dicht, schietincident hotel opgehelderd, Sinterklaas zondag in de Piushaven",
+    "en": "Civil affairs desks closed 20 and 23 November, hotel shooting incident resolved, Sinterklaas arrives Sunday in Piushaven",
+    "ru": "Отделы гражданских дел закрыты 20 и 23 ноября, инцидент со стрельбой в отеле закрыт, Синтерклаас прибывает в воскресенье в Пиусхавен"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "omroep-brabant-2026-11-11-piusplein-vol",
+      "id": "omroep-tilburg-2026-11-12-tegelwippen",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-12T10:50:00+01:00",
+      "title": {
+        "nl": "Tilburg eindigt op tweede plek bij NK Tegelwippen",
+        "en": "Tilburg finishes second in NK Tegelwippen",
+        "ru": "Тилбург занимает второе место на NK Tegelwippen"
+      },
+      "teaser": {
+        "nl": "De gemeente Tilburg is tweede geworden bij het NK Tegelwippen in de groep van grote gemeenten. In totaal haalden inwoners, bedrijven, scholen en de gemeente zelf 239.230 tegels weg.",
+        "en": "The municipality of Tilburg finished second in the NK Tegelwippen in the large municipalities group. Residents, companies, schools and the municipality itself removed a total of 239,230 tiles.",
+        "ru": "Муниципалитет Тилбурга занял второе место в NK Tegelwippen в группе крупных муниципалитетов. Жители, компании, школы и сам муниципалитет убрали всего 239 230 плиток."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/nieuws/tilburg-eindigt-op-tweede-plek-bij-nk-tegelwippen/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["tegelwippen", "groen"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-12-bomen-sparrenhof",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-12T12:10:00+01:00",
+      "title": {
+        "nl": "Gemeente Tilburg vervangt 450 bomen op Landgoed Sparrenhof",
+        "en": "Municipality of Tilburg replaces 450 trees at Landgoed Sparrenhof",
+        "ru": "Муниципалитет Тилбурга заменяет 450 деревьев на Landgoed Sparrenhof"
+      },
+      "teaser": {
+        "nl": "De gemeente Tilburg gaat vanaf half november ongeveer 450 zieke en afgestorven bomen langs de historische lanen van Landgoed Sparrenhof vervangen. Het verwijderen begint op 17 november.",
+        "en": "The municipality of Tilburg will replace about 450 diseased and dead trees along the historic avenues of Landgoed Sparrenhof from mid-November. Removal starts on 17 November.",
+        "ru": "Муниципалитет Тилбурга с середины ноября заменит около 450 больных и погибших деревьев вдоль исторических аллей Landgoed Sparrenhof. Удаление начнется 17 ноября."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/gemeente-tilburg-vervangt-450-bomen-op-landgoed-sparrenhof/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Landgoed Sparrenhof",
+      "tags": ["bomen", "groen"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-12-schietpartij-hotel",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-11-12T09:31:00+01:00",
+      "title": {
+        "nl": "Schietpartij in hotelrestaurant Tilburg: 53-jarige Oisterwijker opgepakt",
+        "en": "Shooting in Tilburg hotel restaurant: 53-year-old from Oisterwijk arrested",
+        "ru": "Стрельба в гостинице отеля Тилбурга: арестован 53-летний из Oisterwijk"
+      },
+      "teaser": {
+        "nl": "De politie heeft woensdagavond een 53-jarige man uit Oisterwijk aangehouden nadat hij had geschoten in een hotelrestaurant aan de Dr. Hub van Doorneweg in Tilburg. Niemand raakte gewond.",
+        "en": "Police arrested a 53-year-old man from Oisterwijk on Wednesday evening after he fired a shot in a hotel restaurant on Dr. Hub van Doorneweg in Tilburg. No one was injured.",
+        "ru": "Полиция в среду вечером арестовала 53-летнего мужчину из Oisterwijk после того, как он выстрелил в ресторане отеля на Dr. Hub van Doorneweg в Тилбурге. Никто не пострадал."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/schietpartij-in-hotelrestaurant-tilburg-53-jarige-oisterwijker-opgepakt/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Dr. Hub van Doorneweg",
+      "tags": ["incident", "politie"]
+    },
+    {
+      "id": "gemeente-2026-11-12-paspoort-balies",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-12T00:00:00+01:00",
+      "title": {
+        "nl": "Paspoort, ID-kaart of rijbewijs nodig? Houd rekening met 20 en 23 november",
+        "en": "Need a passport, ID card or driving licence? Take account of 20 and 23 November",
+        "ru": "Нужен паспорт, ID-карта или водительские права? Учтите 20 и 23 ноября"
+      },
+      "teaser": {
+        "nl": "Je kunt op 20 en 23 november geen paspoort, identiteitskaart of rijbewijs aanvragen of ophalen. De balies van afdeling Burgerzaken zijn deze dagen gesloten omdat we dan overstappen op een nieuw systeem.",
+        "en": "You cannot apply for or collect a passport, identity card or driving licence on 20 and 23 November. The Civil Affairs counters will be closed those days because we are switching to a new system.",
+        "ru": "20 и 23 ноября нельзя заказать или забрать паспорт, удостоверение личности или водительские права. Стойки отдела гражданских дел закрыты в эти дни из-за перехода на новую систему."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/paspoort-of-id-kaart-nodig-houd-rekening-met-20-en-23-november/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["burgerzaken", "balies"]
+    },
+    {
+      "id": "omroep-brabant-2026-11-11-prins-kruikenstad",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "cultuur",
+      "publishedAt": "2026-11-11T09:13:00+01:00",
+      "title": {
+        "nl": "Nieuwe prins voor Kruikenstad, stad is vol, pleinen gesloten",
+        "en": "New prince for Kruikenstad, city is full, squares closed",
+        "ru": "Новый принц для Kruikenstad, город полон, площади закрыты"
+      },
+      "teaser": {
+        "nl": "Bram van Dun is de nieuwe Prins van Kruikenstad. De stad was vol tijdens 11/11 en meerdere pleinen en straten werden afgesloten.",
+        "en": "Bram van Dun is the new Prince of Kruikenstad. The city was full during 11/11 and several squares and streets were closed.",
+        "ru": "Bram van Dun — новый принц Kruikenstad. Город был полон во время 11/11, несколько площадей и улиц были закрыты."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6034329/nieuwe-prins-voor-kruikenstad-stad-is-vol-pleinen-gesloten",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["carnaval", "11-11"]
+    },
+    {
+      "id": "gemeente-2026-11-10-intocht-sint",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-10T00:00:00+01:00",
+      "title": {
+        "nl": "Intocht Sint zondag 15 november",
+        "en": "Sinterklaas arrival Sunday 15 November",
+        "ru": "Въезд Синтерклааса в воскресенье 15 ноября"
+      },
+      "teaser": {
+        "nl": "De pakjesboot meert zondag 15 november rond 11:30 uur aan in de Piushaven. De Sint en zijn Pieten trekken daarna door de stad en komen om 15:00 uur aan op het Willemsplein. Diverse straten zijn tijdelijk afgesloten.",
+        "en": "The gift boat docks in the Piushaven around 11:30 on Sunday 15 November. Sinterklaas and his Pieten then process through the city and arrive at Willemsplein at 15:00. Various streets will be temporarily closed.",
+        "ru": "Подарочная лодка швартуется в Piushaven около 11:30 в воскресенье 15 ноября. Синтерклаас и его Pieten проходят по городу и прибывают на Willemsplein в 15:00. Ряд улиц будет временно закрыт."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/intocht-sint-zondag-15-november/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Piushaven / Willemsplein",
+      "tags": ["sinterklaas", "intocht"]
+    },
+    {
+      "id": "gemeente-2026-11-09-sparrenhof-lanen",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-09T00:00:00+01:00",
+      "title": {
+        "nl": "Werk aan lanen en bos Landgoed Sparrenhof",
+        "en": "Work on avenues and woodland at Landgoed Sparrenhof",
+        "ru": "Работы на аллеях и в лесу Landgoed Sparrenhof"
+      },
+      "teaser": {
+        "nl": "De gemeente gaat vanaf half november aan de slag met het bos en de historische lanen op Landgoed Sparrenhof. Een deel van de bomen is ziek of afgestorven en moet vervangen worden.",
+        "en": "From mid-November the municipality will work on the woodland and historic avenues at Landgoed Sparrenhof. Some trees are diseased or dead and must be replaced.",
+        "ru": "С середины ноября муниципалитет начнет работы в лесу и на исторических аллеях Landgoed Sparrenhof. Часть деревьев больна или погибла и подлежит замене."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/werk-aan-lanen-en-bos-landgoed-sparrenhof/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Landgoed Sparrenhof",
+      "tags": ["bomen", "natuur"]
+    },
+    {
+      "id": "omroep-brabant-2026-11-10-arbeidsmigranten",
       "sourceId": "omroep-brabant",
       "sourceName": "Omroep Brabant",
       "category": "omroep",
-      "publishedAt": "2026-11-11T18:01:00+01:00",
+      "publishedAt": "2026-11-10T18:29:00+01:00",
       "title": {
-        "nl": "Tilburg: Piusplein en Stadhuisstraat zijn vol, ga ergens anders heen"
+        "nl": "Omwonenden benadrukken nog maar een keer: ‘366 arbeidsmigranten is te veel’",
+        "en": "Residents emphasise once more: ‘366 labour migrants is too many’",
+        "ru": "Жители ещё раз подчёркивают: «366 трудовых мигрантов — это слишком много»"
       },
       "teaser": {
-        "nl": "Gemeente Tilburg laat weten dat het erg druk is in de stad. Vooral op het Piusplein en in de Stadhuisstraat is er momenteel geen ruimte meer voor extra bezoekers."
+        "nl": "Omwonenden van de Rielseweg in Tilburg lieten in de rechtbank weten dat een hotel voor 366 arbeidsmigranten te groot is voor de locatie.",
+        "en": "Residents of the Rielseweg in Tilburg told the court that a hotel for 366 labour migrants is too large for the location.",
+        "ru": "Жители Rielseweg в Тилбурге заявили в суде, что отель для 366 трудовых мигрантов слишком велик для этого места."
       },
-      "langNote": "source-nl",
-      "url": "https://www.omroepbrabant.nl/nieuws/6034459/tilburg-piusplein-en-stadhuisstraat-zijn-vol-ga-ergens-anders-heen",
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6034290/omwonenden-benadrukken-nog-maar-een-keer-366-arbeidsmigranten-is-te-veel",
       "paywall": false,
-      "city": "Tilburg"
+      "city": "Tilburg",
+      "area": "Rielseweg",
+      "tags": ["arbeidsmigranten", "woningbouw"]
+    },
+    {
+      "id": "gemeente-2026-11-06-etz-werkzaamheden",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-06T00:00:00+01:00",
+      "title": {
+        "nl": "Werkzaamheden rond ETZ starten 9 november",
+        "en": "Works around ETZ start 9 November",
+        "ru": "Работы вокруг ETZ начинаются 9 ноября"
+      },
+      "teaser": {
+        "nl": "Vanaf maandag 9 november werkt de gemeente Tilburg aan de verkeerssituatie rond het ETZ, het Kinder- en Jongerencentrum Leijpark en de Professor van Buchemlaan. Het werk duurt naar verwachting tot begin februari 2027.",
+        "en": "From Monday 9 November the municipality of Tilburg is working on the traffic situation around the ETZ, the Kinder- en Jongerencentrum Leijpark and Professor van Buchemlaan. The work is expected to last until early February 2027.",
+        "ru": "С понедельника 9 ноября муниципалитет Тилбурга работает над транспортной ситуацией вокруг ETZ, Kinder- en Jongerencentrum Leijpark и Professor van Buchemlaan. Работы ожидаются до начала февраля 2027."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/werkzaamheden-rond-etz-starten-9-november/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "ETZ / Professor van Buchemlaan",
+      "tags": ["verkeer", "werkzaamheden"]
+    },
+    {
+      "id": "gemeente-2026-11-05-elf-elf-convenant",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-05T00:00:00+01:00",
+      "title": {
+        "nl": "CST, horeca en gemeente maken samen afspraken over Elf-elf",
+        "en": "CST, hospitality and municipality agree arrangements for Elf-elf",
+        "ru": "CST, общепит и муниципалитет договорились о Elf-elf"
+      },
+      "teaser": {
+        "nl": "Carnavalsstichting Tilburg, de horeca en de gemeente hebben afspraken vastgelegd in een convenant voor een toegankelijke en veilige start van het carnavalsseizoen.",
+        "en": "Carnavalsstichting Tilburg, the hospitality sector and the municipality have set out arrangements in a covenant for an accessible and safe start to the carnival season.",
+        "ru": "Carnavalsstichting Tilburg, сектор общепита и муниципалитет зафиксировали договорённости в конвенции для доступного и безопасного начала карнавального сезона."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/cst-horeca-en-gemeente-maken-samen-afspraken-over-elf-elf/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["carnaval", "convenant"]
     }
   ]
 }
