@@ -1,0 +1,218 @@
+{
+  "schema": "tilburg.news.v1",
+  "deliveryId": "a4f56d50-5ca6-4b65-a5af-001f506bbb31",
+  "generatedAt": "2026-11-14T19:15:00+01:00",
+  "timezone": "Europe/Amsterdam",
+  "source": "Grok verified permalinks 19:15 Amsterdam",
+  "headline": {
+    "nl": "Begroting 2027 vastgesteld; Sinterklaas komt morgen aan in de Piushaven",
+    "en": "2027 budget adopted; Sinterklaas arrives tomorrow in the Piushaven",
+    "ru": "Бюджет 2027 принят; Синтерклаас прибудет завтра в Пиусхавен"
+  },
+  "headlineLangNote": "ui-translated",
+  "itemCount": 9,
+  "items": [
+    {
+      "id": "omroep-brabant-2026-11-13-jim-gardner",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "cultuur",
+      "publishedAt": "2026-11-13T21:42:00+01:00",
+      "title": {
+        "nl": "Jim schreef voor Hardwell, nu staat hij in het voorprogramma van Flemming",
+        "en": "Jim wrote for Hardwell, now he opens for Flemming",
+        "ru": "Джим писал для Hardwell, теперь он выступает в разогреве у Flemming"
+      },
+      "teaser": {
+        "nl": "Jim van Hooff uit Berkel-Enschot schreef jarenlang nummers voor artiesten als Hardwell en Armin van Buuren. Nu staat hij zelf op het podium als Jim Gardner in het voorprogramma van Flemming.",
+        "en": "Jim van Hooff from Berkel-Enschot wrote songs for years for artists like Hardwell and Armin van Buuren. Now he takes the stage himself as Jim Gardner opening for Flemming.",
+        "ru": "Джим ван Хоофф из Беркель-Энсхот годами писал песни для артистов вроде Hardwell и Armin van Buuren. Теперь он сам выходит на сцену как Jim Gardner в разогреве у Flemming."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6034759/jim-schreef-voor-hardwell-nu-staat-hij-in-het-voorprogramma-van-flemming",
+      "paywall": false,
+      "city": "Berkel-Enschot",
+      "tags": ["muziek", "cultuur"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-13-dillenburglaan",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-13T13:03:00+01:00",
+      "title": {
+        "nl": "Dillenburglaan een jaar na dodelijk ongeluk Anne-Roos (10) nog bron van zorgen",
+        "en": "Dillenburglaan still a source of concern a year after fatal accident of Anne-Roos (10)",
+        "ru": "Дилленбурглан спустя год после смертельной аварии Анне-Роос (10) по-прежнему вызывает опасения"
+      },
+      "teaser": {
+        "nl": "Buurtbewoners maken zich nog steeds zorgen om de verkeersveiligheid op de Dillenburglaan. De gemeente stelt dat er geen verhoogd veiligheidsrisico is, maar heeft plannen voor 30 km/u.",
+        "en": "Residents remain concerned about traffic safety on the Dillenburglaan. The municipality says there is no elevated safety risk, but has plans for a 30 km/h limit.",
+        "ru": "Жители по-прежнему обеспокоены безопасностью движения на Дилленбурглан. Муниципалитет заявляет, что повышенного риска нет, но планирует ограничение 30 км/ч."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/dillenburglaan-een-jaar-na-dodelijk-ongeluk-anne-roos-10-nog-bron-van-zorgen/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Dillenburglaan",
+      "tags": ["verkeer", "veiligheid"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-13-leegstandsheffing",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-13T11:26:00+01:00",
+      "title": {
+        "nl": "Tilburg pakt leegstand aan: eigenaren betalen jaarlijks een heffing",
+        "en": "Tilburg tackles vacancy: owners pay annual levy",
+        "ru": "Тилбург борется с пустующими помещениями: владельцы будут платить ежегодный сбор"
+      },
+      "teaser": {
+        "nl": "Wie een pand langer dan twaalf maanden leeg laat staan, moet vanaf 1 april 2027 elk jaar betalen. De raad stemde in met een motie voor een leegstandsheffing van ongeveer 5000 euro.",
+        "en": "Anyone leaving a property empty for more than twelve months must pay annually from 1 April 2027. The council approved a motion for a vacancy levy of around 5000 euros.",
+        "ru": "Кто оставляет помещение пустым дольше двенадцати месяцев, должен платить ежегодно с 1 апреля 2027. Совет одобрил предложение о сборе за пустующее жильё около 5000 евро."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/tilburg-pakt-leegstand-aan-eigenaren-betalen-jaarlijks-een-heffing/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["wonen", "leegstand"]
+    },
+    {
+      "id": "gemeente-2026-11-13-programmabegroting-2027",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-13T00:00:00+01:00",
+      "title": {
+        "nl": "Programmabegroting 2027 vastgesteld",
+        "en": "Programme budget 2027 adopted",
+        "ru": "Программный бюджет 2027 принят"
+      },
+      "teaser": {
+        "nl": "De gemeenteraad stelde op 12 november de Programmabegroting 2027 vast. De gemeente kiest voor investeringen in prettig wonen, werken en leven.",
+        "en": "The municipal council adopted the Programme Budget 2027 on 12 November. The municipality opts for investments that contribute to pleasant living, working and life.",
+        "ru": "Муниципальный совет принял Программный бюджет 2027 12 ноября. Муниципалитет выбирает инвестиции в приятную жизнь, работу и проживание."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/programmabegroting-2027-vastgesteld/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["begroting", "raad"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-12-schietpartij-hotel",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-11-12T09:31:00+01:00",
+      "title": {
+        "nl": "Schietpartij in hotelrestaurant Tilburg: 53-jarige Oisterwijker opgepakt",
+        "en": "Shooting in Tilburg hotel restaurant: 53-year-old from Oisterwijk arrested",
+        "ru": "Стрельба в отельном ресторане Тилбурга: задержан 53-летний житель Ойстервейка"
+      },
+      "teaser": {
+        "nl": "De politie heeft een 53-jarige man uit Oisterwijk aangehouden nadat hij had geschoten in een hotelrestaurant aan de Dr. Hub van Doorneweg. Niemand raakte gewond; het vuurwapen werd in zijn auto gevonden.",
+        "en": "Police arrested a 53-year-old man from Oisterwijk after he fired shots in a hotel restaurant on Dr. Hub van Doorneweg. No one was injured; the firearm was found in his car.",
+        "ru": "Полиция задержала 53-летнего мужчину из Ойстервейка после стрельбы в отельном ресторане на Dr. Hub van Doorneweg. Никто не пострадал; огнестрельное оружие найдено в его машине."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/schietpartij-in-hotelrestaurant-tilburg-53-jarige-oisterwijker-opgepakt/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Dr. Hub van Doorneweg",
+      "tags": ["politie", "incident"]
+    },
+    {
+      "id": "gemeente-2026-11-12-paspoort-balies",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-12T00:00:00+01:00",
+      "title": {
+        "nl": "Paspoort, ID-kaart of rijbewijs nodig? Houd rekening met 20 en 23 november",
+        "en": "Need a passport, ID card or driving licence? Note 20 and 23 November",
+        "ru": "Нужен паспорт, ID-карта или водительские права? Учтите 20 и 23 ноября"
+      },
+      "teaser": {
+        "nl": "Op 20 en 23 november kun je geen paspoort, identiteitskaart of rijbewijs aanvragen of ophalen. De balies van Burgerzaken zijn gesloten wegens overstap op een nieuw systeem.",
+        "en": "On 20 and 23 November you cannot apply for or collect a passport, identity card or driving licence. The Civil Affairs counters are closed due to the switch to a new system.",
+        "ru": "20 и 23 ноября нельзя подавать заявление или забирать паспорт, удостоверение личности или водительские права. Столы отдела гражданского состояния закрыты из-за перехода на новую систему."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/paspoort-of-id-kaart-nodig-houd-rekening-met-20-en-23-november/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["burgerzaken", "documenten"]
+    },
+    {
+      "id": "gemeente-2026-11-10-intocht-sint",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-10T00:00:00+01:00",
+      "title": {
+        "nl": "Intocht Sint zondag 15 november",
+        "en": "Sinterklaas arrival Sunday 15 November",
+        "ru": "Прибытие Синтерклааса в воскресенье 15 ноября"
+      },
+      "teaser": {
+        "nl": "De pakjesboot meert zondag 15 november rond 11:30 uur aan in de Piushaven. De Sint en zijn Pieten trekken daarna door de stad en komen om 15:00 uur aan op het Willemsplein. Diverse straten zijn tijdelijk afgesloten.",
+        "en": "The parcel boat docks in the Piushaven around 11:30 on Sunday 15 November. Sinterklaas and his Piets then proceed through the city and arrive at Willemsplein at 15:00. Various streets are temporarily closed.",
+        "ru": "Пакетный катер причаливает в Пиусхавен около 11:30 в воскресенье 15 ноября. Затем Синтерклаас и его Питы проходят через город и прибывают на Виллемсплейн в 15:00. Некоторые улицы временно закрыты."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/intocht-sint-zondag-15-november/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Piushaven / Willemsplein",
+      "tags": ["sinterklaas", "evenement", "verkeer"]
+    },
+    {
+      "id": "gemeente-2026-11-09-sparrenhof",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-09T00:00:00+01:00",
+      "title": {
+        "nl": "Werk aan lanen en bos Landgoed Sparrenhof",
+        "en": "Work on avenues and forest at Landgoed Sparrenhof",
+        "ru": "Работы на аллеях и в лесу усадьбы Спарренхоф"
+      },
+      "teaser": {
+        "nl": "Vanaf half november vervangt de gemeente ongeveer 450 zieke en afgestorven bomen op Landgoed Sparrenhof. Verwijderen start op 17 november; planten vanaf 7 december.",
+        "en": "From mid-November the municipality replaces about 450 diseased and dead trees at Landgoed Sparrenhof. Removal starts on 17 November; planting from 7 December.",
+        "ru": "С середины ноября муниципалитет заменяет около 450 больных и погибших деревьев на усадьбе Спарренхоф. Удаление начинается 17 ноября; посадка с 7 декабря."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/werk-aan-lanen-en-bos-landgoed-sparrenhof/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Landgoed Sparrenhof",
+      "tags": ["groen", "werkzaamheden"]
+    },
+    {
+      "id": "omroep-brabant-2026-11-09-kerstconcert-abdij",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "cultuur",
+      "publishedAt": "2026-11-09T12:00:00+01:00",
+      "title": {
+        "nl": "Traditioneel kerstconcert in trappistenabdij afgelast: 'Moeilijk besluit'",
+        "en": "Traditional Christmas concert at Trappist abbey cancelled: 'Difficult decision'",
+        "ru": "Традиционный рождественский концерт в траппистском аббатстве отменён: «Трудное решение»"
+      },
+      "teaser": {
+        "nl": "Het jaarlijkse kerstconcert in de abdijkerk in Berkel-Enschot gaat niet door vanwege te hoge verwarmingskosten. De opbrengsten gingen normaal naar een goed doel.",
+        "en": "The annual Christmas concert in the abbey church in Berkel-Enschot will not take place due to excessively high heating costs. Proceeds normally went to a good cause.",
+        "ru": "Ежегодный рождественский концерт в аббатской церкви в Беркель-Энсхот не состоится из-за слишком высоких затрат на отопление. Обычно средства шли на благотворительность."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6034060/traditioneel-kerstconcert-in-trappistenabdij-afgelast-moeilijk-besluit",
+      "paywall": false,
+      "city": "Berkel-Enschot",
+      "tags": ["cultuur", "concert", "kerst"]
+    }
+  ]
+}
