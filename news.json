@@ -1,1 +1,38 @@
-PLACEHOLDER
+{
+  "schema": "tilburg.news.v1",
+  "deliveryId": "a4f56d50-5ca6-4b65-a5af-001f506bbb31",
+  "generatedAt": "2026-11-14T19:15:00+01:00",
+  "timezone": "Europe/Amsterdam",
+  "source": "Grok verified permalinks 19:15 Amsterdam",
+  "headline": {
+    "nl": "Begroting 2027 vastgesteld; Sinterklaas komt morgen aan in de Piushaven",
+    "en": "2027 budget adopted; Sinterklaas arrives tomorrow in the Piushaven",
+    "ru": "Бюджет 2027 принят; Синтерклаас прибудет завтра в Пиусхавен"
+  },
+  "headlineLangNote": "ui-translated",
+  "itemCount": 9,
+  "items": [
+    {
+      "id": "omroep-brabant-2026-11-13-jim-gardner",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "cultuur",
+      "publishedAt": "2026-11-13T21:42:00+01:00",
+      "title": {
+        "nl": "Jim schreef voor Hardwell, nu staat hij in het voorprogramma van Flemming",
+        "en": "Jim wrote for Hardwell, now he opens for Flemming",
+        "ru": "Джим писал для Hardwell, теперь он выступает в разогреве у Flemming"
+      },
+      "teaser": {
+        "nl": "Jim van Hooff uit Berkel-Enschot schreef jarenlang nummers voor artiesten als Hardwell en Armin van Buuren. Nu staat hij zelf op het podium als Jim Gardner in het voorprogramma van Flemming.",
+        "en": "Jim van Hooff from Berkel-Enschot wrote songs for years for artists like Hardwell and Armin van Buuren. Now he takes the stage himself as Jim Gardner opening for Flemming.",
+        "ru": "Джим ван Хоофф из Беркель-Энсхот годами писал песни для артистов вроде Hardwell и Armin van Buuren. Теперь он сам выходит на сцену как Jim Gardner в разогреве у Flemming."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6034759/jim-schreef-voor-hardwell-nu-staat-hij-in-het-voorprogramma-van-flemming",
+      "paywall": false,
+      "city": "Berkel-Enschot",
+      "tags": ["muziek", "cultuur"]
+    }
+  ]
+}
