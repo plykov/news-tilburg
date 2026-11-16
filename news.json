@@ -1,107 +1,107 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "79151f84-2aa3-403f-8070-dfce933b87d3",
-  "generatedAt": "2026-11-15T19:10:31+01:00",
+  "deliveryId": "ad903f07-89f2-4553-9d7c-ef1dd276ff61",
+  "generatedAt": "2026-11-16T19:09:46+01:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:10 Amsterdam",
+  "source": "Grok verified permalinks 19:09 Amsterdam",
   "headline": {
-    "nl": "Sinterklaas arriveert vandaag in Tilburg; brand vernielt elektrische auto in Berkel-Enschot",
-    "en": "Sinterklaas arrives today in Tilburg; fire destroys electric car in Berkel-Enschot",
-    "ru": "Синтерклаас прибывает сегодня в Тилбург; пожар уничтожил электромобиль в Беркель-Энсхот"
+    "nl": "Uitslaande brand in Heikestraat en geslaagde Sinterklaasintocht in Piushaven",
+    "en": "Raging fire on Heikestraat and successful Sinterklaas arrival in Piushaven",
+    "ru": "Сильный пожар на Хейкестраат и успешное прибытие Синтерклааса в Пиусхавен"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 9,
+  "itemCount": 8,
   "items": [
     {
-      "id": "omroep-brabant-2026-11-15-brand-auto-berkel",
-      "sourceId": "omroep-brabant",
-      "sourceName": "Omroep Brabant",
-      "category": "incident",
-      "publishedAt": "2026-11-15T05:56:00+01:00",
+      "id": "omroep-tilburg-2026-11-16-sinterklaas-piushaven",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-11-16T00:00:00+01:00",
       "title": {
-        "nl": "Brand verwoest elektrische auto tijdens opladen, ook laadpaal gaat eraan",
-        "en": "Fire destroys electric car while charging, charging point also destroyed",
-        "ru": "Пожар уничтожил электромобиль во время зарядки, зарядная станция также пострадала"
+        "nl": "Sinterklaas slaat niemand over bij intocht Piushaven",
+        "en": "Sinterklaas does not miss anyone at Piushaven arrival",
+        "ru": "Синтерклаас никого не пропустил при прибытии в Пиусхавен"
       },
       "teaser": {
-        "nl": "Een elektrische auto is zaterdagavond door brand verwoest aan de Habijtstraat in Berkel-Enschot tijdens het opladen. Ook de laadpaal en een naastgelegen auto raakten beschadigd. Vermoedelijk technisch mankement.",
-        "en": "An electric car was destroyed by fire on Saturday evening on Habijtstraat in Berkel-Enschot while charging. The charging point and an adjacent car were also damaged. Probably a technical defect.",
-        "ru": "Электромобиль сгорел в субботу вечером на улице Хабейтстраат в Беркель-Энсхот во время зарядки. Зарядная станция и соседний автомобиль также пострадали. Вероятно, техническая неисправность."
+        "nl": "Sinterklaas en zijn Pieten meerden zondagmiddag om kwart voor twaalf aan in de Piushaven. Kinderen kregen kruidnoten, een boks of een selfie; niemand werd overgeslagen.",
+        "en": "Sinterklaas and his Piets docked in the Piushaven at a quarter to twelve on Sunday afternoon. Children received ginger nuts, a fist bump or a selfie; no one was missed.",
+        "ru": "Синтерклаас и его Питы причалили в Пиусхавен в воскресенье в без четверти двенадцать. Дети получили пряники, кулачок или селфи; никто не был пропущен."
       },
       "langNote": "ui-translated",
-      "url": "https://www.omroepbrabant.nl/nieuws/6034830/brand-verwoest-elektrische-auto-tijdens-opladen-ook-laadpaal-gaat-eraan",
-      "paywall": false,
-      "city": "Berkel-Enschot",
-      "area": "Habijtstraat",
-      "tags": ["brand", "auto", "incident"]
-    },
-    {
-      "id": "omroep-brabant-2026-11-14-fatbiker-sibeliusstraat",
-      "sourceId": "omroep-brabant",
-      "sourceName": "Omroep Brabant",
-      "category": "incident",
-      "publishedAt": "2026-11-14T22:02:00+01:00",
-      "title": {
-        "nl": "Fatbiker slaat op de vlucht en botst met politiewagen in Tilburg",
-        "en": "Fatbiker flees and collides with police car in Tilburg",
-        "ru": "Водитель фэтбайка сбегает и сталкивается с полицейской машиной в Тилбурге"
-      },
-      "teaser": {
-        "nl": "Een man op een fatbike is zaterdagavond gebotst met een politiewagen aan de Sibeliusstraat in Tilburg. De politie was ter plaatse na een melding van vuurwerkoverlast.",
-        "en": "A man on a fatbike collided with a police car on Sibeliusstraat in Tilburg on Saturday evening. Police were on site after a report of fireworks nuisance.",
-        "ru": "Мужчина на фэтбайке столкнулся с полицейской машиной на Сибелиусстраат в Тилбурге в субботу вечером. Полиция была на месте после сообщения о нарушении порядка из-за фейерверков."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroepbrabant.nl/nieuws/6034822/fatbiker-slaat-op-de-vlucht-en-botst-met-politiewagen-in-tilburg",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/sinterklaas-slaat-niemand-over-bij-intocht-piushaven/",
       "paywall": false,
       "city": "Tilburg",
-      "area": "Sibeliusstraat",
-      "tags": ["politie", "incident", "verkeer"]
+      "area": "Piushaven",
+      "tags": ["sinterklaas", "intocht", "cultuur"]
     },
     {
-      "id": "omroep-tilburg-2026-11-13-dillenburglaan",
+      "id": "omroep-tilburg-2026-11-16-tumor-10-kilo",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
-      "publishedAt": "2026-11-13T13:03:00+01:00",
+      "publishedAt": "2026-11-16T00:00:00+01:00",
       "title": {
-        "nl": "Dillenburglaan een jaar na dodelijk ongeluk Anne-Roos (10) nog bron van zorgen",
-        "en": "Dillenburglaan still a source of concern a year after fatal accident of Anne-Roos (10)",
-        "ru": "Дилленбурглан спустя год после смертельной аварии Анне-Роос (10) по-прежнему вызывает опасения"
+        "nl": "Tumor van 10 kilo uit buik van Ronald verwijderd: ‘Sta nog steeds versteld’",
+        "en": "10-kilo tumour removed from Ronald's abdomen: ‘Still amazed’",
+        "ru": "Опухоль весом 10 кг удалена из живота Рональда: «Всё ещё в шоке»"
       },
       "teaser": {
-        "nl": "Buurtbewoners maken zich nog steeds zorgen om de verkeersveiligheid op de Dillenburglaan. De gemeente stelt dat er geen verhoogd veiligheidsrisico is, maar heeft plannen voor 30 km/u.",
-        "en": "Residents remain concerned about traffic safety on the Dillenburglaan. The municipality says there is no elevated safety risk, but has plans for a 30 km/h limit.",
-        "ru": "Жители по-прежнему обеспокоены безопасностью движения на Дилленбурглан. Муниципалитет заявляет, что повышенного риска нет, но планирует ограничение 30 км/ч."
+        "nl": "Chirurgen in het UMCG hebben een tumor van ruim 10 kilo verwijderd uit het darmstelsel van Tilburger Ronald van de Kimmenade. De operatie was uitzonderlijk; hij is er goed van hersteld.",
+        "en": "Surgeons at UMCG removed a tumour of over 10 kilos from the intestines of Tilburger Ronald van de Kimmenade. The operation was exceptional; he has recovered well.",
+        "ru": "Хирурги UMCG удалили опухоль весом более 10 кг из кишечника жителя Тилбурга Рональда ван де Кимменаде. Операция была исключительной; он хорошо восстановился."
       },
       "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/dillenburglaan-een-jaar-na-dodelijk-ongeluk-anne-roos-10-nog-bron-van-zorgen/",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/tumor-van-10-kilo-uit-buik-van-ronald-verwijderd-sta-nog-steeds-versteld/",
       "paywall": false,
       "city": "Tilburg",
-      "area": "Dillenburglaan",
-      "tags": ["verkeer", "veiligheid"]
+      "tags": ["gezondheid", "medisch"]
     },
     {
-      "id": "omroep-tilburg-2026-11-13-leegstandsheffing",
+      "id": "omroep-tilburg-2026-11-16-a65-n65-afsluiting",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
-      "publishedAt": "2026-11-13T11:26:00+01:00",
+      "publishedAt": "2026-11-16T00:00:00+01:00",
       "title": {
-        "nl": "Tilburg pakt leegstand aan: eigenaren betalen jaarlijks een heffing",
-        "en": "Tilburg tackles vacancy: owners pay annual levy",
-        "ru": "Тилбург борется с пустующими помещениями: владельцы будут платить ежегодный сбор"
+        "nl": "Wegafsluiting A65/N65 van Vught naar Tilburg vanwege onderhoud",
+        "en": "Road closure A65/N65 from Vught to Tilburg due to maintenance",
+        "ru": "Закрытие дороги A65/N65 от Фюхта до Тилбурга из-за ремонта"
       },
       "teaser": {
-        "nl": "Wie een pand langer dan twaalf maanden leeg laat staan, moet vanaf 1 april 2027 elk jaar betalen. De raad stemde in met een motie voor een leegstandsheffing van ongeveer 5000 euro.",
-        "en": "Anyone leaving a property empty for more than twelve months must pay annually from 1 April 2027. The council approved a motion for a vacancy levy of around 5000 euros.",
-        "ru": "Кто оставляет помещение пустым дольше двенадцати месяцев, должен платить ежегодно с 1 апреля 2027. Совет одобрил предложение о сборе за пустующее жильё около 5000 евро."
+        "nl": "De A65/N65 tussen Vught en knooppunt De Baars is van vrijdag 27 tot en met maandag 30 november afgesloten voor snoei- en kapwerkzaamheden. Omleidingsroutes via A2/A58 of A59.",
+        "en": "The A65/N65 between Vught and De Baars junction is closed from Friday 27 to Monday 30 November for pruning and felling work. Diversions via A2/A58 or A59.",
+        "ru": "A65/N65 между Фюхтом и развязкой Де Баарс закрыта с пятницы 27 по понедельник 30 ноября для обрезки и рубки. Объезды через A2/A58 или A59."
       },
       "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/tilburg-pakt-leegstand-aan-eigenaren-betalen-jaarlijks-een-heffing/",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/wegafsluiting-a65-n65-van-vught-naar-tilburg-vanwege-onderhoud/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["wonen", "leegstand"]
+      "area": "A65/N65",
+      "tags": ["verkeer", "onderhoud"]
+    },
+    {
+      "id": "omroep-brabant-2026-11-15-brand-heikestraat",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-11-15T21:24:00+01:00",
+      "title": {
+        "nl": "Brand zet huis in lichterlaaie in Tilburg, politie denkt aan brandstichting",
+        "en": "Fire engulfs house in Tilburg, police suspect arson",
+        "ru": "Пожар охватил дом в Тилбурге, полиция подозревает поджог"
+      },
+      "teaser": {
+        "nl": "Zondagavond brak brand uit in een woning aan de Heikestraat. Bewoners en buren (inclusief gezin met baby) werden geëvacueerd. Politie onderzoekt brandstichting; niemand gewond.",
+        "en": "On Sunday evening a fire broke out in a house on Heikestraat. Residents and neighbours (including a family with a baby) were evacuated. Police are investigating arson; no one injured.",
+        "ru": "В воскресенье вечером вспыхнул пожар в доме на Хейкестраат. Жители и соседи (включая семью с младенцем) эвакуированы. Полиция расследует поджог; никто не пострадал."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6034863/brand-zet-huis-in-lichterlaaie-in-tilburg-politie-denkt-aan-brandstichting",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Heikestraat",
+      "tags": ["brand", "incident", "politie"]
     },
     {
       "id": "gemeente-2026-11-13-programmabegroting-2027",
@@ -126,29 +126,6 @@
       "tags": ["begroting", "raad"]
     },
     {
-      "id": "omroep-tilburg-2026-11-12-schietpartij-hotel",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-11-12T09:31:00+01:00",
-      "title": {
-        "nl": "Schietpartij in hotelrestaurant Tilburg: 53-jarige Oisterwijker opgepakt",
-        "en": "Shooting in Tilburg hotel restaurant: 53-year-old from Oisterwijk arrested",
-        "ru": "Стрельба в отельном ресторане Тилбурга: задержан 53-летний житель Ойстервейка"
-      },
-      "teaser": {
-        "nl": "De politie heeft een 53-jarige man uit Oisterwijk aangehouden nadat hij had geschoten in een hotelrestaurant aan de Dr. Hub van Doorneweg. Niemand raakte gewond; het vuurwapen werd in zijn auto gevonden.",
-        "en": "Police arrested a 53-year-old man from Oisterwijk after he fired shots in a hotel restaurant on Dr. Hub van Doorneweg. No one was injured; the firearm was found in his car.",
-        "ru": "Полиция задержала 53-летнего мужчину из Ойстервейка после стрельбы в отельном ресторане на Dr. Hub van Doorneweg. Никто не пострадал; огнестрельное оружие найдено в его машине."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/schietpartij-in-hotelrestaurant-tilburg-53-jarige-oisterwijker-opgepakt/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Dr. Hub van Doorneweg",
-      "tags": ["politie", "incident"]
-    },
-    {
       "id": "gemeente-2026-11-12-paspoort-balies",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
@@ -160,9 +137,9 @@
         "ru": "Нужен паспорт, ID-карта или водительские права? Учтите 20 и 23 ноября"
       },
       "teaser": {
-        "nl": "Op 20 en 23 november kun je geen paspoort, identiteitskaart of rijbewijs aanvragen of ophalen. De balies van Burgerzaken zijn gesloten wegens overstap op een nieuw systeem.",
-        "en": "On 20 and 23 November you cannot apply for or collect a passport, identity card or driving licence. The Civil Affairs counters are closed due to the switch to a new system.",
-        "ru": "20 и 23 ноября нельзя подавать заявление или забирать паспорт, удостоверение личности или водительские права. Столы отдела гражданского состояния закрыты из-за перехода на новую систему."
+        "nl": "Op 20 en 23 november zijn de balies van Burgerzaken gesloten wegens overstap op een nieuw systeem. Aanvragen of ophalen van paspoort, ID-kaart of rijbewijs is dan niet mogelijk.",
+        "en": "On 20 and 23 November the Civil Affairs counters are closed due to the switch to a new system. Applying for or collecting a passport, ID card or driving licence is not possible then.",
+        "ru": "20 и 23 ноября столы отдела гражданских дел закрыты из-за перехода на новую систему. Подача заявления или получение паспорта, ID-карты или прав невозможно."
       },
       "langNote": "ui-translated",
       "url": "https://www.tilburg.nl/nieuws/item/paspoort-of-id-kaart-nodig-houd-rekening-met-20-en-23-november/",
@@ -191,7 +168,7 @@
       "paywall": false,
       "city": "Tilburg",
       "area": "Piushaven / Willemsplein",
-      "tags": ["sinterklaas", "evenement", "verkeer"]
+      "tags": ["sinterklaas", "evenement"]
     },
     {
       "id": "gemeente-2026-11-09-sparrenhof",
