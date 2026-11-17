@@ -1,61 +1,196 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "ad903f07-89f2-4553-9d7c-ef1dd276ff61",
-  "generatedAt": "2026-11-16T19:09:46+01:00",
+  "deliveryId": "51416aea-482f-400a-b3cb-ce67e279fe94",
+  "generatedAt": "2026-11-17T19:14:29+01:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:09 Amsterdam",
+  "source": "Grok verified permalinks 19:14 Amsterdam",
   "headline": {
-    "nl": "Uitslaande brand in Heikestraat en geslaagde Sinterklaasintocht in Piushaven",
-    "en": "Raging fire on Heikestraat and successful Sinterklaas arrival in Piushaven",
-    "ru": "Сильный пожар на Хейкестраат и успешное прибытие Синтерклааса в Пиусхавен"
+    "nl": "Arrestatieteam in Nassaustraat en tweede druk Goedvertòld",
+    "en": "Arrest team on Nassaustraat and second print of Goedvertòld",
+    "ru": "Отряд захвата на Нассаустраат и второе издание Goedvertòld"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 8,
+  "itemCount": 10,
   "items": [
     {
-      "id": "omroep-tilburg-2026-11-16-sinterklaas-piushaven",
+      "id": "omroep-tilburg-2026-11-17-goedvertold",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "cultuur",
-      "publishedAt": "2026-11-16T00:00:00+01:00",
+      "publishedAt": "2026-11-17T00:00:00+01:00",
       "title": {
-        "nl": "Sinterklaas slaat niemand over bij intocht Piushaven",
-        "en": "Sinterklaas does not miss anyone at Piushaven arrival",
-        "ru": "Синтерклаас никого не пропустил при прибытии в Пиусхавен"
+        "nl": "Tweede druk Goedvertòld helpt Tilburgs dialect levend te houden",
+        "en": "Second print of Goedvertòld keeps Tilburg dialect alive",
+        "ru": "Второе издание Goedvertòld помогает сохранить тилбургский диалект"
       },
       "teaser": {
-        "nl": "Sinterklaas en zijn Pieten meerden zondagmiddag om kwart voor twaalf aan in de Piushaven. Kinderen kregen kruidnoten, een boks of een selfie; niemand werd overgeslagen.",
-        "en": "Sinterklaas and his Piets docked in the Piushaven at a quarter to twelve on Sunday afternoon. Children received ginger nuts, a fist bump or a selfie; no one was missed.",
-        "ru": "Синтерклаас и его Питы причалили в Пиусхавен в воскресенье в без четверти двенадцать. Дети получили пряники, кулачок или селфи; никто не был пропущен."
+        "nl": "Het Nederlands-Tilburgs woordenboek Goedvertòld van Stichting Tilburgse Taol verschijnt in een tweede, herziene oplage van 900 exemplaren. De eerste druk van 1.750 was snel uitverkocht; burgemeester Gräper-van Koolwijk schreef een bijdrage.",
+        "en": "The Dutch-Tilburg dictionary Goedvertòld from Stichting Tilburgse Taol appears in a second revised edition of 900 copies. The first print of 1,750 sold out quickly; mayor Gräper-van Koolwijk contributed a text.",
+        "ru": "Голландско-тилбургский словарь Goedvertòld от Stichting Tilburgse Taol выходит вторым пересмотренным тиражом в 900 экземпляров. Первый тираж 1750 распродан быстро; мэр Грёпер-ван Коолвийк написала вклад."
       },
       "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/sinterklaas-slaat-niemand-over-bij-intocht-piushaven/",
+      "url": "https://www.omroeptilburg.nl/headline/tweede-druk-goedvertold-helpt-tilburgs-dialect-levend-te-houden/",
       "paywall": false,
       "city": "Tilburg",
-      "area": "Piushaven",
-      "tags": ["sinterklaas", "intocht", "cultuur"]
+      "tags": ["dialect", "cultuur", "boek"]
     },
     {
-      "id": "omroep-tilburg-2026-11-16-tumor-10-kilo",
+      "id": "omroep-tilburg-2026-11-17-kerstlampjes-kraan",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
-      "publishedAt": "2026-11-16T00:00:00+01:00",
+      "publishedAt": "2026-11-17T00:00:00+01:00",
       "title": {
-        "nl": "Tumor van 10 kilo uit buik van Ronald verwijderd: ‘Sta nog steeds versteld’",
-        "en": "10-kilo tumour removed from Ronald's abdomen: ‘Still amazed’",
-        "ru": "Опухоль весом 10 кг удалена из живота Рональда: «Всё ещё в шоке»"
+        "nl": "Kerstlampjes in 35 meter hoge kraan moeten weg na klacht: ‘Ze komen terug’",
+        "en": "Christmas lights in 35-metre crane must go after complaint: ‘They are coming back’",
+        "ru": "Рождественские огоньки на 35-метровом кране должны убрать после жалобы: «Они вернутся»"
       },
       "teaser": {
-        "nl": "Chirurgen in het UMCG hebben een tumor van ruim 10 kilo verwijderd uit het darmstelsel van Tilburger Ronald van de Kimmenade. De operatie was uitzonderlijk; hij is er goed van hersteld.",
-        "en": "Surgeons at UMCG removed a tumour of over 10 kilos from the intestines of Tilburger Ronald van de Kimmenade. The operation was exceptional; he has recovered well.",
-        "ru": "Хирурги UMCG удалили опухоль весом более 10 кг из кишечника жителя Тилбурга Рональда ван де Кимменаде. Операция была исключительной; он хорошо восстановился."
+        "nl": "Kraanmachinist Jan van der Made hing knipperende kerstlampjes op 35 meter hoogte aan de Burgemeester Brokxlaan. Na een klacht van een buurtbewoner moesten ze weg, maar hij hangt ze morgen weer op.",
+        "en": "Crane operator Jan van der Made hung flashing Christmas lights at 35 metres on Burgemeester Brokxlaan. After a neighbour's complaint they had to come down, but he will hang them again tomorrow.",
+        "ru": "Крановщик Ян ван дер Маде повесил мигающие рождественские огоньки на высоте 35 метров на Бургемеестер Брокслан. После жалобы соседа их пришлось снять, но завтра он повесит снова."
       },
       "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/tumor-van-10-kilo-uit-buik-van-ronald-verwijderd-sta-nog-steeds-versteld/",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/kerstlampjes-in-35-meter-hoge-kraan-moeten-weg-na-klacht-ze-komen-terug/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["gezondheid", "medisch"]
+      "area": "Burgemeester Brokxlaan",
+      "tags": ["kerst", "bouw"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-17-n65-biezenmortel",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-11-17T00:00:00+01:00",
+      "title": {
+        "nl": "Automobilist gewond na eenzijdig ongeluk op N65 bij Biezenmortel",
+        "en": "Driver injured after single-vehicle accident on N65 near Biezenmortel",
+        "ru": "Водитель пострадал после одиночного ДТП на N65 у Бизенмортеля"
+      },
+      "teaser": {
+        "nl": "Een automobilist raakte dinsdagmiddag gewond bij een eenzijdig ongeluk op de N65 bij Biezenmortel. Hij reed tegen een boom en is met onbekend letsel naar het ziekenhuis gebracht. Politie onderzoekt.",
+        "en": "A driver was injured Tuesday afternoon in a single-vehicle accident on the N65 near Biezenmortel. He hit a tree and was taken to hospital with unknown injuries. Police are investigating.",
+        "ru": "Водитель получил травмы во вторник после одиночного ДТП на N65 у Бизенмортеля. Он врезался в дерево и доставлен в больницу с неизвестными травмами. Полиция расследует."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/berkel-enschot-udenhout/automobilist-gewond-na-eenzijdig-ongeluk-op-n65-bij-biezenmortel/",
+      "paywall": false,
+      "city": "Biezenmortel",
+      "area": "N65",
+      "tags": ["ongeval", "verkeer"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-17-spoorpark-die-antwoord",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-11-17T00:00:00+01:00",
+      "title": {
+        "nl": "Die Antwoord en Pendulum komen naar Spoorpark Live",
+        "en": "Die Antwoord and Pendulum coming to Spoorpark Live",
+        "ru": "Die Antwoord и Pendulum приедут на Spoorpark Live"
+      },
+      "teaser": {
+        "nl": "Spoorpark Live kondigt Die Antwoord en Pendulum aan voor zaterdag 26 juni. Het festival krijgt een nieuwe naam: Live At Spoorpark. Zondag staat in het teken van country.",
+        "en": "Spoorpark Live announces Die Antwoord and Pendulum for Saturday 26 June. The festival gets a new name: Live At Spoorpark. Sunday is dedicated to country.",
+        "ru": "Spoorpark Live анонсирует Die Antwoord и Pendulum на субботу 26 июня. Фестиваль получает новое название: Live At Spoorpark. Воскресенье посвящено кантри."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/die-antwoord-en-pendulum-komen-naar-spoorpark-live/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Spoorpark",
+      "tags": ["festival", "muziek"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-17-arrestatieteam-nassaustraat",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-11-17T00:00:00+01:00",
+      "title": {
+        "nl": "Man geblinddoekt uit woning gehaald door arrestatieteam",
+        "en": "Man taken blindfolded from home by arrest team",
+        "ru": "Мужчина вывели из дома с завязанными глазами отрядом захвата"
+      },
+      "teaser": {
+        "nl": "Het arrestatieteam viel in de nacht van maandag op dinsdag binnen bij een woning aan de Nassaustraat in Tilburg. Een man werd geblinddoekt afgevoerd. De reden is nog onbekend; politie onderzoekt.",
+        "en": "The arrest team raided a home on Nassaustraat in Tilburg in the night from Monday to Tuesday. A man was taken away blindfolded. The reason is still unknown; police are investigating.",
+        "ru": "Отряд захвата ворвался в жильё на Нассаустраат в Тилбурге в ночь с понедельника на вторник. Мужчину увели с завязанными глазами. Причина пока неизвестна; полиция расследует."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/man-geblinddoekt-uit-woning-gehaald-door-arrestatieteam/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Nassaustraat",
+      "tags": ["arrestatieteam", "politie"]
+    },
+    {
+      "id": "omroep-brabant-2026-11-17-hotel-oisterwijk",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-11-17T13:36:00+01:00",
+      "title": {
+        "nl": "Dood 31-jarige man in hotel Oisterwijk: agenten valt niets te verwijten",
+        "en": "Death of 31-year-old man in Oisterwijk hotel: officers not to blame",
+        "ru": "Смерть 31-летнего мужчины в отеле Ойстервейк: полицейским не в чём винить"
+      },
+      "teaser": {
+        "nl": "Het OM ziet geen aanleiding om vier agenten te vervolgen voor de dood van een 31-jarige man in een hotel in Oisterwijk in februari. De man overleed na hulpverlening; Rijksrecherche deed onderzoek.",
+        "en": "The Public Prosecution Service sees no reason to prosecute four officers for the death of a 31-year-old man in an Oisterwijk hotel in February. The man died after assistance; the National Police Internal Investigations Department investigated.",
+        "ru": "Прокуратура не видит оснований преследовать четырёх полицейских за смерть 31-летнего мужчины в отеле Ойстервейка в феврале. Мужчина умер после оказания помощи; Рейксречерше провёл расследование."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6035099/dood-31-jarige-man-in-hotel-oisterwijk-agenten-valt-niets-te-verwijten",
+      "paywall": false,
+      "city": "Oisterwijk",
+      "tags": ["politie", "om", "incident"]
+    },
+    {
+      "id": "gemeente-2026-11-16-kickstartregeling",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-16T00:00:00+01:00",
+      "title": {
+        "nl": "Populaire Kickstartregeling voor Tilburgse startups weer open",
+        "en": "Popular Kickstart scheme for Tilburg startups open again",
+        "ru": "Популярная программа Kickstart для тилбургских стартапов снова открыта"
+      },
+      "teaser": {
+        "nl": "De Startup Kickstartregeling Tilburg helpt startende ondernemers sneller de volgende stap te zetten. 23 startups maakten al gebruik; de regeling wordt voortgezet via Midpoint Brabant.",
+        "en": "The Startup Kickstart scheme Tilburg helps starting entrepreneurs take the next step faster. 23 startups have already used it; the scheme continues via Midpoint Brabant.",
+        "ru": "Программа Startup Kickstart Tilburg помогает начинающим предпринимателям быстрее сделать следующий шаг. 23 стартапа уже воспользовались ею; программа продолжается через Midpoint Brabant."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/populaire-kickstartregeling-voor-tilburgse-startups-weer-open/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["startups", "economie", "subsidie"]
+    },
+    {
+      "id": "gemeente-2026-11-16-circulair-can",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-16T00:00:00+01:00",
+      "title": {
+        "nl": "Hergebruik van meer dan 200 ton spullen via Circulair Ambachts Netwerk Tilburg",
+        "en": "Reuse of more than 200 tonnes of items via Circulair Ambachts Netwerk Tilburg",
+        "ru": "Повторное использование более 200 тонн вещей через Circulair Ambachts Netwerk Tilburg"
+      },
+      "teaser": {
+        "nl": "Dankzij Tilburgers die bruikbare spullen naar de milieustraat brengen, gaf het Circulair Ambachts Netwerk in 2026 al ruim 200 ton een tweede leven. Dit bespaart afval, kosten en CO₂.",
+        "en": "Thanks to Tilburgers bringing usable items to the recycling centre, the Circulair Ambachts Netwerk gave more than 200 tonnes a second life in 2026. This saves waste, costs and CO₂.",
+        "ru": "Благодаря жителям Тилбурга, которые приносят пригодные вещи на сборный пункт, Circulair Ambachts Netwerk в 2026 году дал вторую жизнь более 200 тоннам. Это экономит отходы, затраты и CO₂."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/hergebruik-van-meer-dan-200-ton-spullen-via-circulair-ambachts-netwerk-tilburg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["circulair", "milieu", "hergebruik"]
     },
     {
       "id": "omroep-tilburg-2026-11-16-a65-n65-afsluiting",
@@ -81,117 +216,26 @@
       "tags": ["verkeer", "onderhoud"]
     },
     {
-      "id": "omroep-brabant-2026-11-15-brand-heikestraat",
-      "sourceId": "omroep-brabant",
-      "sourceName": "Omroep Brabant",
-      "category": "incident",
-      "publishedAt": "2026-11-15T21:24:00+01:00",
-      "title": {
-        "nl": "Brand zet huis in lichterlaaie in Tilburg, politie denkt aan brandstichting",
-        "en": "Fire engulfs house in Tilburg, police suspect arson",
-        "ru": "Пожар охватил дом в Тилбурге, полиция подозревает поджог"
-      },
-      "teaser": {
-        "nl": "Zondagavond brak brand uit in een woning aan de Heikestraat. Bewoners en buren (inclusief gezin met baby) werden geëvacueerd. Politie onderzoekt brandstichting; niemand gewond.",
-        "en": "On Sunday evening a fire broke out in a house on Heikestraat. Residents and neighbours (including a family with a baby) were evacuated. Police are investigating arson; no one injured.",
-        "ru": "В воскресенье вечером вспыхнул пожар в доме на Хейкестраат. Жители и соседи (включая семью с младенцем) эвакуированы. Полиция расследует поджог; никто не пострадал."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroepbrabant.nl/nieuws/6034863/brand-zet-huis-in-lichterlaaie-in-tilburg-politie-denkt-aan-brandstichting",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Heikestraat",
-      "tags": ["brand", "incident", "politie"]
-    },
-    {
-      "id": "gemeente-2026-11-13-programmabegroting-2027",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-11-13T00:00:00+01:00",
-      "title": {
-        "nl": "Programmabegroting 2027 vastgesteld",
-        "en": "Programme budget 2027 adopted",
-        "ru": "Программный бюджет 2027 принят"
-      },
-      "teaser": {
-        "nl": "De gemeenteraad stelde op 12 november de Programmabegroting 2027 vast. De gemeente kiest voor investeringen in prettig wonen, werken en leven.",
-        "en": "The municipal council adopted the Programme Budget 2027 on 12 November. The municipality opts for investments that contribute to pleasant living, working and life.",
-        "ru": "Муниципальный совет принял Программный бюджет 2027 12 ноября. Муниципалитет выбирает инвестиции в приятную жизнь, работу и проживание."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.tilburg.nl/nieuws/item/programmabegroting-2027-vastgesteld/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["begroting", "raad"]
-    },
-    {
       "id": "gemeente-2026-11-12-paspoort-balies",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
       "publishedAt": "2026-11-12T00:00:00+01:00",
       "title": {
-        "nl": "Paspoort, ID-kaart of rijbewijs nodig? Houd rekening met 20 en 23 november",
-        "en": "Need a passport, ID card or driving licence? Note 20 and 23 November",
-        "ru": "Нужен паспорт, ID-карта или водительские права? Учтите 20 и 23 ноября"
+        "nl": "Tilburg maakt dienstverlening burgerzaken makkelijker en digitaler",
+        "en": "Tilburg makes civil affairs services easier and more digital",
+        "ru": "Тилбург делает услуги отдела гражданских дел проще и цифровыми"
       },
       "teaser": {
-        "nl": "Op 20 en 23 november zijn de balies van Burgerzaken gesloten wegens overstap op een nieuw systeem. Aanvragen of ophalen van paspoort, ID-kaart of rijbewijs is dan niet mogelijk.",
-        "en": "On 20 and 23 November the Civil Affairs counters are closed due to the switch to a new system. Applying for or collecting a passport, ID card or driving licence is not possible then.",
-        "ru": "20 и 23 ноября столы отдела гражданских дел закрыты из-за перехода на новую систему. Подача заявления или получение паспорта, ID-карты или прав невозможно."
+        "nl": "Balies Burgerzaken gesloten op 20 en 23 november wegens nieuw systeem. Vanaf 24 november meer digitaal, o.a. online geboorteaangifte. Online diensten uit van 19 nov 20:00 tot 23 nov.",
+        "en": "Civil Affairs counters closed on 20 and 23 November due to new system. From 24 November more digital, including online birth registration. Online services offline from 19 Nov 20:00 until 23 Nov.",
+        "ru": "Столы отдела гражданских дел закрыты 20 и 23 ноября из-за новой системы. С 24 ноября больше цифрового, включая онлайн-регистрацию рождения. Онлайн-услуги недоступны с 19 ноя 20:00 до 23 ноя."
       },
       "langNote": "ui-translated",
       "url": "https://www.tilburg.nl/nieuws/item/paspoort-of-id-kaart-nodig-houd-rekening-met-20-en-23-november/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["burgerzaken", "documenten"]
-    },
-    {
-      "id": "gemeente-2026-11-10-intocht-sint",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "cultuur",
-      "publishedAt": "2026-11-10T00:00:00+01:00",
-      "title": {
-        "nl": "Intocht Sint zondag 15 november",
-        "en": "Sinterklaas arrival Sunday 15 November",
-        "ru": "Прибытие Синтерклааса в воскресенье 15 ноября"
-      },
-      "teaser": {
-        "nl": "De pakjesboot meert zondag 15 november rond 11:30 uur aan in de Piushaven. De Sint en zijn Pieten trekken daarna door de stad en komen om 15:00 uur aan op het Willemsplein. Diverse straten zijn tijdelijk afgesloten.",
-        "en": "The parcel boat docks in the Piushaven around 11:30 on Sunday 15 November. Sinterklaas and his Piets then proceed through the city and arrive at Willemsplein at 15:00. Various streets are temporarily closed.",
-        "ru": "Пакетный катер причаливает в Пиусхавен около 11:30 в воскресенье 15 ноября. Затем Синтерклаас и его Питы проходят через город и прибывают на Виллемсплейн в 15:00. Некоторые улицы временно закрыты."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.tilburg.nl/nieuws/item/intocht-sint-zondag-15-november/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Piushaven / Willemsplein",
-      "tags": ["sinterklaas", "evenement"]
-    },
-    {
-      "id": "gemeente-2026-11-09-sparrenhof",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-11-09T00:00:00+01:00",
-      "title": {
-        "nl": "Werk aan lanen en bos Landgoed Sparrenhof",
-        "en": "Work on avenues and forest at Landgoed Sparrenhof",
-        "ru": "Работы на аллеях и в лесу усадьбы Спарренхоф"
-      },
-      "teaser": {
-        "nl": "Vanaf half november vervangt de gemeente ongeveer 450 zieke en afgestorven bomen op Landgoed Sparrenhof. Verwijderen start op 17 november; planten vanaf 7 december.",
-        "en": "From mid-November the municipality replaces about 450 diseased and dead trees at Landgoed Sparrenhof. Removal starts on 17 November; planting from 7 December.",
-        "ru": "С середины ноября муниципалитет заменяет около 450 больных и погибших деревьев на усадьбе Спарренхоф. Удаление начинается 17 ноября; посадка с 7 декабря."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.tilburg.nl/nieuws/item/werk-aan-lanen-en-bos-landgoed-sparrenhof/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Landgoed Sparrenhof",
-      "tags": ["groen", "werkzaamheden"]
+      "tags": ["burgerzaken", "digitaal"]
     }
   ]
 }
