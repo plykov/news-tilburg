@@ -1,15 +1,1 @@
-{
-  "schema": "tilburg.news.v1",
-  "deliveryId": "ed2e8d1c-b46d-4a6e-9b0a-43dc84eb1fd9",
-  "generatedAt": "2026-11-19T19:15:00+01:00",
-  "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:15 Amsterdam",
-  "headline": {
-    "nl": "Tilburg test noodsteunpunt en verliest bushaltes in Oud-Noord",
-    "en": "Tilburg tests emergency support point and loses bus stops in Oud-Noord",
-    "ru": "Тильбург тестирует пункт экстренной помощи и теряет автобусные остановки в Ауд-Норд"
-  },
-  "headlineLangNote": "ui-translated",
-  "itemCount": 9,
-  "items": []
-}
+PLACEHOLDER
