@@ -1,17 +1,63 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "0b5ca5a4-1938-4c56-9489-dae81ecaa136",
-  "generatedAt": "2026-11-20T19:12:00+01:00",
+  "deliveryId": "b1a85394-6301-4f04-a572-703c630aa2d4",
+  "generatedAt": "2026-11-21T19:09:00+01:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:12 Amsterdam",
+  "source": "Grok verified permalinks 19:09 Amsterdam",
   "headline": {
-    "nl": "Burgerzaken balies gesloten vandaag; fietser aangereden bij ETZ",
-    "en": "Citizen affairs desks closed today; cyclist hit near ETZ",
-    "ru": "Стойки по делам граждан закрыты сегодня; велосипедист сбит у ETZ"
+    "nl": "Overval op Domino's en aanhouding met taser op de Heuvel",
+    "en": "Robbery at Domino's and taser arrest on the Heuvel",
+    "ru": "Ограбление Domino's и задержание с тазером на Heuvel"
   },
   "headlineLangNote": "ui-translated",
   "itemCount": 8,
   "items": [
+    {
+      "id": "omroep-brabant-2026-11-21-dominos-overval",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-11-21T11:37:00+01:00",
+      "title": {
+        "nl": "Overvaller bedreigde medewerker Domino's Pizza met mes en maakte geld buit",
+        "en": "Robber threatened Domino's Pizza employee with knife and stole money",
+        "ru": "Грабитель угрожал сотруднику Domino's Pizza ножом и украл деньги"
+      },
+      "teaser": {
+        "nl": "Rond middernacht is een medewerker van Domino's aan de Thomas van Aquinostraat in Tilburg bedreigd met een mes. De dader vluchtte met geld. Het is de tweede overval in korte tijd op dit filiaal.",
+        "en": "Around midnight an employee of Domino's on Thomas van Aquinostraat in Tilburg was threatened with a knife. The perpetrator fled with money. It is the second robbery at this branch in a short time.",
+        "ru": "Около полуночи сотруднику Domino's на Thomas van Aquinostraat в Тильбурге угрожали ножом. Преступник скрылся с деньгами. Это второе ограбление этого филиала за короткое время."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6035666/overvaller-bedreigde-medewerker-dominos-pizza-met-mes-en-maakte-geld-buit",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Thomas van Aquinostraat",
+      "tags": ["politie", "overval", "incident"]
+    },
+    {
+      "id": "omroep-brabant-2026-11-21-kettingslot-heuvel",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-11-21T06:34:00+01:00",
+      "title": {
+        "nl": "Agressieve man zwaait met kettingslot in centrum Tilburg en wordt getaserd",
+        "en": "Aggressive man swings chain lock in Tilburg centre and is tasered",
+        "ru": "Агрессивный мужчина размахивает цепным замком в центре Тильбурга и его тазерят"
+      },
+      "teaser": {
+        "nl": "Vrijdagnacht is een man op de Heuvel aangehouden nadat hij met een kettingslot zwaaide. Politie zette een taser en hondengeleider in.",
+        "en": "Friday night a man was arrested on the Heuvel after swinging a chain lock. Police used a taser and a dog handler.",
+        "ru": "В пятницу ночью на Heuvel задержали мужчину, который размахивал цепным замком. Полиция применила тазер и кинолога."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6035652/agressieve-man-zwaait-met-kettingslot-in-centrum-tilburg-en-wordt-getaserd",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Heuvel",
+      "tags": ["politie", "incident", "aanhouding"]
+    },
     {
       "id": "omroep-tilburg-2026-11-20-circulair-200ton",
       "sourceId": "omroep-tilburg",
@@ -35,27 +81,26 @@
       "tags": ["circulair", "afval", "milieu"]
     },
     {
-      "id": "omroep-brabant-2026-11-20-fietser-etz",
-      "sourceId": "omroep-brabant",
-      "sourceName": "Omroep Brabant",
-      "category": "incident",
-      "publishedAt": "2026-11-20T11:54:00+01:00",
+      "id": "omroep-tilburg-2026-11-19-kahle-lochal",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-11-19T16:54:00+01:00",
       "title": {
-        "nl": "Fietser aangereden vlak bij spoedeisende hulp ziekenhuis",
-        "en": "Cyclist hit near hospital emergency department",
-        "ru": "Велосипедист сбит рядом с отделением неотложной помощи больницы"
+        "nl": "Internetpionier Brewster Kahle komt naar Tilburg: Aandacht voor meer digitale vrijheid",
+        "en": "Internet pioneer Brewster Kahle comes to Tilburg: Focus on more digital freedom",
+        "ru": "Пионер интернета Брюстер Кале приедет в Тильбург: внимание к большей цифровой свободе"
       },
       "teaser": {
-        "nl": "Een fietser is vrijdagochtend gewond geraakt bij een botsing met een auto op de Professor van Buchemlaan bij de spoedeisende hulp van het ETZ Elisabeth. De fietser is met ambulance naar het ziekenhuis gebracht.",
-        "en": "A cyclist was injured Friday morning in a collision with a car on Professor van Buchemlaan near the emergency department of ETZ Elisabeth. The cyclist was taken to hospital by ambulance.",
-        "ru": "Велосипедист получил травмы в пятницу утром при столкновении с автомобилем на Professor van Buchemlaan у отделения неотложной помощи ETZ Elisabeth. Пострадавшего доставили в больницу на скорой."
+        "nl": "Op zaterdag 21 november is er in LocHal het Open Source Event 2026 met thema Digitale Commons. Brewster Kahle van Internet Archive sluit aan. Toegang gratis.",
+        "en": "On Saturday 21 November LocHal hosts the Open Source Event 2026 on Digital Commons. Brewster Kahle of the Internet Archive will take part. Free entry.",
+        "ru": "В субботу 21 ноября в LocHal пройдёт Open Source Event 2026 на тему Digital Commons. Участвует Брюстер Кале из Internet Archive. Вход бесплатный."
       },
       "langNote": "ui-translated",
-      "url": "https://www.omroepbrabant.nl/nieuws/6035588/fietser-aangereden-vlak-bij-spoedeisende-hulp-ziekenhuis",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/internetpionier-brewster-kahle-komt-naar-tilburg-aandacht-voor-meer-digitale-vrijheid/",
       "paywall": false,
       "city": "Tilburg",
-      "area": "Professor van Buchemlaan / ETZ",
-      "tags": ["ongeval", "verkeer", "etz"]
+      "tags": ["cultuur", "locHal", "open source", "event"]
     },
     {
       "id": "gemeente-2026-11-19-noodsteunpunt",
@@ -79,50 +124,6 @@
       "city": "Tilburg",
       "area": "Tilburg Noord / De Symfonie",
       "tags": ["crisis", "noodsteunpunt", "weerbaarheid"]
-    },
-    {
-      "id": "omroep-tilburg-2026-11-19-kahle-lochal",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "cultuur",
-      "publishedAt": "2026-11-19T16:54:00+01:00",
-      "title": {
-        "nl": "Internetpionier Brewster Kahle komt naar Tilburg: Aandacht voor meer digitale vrijheid",
-        "en": "Internet pioneer Brewster Kahle comes to Tilburg: Focus on more digital freedom",
-        "ru": "Пионер интернета Брюстер Кале приедет в Тильбург: внимание к большей цифровой свободе"
-      },
-      "teaser": {
-        "nl": "Op zaterdag 21 november is er in LocHal het Open Source Event 2026 met thema Digitale Commons. Brewster Kahle van Internet Archive sluit aan.",
-        "en": "On Saturday 21 November LocHal hosts the Open Source Event 2026 on Digital Commons. Brewster Kahle of the Internet Archive will take part.",
-        "ru": "В субботу 21 ноября в LocHal пройдёт Open Source Event 2026 на тему Digital Commons. Участвует Брюстер Кале из Internet Archive."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/internetpionier-brewster-kahle-komt-naar-tilburg-aandacht-voor-meer-digitale-vrijheid/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["cultuur", "locHal", "open source"]
-    },
-    {
-      "id": "omroep-tilburg-2026-11-19-belang-smolders",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-11-19T15:06:00+01:00",
-      "title": {
-        "nl": "Belang voor Tilburg blijft onder nieuwe leiding trouw aan gedachtegoed Hans Smolders",
-        "en": "Belang voor Tilburg remains loyal to Hans Smolders' ideas under new leadership",
-        "ru": "Belang voor Tilburg под новым руководством остаётся верным идеям Ханса Смолдерса"
-      },
-      "teaser": {
-        "nl": "Na het vertrek van Hans Smolders gaat de partij verder als Belang voor Tilburg. Nieuwe fractievoorzitter Peter van den Hoven wil het gedachtegoed voortzetten en de partij breder neerzetten.",
-        "en": "After Hans Smolders left, the party continues as Belang voor Tilburg. New faction leader Peter van den Hoven wants to continue the ideas and broaden the party.",
-        "ru": "После ухода Ханса Смолдерса партия продолжается как Belang voor Tilburg. Новый лидер фракции Петер ван ден Ховен хочет продолжить идеи и расширить партию."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/news-politics/belang-voor-tilburg-blijft-onder-nieuwe-leiding-trouw-aan-gedachtegoed-hans-smolders/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["politiek", "gemeenteraad"]
     },
     {
       "id": "gemeente-2026-11-18-burgerzaken-gesloten",
@@ -170,27 +171,26 @@
       "tags": ["ov", "bus", "arriva"]
     },
     {
-      "id": "omroep-tilburg-2026-11-18-woningoverval",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-11-18T11:27:00+01:00",
+      "id": "gemeente-2026-11-16-kickstartregeling",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-16T00:00:00+01:00",
       "title": {
-        "nl": "Gewelddadige woningoverval Zernikestraat, 28-jarige verdachte opgepakt",
-        "en": "Violent home robbery on Zernikestraat, 28-year-old suspect arrested",
-        "ru": "Насильственное ограбление дома на Zernikestraat, задержан 28-летний подозреваемый"
+        "nl": "Populaire Kickstartregeling voor Tilburgse startups weer open",
+        "en": "Popular Kickstart scheme for Tilburg startups open again",
+        "ru": "Популярная программа Kickstart для стартапов Тильбурга снова открыта"
       },
       "teaser": {
-        "nl": "Maandagochtend drongen drie personen een woning aan de Zernikestraat binnen; twee hadden een vuurwapen. Een 28-jarige verdachte is aangehouden.",
-        "en": "Monday morning three people forced entry into a home on Zernikestraat; two pointed a firearm. A 28-year-old suspect has been arrested.",
-        "ru": "В понедельник утром трое проникли в дом на Zernikestraat; двое направили огнестрельное оружие. Задержан 28-летний подозреваемый."
+        "nl": "De Startup Kickstartregeling Tilburg helpt startende ondernemers. 23 startups maakten al gebruik; de regeling wordt voortgezet via Midpoint Brabant.",
+        "en": "The Tilburg Startup Kickstart scheme helps starting entrepreneurs. 23 startups have already used it; the scheme continues via Midpoint Brabant.",
+        "ru": "Программа Startup Kickstart Tilburg помогает начинающим предпринимателям. 23 стартапа уже воспользовались; программа продолжается через Midpoint Brabant."
       },
       "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/geweldadige-woningoverval-zernikestraat-28-jarige-verdachte-opgepakt/",
+      "url": "https://www.tilburg.nl/nieuws/item/populaire-kickstartregeling-voor-tilburgse-startups-weer-open/",
       "paywall": false,
       "city": "Tilburg",
-      "area": "Zernikestraat",
-      "tags": ["politie", "overval", "incident"]
+      "tags": ["startups", "economie", "subsidie"]
     }
   ]
 }
