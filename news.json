@@ -1,1 +1,38 @@
-PLACEHOLDER
+{
+  "schema": "tilburg.news.v1",
+  "deliveryId": "3226ee89-d85d-4e9e-a4c7-8c85700d2921",
+  "generatedAt": "2026-11-23T19:11:49+01:00",
+  "timezone": "Europe/Amsterdam",
+  "source": "Grok verified permalinks 19:11 Amsterdam",
+  "headline": {
+    "nl": "OV-staking en gesloten burgerzaken balies in Tilburg",
+    "en": "Public transport strike and closed civil affairs counters in Tilburg",
+    "ru": "Забастовка общественного транспорта и закрытые стойки гражданского состояния в Тилбурге"
+  },
+  "headlineLangNote": "ui-translated",
+  "itemCount": 9,
+  "items": [
+    {
+      "id": "omroep-tilburg-2026-11-23-ov-staking",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-23T00:00:00+01:00",
+      "title": {
+        "nl": "OV-staking: minder busvervoer in regio Tilburg",
+        "en": "Public transport strike: less bus service in Tilburg region",
+        "ru": "Забастовка ОТ: меньше автобусов в регионе Тилбург"
+      },
+      "teaser": {
+        "nl": "Busschauffeurs in de regio Tilburg leggen maandag en dinsdag het werk neer. Hierdoor vallen verschillende ritten uit. Het personeel staakt vanwege vastgelopen cao-onderhandelingen.",
+        "en": "Bus drivers in the Tilburg region are striking on Monday and Tuesday, causing several routes to be cancelled due to stalled collective bargaining.",
+        "ru": "Водители автобусов в регионе Тилбург бастуют в понедельник и вторник, из-за чего отменяются некоторые рейсы из-за затянувшихся переговоров по коллективному договору."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/ov-staking-minder-busvervoer-in-de-regio-tilburg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["OV", "staking"]
+    }
+  ]
+}
