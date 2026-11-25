@@ -1,39 +1,105 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "5da51a94-638b-47d6-8d4b-defb7dc220f6",
-  "generatedAt": "2026-11-24T19:12:00+01:00",
+  "deliveryId": "cb185e8a-97f4-4ad4-868b-96ef87df392c",
+  "generatedAt": "2026-11-25T19:12:00+01:00",
   "timezone": "Europe/Amsterdam",
   "source": "Grok verified permalinks 19:12 Amsterdam",
   "headline": {
-    "nl": "A58 nachtafsluitingen en OV-staking drukken Tilburg",
-    "en": "A58 night closures and public transport strike affect Tilburg",
-    "ru": "Ночные закрытия A58 и забастовка общественного транспорта затрагивают Тилбург"
+    "nl": "Oisterwijk stapt over op Tilburgs BAT; Zusters van Liefde openen klooster voor de stad",
+    "en": "Oisterwijk switches to Tilburg's BAT; Sisters of Charity open convent to the city",
+    "ru": "Остервейк переходит на тилбургский BAT; сёстры милосердия открывают монастырь для города"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 8,
+  "itemCount": 10,
   "items": [
     {
-      "id": "omroep-tilburg-2026-11-24-a58-afsluitingen",
+      "id": "omroep-tilburg-2026-11-25-oisterwijk-bat",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
-      "publishedAt": "2026-11-24T09:21:00+01:00",
+      "publishedAt": "2026-11-25T14:45:00+01:00",
+      "title": {
+        "nl": "Oisterwijk stapt over naar afvalinzamelaar BAT: dit verandert er",
+        "en": "Oisterwijk switches to waste collector BAT: what changes",
+        "ru": "Остервейк переходит к сборщику отходов BAT: что меняется"
+      },
+      "teaser": {
+        "nl": "Vanaf 4 januari 2027 haalt het Tilburgse Babants Afval Team (BAT) het huishoudelijk afval in Oisterwijk op in plaats van de Afvalstoffendienst. Inwoners krijgen een nieuwe app en soms een andere PMD-dag.",
+        "en": "From 4 January 2027 the Tilburg-based Babants Afval Team (BAT) will collect household waste in Oisterwijk instead of the Afvalstoffendienst. Residents get a new app and sometimes a different PMD day.",
+        "ru": "С 4 января 2027 года тилбургский Babants Afval Team (BAT) будет вывозить бытовые отходы в Остервейке вместо Afvalstoffendienst. Жители получат новое приложение и иногда другой день PMD."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/oisterwijk/oisterwijk-stapt-over-naar-afvalinzamelaar-bat-dit-verandert-er/",
+      "paywall": false,
+      "city": "Oisterwijk",
+      "tags": ["afval", "BAT"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-25-milieucafe",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-11-25T00:00:00+01:00",
+      "title": {
+        "nl": "Milieucafé sluit jaar af met talkshow over hergebruik, boomteelt en faunabeheer",
+        "en": "Milieucafé closes the year with a talkshow on reuse, tree cultivation and wildlife management",
+        "ru": "Milieucafé завершает год ток-шоу о повторном использовании, лесоводстве и управлении дикой природой"
+      },
+      "teaser": {
+        "nl": "Donderdag 26 november in Paradox: talkshow over hergebruik van spullen, natuurinclusieve boomteelt en faunabeheer, met muziek en cabaret.",
+        "en": "Thursday 26 November at Paradox: talkshow on reusing things, nature-inclusive tree cultivation and wildlife management, with music and cabaret.",
+        "ru": "Четверг 26 ноября в Paradox: ток-шоу о повторном использовании вещей, природоориентированном лесоводстве и управлении дикой природой, с музыкой и кабаре."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/tv/milieucafe/milieucafe-sluit-jaar-af-met-talkshow-over-hergebruik-boomteelt-en-faunabeheer/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["milieu", "evenement"]
+    },
+    {
+      "id": "omroep-brabant-2026-11-24-zusters-klooster",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "omroep",
+      "publishedAt": "2026-11-24T19:30:00+01:00",
+      "title": {
+        "nl": "Zusters gaan klooster delen met de stad: 'Gesprekken met jongerenhospice'",
+        "en": "Sisters will share convent with the city: 'Talks with youth hospice'",
+        "ru": "Сёстры разделят монастырь с городом: «Переговоры с хосписом для молодёжи»"
+      },
+      "teaser": {
+        "nl": "De Zusters van Liefde openen hun moederhuis aan de Oude Dijk voor maatschappelijke initiatieven, onder meer gesprekken met jongerenhospice Xenia.",
+        "en": "The Sisters of Charity are opening their mother house on the Oude Dijk to social initiatives, including talks with youth hospice Xenia.",
+        "ru": "Сёстры милосердия открывают материнский дом на Oude Dijk для общественных инициатив, в том числе переговоров с молодёжным хосписом Xenia."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6035957/zusters-gaan-klooster-delen-met-de-stad-gesprekken-met-jongerenhospice",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Oude Dijk",
+      "tags": ["klooster", "zorg"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-24-a58-onderhoud",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-24T00:00:00+01:00",
       "title": {
         "nl": "A58 drie nachten gedeeltelijk afgesloten voor onderhoud",
         "en": "A58 partially closed for three nights for maintenance",
         "ru": "A58 частично закрыта на три ночи для обслуживания"
       },
       "teaser": {
-        "nl": "De A58 krijgt een onderhoudsbeurt. Daardoor is de weg drie nachten afgesloten: twee keer vanuit Tilburg richting Eindhoven en een keer richting Breda. De extra reistijd is ongeveer een kwartier.",
-        "en": "The A58 is undergoing maintenance. As a result, the road will be closed for three nights: twice from Tilburg towards Eindhoven and once towards Breda. Extra travel time is about fifteen minutes.",
-        "ru": "На A58 проводятся работы по обслуживанию. В результате дорога будет закрыта на три ночи: дважды от Тилбурга в сторону Эйндховена и один раз в сторону Бреды. Дополнительное время в пути составит около пятнадцати минут."
+        "nl": "Begin december is de A58 drie nachten deels dicht tussen Tilburg Reeshof en De Baars/Sint-Annabosch; extra reistijd circa een kwartier via N260.",
+        "en": "In early December the A58 will be partly closed for three nights between Tilburg Reeshof and De Baars/Sint-Annabosch; extra travel time about 15 minutes via N260.",
+        "ru": "В начале декабря A58 будет частично закрыта на три ночи между Tilburg Reeshof и De Baars/Sint-Annabosch; дополнительное время в пути около 15 минут по N260."
       },
       "langNote": "ui-translated",
       "url": "https://www.omroeptilburg.nl/regio/tilburg/a58-drie-nachten-gedeeltelijk-afgesloten-voor-onderhoud/",
       "paywall": false,
       "city": "Tilburg",
-      "area": "A58",
-      "tags": ["verkeer", "onderhoud"]
+      "tags": ["verkeer", "A58"]
     },
     {
       "id": "omroep-tilburg-2026-11-24-sinterklaas-activiteiten",
@@ -44,62 +110,18 @@
       "title": {
         "nl": "Van Pietenpret tot Sinterklaasshows: dit is er de komende tijd te doen in Tilburg en omgeving",
         "en": "From Piet fun to Sinterklaas shows: what's on in Tilburg and surroundings",
-        "ru": "От развлечений Питов до шоу Синтерклааса: что будет в Тилбурге и окрестностях"
+        "ru": "От развлечений Пьетов до шоу Синтерклааса: что будет в Тилбурге и окрестностях"
       },
       "teaser": {
-        "nl": "De sinterklaasperiode is in volle gang en in omgeving Tilburg zijn er verschillende dingen om te doen. Van een bezoek van Sinterklaas en gezellige familie middagen tot theatervoorstellingen, knutselactiviteiten en markten.",
-        "en": "The Sinterklaas period is in full swing and there are various things to do in the Tilburg area. From a visit by Sinterklaas and cozy family afternoons to theatre performances, craft activities and markets.",
-        "ru": "Период Синтерклааса в полном разгаре, и в окрестностях Тилбурга есть различные мероприятия. От визита Синтерклааса и уютных семейных полудней до театральных представлений, мастер-классов и ярмарок."
+        "nl": "Op 25 november Sinterklaasbezoek en knutselmiddagen in Tilburg; verdere shows, avonturen en markten in de regio tot pakjesavond.",
+        "en": "On 25 November Sinterklaas visit and craft afternoons in Tilburg; further shows, adventures and markets in the region until gift evening.",
+        "ru": "25 ноября визит Синтерклааса и мастер-классы в Тилбурге; дальше шоу, приключения и рынки в регионе до вечера подарков."
       },
       "langNote": "ui-translated",
       "url": "https://www.omroeptilburg.nl/regio/tilburg/van-pietenpret-tot-sinterklaasshows-dit-is-er-de-komende-tijd-te-doen-in-tilburg-en-omgeving/",
       "paywall": false,
       "city": "Tilburg",
       "tags": ["sinterklaas", "cultuur"]
-    },
-    {
-      "id": "omroep-tilburg-2026-11-23-ov-staking",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "incident",
-      "publishedAt": "2026-11-23T10:18:00+01:00",
-      "title": {
-        "nl": "OV-staking: minder busvervoer in regio Tilburg",
-        "en": "Public transport strike: less bus service in Tilburg region",
-        "ru": "Забастовка общественного транспорта: меньше автобусов в регионе Тилбург"
-      },
-      "teaser": {
-        "nl": "Busschauffeurs in de regio Tilburg leggen maandag en dinsdag het werk neer. Hierdoor vallen verschillende ritten uit. Het personeel staakt vanwege vastgelopen cao-onderhandelingen.",
-        "en": "Bus drivers in the Tilburg region are striking on Monday and Tuesday. This means various services are cancelled. Staff are striking due to stalled collective bargaining negotiations.",
-        "ru": "Водители автобусов в регионе Тилбург бастуют в понедельник и вторник. Из-за этого отменяются различные рейсы. Персонал бастует из-за зашедших в тупик переговоров по коллективному договору."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/ov-staking-minder-busvervoer-in-de-regio-tilburg/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["ov", "staking"]
-    },
-    {
-      "id": "omroep-tilburg-2026-11-23-modelspoor-station",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "cultuur",
-      "publishedAt": "2026-11-23T12:14:00+01:00",
-      "title": {
-        "nl": "Zo zag het oude station van Tilburg eruit, Luke bouwt het tot in detail na",
-        "en": "This is what Tilburg's old station looked like, Luke is building it in detail",
-        "ru": "Так выглядела старая станция Тилбурга, Люк воссоздаёт её в деталях"
-      },
-      "teaser": {
-        "nl": "Wie voor het eerst in de kelder onder een witgoedzaak aan het kanaal in Tilburg komt, kijkt zijn ogen uit. Leden van Modelspoorvereniging Tilburg bouwen daar een miniatuurversie van het station in Tilburg van rond het jaar 1900.",
-        "en": "Anyone visiting the basement under an appliance store by the canal in Tilburg for the first time will be amazed. Members of the Tilburg Model Railway Association are building a miniature version of the Tilburg station from around 1900.",
-        "ru": "Тот, кто впервые спустится в подвал под магазином бытовой техники у канала в Тилбурге, будет поражён. Члены ассоциации железнодорожных моделей Тилбурга строят там миниатюрную версию станции Тилбурга примерно 1900 года."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/zo-zag-het-oude-station-van-tilburg-eruit-luke-bouwt-het-tot-in-detail-na/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["modelspoor", "geschiedenis"]
     },
     {
       "id": "gemeente-2026-11-19-noodsteunpunt",
@@ -113,16 +135,16 @@
         "ru": "Тилбург тестирует пункт экстренной поддержки"
       },
       "teaser": {
-        "nl": "De gemeente organiseerde woensdag 18 november een proef met een noodsteunpunt in wijkcentrum de Symfonie. Bewoners van Tilburg Noord speelden een realistisch scenario, waarbij de stroom plotseling en langdurig was uitgevallen.",
-        "en": "The municipality organised a trial of an emergency support point at community centre De Symfonie on Wednesday 18 November. Residents of Tilburg North acted out a realistic scenario in which power had suddenly and for a long time been cut.",
-        "ru": "Муниципалитет организовал в среду 18 ноября пробный пункт экстренной поддержки в общественном центре De Symfonie. Жители Северного Тилбурга разыграли реалистичный сценарий, в котором внезапно и надолго отключилось электричество."
+        "nl": "Op 18 november oefenden bewoners van Tilburg Noord een langdurige stroomuitval in wijkcentrum de Symfonie om het noodsteunpunt te testen.",
+        "en": "On 18 November residents of Tilburg Noord practised a prolonged power outage at neighbourhood centre de Symfonie to test the emergency support point.",
+        "ru": "18 ноября жители Тилбург-Норд отрабатывали длительное отключение электричества в районном центре de Symfonie для тестирования пункта экстренной поддержки."
       },
       "langNote": "ui-translated",
       "url": "https://www.tilburg.nl/nieuws/item/tilburg-test-noodsteunpunt/",
       "paywall": false,
       "city": "Tilburg",
       "area": "Tilburg Noord",
-      "tags": ["nood", "veiligheid"]
+      "tags": ["veiligheid", "crisis"]
     },
     {
       "id": "gemeente-2026-11-18-burgerzaken-digitaal",
@@ -136,9 +158,9 @@
         "ru": "Тилбург упрощает и цифровизирует услуги по гражданским делам"
       },
       "teaser": {
-        "nl": "De balies van afdeling Burgerzaken zijn op 20 en 23 november gesloten omdat we overstappen op een nieuw systeem voor burgerzaken. Vanaf 24 november 2026 kunnen inwoners van Tilburg hierdoor meer zaken digitaal regelen.",
-        "en": "The counters of the Civil Affairs department are closed on 20 and 23 November because we are switching to a new system. From 24 November 2026, residents of Tilburg can arrange more matters digitally as a result.",
-        "ru": "Окна отдела гражданских дел закрыты 20 и 23 ноября из-за перехода на новую систему. С 24 ноября 2026 года жители Тилбурга смогут оформлять больше дел в цифровом формате."
+        "nl": "Vanaf 24 november meer digitale mogelijkheden (o.a. geboorteaangifte online); balies waren 20 en 23 november gesloten voor de overstap.",
+        "en": "From 24 November more digital options (including online birth registration); counters were closed on 20 and 23 November for the switch.",
+        "ru": "С 24 ноября больше цифровых возможностей (в том числе онлайн-регистрация рождения); стойки были закрыты 20 и 23 ноября для перехода."
       },
       "langNote": "ui-translated",
       "url": "https://www.tilburg.nl/nieuws/item/paspoort-of-id-kaart-nodig-houd-rekening-met-20-en-23-november/",
@@ -147,48 +169,70 @@
       "tags": ["burgerzaken", "digitaal"]
     },
     {
-      "id": "gemeente-2026-11-16-circulair-ambachts",
+      "id": "gemeente-2026-11-16-kickstart",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-16T00:00:00+01:00",
+      "title": {
+        "nl": "Populaire Kickstartregeling voor Tilburgse startups weer open",
+        "en": "Popular Kickstart scheme for Tilburg startups open again",
+        "ru": "Популярная программа Kickstart для тилбургских стартапов снова открыта"
+      },
+      "teaser": {
+        "nl": "De Startup Kickstartregeling gaat door; 23 startups maakten al gebruik. Nieuwe vouchers via Midpoint Brabant.",
+        "en": "The Startup Kickstart scheme continues; 23 startups already used it. New vouchers via Midpoint Brabant.",
+        "ru": "Программа Startup Kickstart продолжается; 23 стартапа уже воспользовались. Новые ваучеры через Midpoint Brabant."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/populaire-kickstartregeling-voor-tilburgse-startups-weer-open/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["startups", "economie"]
+    },
+    {
+      "id": "gemeente-2026-11-16-circulair-can",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
       "publishedAt": "2026-11-16T00:00:00+01:00",
       "title": {
         "nl": "Hergebruik van meer dan 200 ton spullen via Circulair Ambachts Netwerk Tilburg",
-        "en": "Reuse of more than 200 tonnes of items via Tilburg Circular Craft Network",
-        "ru": "Повторное использование более 200 тонн вещей через Циркулярную ремесленную сеть Тилбурга"
+        "en": "Reuse of more than 200 tonnes of items via Circulair Ambachts Netwerk Tilburg",
+        "ru": "Повторное использование более 200 тонн вещей через Circulair Ambachts Netwerk Tilburg"
       },
       "teaser": {
-        "nl": "Dankzij Tilburgers die bruikbare spullen naar de milieustraat brengen, heeft het Circulair Ambachts Netwerk (CAN) in 2026 al ruim 200 ton spullen een tweede leven gegeven.",
-        "en": "Thanks to Tilburg residents bringing usable items to the recycling centre, the Circular Craft Network (CAN) has already given a second life to more than 200 tonnes of items in 2026.",
-        "ru": "Благодаря жителям Тилбурга, которые приносят пригодные вещи на пункт приёма вторсырья, Циркулярная ремесленная сеть (CAN) уже дала вторую жизнь более чем 200 тоннам вещей в 2026 году."
+        "nl": "In 2026 al ruim 200 ton hergebruikt dankzij Tilburgers en partners; minder afval en circa 34.000 euro besparing.",
+        "en": "In 2026 already over 200 tonnes reused thanks to Tilburg residents and partners; less waste and about 34,000 euro savings.",
+        "ru": "В 2026 году уже более 200 тонн повторно использовано благодаря жителям Тилбурга и партнёрам; меньше отходов и экономия около 34 000 евро."
       },
       "langNote": "ui-translated",
       "url": "https://www.tilburg.nl/nieuws/item/hergebruik-van-meer-dan-200-ton-spullen-via-circulair-ambachts-netwerk-tilburg/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["circulair", "milieu"]
+      "tags": ["circulair", "afval"]
     },
     {
-      "id": "omroep-tilburg-2026-11-22-trappers-leipzig",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-11-22T21:41:00+01:00",
+      "id": "gemeente-2026-11-13-begroting-2027",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-13T00:00:00+01:00",
       "title": {
-        "nl": "Trappers is ongeslagen thuisstatus kwijt: nederlaag tegen taai Leipzig",
-        "en": "Trappers lose unbeaten home record: defeat against tough Leipzig",
-        "ru": "Trappers теряют непобеждённый домашний статус: поражение от сильного Leipzig"
+        "nl": "Programmabegroting 2027 vastgesteld",
+        "en": "2027 programme budget adopted",
+        "ru": "Программный бюджет 2027 утверждён"
       },
       "teaser": {
-        "nl": "Tilburg Trappers nam het zondagmiddag in eigen huis op tegen Icefighters Leipzig. De Tilburgers wisten een achterstand aanvankelijk weg te werken, maar uiteindelijk trokken de Duitsers aan het langste eind: 2-4.",
-        "en": "Tilburg Trappers faced Icefighters Leipzig at home on Sunday afternoon. The Tilburgers initially managed to close the gap, but in the end the Germans came out on top: 2-4.",
-        "ru": "Tilburg Trappers принимали Icefighters Leipzig дома в воскресенье днём. Тилбуржцы сначала сократили отставание, но в итоге немцы оказались сильнее: 2-4."
+        "nl": "Raad stelde op 12 november de begroting 2027 vast met investeringen in wonen, groen, veiligheid en voorzieningen.",
+        "en": "Council adopted the 2027 budget on 12 November with investments in housing, green, safety and facilities.",
+        "ru": "Совет утвердил 12 ноября бюджет 2027 с инвестициями в жильё, зелень, безопасность и объекты."
       },
       "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/sport/trappers-is-ongeslagen-thuisstatus-kwijt-nederlaag-tegen-taai-leipzig/",
+      "url": "https://www.tilburg.nl/nieuws/item/programmabegroting-2027-vastgesteld/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["sport", "ijshockey"]
+      "tags": ["begroting", "raad"]
     }
   ]
 }
