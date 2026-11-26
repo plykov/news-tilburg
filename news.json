@@ -1,1 +1,39 @@
-PLACEHOLDER
+{
+  "schema": "tilburg.news.v1",
+  "deliveryId": "e869dc05-57f8-4ddb-a604-e327341dcfff",
+  "generatedAt": "2026-11-26T19:15:00+01:00",
+  "timezone": "Europe/Amsterdam",
+  "source": "Grok verified permalinks 19:15 Amsterdam",
+  "headline": {
+    "nl": "Wilde politieachtervolging in Tilburg eindigt met aanhouding",
+    "en": "Wild police chase in Tilburg ends with arrest",
+    "ru": "Дикая полицейская погоня в Тилбурге заканчивается задержанием"
+  },
+  "headlineLangNote": "ui-translated",
+  "itemCount": 8,
+  "items": [
+    {
+      "id": "omroep-tilburg-2026-11-26-wilde-achtervolging",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-11-26T12:12:00+01:00",
+      "title": {
+        "nl": "Wilde achtervolging door Tilburg eindigt met aanhouding",
+        "en": "Wild chase through Tilburg ends with arrest",
+        "ru": "Дикая погоня через Тилбург заканчивается задержанием"
+      },
+      "teaser": {
+        "nl": "Een wilde politieachtervolging trok donderdagochtend veel bekijks in het centrum van Tilburg. De bestuurder werd aangehouden na een crash waarbij een politiewagen een verkeerslicht raakte; hij wordt verdacht van poging tot doodslag.",
+        "en": "A wild police chase drew a lot of attention in the center of Tilburg on Thursday morning. The driver was arrested after a crash in which a police car hit a traffic light; he is suspected of attempted manslaughter.",
+        "ru": "Дикая полицейская погоня привлекла много внимания в центре Тилбурга в четверг утром. Водитель был задержан после аварии, в которой полицейская машина врезалась в светофор; его подозревают в покушении на убийство."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/wilde-achtervolging-door-tilburg-eindigt-met-aanhouding/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "centrum",
+      "tags": ["politie", "achtervolging"]
+    }
+  ]
+}
