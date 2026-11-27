@@ -1,1 +1,38 @@
-PLACEHOLDER
+{
+  "schema": "tilburg.news.v1",
+  "deliveryId": "61e71736-fd58-46a4-86d6-ae826532283f",
+  "generatedAt": "2026-11-27T19:20:00+01:00",
+  "timezone": "Europe/Amsterdam",
+  "source": "Grok verified permalinks 19:20 Amsterdam",
+  "headline": {
+    "nl": "Stroomstoring in Tilburg hersteld; Die Antwoord naar Live At Spoorpark",
+    "en": "Power outage in Tilburg resolved; Die Antwoord to Live At Spoorpark",
+    "ru": "Отключение электричества в Тилбурге устранено; Die Antwoord на Live At Spoorpark"
+  },
+  "headlineLangNote": "ui-translated",
+  "itemCount": 10,
+  "items": [
+    {
+      "id": "omroep-brabant-2026-11-27-stroomstoring",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-11-27T10:02:00+01:00",
+      "title": {
+        "nl": "Stroomstoring in Tilburg: herstel verwacht rond twee uur",
+        "en": "Power outage in Tilburg: restoration expected around two o'clock",
+        "ru": "Отключение электричества в Тилбурге: восстановление ожидалось около двух часов"
+      },
+      "teaser": {
+        "nl": "De stroomstoring in Tilburg is voorbij. Minder dan 100 adressen zaten vrijdag zonder stroom vanaf 09:54; de storing werd opgelost om 13:16.",
+        "en": "The power outage in Tilburg is over. Fewer than 100 addresses were without power on Friday from 09:54; the outage was resolved at 13:16.",
+        "ru": "Отключение электричества в Тилбурге закончилось. Менее 100 адресов оставались без света в пятницу с 09:54; сбой был устранён в 13:16."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6036487/stroomstoring-in-tilburg-herstel-verwacht-rond-twee-uur",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["stroom", "storing"]
+    }
+  ]
+}
