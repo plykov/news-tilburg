@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Tilburg Nieuws</title>
+  <meta name="description" content="Dagelijkse lokale nieuwsbriefing voor Tilburg. Alleen vrije bronnen." />
+  <meta name="theme-color" content="#14110E" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,650&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="app.css" />
+</head>
+<body>
+  <header>
+    <a class="brand" href="./"><div class="mark">N</div><div><h1 id="appTitle">Tilburg Nieuws</h1><p id="appSub">Dagelijkse briefing</p></div></a>
+    <div class="tools">
+      <div class="seg" role="group" aria-label="Language">
+        <button data-lang="nl" class="on">NL</button>
+        <button data-lang="en">EN</button>
+        <button data-lang="ru">RU</button>
+      </div>
+      <a class="btn" href="https://musictilburg.grok.me/" id="agendaLink">Agenda</a>
+      <button class="btn primary" id="updateBtn">Update</button>
+    </div>
+  </header>
+  <div class="banner" id="banner"></div>
+  <main>
+    <section class="hero">
+      <div class="kicker" id="importMeta"></div>
+      <h2 id="headline"></h2>
+      <p class="note" id="langFlag"></p>
+    </section>
+    <div class="filters" id="filters"></div>
+    <div id="feed"></div>
+  </main>
+  <footer id="foot"></footer>
+  <script src="app.js"></script>
+</body>
+</html>
