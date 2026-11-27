@@ -33,6 +33,206 @@
       "paywall": false,
       "city": "Tilburg",
       "tags": ["stroom", "storing"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-27-die-antwoord",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-11-27T00:00:00+01:00",
+      "title": {
+        "nl": "Controversiële band Die Antwoord naar Live At Spoorpark: ‘Festival moet uitleggen waarom het de band boekt’",
+        "en": "Controversial band Die Antwoord to Live At Spoorpark: ‘Festival must explain why it books the band’",
+        "ru": "Спорная группа Die Antwoord на Live At Spoorpark: «Фестиваль должен объяснить, почему бронирует группу»"
+      },
+      "teaser": {
+        "nl": "De Zuid-Afrikaanse band Die Antwoord staat op 26 juni 2027 op Live At Spoorpark. De band wordt al jaren beschuldigd van misbruik; media-ethicus Huub Evers vraagt openheid.",
+        "en": "South African band Die Antwoord is scheduled for 26 June 2027 at Live At Spoorpark. The band has faced abuse allegations for years; media ethicist Huub Evers calls for openness.",
+        "ru": "Южноафриканская группа Die Antwoord запланирована на 26 июня 2027 на Live At Spoorpark. Группу годами обвиняют в злоупотреблениях; медиаэтик Хууб Эверс требует открытости."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/cultuur/controversiele-band-die-antwoord-naar-live-at-spoorpark-festival-moet-uitleggen-waarom-het-de-band-boekt/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["cultuur", "festival"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-27-mma-sardari",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-27T00:00:00+01:00",
+      "title": {
+        "nl": "Tilburgse MMA-vechter Agy Sardari vecht in Brazilië voor Jungle Fight-titel",
+        "en": "Tilburg MMA fighter Agy Sardari fights in Brazil for Jungle Fight title",
+        "ru": "Тилбургский боец ММА Аги Сардари сражается в Бразилии за титул Jungle Fight"
+      },
+      "teaser": {
+        "nl": "Agy Sardari staat vrijdag in Itajaí in het hoofdgevecht van Jungle Fight 157 tegen kampioen Marcelo Medeiros. Hij schat zijn winstkansen hoog in.",
+        "en": "Agy Sardari fights Friday in Itajaí in the main event of Jungle Fight 157 against champion Marcelo Medeiros. He rates his chances of winning highly.",
+        "ru": "Аги Сардари в пятницу в Итажаи в главном бою Jungle Fight 157 против чемпиона Марсело Медеироса. Он высоко оценивает свои шансы на победу."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/sport/tilburgse-mma-vechter-agy-sardari-vecht-in-brazilie-voor-jungle-fight-titel/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["sport", "MMA"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-27-hugo-maas",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-27T00:00:00+01:00",
+      "title": {
+        "nl": "Hugo Maas voorgedragen als nieuwe burgemeester van Hilvarenbeek",
+        "en": "Hugo Maas nominated as new mayor of Hilvarenbeek",
+        "ru": "Хуго Маас выдвинут на пост нового мэра Хилваренбека"
+      },
+      "teaser": {
+        "nl": "De gemeenteraad van Hilvarenbeek heeft op 25 november Hugo Maas voorgedragen als nieuwe burgemeester. Benoeming verwacht in tweede helft januari 2027.",
+        "en": "The municipal council of Hilvarenbeek nominated Hugo Maas as new mayor on 25 November. Appointment expected in the second half of January 2027.",
+        "ru": "Муниципальный совет Хилваренбека 25 ноября выдвинул Хуго Мааса на пост нового мэра. Назначение ожидается во второй половине января 2027."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/hilvarenbeek/hugo-maas-voorgedragen-als-nieuwe-burgemeester-van-hilvarenbeek/",
+      "paywall": false,
+      "city": "Hilvarenbeek",
+      "tags": ["burgemeester", "politiek"]
+    },
+    {
+      "id": "gemeente-2026-11-26-groene-wellen",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-26T00:00:00+01:00",
+      "title": {
+        "nl": "De Groene Wellen komende zomer nog niet open",
+        "en": "De Groene Wellen not open next summer yet",
+        "ru": "De Groene Wellen ещё не откроется следующим летом"
+      },
+      "teaser": {
+        "nl": "Zwembad de Groene Wellen in Udenhout kan nog niet open in het komende zwemseizoen. Beschermde dieren (vleermuizen, dassen, steenmarters) vertragen de verbouwing.",
+        "en": "Swimming pool de Groene Wellen in Udenhout cannot open in the coming swimming season yet. Protected animals (bats, badgers, stone martens) delay the renovation.",
+        "ru": "Бассейн de Groene Wellen в Уденхауте ещё не может открыться в предстоящем сезоне. Охраняемые животные (летучие мыши, барсуки, каменные куницы) задерживают реконструкцию."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/de-groene-wellen-komende-zomer-nog-niet-open/",
+      "paywall": false,
+      "city": "Udenhout",
+      "tags": ["zwembad", "natuur"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-26-wilde-achtervolging",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-11-26T12:12:00+01:00",
+      "title": {
+        "nl": "Wilde achtervolging door Tilburg eindigt met aanhouding",
+        "en": "Wild chase through Tilburg ends with arrest",
+        "ru": "Дикая погоня через Тилбург заканчивается задержанием"
+      },
+      "teaser": {
+        "nl": "Een wilde politieachtervolging trok donderdagochtend veel bekijks in het centrum van Tilburg. De bestuurder werd aangehouden na een crash waarbij een politiewagen een verkeerslicht raakte; hij wordt verdacht van poging tot doodslag.",
+        "en": "A wild police chase drew a lot of attention in the center of Tilburg on Thursday morning. The driver was arrested after a crash in which a police car hit a traffic light; he is suspected of attempted manslaughter.",
+        "ru": "Дикая полицейская погоня привлекла много внимания в центре Тилбурга в четверг утром. Водитель был задержан после аварии, в которой полицейская машина врезалась в светофор; его подозревают в покушении на убийство."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/wilde-achtervolging-door-tilburg-eindigt-met-aanhouding/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "centrum",
+      "tags": ["politie", "achtervolging"]
+    },
+    {
+      "id": "gemeente-2026-11-19-noodsteunpunt",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-19T00:00:00+01:00",
+      "title": {
+        "nl": "Tilburg test noodsteunpunt",
+        "en": "Tilburg tests emergency support point",
+        "ru": "Тилбург тестирует пункт экстренной поддержки"
+      },
+      "teaser": {
+        "nl": "Op 18 november oefenden bewoners van Tilburg Noord een langdurige stroomuitval in wijkcentrum de Symfonie om het noodsteunpunt te testen.",
+        "en": "On 18 November residents of Tilburg Noord practised a prolonged power outage at neighbourhood centre de Symfonie to test the emergency support point.",
+        "ru": "18 ноября жители Тилбург-Норд отрабатывали длительное отключение электричества в районном центре de Symfonie для тестирования пункта экстренной поддержки."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/tilburg-test-noodsteunpunt/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Tilburg Noord",
+      "tags": ["veiligheid", "crisis"]
+    },
+    {
+      "id": "gemeente-2026-11-18-burgerzaken-digitaal",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-18T00:00:00+01:00",
+      "title": {
+        "nl": "Tilburg maakt dienstverlening burgerzaken makkelijker en digitaler",
+        "en": "Tilburg makes civil affairs services easier and more digital",
+        "ru": "Тилбург упрощает и цифровизирует услуги по гражданским делам"
+      },
+      "teaser": {
+        "nl": "Vanaf 24 november meer digitale mogelijkheden (o.a. geboorteaangifte online); balies waren 20 en 23 november gesloten voor de overstap.",
+        "en": "From 24 November more digital options (including online birth registration); counters were closed on 20 and 23 November for the switch.",
+        "ru": "С 24 ноября больше цифровых возможностей (в том числе онлайн-регистрация рождения); стойки были закрыты 20 и 23 ноября для перехода."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/paspoort-of-id-kaart-nodig-houd-rekening-met-20-en-23-november/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["burgerzaken", "digitaal"]
+    },
+    {
+      "id": "gemeente-2026-11-16-kickstart",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-16T00:00:00+01:00",
+      "title": {
+        "nl": "Populaire Kickstartregeling voor Tilburgse startups weer open",
+        "en": "Popular Kickstart scheme for Tilburg startups open again",
+        "ru": "Популярная программа Kickstart для тилбургских стартапов снова открыта"
+      },
+      "teaser": {
+        "nl": "De Startup Kickstartregeling gaat door; 23 startups maakten al gebruik. Nieuwe vouchers via Midpoint Brabant.",
+        "en": "The Startup Kickstart scheme continues; 23 startups already used it. New vouchers via Midpoint Brabant.",
+        "ru": "Программа Startup Kickstart продолжается; 23 стартапа уже воспользовались. Новые ваучеры через Midpoint Brabant."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/populaire-kickstartregeling-voor-tilburgse-startups-weer-open/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["startups", "economie"]
+    },
+    {
+      "id": "gemeente-2026-11-16-circulair-can",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-16T00:00:00+01:00",
+      "title": {
+        "nl": "Hergebruik van meer dan 200 ton spullen via Circulair Ambachts Netwerk Tilburg",
+        "en": "Reuse of more than 200 tonnes of items via Circulair Ambachts Netwerk Tilburg",
+        "ru": "Повторное использование более 200 тонн вещей через Circulair Ambachts Netwerk Tilburg"
+      },
+      "teaser": {
+        "nl": "In 2026 al ruim 200 ton hergebruikt dankzij Tilburgers en partners; minder afval en lagere verwerkingskosten.",
+        "en": "In 2026 already over 200 tonnes reused thanks to Tilburg residents and partners; less waste and lower processing costs.",
+        "ru": "В 2026 году уже более 200 тонн повторно использовано благодаря жителям Тилбурга и партнёрам; меньше отходов и ниже затраты на переработку."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/hergebruik-van-meer-dan-200-ton-spullen-via-circulair-ambachts-netwerk-tilburg/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["circulair", "afval"]
     }
   ]
 }
